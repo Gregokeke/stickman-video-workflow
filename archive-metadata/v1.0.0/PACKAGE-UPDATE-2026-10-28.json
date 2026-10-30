@@ -1,0 +1,12 @@
+{
+  "finished_reference_project_count": 6,
+  "added_project": "Sugar \u2014 Two Weeks, final nineteen-fix revision with straight-cane head tilt",
+  "sound_pack": "Sound-Effects-Pack-v2.zip, all 72 clips and original whoosh intact",
+  "workflow_original_preserved": true,
+  "workflow_update": "Append sections 19\u201322 only; no previous content removed",
+  "new_guides": [
+    "Instructor-Guide.md",
+    "Sound-Effects-Usage.md"
+  ],
+  "compression": "Lossy ~5 MB reference video copies; lossless ZIP source compression; only irrelevant temporary/duplicate files removed"
+}

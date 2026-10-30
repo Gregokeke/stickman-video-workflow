@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+/work/
+
+# Ignore interrupted file-transfer replicas.
+.*.zip.*
+.*.mp4.*

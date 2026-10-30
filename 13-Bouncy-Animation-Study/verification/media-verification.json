@@ -1,0 +1,135 @@
+{
+  "media": [
+    {
+      "file": "Bouncy-UI-3D-Demo.mp4",
+      "full_decode": "passed",
+      "sha256": "416108571d9c1def80e1b7bfe30b94a01fdb84b0c11cacdab99972f4df35ecf2",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "60/1",
+            "nb_frames": "1320"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_frames": "1033"
+          }
+        ],
+        "format": {
+          "duration": "22.000000",
+          "size": "5782959"
+        }
+      }
+    },
+    {
+      "file": "Bouncy-Reference-Compilation.mp4",
+      "full_decode": "passed",
+      "sha256": "b33cda362e6aa11a5c46dda7208d5a3d74476b93e620de0b38253eb0fcef7cb4",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 576,
+            "height": 1024,
+            "r_frame_rate": "30/1",
+            "nb_frames": "608"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_frames": "871"
+          }
+        ],
+        "format": {
+          "duration": "20.266667",
+          "size": "2000220"
+        }
+      }
+    },
+    {
+      "file": "01-Opening-Clock-and-Text.mp4",
+      "full_decode": "passed",
+      "sha256": "9806501ed32dab0031f55e39ad4577870fcd24868ee21f1eaa14bb8189d61e2b",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 576,
+            "height": 1024,
+            "r_frame_rate": "30/1",
+            "nb_frames": "161"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_frames": "232"
+          }
+        ],
+        "format": {
+          "duration": "5.366667",
+          "size": "568698"
+        }
+      }
+    },
+    {
+      "file": "02-Clock-and-Falling-Tags.mp4",
+      "full_decode": "passed",
+      "sha256": "3ffe045cb5bc844a7e836ed2bb5d9dd6ae190350b4ea054309a0912e4b9fc7eb",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 576,
+            "height": 1024,
+            "r_frame_rate": "30/1",
+            "nb_frames": "140"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_frames": "202"
+          }
+        ],
+        "format": {
+          "duration": "4.666667",
+          "size": "436351"
+        }
+      }
+    },
+    {
+      "file": "03-Time-Card-Cascade-and-Selection.mp4",
+      "full_decode": "passed",
+      "sha256": "b369c3f584e0f3e84ccf0c1f0abf460535ec7dfd97e44d47cb7e91269c1f3da4",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 576,
+            "height": 1024,
+            "r_frame_rate": "30/1",
+            "nb_frames": "306"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_frames": "439"
+          }
+        ],
+        "format": {
+          "duration": "10.200000",
+          "size": "940029"
+        }
+      }
+    }
+  ],
+  "composition_review": "Full HyperFrames check passed; zero runtime, layout, motion, contrast or audio errors. Source-organization warnings and deliberate transitions reviewed. Final badge is brief; choose a later poster frame because the title animates in after an opening breath."
+}

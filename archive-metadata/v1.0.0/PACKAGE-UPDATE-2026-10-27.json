@@ -1,0 +1,30 @@
+{
+  "finished_reference_project_count": 5,
+  "added_project": "Walking \u2014 The Magic Pill, final Vertical Gauge revision",
+  "walking_video_duration_seconds": 125.1,
+  "preserved_existing_archive_entries_except": "START-HERE.md contents guide",
+  "original_micro_study_preserved": true,
+  "clips": [
+    {
+      "file": "01-chart-build-and-risk-change.mp4",
+      "source_start": 14.0,
+      "source_end": 30.8,
+      "duration": 16.8,
+      "sha256": "7980ecc957faa5aceaf78717eab456daf77dfef134a0a9e6b34fee5867857555"
+    },
+    {
+      "file": "02-unit-stacks-and-ratio.mp4",
+      "source_start": 34.1,
+      "source_end": 41.8,
+      "duration": 7.7,
+      "sha256": "66b1e8620a56bc8f9cedde3b74ab7097088a1a7a60f872eca3b2fd3f48f930c3"
+    },
+    {
+      "file": "03-cumulative-highlight-and-takeaway.mp4",
+      "source_start": 55.1,
+      "source_end": 63.8,
+      "duration": 8.7,
+      "sha256": "33cfcf694bf41c8e2ffeb8ed347de1d4401a71b47956463ecc1fbe527879192f"
+    }
+  ]
+}
