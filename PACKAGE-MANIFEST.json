@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-30",
+  "reference_projects": 7,
+  "scope": "Complete hydrated payload; excludes this manifest and .git runtime data. Two large project ZIPs are individual release assets.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 13,
+      "sha256": "962ec22ee5370cdeca3a5deeb3d54c11b70876dec7ec6911d24486e1372848a0"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 264,
+      "sha256": "1ba8b39fe576547fe066126d9876ca0df3ee8af637082e6cdeee48c0a23f5c38"
+    },
+    {
+      "path": "01-Original-Video-Reference/Original-Reference.mp4",
+      "bytes": 1080019,
+      "sha256": "33fbc59f9b90972bd0bb0f30260a40df14c0d1a5bf5ac0ccf757da7696637aa3"
+    },
+    {
+      "path": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace-Source.zip",
+      "bytes": 17440396,
+      "sha256": "5d501dfb1166705b509f4dc4538639ded893f9904099a6f3b69667de063132e8"
+    },
+    {
+      "path": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace.mp4",
+      "bytes": 5015961,
+      "sha256": "6c18a864645ccc0893a439d651df2bca14a204a45f4863b24cb4be224ff96e0d"
+    },
+    {
+      "path": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades-Editable-Project.zip",
+      "bytes": 34282758,
+      "sha256": "8a55489c829f735be644492e8f7e837ce8b7dfea1bc7e3548c7b45c2105d4a46"
+    },
+    {
+      "path": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades.mp4",
+      "bytes": 4960579,
+      "sha256": "a69a9baafde112230b0a4ee911f52e34261bd7d0b2aec180d1633ac9aef76ca4"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Animation-Sheet.md",
+      "bytes": 5964,
+      "sha256": "8217bc03ca1fe8583a1a997379a539f2e9ef1348987a69ed6e89832c4069a23b"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Instructor-Guide.md",
+      "bytes": 3096,
+      "sha256": "6cdca070f1c8dca37988ec39cab3704507420c7f03f7941e9b661ccc7b95f3e9"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Micro-Explanation-Animation-Study.md",
+      "bytes": 11236,
+      "sha256": "9357188292f740781a4e712146a6f6b0840567348a5555aaf3d1f1ea7fe13409"
+    },
+    {
+      "path": "04-Workflow-and-Animation/OG-MOTION-STUDY.md",
+      "bytes": 2630,
+      "sha256": "0048e2678c2e3f47102247466d6c8fad56a1ff7917192a6ff8c75a197dcc2971"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Sound-Effects-Usage.md",
+      "bytes": 681,
+      "sha256": "862924957b0f9d8bed69b7c9eddad2a9eed1ef29f5388b1c131eed5d610b313b"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/01-diagonal.png",
+      "bytes": 368290,
+      "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/02-upward.png",
+      "bytes": 392757,
+      "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/03-straight-head-tilt.png",
+      "bytes": 362040,
+      "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/116-9.jpg",
+      "bytes": 145790,
+      "sha256": "e7cd7ac17b81586f196fa4579e539e9244a22a3222fb51a4243c713e0afedcdb"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/20-4.jpg",
+      "bytes": 114522,
+      "sha256": "be462c811a0c368832df9c007a51ddd974feb243f21decf91b85957c2558adc9"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/22-3.jpg",
+      "bytes": 127704,
+      "sha256": "51dd4415807d60ad7b2f467e85179b6276f231b01f90d2245cc94444aaa12b81"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/53-5.jpg",
+      "bytes": 138080,
+      "sha256": "b27a2cc521ca27bf08dd78deac5cb219acf8c75c8d1ac014fff48287180c640d"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/55-8.jpg",
+      "bytes": 128499,
+      "sha256": "8a42c554e84e9bc8548fb9fe36058252c3a645b053ec8520109bfddae9ffc04d"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/72-6.jpg",
+      "bytes": 135144,
+      "sha256": "cbaf37bd71c0fe44d8748a0db59721527463bdec78a2d46d5bf36f422842b7c7"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/instructor/scene-examples/81-4.jpg",
+      "bytes": 159882,
+      "sha256": "0be9e60f831fe49b80b632af232449028e989e2432f19b53a85ccb4a301a51c2"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/red-zone-canvas.png",
+      "bytes": 537660,
+      "sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b"
+    },
+    {
+      "path": "04-Workflow-and-Animation/workflow.md",
+      "bytes": 80731,
+      "sha256": "f60e40e00607f5da0af63617e5d8b5d5233bf7a595ec7388a6ac7c1860fb8182"
+    },
+    {
+      "path": "05-Visual-References.zip",
+      "bytes": 283532,
+      "sha256": "32d7bc2961f980343ef7fe990768772baf8643f8c82e09ebbf1476fc62d23a19"
+    },
+    {
+      "path": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip",
+      "bytes": 36584529,
+      "sha256": "20dacb79e924c74a41e179b982ac0bbd4a6bdfb20efd0dbd9e194726fb620547"
+    },
+    {
+      "path": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4",
+      "bytes": 4964727,
+      "sha256": "d338583a6d7a9963d6259c4dffe09feff60fe974f07fbfe4a39496770f7979e3"
+    },
+    {
+      "path": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass-Complete-Project.zip",
+      "bytes": 48300010,
+      "sha256": "ef0d89d6bef3b1a7ba8b2e6236f215b7c02783b3d2d0914efa1f4dd3b2bb8576"
+    },
+    {
+      "path": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass.mp4",
+      "bytes": 4916820,
+      "sha256": "6c3ac3a22dda8bff643fbb2361f48e86f31366a07b5fc82f643761e4dd599ad7"
+    },
+    {
+      "path": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project.zip",
+      "bytes": 68573538,
+      "sha256": "bd93fe2ccab6510f9b0d3ec49b4e23caa6279752e29ab9d0b0ad584a97bcd7fb"
+    },
+    {
+      "path": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill.mp4",
+      "bytes": 4978702,
+      "sha256": "b5a2ebf153a17f097e4aae518e839bc6924341358d5cadbebabfaddfb9dd2fb3"
+    },
+    {
+      "path": "09-Micro-Explanation-Reference-Clips/01-chart-build-and-risk-change.mp4",
+      "bytes": 611081,
+      "sha256": "7980ecc957faa5aceaf78717eab456daf77dfef134a0a9e6b34fee5867857555"
+    },
+    {
+      "path": "09-Micro-Explanation-Reference-Clips/02-unit-stacks-and-ratio.mp4",
+      "bytes": 255773,
+      "sha256": "66b1e8620a56bc8f9cedde3b74ab7097088a1a7a60f872eca3b2fd3f48f930c3"
+    },
+    {
+      "path": "09-Micro-Explanation-Reference-Clips/03-cumulative-highlight-and-takeaway.mp4",
+      "bytes": 360003,
+      "sha256": "33cfcf694bf41c8e2ffeb8ed347de1d4401a71b47956463ecc1fbe527879192f"
+    },
+    {
+      "path": "09-Micro-Explanation-Reference-Clips/READ-ME.md",
+      "bytes": 1654,
+      "sha256": "6ac48e5b95f00ba5ca9d6a72224b1234b161a62e5523071d377cbbd233e500cd"
+    },
+    {
+      "path": "10-Project-6-Sugar-Two-Weeks/READ-ME.md",
+      "bytes": 690,
+      "sha256": "2c05bfd869c460d4c05a5d1dd8559e3dbf233828ffe9fd054c77ccfb46913eeb"
+    },
+    {
+      "path": "10-Project-6-Sugar-Two-Weeks/README.md",
+      "bytes": 784,
+      "sha256": "c221aaf1884b2d909859d0900c20b859a4f36e0a57d7e5d4468797ecc7824abb"
+    },
+    {
+      "path": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project.zip",
+      "bytes": 114025650,
+      "sha256": "a18c143f88ce9651d136a70102f022d9bf0aa51f37793276f1bbad2d3721e2d2",
+      "download_url": "https://github.com/Gregokeke/stickman-video-workflow/releases/download/v1.1.0/Sugar-Two-Weeks-Editable-Project.zip",
+      "storage": "github-release"
+    },
+    {
+      "path": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks.mp4",
+      "bytes": 4960225,
+      "sha256": "d0cabfe4284e3ee9ea7244834f1824f5e0e4e6a222e7c8ab993daeacaa6d018a"
+    },
+    {
+      "path": "11-Sound-Effects/READ-ME.md",
+      "bytes": 261,
+      "sha256": "d9c6dc22b4495062eaf3567a16cd9c7850a9c18240877619688a7870346c13c3"
+    },
+    {
+      "path": "11-Sound-Effects/Sound-Effects-Pack-v2.zip",
+      "bytes": 23355252,
+      "sha256": "cdac498b2b01f7e0436842952acaf52c8611308cfbc7bb0cba0de4515f492a86"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy-Final-Project.zip",
+      "bytes": 129247306,
+      "sha256": "610c70f9e14fb8f37570879447459c55eedee473e79e1d655f0bc6d88e218f88",
+      "download_url": "https://github.com/Gregokeke/stickman-video-workflow/releases/download/v1.1.0/Iron-Oxygen-Real-Energy-Final-Project.zip",
+      "storage": "github-release"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy.mp4",
+      "bytes": 27252680,
+      "sha256": "eceaf8dae8db4305a01016f33a2ec9389fcfcfbecbd1781d66a3efb436dc1da2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/PROJECT-README.md",
+      "bytes": 3406,
+      "sha256": "e0304aae04b98abe6817c5c34b73c100ee2307d408434d2b2739c2312f2a6c91"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/README.md",
+      "bytes": 1541,
+      "sha256": "80c68b025e7b4115b11ef7a166b3bb07a5ed17951a9d380bd91bf74d0e6b0de6"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/Bouncy-Reference-Compilation.mp4",
+      "bytes": 2000220,
+      "sha256": "b33cda362e6aa11a5c46dda7208d5a3d74476b93e620de0b38253eb0fcef7cb4"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/Bouncy-Study-README.md",
+      "bytes": 1435,
+      "sha256": "867788610473c49a129f219ebfff808f3c928e6ea69b88d14fcc12d01123a31f"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/Bouncy-UI-3D-Addendum.md",
+      "bytes": 9671,
+      "sha256": "56f1d1accec96233b1f0ffa880bf70d5669e9b3861b676e5363f7080555601c3"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/Bouncy-UI-3D-Demo.mp4",
+      "bytes": 5782959,
+      "sha256": "416108571d9c1def80e1b7bfe30b94a01fdb84b0c11cacdab99972f4df35ecf2"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/Bouncy-UI-Animation.md",
+      "bytes": 21403,
+      "sha256": "c16a5cc2feedb952b279923ee0a87d29790d916af7dda878dceec1f83509f4be"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/DESIGN.md",
+      "bytes": 1014,
+      "sha256": "d88173affdc0da8e7384ae5ef93cf80b622ba953c4697466a04b0f5a868a76f4"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/README.md",
+      "bytes": 1141,
+      "sha256": "27b8919228c293e6767c9445e30a1a265adef435dac1690531d9478b26358a5c"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/fonts/DejaVuSans-Bold.ttf",
+      "bytes": 708920,
+      "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/fonts/LICENSE.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/generate_sfx.py",
+      "bytes": 1061,
+      "sha256": "4287343786009fe150e40b1903ea128978fcfbf0beb5a692b2e64890f9792997"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/hyperframes.json",
+      "bytes": 318,
+      "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/index.html",
+      "bytes": 25399,
+      "sha256": "d13b52b82fd5401edc4cfee4f9edf0e632173385095e0ef1f0b370230c99b4e8"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/motion-sfx.wav",
+      "bytes": 2112044,
+      "sha256": "f20946a90790d89c9d3ae74be2831e72dd18bc06a9ee648bba8b9c3ab5f61102"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/package-lock.json",
+      "bytes": 516,
+      "sha256": "64733453939ded4eeb5236a8b711062a0bb674b8eccf43dc9d10f238ddcb62c9"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/package.json",
+      "bytes": 340,
+      "sha256": "753627ef9972a7c4ff4d943d63b38a8b11040497a6ac0e17dc89e393cd0376bd"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/editable-project/vendor/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/previous-sample/Bouncy-UI-Demo.mp4",
+      "bytes": 1181739,
+      "sha256": "f73d682b1844e8a9b63bfda64041ac3922a6788649a44c89eb54461efc4f4e59"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/reference-clips/01-Opening-Clock-and-Text.mp4",
+      "bytes": 568698,
+      "sha256": "9806501ed32dab0031f55e39ad4577870fcd24868ee21f1eaa14bb8189d61e2b"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/reference-clips/02-Clock-and-Falling-Tags.mp4",
+      "bytes": 436351,
+      "sha256": "3ffe045cb5bc844a7e836ed2bb5d9dd6ae190350b4ea054309a0912e4b9fc7eb"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/reference-clips/03-Time-Card-Cascade-and-Selection.mp4",
+      "bytes": 940029,
+      "sha256": "b369c3f584e0f3e84ccf0c1f0abf460535ec7dfd97e44d47cb7e91269c1f3da4"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/verification/hyperframes-check.json",
+      "bytes": 15176,
+      "sha256": "dcd750b57351ba28f6c55b0026aae351ce6924d5363397e22282b732547d79c4"
+    },
+    {
+      "path": "13-Bouncy-Animation-Study/verification/media-verification.json",
+      "bytes": 3581,
+      "sha256": "bb0424b0bf56efd8ff1f0b492537e49df71381c61317813444ba455e8a05dcd8"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1947,
+      "sha256": "3f687a2a93697dd636e43d8209be091fd8fdac9c5913a75ae371f61742d5e7d5"
+    },
+    {
+      "path": "ARCHIVE-CONTENTS.json",
+      "bytes": 154609,
+      "sha256": "e6a85db734c3a1e4ff2ae9f5b4f127c82d66f5ee6473c9cb9d8fc6dd9aed76a2"
+    },
+    {
+      "path": "DOWNLOADS.md",
+      "bytes": 1327,
+      "sha256": "8f4592dfd565e22bb676b412b07457802c773bbb508abb46e01c74ee7eca6b9e"
+    },
+    {
+      "path": "FILE-INDEX.md",
+      "bytes": 69176,
+      "sha256": "2b2618d036e056a8d388facc96a507cfebfd1ae3235109b05dd9ca5bfe0c400f"
+    },
+    {
+      "path": "PROJECT-RENDERS-INDEX.json",
+      "bytes": 2990,
+      "sha256": "ef9a5d6c85ecad7bec83c48366d600005c1d574383d9a67df7e26b495b089313"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10323,
+      "sha256": "894139abba22151f757dda7a841b858730379313c7d2631e32dcf5c845439f4c"
+    },
+    {
+      "path": "REORGANIZATION.json",
+      "bytes": 1080,
+      "sha256": "728ab372a788a97d0b7495a1b7fa5c3ae053fedc01538425c3f3236a55373cd4"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 2928,
+      "sha256": "7d81bb74674cc687b135ee55cf58a4eee90b925f108f85070edc5b876f9de855"
+    },
+    {
+      "path": "STUDY-CATALOG.md",
+      "bytes": 3713,
+      "sha256": "82eee2c7509653f51f30ce2e15a1d74da0af633eb0feeff2c0952b4b4bc7ae5c"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/PACKAGE-COMPRESSION-REPORT.json",
+      "bytes": 2260,
+      "sha256": "a428ec07adeb28031786fc46da587293a429befaa3b49325a1dc1d91ec366782"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/PACKAGE-MANIFEST.json",
+      "bytes": 9074,
+      "sha256": "f71d7e05a5a0d2528d3bbd00ea2716ae2a9f9eb7829c7477ee30539e5f6c00f8"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-27.json",
+      "bytes": 983,
+      "sha256": "96434e53ccd8d0a8ea98b4dc52a391797f2455cc4a7a621d3c28a471159a2557"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-28.json",
+      "bytes": 574,
+      "sha256": "8af641839f3f530ed5fd2124a67baa6e765a54cf35247c83f3470c29a0450510"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/PROJECT-RENDERS-INDEX.json",
+      "bytes": 1221,
+      "sha256": "4912506fb717baa75e467f2f9495862eaebc324c5c373d53cd1f6b9ccc8c5d41"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/README.md",
+      "bytes": 659,
+      "sha256": "8b7d38697cac9e9c1d4370940480342d33719433ff7fd5f5b5c97598c1195720"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/REFERENCE-VIDEO-COMPRESSION.json",
+      "bytes": 2303,
+      "sha256": "c89ee7ee2f5d4f8be8acd5c98e3abe5e0b8711563175ad5a7cf7c9bbe40bee0e"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/START-HERE.md",
+      "bytes": 7015,
+      "sha256": "2ed134cfb6938ff23bc48d6e19f339d1498240733b41bedcdcfec68c07395a05"
+    },
+    {
+      "path": "tools/fetch_large_projects.py",
+      "bytes": 1548,
+      "sha256": "8bb5e190ecd78df2db5be560008cd659ef9b7534dfb15cbda6b81c3a7e8f89e7"
+    },
+    {
+      "path": "tools/verify_workspace.py",
+      "bytes": 2015,
+      "sha256": "6836eacbeba424842aceb70bf61e2f4325cdd1b3b565959ff8422363006bf1be"
+    }
+  ]
+}

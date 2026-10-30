@@ -1,0 +1,68 @@
+[
+  {
+    "file": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace.mp4",
+    "duration": 36.7,
+    "original_bytes": 9920878,
+    "compact_bytes": 5015961,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 980119,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  },
+  {
+    "file": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass.mp4",
+    "duration": 64.233333,
+    "original_bytes": 24828727,
+    "compact_bytes": 4916820,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 522275,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  },
+  {
+    "file": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades.mp4",
+    "duration": 69.0,
+    "original_bytes": 18840753,
+    "compact_bytes": 4960579,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 480115,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  },
+  {
+    "file": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks.mp4",
+    "duration": 123.166667,
+    "original_bytes": 29569464,
+    "compact_bytes": 4960225,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 230267,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  },
+  {
+    "file": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill.mp4",
+    "duration": 125.1,
+    "original_bytes": 22971174,
+    "compact_bytes": 4978702,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 225349,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  },
+  {
+    "file": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4",
+    "duration": 42.633333,
+    "original_bytes": 8907244,
+    "compact_bytes": 4964727,
+    "resolution": "720x1280",
+    "fps": 30,
+    "audio": "AAC 80 kbps stereo",
+    "video_bitrate": 831468,
+    "method": "H264 two-pass slow; ~5 MB viewing reference, lossy; original editable artwork preserved"
+  }
+]

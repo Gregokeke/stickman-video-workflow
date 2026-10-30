@@ -1,0 +1,81 @@
+{
+  "method": "Standard ZIP Deflate level 9; no media re-encoding; unchanged retained file bytes verified",
+  "projects": [
+    {
+      "project": "Protect-Their-Peace-Source.zip",
+      "before": 12486684,
+      "after": 12486684,
+      "retained_files": 39,
+      "retained_bytes_verified": true,
+      "removed": []
+    },
+    {
+      "project": "Remea-Gut-to-Glass-Complete-Project.zip",
+      "before": 43443096,
+      "after": 43443096,
+      "retained_files": 91,
+      "retained_bytes_verified": true,
+      "removed": []
+    },
+    {
+      "project": "When-He-Goes-Quiet-Clean-Fades-Editable-Project.zip",
+      "before": 29446358,
+      "after": 29446358,
+      "retained_files": 57,
+      "retained_bytes_verified": true,
+      "removed": []
+    },
+    {
+      "project": "Sugar-Two-Weeks-Editable-Project.zip",
+      "before": 109276949,
+      "after": 109276949,
+      "retained_files": 157,
+      "retained_bytes_verified": true,
+      "removed": []
+    },
+    {
+      "project": "Walking-The-Magic-Pill-Vertical-Gauge-Project.zip",
+      "before": 70024100,
+      "after": 63838733,
+      "retained_files": 105,
+      "retained_bytes_verified": true,
+      "removed": [
+        {
+          "member": "Walking-Magic-Pill/assets/audio/.effects.wav.EM4STX",
+          "bytes": 3145728,
+          "reason": "incomplete unused transfer"
+        },
+        {
+          "member": "Walking-Magic-Pill/assets/audio/.mix.wav.EuxbTC",
+          "bytes": 6815744,
+          "reason": "incomplete unused transfer"
+        },
+        {
+          "member": "Walking-Magic-Pill/assets/audio/.mix.wav.hFbOnA",
+          "bytes": 4718592,
+          "reason": "incomplete unused transfer"
+        }
+      ]
+    },
+    {
+      "project": "Braces-or-Aligners-Part-3-Complete-Project.zip",
+      "before": 40507868,
+      "after": 31656974,
+      "retained_files": 86,
+      "retained_bytes_verified": true,
+      "removed": [
+        {
+          "member": "Braces-or-Aligners-Part-3/renders/Braces-or-Aligners-Part-3.mp4",
+          "bytes": 8907244,
+          "reason": "byte-identical export already beside project ZIP"
+        }
+      ]
+    }
+  ],
+  "removed_outer_temporary": [
+    {
+      "bytes": 7077888,
+      "reason": "incomplete transfer copy"
+    }
+  ]
+}

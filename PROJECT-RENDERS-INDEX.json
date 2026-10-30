@@ -1,0 +1,65 @@
+[
+  {
+    "reference": 1,
+    "project": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace-Source.zip",
+    "render_path": "Protect-Their-Peace/renders/Protect-Their-Peace.mp4",
+    "external_render": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace.mp4",
+    "render_size": 5015961,
+    "sha256": "6c18a864645ccc0893a439d651df2bca14a204a45f4863b24cb4be224ff96e0d",
+    "same_as_external": true
+  },
+  {
+    "reference": 2,
+    "project": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades-Editable-Project.zip",
+    "render_path": "When-He-Goes-Quiet/renders/When-He-Goes-Quiet-Clean-Fades.mp4",
+    "external_render": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades.mp4",
+    "render_size": 4960579,
+    "sha256": "a69a9baafde112230b0a4ee911f52e34261bd7d0b2aec180d1633ac9aef76ca4",
+    "same_as_external": true
+  },
+  {
+    "reference": 3,
+    "project": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip",
+    "render_path": "Braces-or-Aligners-Part-3/renders/Braces-or-Aligners-Part-3.mp4",
+    "external_render": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4",
+    "render_size": 4964727,
+    "sha256": "d338583a6d7a9963d6259c4dffe09feff60fe974f07fbfe4a39496770f7979e3",
+    "same_as_external": true
+  },
+  {
+    "reference": 4,
+    "project": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass-Complete-Project.zip",
+    "render_path": "Remea-Gut-to-Glass/renders/Remea-Gut-to-Glass.mp4",
+    "external_render": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass.mp4",
+    "render_size": 4916820,
+    "sha256": "6c3ac3a22dda8bff643fbb2361f48e86f31366a07b5fc82f643761e4dd599ad7",
+    "same_as_external": true
+  },
+  {
+    "reference": 5,
+    "project": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project.zip",
+    "render_path": "Walking-Magic-Pill/renders/Walking-The-Magic-Pill.mp4",
+    "external_render": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill.mp4",
+    "render_size": 4978702,
+    "sha256": "b5a2ebf153a17f097e4aae518e839bc6924341358d5cadbebabfaddfb9dd2fb3",
+    "same_as_external": true
+  },
+  {
+    "reference": 6,
+    "project": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project.zip",
+    "render_path": "Sugar-Two-Weeks/renders/Sugar-Two-Weeks.mp4",
+    "external_render": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks.mp4",
+    "render_size": 4960225,
+    "sha256": "d0cabfe4284e3ee9ea7244834f1824f5e0e4e6a222e7c8ab993daeacaa6d018a",
+    "same_as_external": true
+  },
+  {
+    "reference": 7,
+    "project": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy-Final-Project.zip",
+    "render_path": "Iron-Oxygen-Real-Energy/renders/Iron-Oxygen-Real-Energy.mp4",
+    "external_render": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy.mp4",
+    "render_size": 27252680,
+    "sha256": "eceaf8dae8db4305a01016f33a2ec9389fcfcfbecbd1781d66a3efb436dc1da2",
+    "same_as_external": true
+  }
+]

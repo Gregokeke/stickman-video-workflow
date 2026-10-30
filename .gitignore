@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+/work/
+
+# Whole oversized projects are individual release assets, fetched on setup.
+/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project.zip
+/12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy-Final-Project.zip
