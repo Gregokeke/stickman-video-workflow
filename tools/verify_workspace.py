@@ -12,7 +12,7 @@ def main():
  errors=[];m=json.loads((R/'PACKAGE-MANIFEST.json').read_text())
  for i in m['files']:
   p=R/i['path']
-  if not p.is_file():errors.append('Missing: '+i['path']+'; run python3 tools/fetch_large_projects.py for release downloads');continue
+  if not p.is_file():errors.append('Missing: '+i['path']);continue
   with p.open('rb') as f:prefix=f.read(100)
   if prefix.startswith(b'version https://git-lfs.github.com/spec/v1'):errors.append('Unexpected pointer; fetch real project bytes: '+i['path']);continue
   if p.stat().st_size!=i['bytes'] or sha(p)!=i['sha256']:errors.append('Size/checksum mismatch: '+i['path'])

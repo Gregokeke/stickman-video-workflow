@@ -2417,7 +2417,7 @@
       {
         "path": "Sugar-Two-Weeks/Animation-Sheet.md",
         "bytes": 5624,
-        "compressed_bytes": 2670,
+        "compressed_bytes": 2669,
         "crc32": "4fc3fbd8"
       },
       {
@@ -2429,7 +2429,7 @@
       {
         "path": "Sugar-Two-Weeks/Image-Prompts.md",
         "bytes": 52519,
-        "compressed_bytes": 7909,
+        "compressed_bytes": 7872,
         "crc32": "d478f715"
       },
       {
@@ -2446,9 +2446,9 @@
       },
       {
         "path": "Sugar-Two-Weeks/README.md",
-        "bytes": 2727,
-        "compressed_bytes": 1434,
-        "crc32": "af617d70"
+        "bytes": 3232,
+        "compressed_bytes": 1665,
+        "crc32": "b2f6b219"
       },
       {
         "path": "Sugar-Two-Weeks/SFX-CREDITS.md",
@@ -2459,7 +2459,7 @@
       {
         "path": "Sugar-Two-Weeks/Stickman Animations Workflow.md",
         "bytes": 61110,
-        "compressed_bytes": 22633,
+        "compressed_bytes": 22579,
         "crc32": "10f1fa18"
       },
       {
@@ -2471,649 +2471,199 @@
       {
         "path": "Sugar-Two-Weeks/asset-plan.json",
         "bytes": 78867,
-        "compressed_bytes": 11120,
+        "compressed_bytes": 11062,
         "crc32": "ec52b14c"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/audio/effects.wav",
-        "bytes": 35472044,
-        "compressed_bytes": 11908906,
-        "crc32": "78b6c086"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/audio/mix.wav",
-        "bytes": 35472102,
-        "compressed_bytes": 23508180,
-        "crc32": "27faf1b5"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/audio/narration.wav",
-        "bytes": 11797482,
-        "compressed_bytes": 9401051,
-        "crc32": "940b84e2"
       },
       {
         "path": "Sugar-Two-Weeks/assets/audio/source-narration.mp3",
         "bytes": 2049297,
-        "compressed_bytes": 2041343,
+        "compressed_bytes": 2041338,
         "crc32": "e71eb3a2"
       },
       {
         "path": "Sugar-Two-Weeks/assets/fonts/caption-bold.ttf",
         "bytes": 147264,
-        "compressed_bytes": 82787,
+        "compressed_bytes": 82693,
         "crc32": "6988ffd9"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/atp.png",
-        "bytes": 1230242,
-        "compressed_bytes": 1217918,
-        "crc32": "648b000b"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/bacteria-beg.png",
-        "bytes": 528357,
-        "compressed_bytes": 434084,
-        "crc32": "ca8ee7da"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/battery.png",
-        "bytes": 829546,
-        "compressed_bytes": 816234,
-        "crc32": "a298bac2"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/blank-screen.png",
-        "bytes": 511809,
-        "compressed_bytes": 412080,
-        "crc32": "5ecfa820"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/blood-vessel-v2.png",
-        "bytes": 1234174,
-        "compressed_bytes": 1221860,
-        "crc32": "0364df7f"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/body-relief.png",
-        "bytes": 1119986,
-        "compressed_bytes": 1107628,
-        "crc32": "1dbe701e"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/brain.png",
-        "bytes": 905370,
-        "compressed_bytes": 777416,
-        "crc32": "4470e6c0"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/bubble-wrap.png",
-        "bytes": 890006,
-        "compressed_bytes": 779575,
-        "crc32": "01ac50c2"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/calendar.png",
-        "bytes": 904977,
-        "compressed_bytes": 785748,
-        "crc32": "bc25d360"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/candy-jar.png",
-        "bytes": 1008641,
-        "compressed_bytes": 881863,
-        "crc32": "ee371cbb"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cane-presenter.png",
-        "bytes": 368290,
-        "compressed_bytes": 293102,
-        "crc32": "66074811"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cane-up-straight-tilt.png",
-        "bytes": 362040,
-        "compressed_bytes": 290368,
-        "crc32": "af750b02"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cane-up.png",
-        "bytes": 392757,
-        "compressed_bytes": 315815,
-        "crc32": "3574c39b"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/collagen.png",
-        "bytes": 1121738,
-        "compressed_bytes": 1108521,
-        "crc32": "1f790098"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cortisol.png",
-        "bytes": 1197948,
-        "compressed_bytes": 1185613,
-        "crc32": "0e9ab4b0"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/craving-reach.png",
-        "bytes": 573926,
-        "compressed_bytes": 472082,
-        "crc32": "68dbafff"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/crossed-sugar.png",
-        "bytes": 667356,
-        "compressed_bytes": 528069,
-        "crc32": "64b85228"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cytokine-receptor.png",
-        "bytes": 1206228,
-        "compressed_bytes": 1193904,
-        "crc32": "97f6766f"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/cytokine.png",
-        "bytes": 838256,
-        "compressed_bytes": 760354,
-        "crc32": "5bf67d3e"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/diet-plate-v2.png",
-        "bytes": 1453323,
-        "compressed_bytes": 1325025,
-        "crc32": "cf811ecc"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/embalmed-corpse.png",
-        "bytes": 684841,
-        "compressed_bytes": 550651,
-        "crc32": "d9fe982c"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/energetic-person.png",
-        "bytes": 1096729,
-        "compressed_bytes": 1084382,
-        "crc32": "c0e797b1"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/existential-person.png",
-        "bytes": 630870,
-        "compressed_bytes": 514662,
-        "crc32": "85a1a19d"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/fat-burn.png",
-        "bytes": 636039,
-        "compressed_bytes": 513128,
-        "crc32": "b3f0c894"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/fat-cell.png",
-        "bytes": 969199,
-        "compressed_bytes": 795193,
-        "crc32": "096bd5cf"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/fat-cluster-v3.png",
-        "bytes": 1015224,
-        "compressed_bytes": 863553,
-        "crc32": "0a72abd6"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/fat-tank.png",
-        "bytes": 623405,
-        "compressed_bytes": 506430,
-        "crc32": "7f37c911"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/focus-person.png",
-        "bytes": 619734,
-        "compressed_bytes": 520082,
-        "crc32": "418baa94"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/glucose.png",
-        "bytes": 488962,
-        "compressed_bytes": 412203,
-        "crc32": "355987c6"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/glycation-bridge.png",
-        "bytes": 661959,
-        "compressed_bytes": 564776,
-        "crc32": "e2d90677"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/gut-bacteria.png",
-        "bytes": 791503,
-        "compressed_bytes": 669117,
-        "crc32": "56d2f3cb"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/healthy-face.png",
-        "bytes": 623552,
-        "compressed_bytes": 487612,
-        "crc32": "c01aadef"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/immune-cell.png",
-        "bytes": 889582,
-        "compressed_bytes": 757799,
-        "crc32": "539c5017"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/inflamed-brain.png",
-        "bytes": 1312451,
-        "compressed_bytes": 1300151,
-        "crc32": "33c1c3e5"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/insulin.png",
-        "bytes": 755496,
-        "compressed_bytes": 653217,
-        "crc32": "b32adb76"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/intestines.png",
-        "bytes": 733990,
-        "compressed_bytes": 625476,
-        "crc32": "52d1b459"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/joint-section.png",
-        "bytes": 565665,
-        "compressed_bytes": 462166,
-        "crc32": "bbfc45ee"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/junk-meal.png",
-        "bytes": 863127,
-        "compressed_bytes": 699976,
-        "crc32": "e86c74a3"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/just-ate.png",
-        "bytes": 612105,
-        "compressed_bytes": 509117,
-        "crc32": "2a1db8e9"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/knee-person.png",
-        "bytes": 1057064,
-        "compressed_bytes": 1043827,
-        "crc32": "bf69d7d6"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/logic-thinker.png",
-        "bytes": 544895,
-        "compressed_bytes": 444507,
-        "crc32": "aae2128f"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/meal-plate-approved.png",
-        "bytes": 609550,
-        "compressed_bytes": 502169,
-        "crc32": "c79cb2b6"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/mitochondrion.png",
-        "bytes": 1266061,
-        "compressed_bytes": 1253751,
-        "crc32": "9b2bb2a6"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/nervous-system.png",
-        "bytes": 1507431,
-        "compressed_bytes": 1494323,
-        "crc32": "ac84c5fa"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/neural-tissue.png",
-        "bytes": 1600693,
-        "compressed_bytes": 1587606,
-        "crc32": "45718bc9"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/padlock.png",
-        "bytes": 603790,
-        "compressed_bytes": 459532,
-        "crc32": "3951af73"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/panic-avatar.png",
-        "bytes": 1061169,
-        "compressed_bytes": 1048796,
-        "crc32": "6a528073"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/relieved-person.png",
-        "bytes": 1044537,
-        "compressed_bytes": 1032155,
-        "crc32": "9dda0343"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sarcastic-presenter.png",
-        "bytes": 1043986,
-        "compressed_bytes": 1031607,
-        "crc32": "337aa9e3"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/satisfied-person.png",
-        "bytes": 1044224,
-        "compressed_bytes": 1030984,
-        "crc32": "00d691a8"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/skin-glow.png",
-        "bytes": 654199,
-        "compressed_bytes": 523777,
-        "crc32": "e6f53866"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/skin-section.png",
-        "bytes": 1404768,
-        "compressed_bytes": 1287313,
-        "crc32": "b9a567f1"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sloth.png",
-        "bytes": 492381,
-        "compressed_bytes": 395186,
-        "crc32": "73d738c2"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/smug-finale.png",
-        "bytes": 1062585,
-        "compressed_bytes": 1049340,
-        "crc32": "115e4d27"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/standing-person.png",
-        "bytes": 1013210,
-        "compressed_bytes": 999964,
-        "crc32": "0b29840b"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/starving-person.png",
-        "bytes": 603423,
-        "compressed_bytes": 510805,
-        "crc32": "4864f039"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/stiff-collagen.png",
-        "bytes": 921849,
-        "compressed_bytes": 813043,
-        "crc32": "06e491e0"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/stopwatch.png",
-        "bytes": 763285,
-        "compressed_bytes": 613013,
-        "crc32": "e5559788"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/storage-2021.png",
-        "bytes": 808656,
-        "compressed_bytes": 691876,
-        "crc32": "32c7bdbb"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/stress-body.png",
-        "bytes": 1135869,
-        "compressed_bytes": 1122644,
-        "crc32": "a2a207e8"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/stressed-head.png",
-        "bytes": 830701,
-        "compressed_bytes": 652639,
-        "crc32": "1918d060"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sugar-bowl.png",
-        "bytes": 748117,
-        "compressed_bytes": 615274,
-        "crc32": "155e2282"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sugar-ghoul.png",
-        "bytes": 751996,
-        "compressed_bytes": 616681,
-        "crc32": "d86c3717"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sugar-high.png",
-        "bytes": 1102128,
-        "compressed_bytes": 1088907,
-        "crc32": "ac99d487"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sugar-refusal-v2.png",
-        "bytes": 547637,
-        "compressed_bytes": 457077,
-        "crc32": "2a9d71af"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/sugar-spoon.png",
-        "bytes": 924351,
-        "compressed_bytes": 911075,
-        "crc32": "a9d277d2"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/timer-20.png",
-        "bytes": 682770,
-        "compressed_bytes": 541403,
-        "crc32": "1a40a109"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/timer-40.png",
-        "bytes": 703923,
-        "compressed_bytes": 553752,
-        "crc32": "816698ae"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/torture-drama.png",
-        "bytes": 548158,
-        "compressed_bytes": 447864,
-        "crc32": "19a1de81"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/waist-tape.png",
-        "bytes": 1085047,
-        "compressed_bytes": 1072679,
-        "crc32": "35c40d0c"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/weight-person.png",
-        "bytes": 1064819,
-        "compressed_bytes": 1052453,
-        "crc32": "4b764f12"
-      },
-      {
-        "path": "Sugar-Two-Weeks/assets/graphics/weight-scale.png",
-        "bytes": 790039,
-        "compressed_bytes": 612457,
-        "crc32": "d417b9a2"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/A05b_Short_Swipe_Tail_01.wav",
         "bytes": 248934,
-        "compressed_bytes": 191579,
+        "compressed_bytes": 191570,
         "crc32": "cae6a4b2"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/A11_Soft_Bubble_Plop_01.wav",
         "bytes": 82182,
-        "compressed_bytes": 27096,
+        "compressed_bytes": 26986,
         "crc32": "970393de"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B03_Low_Tapered_Sweep_01.wav",
         "bytes": 917382,
-        "compressed_bytes": 415741,
+        "compressed_bytes": 415682,
         "crc32": "37f08383"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B06_Soft_Air_Brush_01.wav",
         "bytes": 143814,
-        "compressed_bytes": 117961,
+        "compressed_bytes": 117900,
         "crc32": "7651c098"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B09_Deep_Passing_Whoosh_02.wav",
         "bytes": 588198,
-        "compressed_bytes": 522191,
+        "compressed_bytes": 522092,
         "crc32": "afc12300"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B10_Camera_Shutter_Short_02.wav",
         "bytes": 77574,
-        "compressed_bytes": 27405,
+        "compressed_bytes": 27339,
         "crc32": "78ea4b89"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B15_Rounded_Plop_01.wav",
         "bytes": 98598,
-        "compressed_bytes": 33887,
+        "compressed_bytes": 33754,
         "crc32": "c958cd97"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B17_Bouncy_Plop_03.wav",
         "bytes": 62022,
-        "compressed_bytes": 33259,
+        "compressed_bytes": 33158,
         "crc32": "0de92c86"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B18_Rounded_Plop_04.wav",
         "bytes": 59430,
-        "compressed_bytes": 32195,
+        "compressed_bytes": 32109,
         "crc32": "8b95b43b"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
         "bytes": 472710,
-        "compressed_bytes": 390623,
+        "compressed_bytes": 390539,
         "crc32": "f7ff61c0"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
         "bytes": 155622,
-        "compressed_bytes": 109220,
+        "compressed_bytes": 109083,
         "crc32": "c2ad0fc9"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
         "bytes": 335046,
-        "compressed_bytes": 266668,
+        "compressed_bytes": 266706,
         "crc32": "4bbcc77c"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B27_Dry_Double_Tick_01.wav",
         "bytes": 87942,
-        "compressed_bytes": 53382,
+        "compressed_bytes": 53277,
         "crc32": "5566d37d"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B31_Swiping_Whoosh_01.wav",
         "bytes": 260742,
-        "compressed_bytes": 210993,
+        "compressed_bytes": 210877,
         "crc32": "0eceb6ec"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
         "bytes": 459996,
-        "compressed_bytes": 421936,
+        "compressed_bytes": 421874,
         "crc32": "08a2750f"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C01_Gear_Ratchet_Crank_01.wav",
         "bytes": 699654,
-        "compressed_bytes": 557543,
+        "compressed_bytes": 557504,
         "crc32": "f128c0b9"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
         "bytes": 719814,
-        "compressed_bytes": 521518,
+        "compressed_bytes": 521465,
         "crc32": "8abc4463"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
         "bytes": 219846,
-        "compressed_bytes": 100592,
+        "compressed_bytes": 100442,
         "crc32": "7950b22e"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C08_Bubble_Plop_05.wav",
         "bytes": 66918,
-        "compressed_bytes": 33685,
+        "compressed_bytes": 33606,
         "crc32": "7f7b4ba0"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C09_Liquid_Boing_Plop_01.wav",
         "bytes": 367590,
-        "compressed_bytes": 311849,
+        "compressed_bytes": 311783,
         "crc32": "6f1b003d"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
         "bytes": 320934,
-        "compressed_bytes": 280638,
+        "compressed_bytes": 280531,
         "crc32": "76a3fd20"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C14_Success_Notification_Blip_01.wav",
         "bytes": 267654,
-        "compressed_bytes": 135711,
+        "compressed_bytes": 135632,
         "crc32": "1ecde595"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C15_Digital_Glitch_Buzz_01.wav",
         "bytes": 221574,
-        "compressed_bytes": 67269,
+        "compressed_bytes": 66759,
         "crc32": "dd39dadb"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C18_Record_Scratch_Rewind_01.wav",
         "bytes": 385158,
-        "compressed_bytes": 208643,
+        "compressed_bytes": 208582,
         "crc32": "dce9e752"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C19_Cartoon_Pitch_Rise_01.wav",
         "bytes": 146118,
-        "compressed_bytes": 114127,
+        "compressed_bytes": 114069,
         "crc32": "3935bcbd"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C20_Dry_Crack_Snap_01.wav",
         "bytes": 172326,
-        "compressed_bytes": 131267,
+        "compressed_bytes": 131206,
         "crc32": "316ed0ff"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/C21_Heavy_Whack_Impact_01.wav",
         "bytes": 468678,
-        "compressed_bytes": 264881,
+        "compressed_bytes": 264524,
         "crc32": "7ed8b77f"
       },
       {
         "path": "Sugar-Two-Weeks/assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
         "bytes": 123942,
-        "compressed_bytes": 41378,
+        "compressed_bytes": 41341,
         "crc32": "db582e46"
       },
       {
         "path": "Sugar-Two-Weeks/assets/vendor/gsap.min.js",
         "bytes": 72927,
-        "compressed_bytes": 28326,
+        "compressed_bytes": 28284,
         "crc32": "87a303b4"
       },
       {
         "path": "Sugar-Two-Weeks/audio-edits.json",
         "bytes": 1470,
-        "compressed_bytes": 550,
+        "compressed_bytes": 548,
         "crc32": "183676ab"
       },
       {
@@ -3155,19 +2705,19 @@
       {
         "path": "Sugar-Two-Weeks/captions.json",
         "bytes": 6161,
-        "compressed_bytes": 1781,
+        "compressed_bytes": 1783,
         "crc32": "b5034c2f"
       },
       {
         "path": "Sugar-Two-Weeks/index.html",
         "bytes": 86263,
-        "compressed_bytes": 20351,
+        "compressed_bytes": 19988,
         "crc32": "a4ca1d2d"
       },
       {
         "path": "Sugar-Two-Weeks/package-lock.json",
         "bytes": 72260,
-        "compressed_bytes": 16019,
+        "compressed_bytes": 15847,
         "crc32": "e31845da"
       },
       {
@@ -3209,7 +2759,7 @@
       {
         "path": "Sugar-Two-Weeks/production/choreography-audit.json",
         "bytes": 70894,
-        "compressed_bytes": 5688,
+        "compressed_bytes": 5204,
         "crc32": "2a388d68"
       },
       {
@@ -3221,7 +2771,7 @@
       {
         "path": "Sugar-Two-Weeks/production/final-schedule.json",
         "bytes": 30853,
-        "compressed_bytes": 5779,
+        "compressed_bytes": 5499,
         "crc32": "0b926a86"
       },
       {
@@ -3239,7 +2789,7 @@
       {
         "path": "Sugar-Two-Weeks/production/pointing-audit.json",
         "bytes": 5508,
-        "compressed_bytes": 790,
+        "compressed_bytes": 766,
         "crc32": "be215c3f"
       },
       {
@@ -3257,37 +2807,31 @@
       {
         "path": "Sugar-Two-Weeks/production/visual-review.json",
         "bytes": 31716,
-        "compressed_bytes": 4528,
+        "compressed_bytes": 4410,
         "crc32": "bf0c5e9e"
       },
       {
         "path": "Sugar-Two-Weeks/references/01-IMG-20261023-WA0029.jpg",
         "bytes": 45404,
-        "compressed_bytes": 32883,
+        "compressed_bytes": 32791,
         "crc32": "68f7b824"
       },
       {
         "path": "Sugar-Two-Weeks/references/03-IMG-20261023-WA0027.jpg",
         "bytes": 57169,
-        "compressed_bytes": 45136,
+        "compressed_bytes": 45018,
         "crc32": "24473066"
       },
       {
         "path": "Sugar-Two-Weeks/references/04-IMG-20261023-WA0026.jpg",
         "bytes": 56836,
-        "compressed_bytes": 40191,
+        "compressed_bytes": 40139,
         "crc32": "fb34f00c"
-      },
-      {
-        "path": "Sugar-Two-Weeks/references/red-zone-canvas.png",
-        "bytes": 537660,
-        "compressed_bytes": 433184,
-        "crc32": "1f328343"
       },
       {
         "path": "Sugar-Two-Weeks/references/sfx-pack-manifest.json",
         "bytes": 22219,
-        "compressed_bytes": 4695,
+        "compressed_bytes": 4613,
         "crc32": "9305c9aa"
       },
       {
@@ -3317,13 +2861,13 @@
       {
         "path": "Sugar-Two-Weeks/sound-cues.json",
         "bytes": 16532,
-        "compressed_bytes": 2637,
+        "compressed_bytes": 2609,
         "crc32": "b6dae389"
       },
       {
         "path": "Sugar-Two-Weeks/sound_design.py",
         "bytes": 6929,
-        "compressed_bytes": 3154,
+        "compressed_bytes": 3153,
         "crc32": "06d6c9f0"
       },
       {
@@ -3335,25 +2879,25 @@
       {
         "path": "Sugar-Two-Weeks/source-words.json",
         "bytes": 23606,
-        "compressed_bytes": 3721,
+        "compressed_bytes": 3640,
         "crc32": "1224992d"
       },
       {
         "path": "Sugar-Two-Weeks/storyboard.json",
         "bytes": 21467,
-        "compressed_bytes": 3227,
+        "compressed_bytes": 3062,
         "crc32": "2882e587"
       },
       {
         "path": "Sugar-Two-Weeks/storyboard.md",
         "bytes": 6646,
-        "compressed_bytes": 2177,
+        "compressed_bytes": 2170,
         "crc32": "5abed7b9"
       },
       {
         "path": "Sugar-Two-Weeks/words.json",
         "bytes": 24390,
-        "compressed_bytes": 3854,
+        "compressed_bytes": 3784,
         "crc32": "1c58c6fe"
       },
       {
@@ -3367,6 +2911,474 @@
         "bytes": 360,
         "compressed_bytes": 246,
         "crc32": "f094e85c"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-audio/effects.flac",
+        "bytes": 5823687,
+        "compressed_bytes": 5747687,
+        "crc32": "e20bf86b"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-audio/mix.flac",
+        "bytes": 13182247,
+        "compressed_bytes": 13150613,
+        "crc32": "bb3d9672"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-audio/narration.flac",
+        "bytes": 3959212,
+        "compressed_bytes": 3930904,
+        "crc32": "5f76ecb6"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/atp.png.webp",
+        "bytes": 823830,
+        "compressed_bytes": 824085,
+        "crc32": "c33279d6"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/bacteria-beg.png.webp",
+        "bytes": 302614,
+        "compressed_bytes": 302709,
+        "crc32": "70a3796b"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/battery.png.webp",
+        "bytes": 548954,
+        "compressed_bytes": 548609,
+        "crc32": "430f5c38"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/blank-screen.png.webp",
+        "bytes": 291754,
+        "compressed_bytes": 291775,
+        "crc32": "0d781ae1"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/blood-vessel-v2.png.webp",
+        "bytes": 836982,
+        "compressed_bytes": 837109,
+        "crc32": "0b9dda2e"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/body-relief.png.webp",
+        "bytes": 729160,
+        "compressed_bytes": 729377,
+        "crc32": "66170d0f"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/brain.png.webp",
+        "bytes": 584546,
+        "compressed_bytes": 584709,
+        "crc32": "d4bb73e9"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/bubble-wrap.png.webp",
+        "bytes": 572158,
+        "compressed_bytes": 572258,
+        "crc32": "517a26b7"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/calendar.png.webp",
+        "bytes": 519162,
+        "compressed_bytes": 519289,
+        "crc32": "18b23efb"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/candy-jar.png.webp",
+        "bytes": 624456,
+        "compressed_bytes": 624582,
+        "crc32": "9e2c3767"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cane-presenter.png.webp",
+        "bytes": 204774,
+        "compressed_bytes": 204834,
+        "crc32": "6e3ac20e"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cane-up-straight-tilt.png.webp",
+        "bytes": 205130,
+        "compressed_bytes": 205195,
+        "crc32": "9043774a"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cane-up.png.webp",
+        "bytes": 224964,
+        "compressed_bytes": 225034,
+        "crc32": "9e918482"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/collagen.png.webp",
+        "bytes": 732588,
+        "compressed_bytes": 732813,
+        "crc32": "e7791af2"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cortisol.png.webp",
+        "bytes": 782464,
+        "compressed_bytes": 782694,
+        "crc32": "5361f6d7"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/craving-reach.png.webp",
+        "bytes": 329352,
+        "compressed_bytes": 329457,
+        "crc32": "84eeb04a"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/crossed-sugar.png.webp",
+        "bytes": 365158,
+        "compressed_bytes": 365171,
+        "crc32": "2aec1cc7"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cytokine-receptor.png.webp",
+        "bytes": 837664,
+        "compressed_bytes": 837707,
+        "crc32": "8f97928f"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/cytokine.png.webp",
+        "bytes": 600322,
+        "compressed_bytes": 583813,
+        "crc32": "9a3bd1ff"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/diet-plate-v2.png.webp",
+        "bytes": 924786,
+        "compressed_bytes": 925071,
+        "crc32": "28d93f26"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/embalmed-corpse.png.webp",
+        "bytes": 383784,
+        "compressed_bytes": 383860,
+        "crc32": "57b5fbfa"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/energetic-person.png.webp",
+        "bytes": 714098,
+        "compressed_bytes": 714314,
+        "crc32": "3e61ab37"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/existential-person.png.webp",
+        "bytes": 364212,
+        "compressed_bytes": 364310,
+        "crc32": "d407b830"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/fat-burn.png.webp",
+        "bytes": 362838,
+        "compressed_bytes": 362939,
+        "crc32": "7b772f33"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/fat-cell.png.webp",
+        "bytes": 573038,
+        "compressed_bytes": 573199,
+        "crc32": "997e6357"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/fat-cluster-v3.png.webp",
+        "bytes": 605458,
+        "compressed_bytes": 605594,
+        "crc32": "bb47c6cf"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/fat-tank.png.webp",
+        "bytes": 364470,
+        "compressed_bytes": 364555,
+        "crc32": "375bdfef"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/focus-person.png.webp",
+        "bytes": 365108,
+        "compressed_bytes": 365195,
+        "crc32": "23fff3e9"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/glucose.png.webp",
+        "bytes": 298286,
+        "compressed_bytes": 298381,
+        "crc32": "dae22542"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/glycation-bridge.png.webp",
+        "bytes": 408820,
+        "compressed_bytes": 408914,
+        "crc32": "cb49ae4d"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/gut-bacteria.png.webp",
+        "bytes": 473422,
+        "compressed_bytes": 473472,
+        "crc32": "b8c01e05"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/healthy-face.png.webp",
+        "bytes": 339096,
+        "compressed_bytes": 339115,
+        "crc32": "e585dd3f"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/immune-cell.png.webp",
+        "bytes": 548080,
+        "compressed_bytes": 548183,
+        "crc32": "ce409933"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/inflamed-brain.png.webp",
+        "bytes": 882664,
+        "compressed_bytes": 882934,
+        "crc32": "bb57dfc3"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/insulin.png.webp",
+        "bytes": 473194,
+        "compressed_bytes": 473339,
+        "crc32": "085fcf58"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/intestines.png.webp",
+        "bytes": 454856,
+        "compressed_bytes": 454996,
+        "crc32": "5e53e2b9"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/joint-section.png.webp",
+        "bytes": 327974,
+        "compressed_bytes": 328056,
+        "crc32": "2d8333a2"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/junk-meal.png.webp",
+        "bytes": 493900,
+        "compressed_bytes": 493879,
+        "crc32": "ef6810dc"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/just-ate.png.webp",
+        "bytes": 368142,
+        "compressed_bytes": 368212,
+        "crc32": "9191d7bd"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/knee-person.png.webp",
+        "bytes": 682920,
+        "compressed_bytes": 683130,
+        "crc32": "9a74da96"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/logic-thinker.png.webp",
+        "bytes": 314100,
+        "compressed_bytes": 314200,
+        "crc32": "5febc5b3"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/meal-plate-approved.png.webp",
+        "bytes": 355240,
+        "compressed_bytes": 355326,
+        "crc32": "908e4efb"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/mitochondrion.png.webp",
+        "bytes": 837514,
+        "compressed_bytes": 837665,
+        "crc32": "57d7ab64"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/nervous-system.png.webp",
+        "bytes": 1001010,
+        "compressed_bytes": 1001280,
+        "crc32": "6a2581cd"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/neural-tissue.png.webp",
+        "bytes": 1093582,
+        "compressed_bytes": 1093917,
+        "crc32": "430014a1"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/padlock.png.webp",
+        "bytes": 306696,
+        "compressed_bytes": 306205,
+        "crc32": "0807fe06"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/panic-avatar.png.webp",
+        "bytes": 692614,
+        "compressed_bytes": 692829,
+        "crc32": "bbc00279"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/relieved-person.png.webp",
+        "bytes": 679076,
+        "compressed_bytes": 679286,
+        "crc32": "ac50d4a4"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sarcastic-presenter.png.webp",
+        "bytes": 686538,
+        "compressed_bytes": 686648,
+        "crc32": "32fc0dc2"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/satisfied-person.png.webp",
+        "bytes": 678168,
+        "compressed_bytes": 678378,
+        "crc32": "fa097ab0"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/skin-glow.png.webp",
+        "bytes": 361940,
+        "compressed_bytes": 361997,
+        "crc32": "44de4c99"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/skin-section.png.webp",
+        "bytes": 958228,
+        "compressed_bytes": 958523,
+        "crc32": "15ed4df4"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sloth.png.webp",
+        "bytes": 276308,
+        "compressed_bytes": 276238,
+        "crc32": "77154882"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/smug-finale.png.webp",
+        "bytes": 687046,
+        "compressed_bytes": 687256,
+        "crc32": "8d41eb89"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/standing-person.png.webp",
+        "bytes": 660088,
+        "compressed_bytes": 660293,
+        "crc32": "1b2643f6"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/starving-person.png.webp",
+        "bytes": 366026,
+        "compressed_bytes": 366141,
+        "crc32": "19f64cbe"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/stiff-collagen.png.webp",
+        "bytes": 606796,
+        "compressed_bytes": 606933,
+        "crc32": "2221ef7b"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/stopwatch.png.webp",
+        "bytes": 432686,
+        "compressed_bytes": 432785,
+        "crc32": "aee2bc0b"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/storage-2021.png.webp",
+        "bytes": 491958,
+        "compressed_bytes": 491975,
+        "crc32": "ee1c625a"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/stress-body.png.webp",
+        "bytes": 750304,
+        "compressed_bytes": 750497,
+        "crc32": "2efbd1dd"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/stressed-head.png.webp",
+        "bytes": 453758,
+        "compressed_bytes": 453696,
+        "crc32": "0cff7e01"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sugar-bowl.png.webp",
+        "bytes": 436910,
+        "compressed_bytes": 436977,
+        "crc32": "88be73b7"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sugar-ghoul.png.webp",
+        "bytes": 433472,
+        "compressed_bytes": 433560,
+        "crc32": "d13279fd"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sugar-high.png.webp",
+        "bytes": 721044,
+        "compressed_bytes": 721254,
+        "crc32": "6e655602"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sugar-refusal-v2.png.webp",
+        "bytes": 324560,
+        "compressed_bytes": 324660,
+        "crc32": "6119efa0"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/sugar-spoon.png.webp",
+        "bytes": 608726,
+        "compressed_bytes": 608716,
+        "crc32": "af2a45c1"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/timer-20.png.webp",
+        "bytes": 372358,
+        "compressed_bytes": 372408,
+        "crc32": "31cc460b"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/timer-40.png.webp",
+        "bytes": 381002,
+        "compressed_bytes": 381029,
+        "crc32": "b5d30f72"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/torture-drama.png.webp",
+        "bytes": 311958,
+        "compressed_bytes": 312027,
+        "crc32": "70a49cbc"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/waist-tape.png.webp",
+        "bytes": 705284,
+        "compressed_bytes": 705473,
+        "crc32": "301df37d"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/weight-person.png.webp",
+        "bytes": 693924,
+        "compressed_bytes": 694139,
+        "crc32": "d7ff577e"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/assets/graphics/weight-scale.png.webp",
+        "bytes": 414806,
+        "compressed_bytes": 414427,
+        "crc32": "c0bc6fee"
+      },
+      {
+        "path": "Sugar-Two-Weeks/lossless-images/references/red-zone-canvas.png.webp",
+        "bytes": 310278,
+        "compressed_bytes": 309927,
+        "crc32": "048ec2a9"
+      },
+      {
+        "path": "Sugar-Two-Weeks/LOSSLESS-COMPRESSION.json",
+        "bytes": 42789,
+        "compressed_bytes": 12115,
+        "crc32": "066428fb"
+      },
+      {
+        "path": "Sugar-Two-Weeks/restore_assets.py",
+        "bytes": 3370,
+        "compressed_bytes": 1291,
+        "crc32": "994f861c"
       }
     ],
     "crc_verified": true
@@ -4295,38 +4307,38 @@
       {
         "path": "Iron-Oxygen-Real-Energy/captions.json",
         "bytes": 5864,
-        "compressed_bytes": 1630,
+        "compressed_bytes": 1625,
         "crc32": "c5848c37"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/words.json",
         "bytes": 18693,
-        "compressed_bytes": 3114,
+        "compressed_bytes": 3038,
         "crc32": "30ed8e64"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/asset-sources.json",
         "bytes": 33312,
-        "compressed_bytes": 5345,
+        "compressed_bytes": 5301,
         "crc32": "6cd4930f"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/index.html",
         "bytes": 94800,
-        "compressed_bytes": 21885,
+        "compressed_bytes": 21634,
         "crc32": "c1c889ce"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/storyboard.md",
         "bytes": 3129,
-        "compressed_bytes": 1095,
+        "compressed_bytes": 1096,
         "crc32": "119eeb75"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/README.md",
-        "bytes": 3406,
-        "compressed_bytes": 1769,
-        "crc32": "94aff128"
+        "bytes": 3911,
+        "compressed_bytes": 2010,
+        "crc32": "f1f1f921"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/review.mjs",
@@ -4361,25 +4373,25 @@
       {
         "path": "Iron-Oxygen-Real-Energy/mix_audio.py",
         "bytes": 6331,
-        "compressed_bytes": 2763,
+        "compressed_bytes": 2761,
         "crc32": "20862b8a"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/package-lock.json",
         "bytes": 72264,
-        "compressed_bytes": 16021,
+        "compressed_bytes": 15850,
         "crc32": "2fe6e48a"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/storyboard.json",
         "bytes": 24958,
-        "compressed_bytes": 3493,
+        "compressed_bytes": 3328,
         "crc32": "af09399b"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/remake.py",
         "bytes": 8862,
-        "compressed_bytes": 3639,
+        "compressed_bytes": 3637,
         "crc32": "0512302f"
       },
       {
@@ -4391,19 +4403,19 @@
       {
         "path": "Iron-Oxygen-Real-Energy/sound-cues.json",
         "bytes": 17223,
-        "compressed_bytes": 2389,
+        "compressed_bytes": 2337,
         "crc32": "e9803edb"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/asset-inventory.json",
         "bytes": 13472,
-        "compressed_bytes": 4151,
+        "compressed_bytes": 4111,
         "crc32": "2f0cf7d7"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/source-words.json",
         "bytes": 18755,
-        "compressed_bytes": 3125,
+        "compressed_bytes": 3049,
         "crc32": "804c50d4"
       },
       {
@@ -4415,19 +4427,19 @@
       {
         "path": "Iron-Oxygen-Real-Energy/build.py",
         "bytes": 11384,
-        "compressed_bytes": 4783,
+        "compressed_bytes": 4780,
         "crc32": "40b79843"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/audit_finishing.mjs",
         "bytes": 1782,
-        "compressed_bytes": 908,
+        "compressed_bytes": 907,
         "crc32": "18ef478f"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/asset-plan.json",
         "bytes": 29338,
-        "compressed_bytes": 6571,
+        "compressed_bytes": 6547,
         "crc32": "99e25da5"
       },
       {
@@ -4451,7 +4463,7 @@
       {
         "path": "Iron-Oxygen-Real-Energy/renders/Iron-Oxygen-Real-Energy.mp4",
         "bytes": 27252680,
-        "compressed_bytes": 27069591,
+        "compressed_bytes": 27066722,
         "crc32": "fa8e6a89"
       },
       {
@@ -4475,7 +4487,7 @@
       {
         "path": "Iron-Oxygen-Real-Energy/production/hyperframes-check.json",
         "bytes": 62690,
-        "compressed_bytes": 2588,
+        "compressed_bytes": 2604,
         "crc32": "a50985ab"
       },
       {
@@ -4493,7 +4505,7 @@
       {
         "path": "Iron-Oxygen-Real-Energy/production/final-schedule.json",
         "bytes": 38914,
-        "compressed_bytes": 6505,
+        "compressed_bytes": 6236,
         "crc32": "3464f0c8"
       },
       {
@@ -4541,13 +4553,13 @@
       {
         "path": "Iron-Oxygen-Real-Energy/references/07-IMG-20261023-WA0023.jpg",
         "bytes": 49364,
-        "compressed_bytes": 36853,
+        "compressed_bytes": 36746,
         "crc32": "89d1c94d"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/01-IMG-20261023-WA0029.jpg",
         "bytes": 45404,
-        "compressed_bytes": 32883,
+        "compressed_bytes": 32791,
         "crc32": "68f7b824"
       },
       {
@@ -4559,13 +4571,13 @@
       {
         "path": "Iron-Oxygen-Real-Energy/references/Stickman Animations Workflow.md",
         "bytes": 74952,
-        "compressed_bytes": 27751,
+        "compressed_bytes": 27691,
         "crc32": "8f4fe2f2"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/05-IMG-20261023-WA0024.jpg",
         "bytes": 60476,
-        "compressed_bytes": 47481,
+        "compressed_bytes": 47361,
         "crc32": "06e924ad"
       },
       {
@@ -4583,362 +4595,38 @@
       {
         "path": "Iron-Oxygen-Real-Energy/references/Animation-Sheet.md",
         "bytes": 5964,
-        "compressed_bytes": 2841,
+        "compressed_bytes": 2840,
         "crc32": "77b6013d"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/references/red-zone-canvas.png",
-        "bytes": 537660,
-        "compressed_bytes": 433184,
-        "crc32": "1f328343"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/04-IMG-20261023-WA0026.jpg",
         "bytes": 56836,
-        "compressed_bytes": 40191,
+        "compressed_bytes": 40139,
         "crc32": "fb34f00c"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/03-IMG-20261023-WA0027.jpg",
         "bytes": 57169,
-        "compressed_bytes": 45136,
+        "compressed_bytes": 45018,
         "crc32": "24473066"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/06-IMG-20261023-WA0022.jpg",
         "bytes": 56490,
-        "compressed_bytes": 40336,
+        "compressed_bytes": 40168,
         "crc32": "6fb6e0da"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/02-IMG-20261023-WA0028.jpg",
         "bytes": 54322,
-        "compressed_bytes": 38631,
+        "compressed_bytes": 38495,
         "crc32": "db67bac8"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/workflow.md",
         "bytes": 74952,
-        "compressed_bytes": 27751,
+        "compressed_bytes": 27691,
         "crc32": "8f4fe2f2"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/empty-stomach.png",
-        "bytes": 701992,
-        "compressed_bytes": 595842,
-        "crc32": "f3d72ccc"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/hemoglobin.png",
-        "bytes": 1070590,
-        "compressed_bytes": 935383,
-        "crc32": "dd68c11f"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/lungs.png",
-        "bytes": 783881,
-        "compressed_bytes": 663984,
-        "crc32": "08f14405"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/oxygen.png",
-        "bytes": 488668,
-        "compressed_bytes": 376960,
-        "crc32": "42ab30fe"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/magnesium.png",
-        "bytes": 431499,
-        "compressed_bytes": 367323,
-        "crc32": "bfdfad8e"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/instructor-diagonal.png",
-        "bytes": 368290,
-        "compressed_bytes": 293102,
-        "crc32": "66074811"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/06-Blend-Details.png",
-        "bytes": 1269030,
-        "compressed_bytes": 1129261,
-        "crc32": "736ed504"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/vitamin-b12.png",
-        "bytes": 749384,
-        "compressed_bytes": 648104,
-        "crc32": "e7d63a40"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/battery-empty-shell.png",
-        "bytes": 830793,
-        "compressed_bytes": 818333,
-        "crc32": "7e289ee3"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/phone-search.png",
-        "bytes": 936791,
-        "compressed_bytes": 923507,
-        "crc32": "a2035966"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/begging-body.png",
-        "bytes": 603423,
-        "compressed_bytes": 510805,
-        "crc32": "4864f039"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/caffeine.png",
-        "bytes": 1178880,
-        "compressed_bytes": 1166538,
-        "crc32": "ba2917eb"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/nutrient-gap.png",
-        "bytes": 1219873,
-        "compressed_bytes": 1078498,
-        "crc32": "127a12ef"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/balanced-meal.png",
-        "bytes": 1453323,
-        "compressed_bytes": 1325025,
-        "crc32": "cf811ecc"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/tired-desk.png",
-        "bytes": 644707,
-        "compressed_bytes": 524565,
-        "crc32": "2d1061e6"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/atp.png",
-        "bytes": 1230242,
-        "compressed_bytes": 1217918,
-        "crc32": "648b000b"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/01-Nutrition-Overview.png",
-        "bytes": 1168764,
-        "compressed_bytes": 1028053,
-        "crc32": "070f0521"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/adrenal-glands.png",
-        "bytes": 820223,
-        "compressed_bytes": 664860,
-        "crc32": "71394592"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/03-Nutrition-Patterns.png",
-        "bytes": 1121859,
-        "compressed_bytes": 959320,
-        "crc32": "37d5e2fe"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/junk-meal.png",
-        "bytes": 863127,
-        "compressed_bytes": 699976,
-        "crc32": "e86c74a3"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/brain.png",
-        "bytes": 905370,
-        "compressed_bytes": 777416,
-        "crc32": "4470e6c0"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/cortisol.png",
-        "bytes": 1197948,
-        "compressed_bytes": 1185613,
-        "crc32": "0e9ab4b0"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/cell.png",
-        "bytes": 839686,
-        "compressed_bytes": 749123,
-        "crc32": "64c5d46c"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/functional-desk-face-fixed.png",
-        "bytes": 703884,
-        "compressed_bytes": 588609,
-        "crc32": "3ba155f1"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/calendar.png",
-        "bytes": 904977,
-        "compressed_bytes": 785748,
-        "crc32": "bc25d360"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/instructor-up.png",
-        "bytes": 392757,
-        "compressed_bytes": 315815,
-        "crc32": "3574c39b"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/smirking-no-full-body.png",
-        "bytes": 1085944,
-        "compressed_bytes": 1073580,
-        "crc32": "efa7a100"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/poor-red-cell.png",
-        "bytes": 1055857,
-        "compressed_bytes": 1042612,
-        "crc32": "47b06c9b"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/zombie.png",
-        "bytes": 1147260,
-        "compressed_bytes": 1134904,
-        "crc32": "ab024ffc"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/two-hour-timer.png",
-        "bytes": 743167,
-        "compressed_bytes": 608754,
-        "crc32": "60c4f508"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/energetic.png",
-        "bytes": 1096729,
-        "compressed_bytes": 1084382,
-        "crc32": "c0e797b1"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/grave.png",
-        "bytes": 982503,
-        "compressed_bytes": 970112,
-        "crc32": "0949fa37"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/iced-coffee.png",
-        "bytes": 1159741,
-        "compressed_bytes": 1147395,
-        "crc32": "62bbcbde"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/adrenaline.png",
-        "bytes": 1222410,
-        "compressed_bytes": 1210088,
-        "crc32": "e2344d22"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/body-relief.png",
-        "bytes": 1119986,
-        "compressed_bytes": 1107628,
-        "crc32": "1dbe701e"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/receptor.png",
-        "bytes": 781814,
-        "compressed_bytes": 653080,
-        "crc32": "f62ba62a"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/useless.png",
-        "bytes": 865743,
-        "compressed_bytes": 853303,
-        "crc32": "2cafbe8c"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/nervous-system.png",
-        "bytes": 1507431,
-        "compressed_bytes": 1494323,
-        "crc32": "ac84c5fa"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/stress-body.png",
-        "bytes": 1135869,
-        "compressed_bytes": 1122644,
-        "crc32": "a2a207e8"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/intestinal-villus.png",
-        "bytes": 1485792,
-        "compressed_bytes": 1472679,
-        "crc32": "22207553"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/iron-fe.png",
-        "bytes": 1371692,
-        "compressed_bytes": 1178051,
-        "crc32": "6654f070"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/oxygen-starved-cell.png",
-        "bytes": 1017532,
-        "compressed_bytes": 851820,
-        "crc32": "c14b9538"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/not-lazy.png",
-        "bytes": 798945,
-        "compressed_bytes": 669394,
-        "crc32": "4f4b07c6"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/muscle.png",
-        "bytes": 958012,
-        "compressed_bytes": 858714,
-        "crc32": "4a1bcbd1"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/exhausted.png",
-        "bytes": 1161699,
-        "compressed_bytes": 1148486,
-        "crc32": "512b187b"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/energized-cell.png",
-        "bytes": 1293099,
-        "compressed_bytes": 1161794,
-        "crc32": "c836cb1b"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/weak.png",
-        "bytes": 448709,
-        "compressed_bytes": 363434,
-        "crc32": "6e21e687"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/instructor-straight.png",
-        "bytes": 362040,
-        "compressed_bytes": 290368,
-        "crc32": "af750b02"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/04-Meal-Planner.png",
-        "bytes": 1344950,
-        "compressed_bytes": 1209734,
-        "crc32": "fa42ac11"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/meal-acting.png",
-        "bytes": 609550,
-        "compressed_bytes": 502169,
-        "crc32": "c79cb2b6"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/adenosine-exact.png",
-        "bytes": 53597,
-        "compressed_bytes": 50340,
-        "crc32": "3135a7af"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/coffee-drinker.png",
-        "bytes": 630205,
-        "compressed_bytes": 491727,
-        "crc32": "88db85bd"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/undersupplied-body.png",
-        "bytes": 1141205,
-        "compressed_bytes": 1127982,
-        "crc32": "85b4ee92"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/graphics/remea-actual-app-icon.png",
@@ -4947,376 +4635,712 @@
         "crc32": "4195ab6b"
       },
       {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/sugar-spoon.png",
-        "bytes": 924351,
-        "compressed_bytes": 911075,
-        "crc32": "a9d277d2"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/half-dead.png",
-        "bytes": 1043080,
-        "compressed_bytes": 1029833,
-        "crc32": "09c475b4"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/mitochondrion.png",
-        "bytes": 1266061,
-        "compressed_bytes": 1253751,
-        "crc32": "9b2bb2a6"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/red-cell.png",
-        "bytes": 1122177,
-        "compressed_bytes": 968736,
-        "crc32": "9602f9e3"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/phone-scan.png",
-        "bytes": 1195125,
-        "compressed_bytes": 1181930,
-        "crc32": "e6c26276"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/blame.png",
-        "bytes": 479826,
-        "compressed_bytes": 382757,
-        "crc32": "403ccd2e"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/05-Juice-Options.png",
-        "bytes": 1160357,
-        "compressed_bytes": 1019203,
-        "crc32": "b0ab1825"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/brain-fog.png",
-        "bytes": 1152916,
-        "compressed_bytes": 1140562,
-        "crc32": "e366bcc5"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/smug-solution.png",
-        "bytes": 1043986,
-        "compressed_bytes": 1031607,
-        "crc32": "337aa9e3"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/clear-thinking.png",
-        "bytes": 619734,
-        "compressed_bytes": 520082,
-        "crc32": "418baa94"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/02-Nutrient-Assessment.png",
-        "bytes": 1177018,
-        "compressed_bytes": 1013941,
-        "crc32": "ce8ec0fc"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/fake-alive.png",
-        "bytes": 1091426,
-        "compressed_bytes": 1079054,
-        "crc32": "0287aa67"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/graphics/neglect.png",
-        "bytes": 630870,
-        "compressed_bytes": 514662,
-        "crc32": "85a1a19d"
-      },
-      {
         "path": "Iron-Oxygen-Real-Energy/assets/vendor/gsap.min.js",
         "bytes": 72927,
-        "compressed_bytes": 28326,
+        "compressed_bytes": 28284,
         "crc32": "87a303b4"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/fonts/caption-bold.ttf",
         "bytes": 147264,
-        "compressed_bytes": 82787,
+        "compressed_bytes": 82693,
         "crc32": "6988ffd9"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/audio/effects.wav",
-        "bytes": 27302444,
-        "compressed_bytes": 8863311,
-        "crc32": "71abe0a2"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/audio/narration.wav",
-        "bytes": 9057778,
-        "compressed_bytes": 7217396,
-        "crc32": "b218bcb9"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/assets/audio/mix.wav",
-        "bytes": 27302502,
-        "compressed_bytes": 18070789,
-        "crc32": "9aceab6a"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/audio/source-narration.mp3",
         "bytes": 1586791,
-        "compressed_bytes": 1571732,
+        "compressed_bytes": 1571730,
         "crc32": "42a593f8"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C20_Dry_Crack_Snap_01.wav",
         "bytes": 172326,
-        "compressed_bytes": 131267,
+        "compressed_bytes": 131206,
         "crc32": "316ed0ff"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/Manifest.json",
         "bytes": 18182,
-        "compressed_bytes": 3919,
+        "compressed_bytes": 3830,
         "crc32": "824226aa"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B18_Rounded_Plop_04.wav",
         "bytes": 59430,
-        "compressed_bytes": 32195,
+        "compressed_bytes": 32109,
         "crc32": "8b95b43b"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
         "bytes": 87078,
-        "compressed_bytes": 58776,
+        "compressed_bytes": 58743,
         "crc32": "f4acc606"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B08_Soft_Bubble_Plop_02.wav",
         "bytes": 68934,
-        "compressed_bytes": 22632,
+        "compressed_bytes": 22522,
         "crc32": "2754a6ba"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C08_Bubble_Plop_05.wav",
         "bytes": 66918,
-        "compressed_bytes": 33685,
+        "compressed_bytes": 33606,
         "crc32": "7f7b4ba0"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C18_Record_Scratch_Rewind_01.wav",
         "bytes": 385158,
-        "compressed_bytes": 208643,
+        "compressed_bytes": 208582,
         "crc32": "dce9e752"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B15_Rounded_Plop_01.wav",
         "bytes": 98598,
-        "compressed_bytes": 33887,
+        "compressed_bytes": 33754,
         "crc32": "c958cd97"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B10_Camera_Shutter_Short_02.wav",
         "bytes": 77574,
-        "compressed_bytes": 27405,
+        "compressed_bytes": 27339,
         "crc32": "78ea4b89"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
         "bytes": 472710,
-        "compressed_bytes": 390623,
+        "compressed_bytes": 390539,
         "crc32": "f7ff61c0"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C15_Digital_Glitch_Buzz_01.wav",
         "bytes": 221574,
-        "compressed_bytes": 67269,
+        "compressed_bytes": 66759,
         "crc32": "dd39dadb"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
         "bytes": 320934,
-        "compressed_bytes": 280638,
+        "compressed_bytes": 280531,
         "crc32": "76a3fd20"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C19_Cartoon_Pitch_Rise_01.wav",
         "bytes": 146118,
-        "compressed_bytes": 114127,
+        "compressed_bytes": 114069,
         "crc32": "3935bcbd"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/A05b_Short_Swipe_Tail_01.wav",
         "bytes": 248934,
-        "compressed_bytes": 191579,
+        "compressed_bytes": 191570,
         "crc32": "cae6a4b2"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C21_Heavy_Whack_Impact_01.wav",
         "bytes": 468678,
-        "compressed_bytes": 264881,
+        "compressed_bytes": 264524,
         "crc32": "7ed8b77f"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C14_Success_Notification_Blip_01.wav",
         "bytes": 267654,
-        "compressed_bytes": 135711,
+        "compressed_bytes": 135632,
         "crc32": "1ecde595"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C01_Gear_Ratchet_Crank_01.wav",
         "bytes": 699654,
-        "compressed_bytes": 557543,
+        "compressed_bytes": 557504,
         "crc32": "f128c0b9"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B02_Dry_Shutter_Click_01.wav",
         "bytes": 89958,
-        "compressed_bytes": 59912,
+        "compressed_bytes": 59887,
         "crc32": "c28297c8"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
         "bytes": 719814,
-        "compressed_bytes": 521518,
+        "compressed_bytes": 521465,
         "crc32": "8abc4463"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
         "bytes": 219846,
-        "compressed_bytes": 100592,
+        "compressed_bytes": 100442,
         "crc32": "7950b22e"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B27_Dry_Double_Tick_01.wav",
         "bytes": 87942,
-        "compressed_bytes": 53382,
+        "compressed_bytes": 53277,
         "crc32": "5566d37d"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
         "bytes": 335046,
-        "compressed_bytes": 266668,
+        "compressed_bytes": 266706,
         "crc32": "4bbcc77c"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B17_Bouncy_Plop_03.wav",
         "bytes": 62022,
-        "compressed_bytes": 33259,
+        "compressed_bytes": 33158,
         "crc32": "0de92c86"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
         "bytes": 155622,
-        "compressed_bytes": 109220,
+        "compressed_bytes": 109083,
         "crc32": "c2ad0fc9"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/C09_Liquid_Boing_Plop_01.wav",
         "bytes": 367590,
-        "compressed_bytes": 311849,
+        "compressed_bytes": 311783,
         "crc32": "6f1b003d"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B16_Rounded_Plop_02.wav",
         "bytes": 81318,
-        "compressed_bytes": 44751,
+        "compressed_bytes": 44675,
         "crc32": "d360de47"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B03_Low_Tapered_Sweep_01.wav",
         "bytes": 917382,
-        "compressed_bytes": 415741,
+        "compressed_bytes": 415682,
         "crc32": "37f08383"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
         "bytes": 459996,
-        "compressed_bytes": 421936,
+        "compressed_bytes": 421874,
         "crc32": "08a2750f"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B09_Deep_Passing_Whoosh_02.wav",
         "bytes": 588198,
-        "compressed_bytes": 522191,
+        "compressed_bytes": 522092,
         "crc32": "afc12300"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B06_Soft_Air_Brush_01.wav",
         "bytes": 143814,
-        "compressed_bytes": 117961,
+        "compressed_bytes": 117900,
         "crc32": "7651c098"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
         "bytes": 123942,
-        "compressed_bytes": 41378,
+        "compressed_bytes": 41341,
         "crc32": "db582e46"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/A11_Soft_Bubble_Plop_01.wav",
         "bytes": 82182,
-        "compressed_bytes": 27096,
+        "compressed_bytes": 26986,
         "crc32": "970393de"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/assets/sfx/B31_Swiping_Whoosh_01.wav",
         "bytes": 260742,
-        "compressed_bytes": 210993,
+        "compressed_bytes": 210877,
         "crc32": "0eceb6ec"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/references/instructor/03-straight-head-tilt.png",
-        "bytes": 362040,
-        "compressed_bytes": 290368,
-        "crc32": "af750b02"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/references/instructor/01-diagonal.png",
-        "bytes": 368290,
-        "compressed_bytes": 293102,
-        "crc32": "66074811"
-      },
-      {
-        "path": "Iron-Oxygen-Real-Energy/references/instructor/02-upward.png",
-        "bytes": 392757,
-        "compressed_bytes": 315815,
-        "crc32": "3574c39b"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/81-4.jpg",
         "bytes": 159882,
-        "compressed_bytes": 136540,
+        "compressed_bytes": 136401,
         "crc32": "e9195d56"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/55-8.jpg",
         "bytes": 128499,
-        "compressed_bytes": 104915,
+        "compressed_bytes": 104789,
         "crc32": "482fd39d"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/72-6.jpg",
         "bytes": 135144,
-        "compressed_bytes": 113283,
+        "compressed_bytes": 113207,
         "crc32": "fbd441f2"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/20-4.jpg",
         "bytes": 114522,
-        "compressed_bytes": 91194,
+        "compressed_bytes": 91078,
         "crc32": "7f53c5b2"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/53-5.jpg",
         "bytes": 138080,
-        "compressed_bytes": 115008,
+        "compressed_bytes": 114870,
         "crc32": "d1d3eb54"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/22-3.jpg",
         "bytes": 127704,
-        "compressed_bytes": 104552,
+        "compressed_bytes": 104454,
         "crc32": "3247941f"
       },
       {
         "path": "Iron-Oxygen-Real-Energy/references/instructor/scene-examples/116-9.jpg",
         "bytes": 145790,
-        "compressed_bytes": 122662,
+        "compressed_bytes": 122546,
         "crc32": "00ee4d7f"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-audio/effects.flac",
+        "bytes": 4466110,
+        "compressed_bytes": 4403136,
+        "crc32": "bd7accf3"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-audio/mix.flac",
+        "bytes": 10104295,
+        "compressed_bytes": 10079193,
+        "crc32": "a12e1d03"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-audio/narration.flac",
+        "bytes": 3059910,
+        "compressed_bytes": 3037930,
+        "crc32": "82acb684"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/references/red-zone-canvas.png.webp",
+        "bytes": 310278,
+        "compressed_bytes": 309927,
+        "crc32": "048ec2a9"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/empty-stomach.png.webp",
+        "bytes": 428550,
+        "compressed_bytes": 428685,
+        "crc32": "b280ad74"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/hemoglobin.png.webp",
+        "bytes": 693228,
+        "compressed_bytes": 693408,
+        "crc32": "660f6e77"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/lungs.png.webp",
+        "bytes": 477936,
+        "compressed_bytes": 478024,
+        "crc32": "c273411e"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/oxygen.png.webp",
+        "bytes": 266066,
+        "compressed_bytes": 265840,
+        "crc32": "16c1f8fb"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/magnesium.png.webp",
+        "bytes": 260728,
+        "compressed_bytes": 260808,
+        "crc32": "adf1ffef"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/instructor-diagonal.png.webp",
+        "bytes": 204774,
+        "compressed_bytes": 204834,
+        "crc32": "6e3ac20e"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/06-Blend-Details.png.webp",
+        "bytes": 750438,
+        "compressed_bytes": 750368,
+        "crc32": "45403b41"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/vitamin-b12.png.webp",
+        "bytes": 475610,
+        "compressed_bytes": 475755,
+        "crc32": "389a3b4a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/battery-empty-shell.png.webp",
+        "bytes": 543368,
+        "compressed_bytes": 543040,
+        "crc32": "219f4c13"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/phone-search.png.webp",
+        "bytes": 621842,
+        "compressed_bytes": 621691,
+        "crc32": "b63a4f5a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/begging-body.png.webp",
+        "bytes": 366026,
+        "compressed_bytes": 366141,
+        "crc32": "19f64cbe"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/caffeine.png.webp",
+        "bytes": 769098,
+        "compressed_bytes": 769333,
+        "crc32": "c4dc82e6"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/nutrient-gap.png.webp",
+        "bytes": 795626,
+        "compressed_bytes": 795837,
+        "crc32": "12b84f9d"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/balanced-meal.png.webp",
+        "bytes": 924786,
+        "compressed_bytes": 925071,
+        "crc32": "28d93f26"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/tired-desk.png.webp",
+        "bytes": 373904,
+        "compressed_bytes": 373929,
+        "crc32": "77939fbb"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/atp.png.webp",
+        "bytes": 823830,
+        "compressed_bytes": 824085,
+        "crc32": "c33279d6"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/01-Nutrition-Overview.png.webp",
+        "bytes": 688356,
+        "compressed_bytes": 688060,
+        "crc32": "f2063e84"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/adrenal-glands.png.webp",
+        "bytes": 463352,
+        "compressed_bytes": 463489,
+        "crc32": "0272b149"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/03-Nutrition-Patterns.png.webp",
+        "bytes": 634746,
+        "compressed_bytes": 634694,
+        "crc32": "27e1208f"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/junk-meal.png.webp",
+        "bytes": 493900,
+        "compressed_bytes": 493879,
+        "crc32": "ef6810dc"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/brain.png.webp",
+        "bytes": 584546,
+        "compressed_bytes": 584709,
+        "crc32": "d4bb73e9"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/cortisol.png.webp",
+        "bytes": 782464,
+        "compressed_bytes": 782694,
+        "crc32": "5361f6d7"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/cell.png.webp",
+        "bytes": 596296,
+        "compressed_bytes": 574501,
+        "crc32": "33d6cea4"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/functional-desk-face-fixed.png.webp",
+        "bytes": 432484,
+        "compressed_bytes": 432613,
+        "crc32": "7d60c81f"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/calendar.png.webp",
+        "bytes": 519162,
+        "compressed_bytes": 519289,
+        "crc32": "18b23efb"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/instructor-up.png.webp",
+        "bytes": 224964,
+        "compressed_bytes": 225034,
+        "crc32": "9e918482"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/smirking-no-full-body.png.webp",
+        "bytes": 710726,
+        "compressed_bytes": 710905,
+        "crc32": "863f996f"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/poor-red-cell.png.webp",
+        "bytes": 701524,
+        "compressed_bytes": 701438,
+        "crc32": "31afe4a8"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/zombie.png.webp",
+        "bytes": 751282,
+        "compressed_bytes": 751512,
+        "crc32": "187238de"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/two-hour-timer.png.webp",
+        "bytes": 428990,
+        "compressed_bytes": 429125,
+        "crc32": "5b70911b"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/energetic.png.webp",
+        "bytes": 714098,
+        "compressed_bytes": 714314,
+        "crc32": "3e61ab37"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/grave.png.webp",
+        "bytes": 634344,
+        "compressed_bytes": 634491,
+        "crc32": "135848af"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/iced-coffee.png.webp",
+        "bytes": 776734,
+        "compressed_bytes": 776909,
+        "crc32": "daa2d37b"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/adrenaline.png.webp",
+        "bytes": 797750,
+        "compressed_bytes": 797995,
+        "crc32": "7138142e"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/body-relief.png.webp",
+        "bytes": 729160,
+        "compressed_bytes": 729377,
+        "crc32": "66170d0f"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/receptor.png.webp",
+        "bytes": 492718,
+        "compressed_bytes": 492741,
+        "crc32": "42259053"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/useless.png.webp",
+        "bytes": 561062,
+        "compressed_bytes": 561237,
+        "crc32": "da3ad056"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/nervous-system.png.webp",
+        "bytes": 1001010,
+        "compressed_bytes": 1001280,
+        "crc32": "6a2581cd"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/stress-body.png.webp",
+        "bytes": 750304,
+        "compressed_bytes": 750497,
+        "crc32": "2efbd1dd"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/intestinal-villus.png.webp",
+        "bytes": 1041774,
+        "compressed_bytes": 1041994,
+        "crc32": "1bdd1766"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/iron-fe.png.webp",
+        "bytes": 705280,
+        "compressed_bytes": 705500,
+        "crc32": "65a34fad"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/oxygen-starved-cell.png.webp",
+        "bytes": 597202,
+        "compressed_bytes": 597362,
+        "crc32": "0b3bc19a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/not-lazy.png.webp",
+        "bytes": 487416,
+        "compressed_bytes": 487517,
+        "crc32": "62992be2"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/muscle.png.webp",
+        "bytes": 621730,
+        "compressed_bytes": 621920,
+        "crc32": "1ec53b8a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/exhausted.png.webp",
+        "bytes": 761928,
+        "compressed_bytes": 761940,
+        "crc32": "10d30008"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/energized-cell.png.webp",
+        "bytes": 877254,
+        "compressed_bytes": 877468,
+        "crc32": "300e198c"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/weak.png.webp",
+        "bytes": 256806,
+        "compressed_bytes": 256865,
+        "crc32": "090e207d"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/instructor-straight.png.webp",
+        "bytes": 205130,
+        "compressed_bytes": 205195,
+        "crc32": "9043774a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/04-Meal-Planner.png.webp",
+        "bytes": 786368,
+        "compressed_bytes": 786413,
+        "crc32": "6526e1b6"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/meal-acting.png.webp",
+        "bytes": 355240,
+        "compressed_bytes": 355326,
+        "crc32": "908e4efb"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/adenosine-exact.png.webp",
+        "bytes": 20094,
+        "compressed_bytes": 19934,
+        "crc32": "2cf4e018"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/coffee-drinker.png.webp",
+        "bytes": 338542,
+        "compressed_bytes": 338140,
+        "crc32": "213b4022"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/undersupplied-body.png.webp",
+        "bytes": 753740,
+        "compressed_bytes": 753967,
+        "crc32": "88617add"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/sugar-spoon.png.webp",
+        "bytes": 608726,
+        "compressed_bytes": 608716,
+        "crc32": "af2a45c1"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/half-dead.png.webp",
+        "bytes": 693032,
+        "compressed_bytes": 693017,
+        "crc32": "d94a5c62"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/mitochondrion.png.webp",
+        "bytes": 837514,
+        "compressed_bytes": 837665,
+        "crc32": "57d7ab64"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/red-cell.png.webp",
+        "bytes": 706700,
+        "compressed_bytes": 706876,
+        "crc32": "daab7556"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/phone-scan.png.webp",
+        "bytes": 801002,
+        "compressed_bytes": 801069,
+        "crc32": "c2c05329"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/blame.png.webp",
+        "bytes": 266410,
+        "compressed_bytes": 266493,
+        "crc32": "a516ac59"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/05-Juice-Options.png.webp",
+        "bytes": 685224,
+        "compressed_bytes": 685207,
+        "crc32": "e5beafa0"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/brain-fog.png.webp",
+        "bytes": 763754,
+        "compressed_bytes": 763979,
+        "crc32": "502be8ff"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/smug-solution.png.webp",
+        "bytes": 686538,
+        "compressed_bytes": 686648,
+        "crc32": "32fc0dc2"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/clear-thinking.png.webp",
+        "bytes": 365108,
+        "compressed_bytes": 365195,
+        "crc32": "23fff3e9"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/02-Nutrient-Assessment.png.webp",
+        "bytes": 688016,
+        "compressed_bytes": 688063,
+        "crc32": "69679c5b"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/fake-alive.png.webp",
+        "bytes": 712884,
+        "compressed_bytes": 713104,
+        "crc32": "6f69e297"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/assets/graphics/neglect.png.webp",
+        "bytes": 364212,
+        "compressed_bytes": 364310,
+        "crc32": "d407b830"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/references/instructor/03-straight-head-tilt.png.webp",
+        "bytes": 205130,
+        "compressed_bytes": 205195,
+        "crc32": "9043774a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/references/instructor/01-diagonal.png.webp",
+        "bytes": 204774,
+        "compressed_bytes": 204834,
+        "crc32": "6e3ac20e"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/lossless-images/references/instructor/02-upward.png.webp",
+        "bytes": 224964,
+        "compressed_bytes": 225034,
+        "crc32": "9e918482"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/LOSSLESS-COMPRESSION.json",
+        "bytes": 41167,
+        "compressed_bytes": 11539,
+        "crc32": "63b7750a"
+      },
+      {
+        "path": "Iron-Oxygen-Real-Energy/restore_assets.py",
+        "bytes": 3370,
+        "compressed_bytes": 1291,
+        "crc32": "994f861c"
       }
     ],
     "crc_verified": true

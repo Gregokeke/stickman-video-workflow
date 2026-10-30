@@ -1,6 +1,6 @@
 # Complete setup and study catalog
 
-Read the root README and START-HERE, import every manifest component and fetch the two individual large-project ZIPs. Read all of the current workflow and all guides. Inspect every archive member listed in FILE-INDEX.md / ARCHIVE-CONTENTS.json after extracting into separate writable locations. Preserve the repository's ZIPs and internal source paths.
+Read the root README and START-HERE, import every manifest component and verify all seven ordinary project ZIPs. Read all of the current workflow and all guides. Inspect every archive member listed in FILE-INDEX.md / ARCHIVE-CONTENTS.json after extracting into separate writable locations. Preserve the repository's ZIPs and internal source paths.
 
 ## Current documents and supporting material
 
@@ -26,3 +26,5 @@ Review each complete final video with mixed audio, scrub entrances/exits/transit
 ## Honest completion record
 
 Record the imported revision and verification result, every guide read, every source tree inspected, videos/clips actually watched, effects auditioned and commands actually run. Do not describe a file inventory as audiovisual study. Identify and resolve any unavailable media/tools. Supporting clips and the bouncy study remain separate from the seven numbered references. Only after this review plan the CURRENT supplied script/recording and user brief; do not copy reference narration or apply one animation repeatedly.
+
+References 6 and 7 use standard ZIP files with lossless asset storage. After extraction, install their normal project dependencies (including Pillow and FFmpeg) and run `python restore_assets.py` before source preview/editing. This restores byte-identical WAVs and pixel-identical PNGs at original resolution. Their finished MP4s remain unchanged and immediately playable. There is no release-download or Git LFS setup requirement.

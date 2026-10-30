@@ -9,19 +9,18 @@ The bulky outer workspace ZIP is no longer needed for a current setup. Its compo
 ```bash
 git clone https://github.com/Gregokeke/stickman-video-workflow.git
 cd stickman-video-workflow
-python3 tools/fetch_large_projects.py
 python3 tools/verify_workspace.py
 ```
 
-The two ZIPs larger than GitHub's normal 100 MB file limit are **individual release downloads**, linked from their project folders and [DOWNLOADS.md](DOWNLOADS.md). The setup command downloads just those two whole projects and verifies their checksums. Every other component is stored directly in the repository. No Git LFS or bulky outer ZIP is required. The account's LFS budget prevented the originally planned LFS publication.
+**Every project ZIP is now a normal file in its project folder.** No Git LFS, separate release download, fetch helper or bulky outer ZIP is required. [DOWNLOADS.md](DOWNLOADS.md) links all seven project ZIPs directly.
 
-Browser users can download those two ZIPs separately and place them in their named project folders. A setup is complete only when every current manifest file is present and verified.
+References 6 and 7 use compact lossless asset storage to fit GitHub's file limit. After extracting either project, install its normal dependencies (including Pillow and FFmpeg) and run `python restore_assets.py` before previewing/editing. This restores byte-identical WAV tracks and pixel-identical PNGs at their original resolution. Source script paths then work normally. Their complete finished MP4s are unchanged and play immediately without restoration. See [LOSSLESS-PACKAGING.json](LOSSLESS-PACKAGING.json) for measured sizes and validation.
 
 Read [START-HERE.md](START-HERE.md), the ENTIRE [current workflow](04-Workflow-and-Animation/workflow.md), and [STUDY-CATALOG.md](STUDY-CATALOG.md). Import and analyze **every current component**, including all seven editable source projects and actual video/audio. Listing files or skimming guides is not deep study.
 
 ## Seven finished sample references
 
-Every project has an individual editable ZIP and the matching complete rendered MP4. The two oversized ZIPs are linked as individual downloads from their folders; the others are stored there directly. Each ZIP also contains that same MP4 internally. Preserve relative paths when extracting.
+Every project has an individual editable ZIP and the matching complete rendered MP4. All seven ZIPs are stored directly in their folders as ordinary files. Each ZIP also contains that same MP4 internally. Preserve relative paths when extracting.
 
 | # | Project | Study focus |
 | --- | --- | --- |
@@ -60,7 +59,7 @@ Supporting footage and UI demos are studies, not additional numbered finished-pr
 
 ## Required workspace setup and deep study
 
-1. **Import everything and verify.** Bring every component in the current manifest, including the two individual large-project downloads. Read START-HERE and the complete workflow; historical package metadata explains provenance and does not govern new production.
+1. **Import everything and verify.** Bring every component in the current manifest, including all seven ordinary project ZIPs. Read START-HERE and the complete workflow; historical package metadata explains provenance and does not govern new production.
 2. **Read all current guides completely.** Study animation, original motion, micro explanations, instructor choreography, sound and both bouncy documents. Extract visual references and inspect the actual JPGs, instructor poses, scene examples and red-zone guide. Attach real style images during generation.
 3. **Open all seven editable projects.** Extract into separate writable folders and read every included README/design/production note. Understand the complete storyboards, build/animation/mix/render code, source art, asset provenance, narration, captions, words, timing and sound cues. Inspect the bouncy editable source too. File names and implementations differ; follow each project's own README and lockfile.
 4. **Study actual media with sound.** Review every complete project video, the original motion reference, all three micro-explanation clips, the bouncy compilation and all three source excerpts, the current 22-second demo and the old sample for comparison. Inspect important held frames and transitions by scrubbing. Extract and audition the complete sound pack; WAV/MP3 are two formats of the same 72 effects.
@@ -74,7 +73,7 @@ Record what was actually read, watched, heard, inspected or run. Resolve missing
 
 `04-Workflow-and-Animation/workflow.md` is the only authoritative standalone workflow. The old long-name duplicate is consolidated. The workflow inside the supplied seventh project matched the old top-level version exactly; the current document preserves that entire text and appends dated repository/seventh-reference/bouncy guidance. Historical workflow copies sealed inside unchanged project ZIPs are project records and must not override it. Append future workflow updates while preserving earlier information. Explicit current user instructions take precedence.
 
-All seven editable ZIPs and their required embedded/outside videos, the visual-reference ZIP and complete sound pack are preserved byte-for-byte. The bouncy study is exposed as individual documents, media and source files. Only the redundant standalone workflow alias and unused interrupted-transfer fragment were excluded. Historical package reports are retained under [archive-metadata/v1.0.0](archive-metadata/v1.0.0/).
+The first five editable ZIPs, all seven embedded/outside videos, the visual-reference ZIP and complete sound pack are preserved byte-for-byte. References 6 and 7 are repacked with lossless image/audio storage: their original-resolution pixels, audio samples, source material, timing and complete videos are preserved. Their unoptimized original archives remain in release v1.1.0 as historical backups, not setup requirements. The bouncy study is exposed as individual documents, media and source files. Only the redundant standalone workflow alias and unused interrupted-transfer fragment were excluded. Historical package reports are retained under [archive-metadata/v1.0.0](archive-metadata/v1.0.0/).
 
 ## Integrity and rights
 

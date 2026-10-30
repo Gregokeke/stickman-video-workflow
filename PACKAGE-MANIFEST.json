@@ -2,7 +2,7 @@
   "schema_version": 1,
   "updated": "2026-10-30",
   "reference_projects": 7,
-  "scope": "Complete hydrated payload; excludes this manifest and .git runtime data. Two large project ZIPs are individual release assets.",
+  "scope": "All payload files directly in Git. Excludes this manifest and .git runtime data.",
   "files": [
     {
       "path": ".gitattributes",
@@ -11,8 +11,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 264,
-      "sha256": "1ba8b39fe576547fe066126d9876ca0df3ee8af637082e6cdeee48c0a23f5c38"
+      "bytes": 104,
+      "sha256": "3a3f004be01e11775747842afd0e4019f7bd31088334de3c7ee4f74e703ae3a8"
     },
     {
       "path": "01-Original-Video-Reference/Original-Reference.mp4",
@@ -121,8 +121,8 @@
     },
     {
       "path": "04-Workflow-and-Animation/workflow.md",
-      "bytes": 80731,
-      "sha256": "f60e40e00607f5da0af63617e5d8b5d5233bf7a595ec7388a6ac7c1860fb8182"
+      "bytes": 82797,
+      "sha256": "bba0d93daa23bd7f42d5208f3212f719e27efc16d1a043166ff764af6f2adbc2"
     },
     {
       "path": "05-Visual-References.zip",
@@ -186,15 +186,13 @@
     },
     {
       "path": "10-Project-6-Sugar-Two-Weeks/README.md",
-      "bytes": 784,
-      "sha256": "c221aaf1884b2d909859d0900c20b859a4f36e0a57d7e5d4468797ecc7824abb"
+      "bytes": 886,
+      "sha256": "2bedb6b734913c5aeb65c05b164944a2c8d70b4f57f642e636eaffdb54c9ff98"
     },
     {
       "path": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project.zip",
-      "bytes": 114025650,
-      "sha256": "a18c143f88ce9651d136a70102f022d9bf0aa51f37793276f1bbad2d3721e2d2",
-      "download_url": "https://github.com/Gregokeke/stickman-video-workflow/releases/download/v1.1.0/Sugar-Two-Weeks-Editable-Project.zip",
-      "storage": "github-release"
+      "bytes": 74579383,
+      "sha256": "3384fab52783ddb82e42dab698254f92eb1aba80f3f2426de6258ad0b335ac2f"
     },
     {
       "path": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks.mp4",
@@ -213,10 +211,8 @@
     },
     {
       "path": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy-Final-Project.zip",
-      "bytes": 129247306,
-      "sha256": "610c70f9e14fb8f37570879447459c55eedee473e79e1d655f0bc6d88e218f88",
-      "download_url": "https://github.com/Gregokeke/stickman-video-workflow/releases/download/v1.1.0/Iron-Oxygen-Real-Energy-Final-Project.zip",
-      "storage": "github-release"
+      "bytes": 94197021,
+      "sha256": "7f6fbf308abdaf7992c25dff498204847d35247620773e6d39f5bb591bbd17dc"
     },
     {
       "path": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy.mp4",
@@ -230,8 +226,8 @@
     },
     {
       "path": "12-Project-7-Iron-Oxygen-Real-Energy/README.md",
-      "bytes": 1541,
-      "sha256": "80c68b025e7b4115b11ef7a166b3bb07a5ed17951a9d380bd91bf74d0e6b0de6"
+      "bytes": 1726,
+      "sha256": "68386311d64b9985524dadfafc468720a5586df0d3366778d8634536e0b22c68"
     },
     {
       "path": "13-Bouncy-Animation-Study/Bouncy-Reference-Compilation.mp4",
@@ -345,23 +341,28 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 1947,
-      "sha256": "3f687a2a93697dd636e43d8209be091fd8fdac9c5913a75ae371f61742d5e7d5"
+      "bytes": 2372,
+      "sha256": "39895b42ce15369a68d0a910641d4451cc8cb1899a877d969a1060044c969495"
     },
     {
       "path": "ARCHIVE-CONTENTS.json",
-      "bytes": 154609,
-      "sha256": "e6a85db734c3a1e4ff2ae9f5b4f127c82d66f5ee6473c9cb9d8fc6dd9aed76a2"
+      "bytes": 158177,
+      "sha256": "cf61b277a4fffa725d36130725deefd495518221079ca891a8113ac64de18801"
     },
     {
       "path": "DOWNLOADS.md",
-      "bytes": 1327,
-      "sha256": "8f4592dfd565e22bb676b412b07457802c773bbb508abb46e01c74ee7eca6b9e"
+      "bytes": 1604,
+      "sha256": "ef61edf37347808595e4033f2a63b06bea152c5f0368f32f3cc04ddab177b92f"
     },
     {
       "path": "FILE-INDEX.md",
-      "bytes": 69176,
-      "sha256": "2b2618d036e056a8d388facc96a507cfebfd1ae3235109b05dd9ca5bfe0c400f"
+      "bytes": 72206,
+      "sha256": "99e3143b088acaa9c251d5326206ffcc44680a37f362d08e2c56e3e287e06f6d"
+    },
+    {
+      "path": "LOSSLESS-PACKAGING.json",
+      "bytes": 1392,
+      "sha256": "521fcfaf3fd1d3b04ceb820f651a5adc52a9358e9fd3ef44fc15af8fffc1534e"
     },
     {
       "path": "PROJECT-RENDERS-INDEX.json",
@@ -370,23 +371,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 10323,
-      "sha256": "894139abba22151f757dda7a841b858730379313c7d2631e32dcf5c845439f4c"
+      "bytes": 10662,
+      "sha256": "1d1b7051e79923e65fc1e8c974c94c09d9a3e937fc820779c5b476848f73faa9"
     },
     {
       "path": "REORGANIZATION.json",
-      "bytes": 1080,
-      "sha256": "728ab372a788a97d0b7495a1b7fa5c3ae053fedc01538425c3f3236a55373cd4"
+      "bytes": 1095,
+      "sha256": "6251c25113f3dab8a4243b7ed02f2c02887fe672de54326b9b1b39d7dce79677"
     },
     {
       "path": "START-HERE.md",
-      "bytes": 2928,
-      "sha256": "7d81bb74674cc687b135ee55cf58a4eee90b925f108f85070edc5b876f9de855"
+      "bytes": 3207,
+      "sha256": "8001b57c69eee2ea98abf2bf4e874ae39bd3d82a2941210b32e6f2e277a10670"
     },
     {
       "path": "STUDY-CATALOG.md",
-      "bytes": 3713,
-      "sha256": "82eee2c7509653f51f30ce2e15a1d74da0af633eb0feeff2c0952b4b4bc7ae5c"
+      "bytes": 4141,
+      "sha256": "616d10c064e2c1ac5855028b8373ac71e0f7d79570bde486cfe3a64b441be5e1"
     },
     {
       "path": "archive-metadata/v1.0.0/PACKAGE-COMPRESSION-REPORT.json",
@@ -429,14 +430,9 @@
       "sha256": "2ed134cfb6938ff23bc48d6e19f339d1498240733b41bedcdcfec68c07395a05"
     },
     {
-      "path": "tools/fetch_large_projects.py",
-      "bytes": 1548,
-      "sha256": "8bb5e190ecd78df2db5be560008cd659ef9b7534dfb15cbda6b81c3a7e8f89e7"
-    },
-    {
       "path": "tools/verify_workspace.py",
-      "bytes": 2015,
-      "sha256": "6836eacbeba424842aceb70bf61e2f4325cdd1b3b565959ff8422363006bf1be"
+      "bytes": 1947,
+      "sha256": "f55fb2bc3cc27c3c97868ec6a25dd26e68edd8eba84cfd5c9bb6af184d6371f5"
     }
   ]
 }

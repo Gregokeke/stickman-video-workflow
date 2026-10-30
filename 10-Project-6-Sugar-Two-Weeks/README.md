@@ -1,7 +1,9 @@
 # Reference 6 — Sugar, Two Weeks
 
-- [Download the whole editable project ZIP](https://github.com/Gregokeke/stickman-video-workflow/releases/download/v1.1.0/Sugar-Two-Weeks-Editable-Project.zip)
+- [Editable project ZIP](Sugar-Two-Weeks-Editable-Project.zip)
 - [Matching complete viewing video](Sugar-Two-Weeks.mp4)
 - [Original reference note](READ-ME.md)
 
-This is the final nineteen-fix revision with straight-cane head tilt. The ZIP is preserved unchanged, including its embedded matching MP4. It is an individual release asset because its 114 MB size exceeds GitHub's normal file limit. Run the root `tools/fetch_large_projects.py` setup helper, or download it here as `Sugar-Two-Weeks-Editable-Project.zip` before verification/extraction. Read the current workflow and study catalog; historical snapshots inside this ZIP do not override them.
+The final nineteen-fix revision with straight-cane head tilt is now an ordinary ZIP file in this folder. All source, original-resolution artwork, narration/effects, timing and the complete embedded MP4 remain included. Its video is unchanged.
+
+After extracting, install the normal project dependencies including Pillow and FFmpeg, then run `python restore_assets.py` from the extracted project folder before previewing/editing. Lossless FLAC/WebP storage restores the original WAVs byte-for-byte and PNG pixels exactly. The original source scripts and paths then work normally. Read the bundled LOSSLESS-COMPRESSION.json and README. The finished MP4 plays immediately without restoration.

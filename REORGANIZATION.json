@@ -6,9 +6,9 @@
   "source_workflow_bytes": 74952,
   "workflow_comparison": "Top-level source, compatibility alias and reference 7 snapshot match exactly.",
   "publication_authorization": "User explicitly authorized public publication in this conversation.",
-  "preserved": "All seven project ZIPs, required internal/outside renders, visual-reference ZIP, sound pack and bouncy study file bytes are preserved.",
+  "preserved": "Five original ZIPs remain byte-identical. References 6 and 7 are losslessly repacked with tested exact audio/pixel restoration. All seven complete videos, source information, visual-reference ZIP and sound library remain included.",
   "consolidated": "Duplicate standalone workflow alias consolidated into workflow.md.",
   "excluded": "Unused interrupted-transfer fragment from the original outer ZIP.",
   "historical_metadata": "archive-metadata/v1.0.0/",
-  "large_project_storage": "Two unchanged whole project ZIPs (references 6 and 7) are individual v1.1.0 release assets; all other payload files are directly in Git. No Git LFS or paid storage change required."
+  "large_project_storage": "All seven ZIPs are ordinary Git files after lossless packing; no external download or LFS required."
 }

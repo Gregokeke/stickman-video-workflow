@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-30",
+  "projects": [
+    {
+      "project": "sugar",
+      "filename": "Sugar-Two-Weeks-Editable-Project.zip",
+      "original_bytes": 114025650,
+      "compact_bytes": 74579383,
+      "sha256": "3384fab52783ddb82e42dab698254f92eb1aba80f3f2426de6258ad0b335ac2f",
+      "restored_audio_count": 3,
+      "losslessly_packed_images": 73,
+      "video_unchanged": true,
+      "restoration_verified": true,
+      "fast_restoration_verified": true
+    },
+    {
+      "project": "iron",
+      "filename": "Iron-Oxygen-Real-Energy-Final-Project.zip",
+      "original_bytes": 129247306,
+      "compact_bytes": 94197021,
+      "sha256": "7f6fbf308abdaf7992c25dff498204847d35247620773e6d39f5bb591bbd17dc",
+      "restored_audio_count": 3,
+      "losslessly_packed_images": 70,
+      "video_unchanged": true,
+      "restoration_verified": true,
+      "fast_restoration_verified": true
+    }
+  ],
+  "format": "Standard DEFLATE ZIP; lossless FLAC/WebP assets plus a bundled restore_assets.py command.",
+  "restoration": "WAV files restore byte-for-byte. PNG RGBA pixels and dimensions restore exactly; PNG encoding bytes can differ. Source scripts, narration/timings and complete rendered videos are preserved.",
+  "original_backups": "https://github.com/Gregokeke/stickman-video-workflow/releases/tag/v1.1.0",
+  "storage": "All seven current project ZIPs are ordinary files in Git."
+}
