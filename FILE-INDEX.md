@@ -1,6 +1,6 @@
 # Current file and archive index
 
-All listed project ZIPs are ordinary repository files. This inventory is not proof of audiovisual study; follow STUDY-CATALOG.md and the full workflow.
+All project ZIPs are ordinary repository files. ORIGINAL-CONTENT-AUDIT.json accounts for all original outer-archive entries. This inventory is not proof of audiovisual study; follow STUDY-CATALOG.md and the full workflow.
 
 ## Files
 
@@ -77,17 +77,19 @@ All listed project ZIPs are ordinary repository files. This inventory is not pro
 | [ARCHIVE-CONTENTS.json](ARCHIVE-CONTENTS.json) | 158177 |
 | [DOWNLOADS.md](DOWNLOADS.md) | 1604 |
 | [LOSSLESS-PACKAGING.json](LOSSLESS-PACKAGING.json) | 1392 |
+| [ORIGINAL-CONTENT-AUDIT.json](ORIGINAL-CONTENT-AUDIT.json) | 19204 |
 | [PROJECT-RENDERS-INDEX.json](PROJECT-RENDERS-INDEX.json) | 2990 |
-| [README.md](README.md) | 10662 |
-| [REORGANIZATION.json](REORGANIZATION.json) | 1095 |
+| [README.md](README.md) | 11153 |
+| [REORGANIZATION.json](REORGANIZATION.json) | 1399 |
 | [START-HERE.md](START-HERE.md) | 3207 |
 | [STUDY-CATALOG.md](STUDY-CATALOG.md) | 4141 |
+| [archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin](archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin) | 7077888 |
 | [archive-metadata/v1.0.0/PACKAGE-COMPRESSION-REPORT.json](archive-metadata/v1.0.0/PACKAGE-COMPRESSION-REPORT.json) | 2260 |
 | [archive-metadata/v1.0.0/PACKAGE-MANIFEST.json](archive-metadata/v1.0.0/PACKAGE-MANIFEST.json) | 9074 |
 | [archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-27.json](archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-27.json) | 983 |
 | [archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-28.json](archive-metadata/v1.0.0/PACKAGE-UPDATE-2026-10-28.json) | 574 |
 | [archive-metadata/v1.0.0/PROJECT-RENDERS-INDEX.json](archive-metadata/v1.0.0/PROJECT-RENDERS-INDEX.json) | 1221 |
-| [archive-metadata/v1.0.0/README.md](archive-metadata/v1.0.0/README.md) | 659 |
+| [archive-metadata/v1.0.0/README.md](archive-metadata/v1.0.0/README.md) | 1011 |
 | [archive-metadata/v1.0.0/REFERENCE-VIDEO-COMPRESSION.json](archive-metadata/v1.0.0/REFERENCE-VIDEO-COMPRESSION.json) | 2303 |
 | [archive-metadata/v1.0.0/START-HERE.md](archive-metadata/v1.0.0/START-HERE.md) | 7015 |
 | [tools/verify_workspace.py](tools/verify_workspace.py) | 1947 |

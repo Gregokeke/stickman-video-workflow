@@ -8,7 +8,13 @@
   "publication_authorization": "User explicitly authorized public publication in this conversation.",
   "preserved": "Five original ZIPs remain byte-identical. References 6 and 7 are losslessly repacked with tested exact audio/pixel restoration. All seven complete videos, source information, visual-reference ZIP and sound library remain included.",
   "consolidated": "Duplicate standalone workflow alias consolidated into workflow.md.",
-  "excluded": "Unused interrupted-transfer fragment from the original outer ZIP.",
   "historical_metadata": "archive-metadata/v1.0.0/",
-  "large_project_storage": "All seven ZIPs are ordinary Git files after lossless packing; no external download or LFS required."
+  "large_project_storage": "All seven ZIPs are ordinary Git files after lossless packing; no external download or LFS required.",
+  "historical_transfer_material": {
+    "path": "archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin",
+    "bytes": 7077888,
+    "sha256": "fb9e94df58317cf754e27dadf1478fb5297f421a8414b5beb1d229359a9e9ec5",
+    "purpose": "Preserved byte-for-byte for complete original-entry accounting; not a finished project reference."
+  },
+  "original_content_audit": "ORIGINAL-CONTENT-AUDIT.json"
 }

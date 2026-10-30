@@ -356,13 +356,18 @@
     },
     {
       "path": "FILE-INDEX.md",
-      "bytes": 72206,
-      "sha256": "99e3143b088acaa9c251d5326206ffcc44680a37f362d08e2c56e3e287e06f6d"
+      "bytes": 72471,
+      "sha256": "add71cc38bbc955e6ae1c1dfe2820664463317d397b642ecad22d2237fbf9023"
     },
     {
       "path": "LOSSLESS-PACKAGING.json",
       "bytes": 1392,
       "sha256": "521fcfaf3fd1d3b04ceb820f651a5adc52a9358e9fd3ef44fc15af8fffc1534e"
+    },
+    {
+      "path": "ORIGINAL-CONTENT-AUDIT.json",
+      "bytes": 19204,
+      "sha256": "141abb42355537664b3a306adfa1a0774c110ecf3c9c64494827ced490fb4f4b"
     },
     {
       "path": "PROJECT-RENDERS-INDEX.json",
@@ -371,13 +376,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 10662,
-      "sha256": "1d1b7051e79923e65fc1e8c974c94c09d9a3e937fc820779c5b476848f73faa9"
+      "bytes": 11153,
+      "sha256": "d91c6c2bf6292f92a05c1d5e9dc8b9db2805ca39b5461a67e4228ad9e6eb8e55"
     },
     {
       "path": "REORGANIZATION.json",
-      "bytes": 1095,
-      "sha256": "6251c25113f3dab8a4243b7ed02f2c02887fe672de54326b9b1b39d7dce79677"
+      "bytes": 1399,
+      "sha256": "909fe0fbbdfe731472fa8a18dab03371f3c57868d94fe5f4b6fcfd7fdf4165b3"
     },
     {
       "path": "START-HERE.md",
@@ -388,6 +393,11 @@
       "path": "STUDY-CATALOG.md",
       "bytes": 4141,
       "sha256": "616d10c064e2c1ac5855028b8373ac71e0f7d79570bde486cfe3a64b441be5e1"
+    },
+    {
+      "path": "archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin",
+      "bytes": 7077888,
+      "sha256": "fb9e94df58317cf754e27dadf1478fb5297f421a8414b5beb1d229359a9e9ec5"
     },
     {
       "path": "archive-metadata/v1.0.0/PACKAGE-COMPRESSION-REPORT.json",
@@ -416,8 +426,8 @@
     },
     {
       "path": "archive-metadata/v1.0.0/README.md",
-      "bytes": 659,
-      "sha256": "8b7d38697cac9e9c1d4370940480342d33719433ff7fd5f5b5c97598c1195720"
+      "bytes": 1011,
+      "sha256": "5a410666c6bcd4061f1a84d14e4485523309656ac8578dd150e5d4864801dc83"
     },
     {
       "path": "archive-metadata/v1.0.0/REFERENCE-VIDEO-COMPRESSION.json",
