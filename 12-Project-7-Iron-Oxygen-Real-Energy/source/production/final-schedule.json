@@ -1,0 +1,2543 @@
+[
+  {
+    "id": "hook",
+    "asset": "tired-desk",
+    "start": 0.1,
+    "end": 4.14,
+    "handoff": 3.84,
+    "layout": [
+      470,
+      1110,
+      800,
+      980
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 0.85,
+        "x": 0,
+        "y": -20,
+        "scale": 1.04,
+        "d": 0.5,
+        "rotation": 0
+      },
+      {
+        "t": 1.92,
+        "x": -240,
+        "y": 150,
+        "scale": 0.5,
+        "d": 0.48,
+        "rotation": 0,
+        "ease": "power3.out"
+      }
+    ],
+    "z": 10,
+    "key": "hook",
+    "x": 470,
+    "y": 1110,
+    "w": 800.0,
+    "h": 869.9588477366256,
+    "alpha_bounds": [
+      200,
+      80,
+      1172,
+      1137
+    ]
+  },
+  {
+    "id": "fault",
+    "asset": "blame",
+    "start": 2.08,
+    "end": 4.14,
+    "handoff": 3.84,
+    "layout": [
+      660,
+      1040,
+      410,
+      850
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 2.82,
+        "x": 0,
+        "y": -20,
+        "scale": 1.04,
+        "d": 0.38,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "fault",
+    "x": 660,
+    "y": 1040,
+    "w": 410.0,
+    "h": 572.2195416164053,
+    "alpha_bounds": [
+      295,
+      23,
+      1124,
+      1180
+    ]
+  },
+  {
+    "id": "notlazy",
+    "asset": "not-lazy",
+    "start": 3.84,
+    "end": 5.3999999999999995,
+    "handoff": 5.1,
+    "layout": [
+      480,
+      1100,
+      740,
+      960
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.42,
+    "key": "notlazy",
+    "x": 480,
+    "y": 1100,
+    "w": 740.0,
+    "h": 943.2124352331606,
+    "alpha_bounds": [
+      128,
+      61,
+      1093,
+      1291
+    ]
+  },
+  {
+    "id": "supply",
+    "asset": "undersupplied-body",
+    "start": 5.1,
+    "end": 10.260000000000002,
+    "handoff": 9.96,
+    "layout": [
+      460,
+      1110,
+      680,
+      1000
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 7.9,
+        "x": -180,
+        "y": 75,
+        "scale": 0.72,
+        "d": 0.6,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "supply",
+    "x": 460,
+    "y": 1110,
+    "w": 618.0798878766643,
+    "h": 1000.0,
+    "alpha_bounds": [
+      86,
+      62,
+      968,
+      1489
+    ]
+  },
+  {
+    "id": "diet",
+    "asset": "junk-meal",
+    "start": 7.94,
+    "end": 10.260000000000002,
+    "handoff": 9.96,
+    "layout": [
+      720,
+      1110,
+      340,
+      410
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "diet",
+    "x": 720,
+    "y": 1110,
+    "w": 328.0,
+    "h": 410.0,
+    "alpha_bounds": [
+      195,
+      59,
+      1103,
+      1194
+    ]
+  },
+  {
+    "id": "iron",
+    "asset": "iron-fe",
+    "start": 9.96,
+    "end": 11.620000000000001,
+    "handoff": 11.32,
+    "layout": [
+      470,
+      1050,
+      650,
+      700
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "iron",
+    "x": 470,
+    "y": 1050,
+    "w": 650.0,
+    "h": 643.5585585585586,
+    "alpha_bounds": [
+      72,
+      67,
+      1182,
+      1166
+    ]
+  },
+  {
+    "id": "weak",
+    "asset": "weak",
+    "start": 11.32,
+    "end": 12.680000000000001,
+    "handoff": 12.38,
+    "layout": [
+      460,
+      1110,
+      710,
+      960
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "weak",
+    "x": 460,
+    "y": 1110,
+    "w": 668.8062622309197,
+    "h": 960.0,
+    "alpha_bounds": [
+      289,
+      129,
+      1001,
+      1151
+    ]
+  },
+  {
+    "id": "fog",
+    "asset": "brain-fog",
+    "start": 12.38,
+    "end": 14.14,
+    "handoff": 13.84,
+    "layout": [
+      470,
+      1110,
+      720,
+      1000
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "fog",
+    "x": 470,
+    "y": 1110,
+    "w": 467.46817538896744,
+    "h": 1000.0,
+    "alpha_bounds": [
+      203,
+      54,
+      864,
+      1468
+    ]
+  },
+  {
+    "id": "useless",
+    "asset": "useless",
+    "start": 13.84,
+    "end": 16.26,
+    "handoff": 15.96,
+    "layout": [
+      475,
+      1130,
+      720,
+      990
+    ],
+    "route": "depth",
+    "moves": [
+      {
+        "t": 14.55,
+        "x": 0,
+        "y": -30,
+        "scale": 1.08,
+        "d": 0.5,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "useless",
+    "x": 475,
+    "y": 1130,
+    "w": 383.32092330603126,
+    "h": 990.0,
+    "alpha_bounds": [
+      308,
+      100,
+      828,
+      1443
+    ]
+  },
+  {
+    "id": "iron-build",
+    "asset": "iron-fe",
+    "start": 15.96,
+    "end": 17.76,
+    "handoff": 17.46,
+    "layout": [
+      340,
+      900,
+      540,
+      580
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "iron-build",
+    "x": 340,
+    "y": 900,
+    "w": 540.0,
+    "h": 534.6486486486486,
+    "alpha_bounds": [
+      72,
+      67,
+      1182,
+      1166
+    ]
+  },
+  {
+    "id": "teacher-hb",
+    "asset": "instructor-diagonal",
+    "start": 16.28,
+    "end": 19.66,
+    "handoff": 19.42,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": true,
+    "tip_source": [
+      1144,
+      96
+    ],
+    "targets": [
+      [
+        16.28,
+        310,
+        880,
+        720
+      ],
+      [
+        17.46,
+        310,
+        890,
+        720
+      ]
+    ],
+    "tip": [
+      3.114186851211116,
+      2.491349480968858
+    ],
+    "key": "teacher-hb",
+    "x": 639.7923875432525,
+    "y": 1237.508650519031,
+    "w": 665.8131487889274,
+    "h": 720.0,
+    "alpha_bounds": [
+      80,
+      92,
+      1149,
+      1248
+    ]
+  },
+  {
+    "id": "hb",
+    "asset": "hemoglobin",
+    "start": 17.46,
+    "end": 19.720000000000002,
+    "handoff": 19.42,
+    "layout": [
+      340,
+      900,
+      550,
+      570
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "hb",
+    "x": 340,
+    "y": 900,
+    "w": 503.9130434782608,
+    "h": 570.0,
+    "alpha_bounds": [
+      155,
+      86,
+      1131,
+      1190
+    ]
+  },
+  {
+    "id": "blood",
+    "asset": "red-cell",
+    "start": 19.42,
+    "end": 21.6,
+    "handoff": 21.3,
+    "layout": [
+      360,
+      1000,
+      650,
+      650
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 20.72,
+        "x": -110,
+        "y": -330,
+        "scale": 0.48,
+        "d": 0.32,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "blood",
+    "x": 360,
+    "y": 1000,
+    "w": 649.9999999999999,
+    "h": 586.0655737704917,
+    "alpha_bounds": [
+      49,
+      135,
+      1208,
+      1180
+    ]
+  },
+  {
+    "id": "teacher-blood",
+    "asset": "instructor-up",
+    "start": 19.74,
+    "end": 20.959999999999997,
+    "handoff": 20.72,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        19.74,
+        400,
+        1010,
+        1100
+      ]
+    ],
+    "tip": [
+      17.64234161988773,
+      15.878107457898958
+    ],
+    "key": "teacher-blood",
+    "x": 684.9238171611869,
+    "y": 1544.121892542101,
+    "w": 605.1323175621492,
+    "h": 1100.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "oxygen",
+    "asset": "oxygen",
+    "start": 20.72,
+    "end": 21.85,
+    "handoff": 21.55,
+    "layout": [
+      710,
+      890,
+      280,
+      300
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "oxygen",
+    "x": 710,
+    "y": 890,
+    "w": 280.0,
+    "h": 201.6211121583412,
+    "alpha_bounds": [
+      96,
+      329,
+      1157,
+      1093
+    ]
+  },
+  {
+    "id": "lungs",
+    "asset": "lungs",
+    "start": 21.3,
+    "end": 23.88,
+    "handoff": 23.58,
+    "layout": [
+      260,
+      960,
+      350,
+      420
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "lungs",
+    "x": 260,
+    "y": 960,
+    "w": 350.0,
+    "h": 413.77277599142553,
+    "alpha_bounds": [
+      158,
+      84,
+      1091,
+      1187
+    ]
+  },
+  {
+    "id": "brain",
+    "asset": "brain",
+    "start": 22.2,
+    "end": 23.88,
+    "handoff": 23.58,
+    "layout": [
+      710,
+      820,
+      330,
+      330
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "brain",
+    "x": 710,
+    "y": 820,
+    "w": 328.7978142076503,
+    "h": 330.0,
+    "alpha_bounds": [
+      83,
+      86,
+      1177,
+      1184
+    ]
+  },
+  {
+    "id": "muscle",
+    "asset": "muscle",
+    "start": 22.76,
+    "end": 23.88,
+    "handoff": 23.58,
+    "layout": [
+      700,
+      1320,
+      370,
+      350
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "muscle",
+    "x": 700,
+    "y": 1320,
+    "w": 370.0,
+    "h": 328.5968028419183,
+    "alpha_bounds": [
+      74,
+      99,
+      1200,
+      1099
+    ]
+  },
+  {
+    "id": "cell",
+    "asset": "cell",
+    "start": 23.58,
+    "end": 24.580000000000002,
+    "handoff": 24.28,
+    "layout": [
+      420,
+      1040,
+      680,
+      710
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "cell",
+    "x": 420,
+    "y": 1040,
+    "w": 680.0,
+    "h": 662.1989528795812,
+    "alpha_bounds": [
+      59,
+      72,
+      1205,
+      1188
+    ]
+  },
+  {
+    "id": "mito",
+    "asset": "mitochondrion",
+    "start": 24.02,
+    "end": 25.66,
+    "handoff": 25.36,
+    "layout": [
+      350,
+      840,
+      600,
+      440
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "mito",
+    "x": 350,
+    "y": 840,
+    "w": 600.0,
+    "h": 420.1486374896779,
+    "alpha_bounds": [
+      170,
+      92,
+      1381,
+      940
+    ]
+  },
+  {
+    "id": "teacher-cell",
+    "asset": "instructor-up",
+    "start": 24.3,
+    "end": 25.599999999999998,
+    "handoff": 25.36,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        24.3,
+        350,
+        840,
+        1000
+      ],
+      [
+        24.82,
+        350,
+        1320,
+        850
+      ]
+    ],
+    "tip": [
+      16.038492381716118,
+      14.434643143544507
+    ],
+    "key": "teacher-cell",
+    "x": 609.0216519647154,
+    "y": 1325.5653568564555,
+    "w": 550.1202886928629,
+    "h": 1000.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "atp",
+    "asset": "atp",
+    "start": 24.82,
+    "end": 25.66,
+    "handoff": 25.36,
+    "layout": [
+      340,
+      1320,
+      470,
+      350
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "atp",
+    "x": 340,
+    "y": 1320,
+    "w": 470.0,
+    "h": 277.9639889196676,
+    "alpha_bounds": [
+      57,
+      101,
+      1501,
+      955
+    ]
+  },
+  {
+    "id": "poor-blood",
+    "asset": "poor-red-cell",
+    "start": 25.36,
+    "end": 27.78,
+    "handoff": 27.48,
+    "layout": [
+      350,
+      900,
+      620,
+      500
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "poor-blood",
+    "x": 350,
+    "y": 900,
+    "w": 620.0,
+    "h": 206.66666666666666,
+    "alpha_bounds": [
+      62,
+      256,
+      1481,
+      729
+    ]
+  },
+  {
+    "id": "teacher-low",
+    "asset": "instructor-straight",
+    "start": 25.68,
+    "end": 27.72,
+    "handoff": 27.48,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "targets": [
+      [
+        25.68,
+        190,
+        900,
+        1050
+      ]
+    ],
+    "tip": [
+      79.42643391521197,
+      6.982543640897756
+    ],
+    "key": "teacher-low",
+    "x": 320.92269326683294,
+    "y": 1418.0174563591022,
+    "w": 420.6982543640898,
+    "h": 1050.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "starved",
+    "asset": "oxygen-starved-cell",
+    "start": 27.48,
+    "end": 30.66,
+    "handoff": 30.36,
+    "layout": [
+      350,
+      960,
+      650,
+      700
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 28.6,
+        "x": 0,
+        "y": -25,
+        "scale": 1.05,
+        "d": 0.6,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "starved",
+    "x": 350,
+    "y": 960,
+    "w": 650.0,
+    "h": 628.95467160037,
+    "alpha_bounds": [
+      95,
+      87,
+      1176,
+      1133
+    ]
+  },
+  {
+    "id": "teacher-starved",
+    "asset": "instructor-up",
+    "start": 27.8,
+    "end": 30.599999999999998,
+    "handoff": 30.36,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        27.8,
+        360,
+        970,
+        1050
+      ],
+      [
+        28.9,
+        360,
+        940,
+        1100
+      ]
+    ],
+    "tip": [
+      16.840417000801924,
+      15.15637530072173
+    ],
+    "key": "teacher-starved",
+    "x": 631.972734562951,
+    "y": 1479.8436246992783,
+    "w": 577.6263031275059,
+    "h": 1050.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "halfdead",
+    "asset": "half-dead",
+    "start": 30.36,
+    "end": 33.279999999999994,
+    "handoff": 32.98,
+    "layout": [
+      470,
+      1130,
+      820,
+      800
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "key": "halfdead",
+    "x": 470,
+    "y": 1130,
+    "w": 820.0,
+    "h": 352.7569099929128,
+    "alpha_bounds": [
+      65,
+      221,
+      1476,
+      828
+    ]
+  },
+  {
+    "id": "coffee",
+    "asset": "coffee-drinker",
+    "start": 32.98,
+    "end": 35.9,
+    "handoff": 35.6,
+    "layout": [
+      460,
+      1120,
+      650,
+      1000
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 34.4,
+        "x": -160,
+        "y": 100,
+        "scale": 0.72,
+        "d": 0.55,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "coffee",
+    "x": 460,
+    "y": 1120,
+    "w": 650.0,
+    "h": 675.601750547046,
+    "alpha_bounds": [
+      176,
+      163,
+      1090,
+      1113
+    ]
+  },
+  {
+    "id": "iced",
+    "asset": "iced-coffee",
+    "start": 34.4,
+    "end": 36.68,
+    "handoff": 36.38,
+    "layout": [
+      700,
+      1030,
+      300,
+      650
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 35.6,
+        "x": -60,
+        "y": -170,
+        "scale": 0.8,
+        "d": 0.35,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "iced",
+    "x": 700,
+    "y": 1030,
+    "w": 300.0,
+    "h": 554.2706964520368,
+    "alpha_bounds": [
+      131,
+      37,
+      892,
+      1443
+    ]
+  },
+  {
+    "id": "empty",
+    "asset": "empty-stomach",
+    "start": 35.6,
+    "end": 36.68,
+    "handoff": 36.38,
+    "layout": [
+      300,
+      1180,
+      350,
+      430
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.3,
+    "key": "empty",
+    "x": 300,
+    "y": 1180,
+    "w": 350.0,
+    "h": 417.0212765957447,
+    "alpha_bounds": [
+      146,
+      26,
+      1133,
+      1202
+    ]
+  },
+  {
+    "id": "solution",
+    "asset": "smug-solution",
+    "start": 36.38,
+    "end": 39.26,
+    "handoff": 38.96,
+    "layout": [
+      490,
+      1120,
+      730,
+      1050
+    ],
+    "route": "depth",
+    "moves": [
+      {
+        "t": 37.3,
+        "x": 0,
+        "y": -20,
+        "scale": 1.05,
+        "d": 0.5,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "solution",
+    "x": 490,
+    "y": 1120,
+    "w": 566.1465892597968,
+    "h": 1050.0,
+    "alpha_bounds": [
+      186,
+      90,
+      929,
+      1468
+    ]
+  },
+  {
+    "id": "caffeine",
+    "asset": "caffeine",
+    "start": 38.96,
+    "end": 42.04,
+    "handoff": 41.74,
+    "layout": [
+      420,
+      1020,
+      650,
+      650
+    ],
+    "route": "down",
+    "moves": [
+      {
+        "t": 39.9,
+        "x": -160,
+        "y": -260,
+        "scale": 0.62,
+        "d": 0.48,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "entry_duration": 0.45,
+    "key": "caffeine",
+    "x": 420,
+    "y": 1020,
+    "w": 564.1633064516129,
+    "h": 650.0,
+    "alpha_bounds": [
+      318,
+      14,
+      1179,
+      1006
+    ]
+  },
+  {
+    "id": "oxygen-compare",
+    "asset": "oxygen",
+    "start": 39.9,
+    "end": 42.04,
+    "handoff": 41.74,
+    "layout": [
+      740,
+      930,
+      270,
+      270
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "oxygen-compare",
+    "x": 740,
+    "y": 930,
+    "w": 270.0,
+    "h": 194.42035815268613,
+    "alpha_bounds": [
+      96,
+      329,
+      1157,
+      1093
+    ]
+  },
+  {
+    "id": "smirking-no",
+    "asset": "smirking-no",
+    "start": 39.97,
+    "handoff": 41.74,
+    "end": 42.04,
+    "layout": [
+      300,
+      1840,
+      820,
+      1550
+    ],
+    "route": "lower-left",
+    "moves": [],
+    "z": 45,
+    "torso_only": true,
+    "entry_duration": 0.46,
+    "key": "smirking-no",
+    "x": 300,
+    "y": 1840,
+    "w": 694.5704467353952,
+    "h": 1550.0,
+    "alpha_bounds": [
+      182,
+      35,
+      834,
+      1490
+    ]
+  },
+  {
+    "id": "energy-cell",
+    "asset": "cell",
+    "start": 41.74,
+    "end": 44.76,
+    "handoff": 44.46,
+    "layout": [
+      340,
+      850,
+      490,
+      500
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "energy-cell",
+    "x": 340,
+    "y": 850,
+    "w": 490.00000000000006,
+    "h": 477.17277486910996,
+    "alpha_bounds": [
+      59,
+      72,
+      1205,
+      1188
+    ]
+  },
+  {
+    "id": "battery",
+    "asset": "battery",
+    "start": 41.74,
+    "end": 44.76,
+    "handoff": 44.46,
+    "layout": [
+      270,
+      1360,
+      400,
+      280
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "battery",
+    "x": 270,
+    "y": 1360,
+    "w": 400.0,
+    "h": 164.28054953000722,
+    "alpha_bounds": [
+      79,
+      220,
+      1462,
+      788
+    ]
+  },
+  {
+    "id": "teacher-energy",
+    "asset": "instructor-up",
+    "start": 42.1,
+    "end": 44.7,
+    "handoff": 44.46,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        42.1,
+        360,
+        850,
+        1050
+      ],
+      [
+        43.05,
+        280,
+        1330,
+        850
+      ]
+    ],
+    "tip": [
+      16.840417000801924,
+      15.15637530072173
+    ],
+    "key": "teacher-energy",
+    "x": 631.972734562951,
+    "y": 1359.8436246992783,
+    "w": 577.6263031275059,
+    "h": 1050.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "receptor",
+    "asset": "receptor",
+    "start": 44.46,
+    "end": 47.68,
+    "handoff": 47.38,
+    "layout": [
+      350,
+      1190,
+      620,
+      330
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 30,
+    "entry_duration": 0.32,
+    "key": "receptor",
+    "x": 350,
+    "y": 1190,
+    "w": 620.0,
+    "h": 182.56146369353917,
+    "alpha_bounds": [
+      13,
+      235,
+      1762,
+      750
+    ]
+  },
+  {
+    "id": "caffeine-dock",
+    "asset": "caffeine",
+    "start": 44.46,
+    "end": 47.68,
+    "handoff": 47.38,
+    "layout": [
+      270,
+      740,
+      290,
+      320
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 45.5,
+        "x": 80,
+        "y": 365,
+        "scale": 0.48,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ],
+    "z": 39,
+    "entry_duration": 0.32,
+    "key": "caffeine-dock",
+    "x": 270,
+    "y": 740,
+    "w": 277.741935483871,
+    "h": 320.0,
+    "alpha_bounds": [
+      318,
+      14,
+      1179,
+      1006
+    ]
+  },
+  {
+    "id": "teacher-receptor",
+    "asset": "instructor-up",
+    "start": 44.82,
+    "end": 47.620000000000005,
+    "handoff": 47.38,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        44.82,
+        360,
+        1190,
+        920
+      ],
+      [
+        45.5,
+        350,
+        1110,
+        1000
+      ]
+    ],
+    "tip": [
+      14.75541299117883,
+      13.279871692060945
+    ],
+    "key": "teacher-receptor",
+    "x": 598.2999198075381,
+    "y": 1636.7201283079391,
+    "w": 506.1106655974338,
+    "h": 920.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "adenosine",
+    "asset": "adenosine",
+    "start": 44.96,
+    "end": 47.68,
+    "handoff": 47.38,
+    "layout": [
+      715,
+      800,
+      350,
+      330
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 45.85,
+        "x": -180,
+        "y": 140,
+        "scale": 0.85,
+        "d": 0.32,
+        "rotation": 0
+      },
+      {
+        "t": 46.2,
+        "x": 10,
+        "y": 0,
+        "scale": 0.85,
+        "d": 0.28,
+        "rotation": 0
+      }
+    ],
+    "z": 40,
+    "entry_duration": 0.32,
+    "key": "adenosine",
+    "x": 715,
+    "y": 800,
+    "w": 350.0,
+    "h": 276.52370203160274,
+    "alpha_bounds": [
+      57,
+      155,
+      943,
+      855
+    ]
+  },
+  {
+    "id": "exhausted",
+    "asset": "exhausted",
+    "start": 47.38,
+    "end": 49.239999999999995,
+    "handoff": 48.94,
+    "layout": [
+      470,
+      1130,
+      820,
+      920
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "exhausted",
+    "x": 470,
+    "y": 1130,
+    "w": 820.0,
+    "h": 518.2900763358779,
+    "alpha_bounds": [
+      113,
+      107,
+      1423,
+      935
+    ]
+  },
+  {
+    "id": "stress",
+    "asset": "stress-body",
+    "start": 48.94,
+    "end": 51.26,
+    "handoff": 50.96,
+    "layout": [
+      300,
+      1100,
+      470,
+      1010
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.42,
+    "key": "stress",
+    "x": 300,
+    "y": 1100,
+    "w": 470.0,
+    "h": 848.3067484662577,
+    "alpha_bounds": [
+      104,
+      36,
+      919,
+      1507
+    ]
+  },
+  {
+    "id": "adrenal",
+    "asset": "adrenal-glands",
+    "start": 49.62,
+    "end": 51.26,
+    "handoff": 50.96,
+    "layout": [
+      730,
+      840,
+      370,
+      430
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "adrenal",
+    "x": 730,
+    "y": 840,
+    "w": 370.0,
+    "h": 345.07092198581563,
+    "alpha_bounds": [
+      92,
+      81,
+      1220,
+      1133
+    ]
+  },
+  {
+    "id": "cortisol",
+    "asset": "cortisol",
+    "start": 50.96,
+    "end": 52.48,
+    "handoff": 52.18,
+    "layout": [
+      330,
+      850,
+      520,
+      450
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "cortisol",
+    "x": 330,
+    "y": 850,
+    "w": 520.0,
+    "h": 354.89723600283486,
+    "alpha_bounds": [
+      73,
+      11,
+      1484,
+      974
+    ]
+  },
+  {
+    "id": "adrenaline",
+    "asset": "adrenaline",
+    "start": 50.96,
+    "end": 52.48,
+    "handoff": 52.18,
+    "layout": [
+      280,
+      1380,
+      350,
+      280
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "adrenaline",
+    "x": 280,
+    "y": 1380,
+    "w": 350.0,
+    "h": 213.0538513974097,
+    "alpha_bounds": [
+      40,
+      62,
+      1507,
+      955
+    ]
+  },
+  {
+    "id": "teacher-stress",
+    "asset": "instructor-up",
+    "start": 51.26,
+    "end": 52.42,
+    "handoff": 52.18,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        51.26,
+        330,
+        880,
+        1000
+      ],
+      [
+        51.65,
+        280,
+        1350,
+        800
+      ]
+    ],
+    "tip": [
+      16.038492381716118,
+      14.434643143544507
+    ],
+    "key": "teacher-stress",
+    "x": 589.0216519647154,
+    "y": 1365.5653568564555,
+    "w": 550.1202886928629,
+    "h": 1000.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "fake",
+    "asset": "fake-alive",
+    "start": 52.18,
+    "end": 55.66,
+    "handoff": 55.36,
+    "layout": [
+      430,
+      1140,
+      650,
+      1030
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 53.36,
+        "x": -90,
+        "y": 60,
+        "scale": 0.88,
+        "d": 0.52,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "fake",
+    "x": 430,
+    "y": 1140,
+    "w": 442.16428571428577,
+    "h": 1030.0,
+    "alpha_bounds": [
+      251,
+      74,
+      852,
+      1474
+    ]
+  },
+  {
+    "id": "timer",
+    "asset": "two-hour-timer",
+    "start": 53.36,
+    "end": 55.66,
+    "handoff": 55.36,
+    "layout": [
+      745,
+      820,
+      270,
+      300
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "timer",
+    "x": 745,
+    "y": 820,
+    "w": 262.3915139826422,
+    "h": 300.0,
+    "alpha_bounds": [
+      169,
+      114,
+      1076,
+      1151
+    ]
+  },
+  {
+    "id": "nerves",
+    "asset": "nervous-system",
+    "start": 55.36,
+    "end": 57.9,
+    "handoff": 57.6,
+    "layout": [
+      350,
+      1050,
+      580,
+      900
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "nerves",
+    "x": 350,
+    "y": 1050,
+    "w": 498.7450462351387,
+    "h": 900.0,
+    "alpha_bounds": [
+      93,
+      8,
+      932,
+      1522
+    ]
+  },
+  {
+    "id": "teacher-nerves",
+    "asset": "instructor-up",
+    "start": 55.68,
+    "end": 57.84,
+    "handoff": 57.6,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        55.68,
+        360,
+        950,
+        1000
+      ],
+      [
+        56.5,
+        355,
+        1200,
+        1030
+      ]
+    ],
+    "tip": [
+      16.038492381716118,
+      14.434643143544507
+    ],
+    "key": "teacher-nerves",
+    "x": 619.0216519647154,
+    "y": 1435.5653568564555,
+    "w": 550.1202886928629,
+    "h": 1000.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "grave",
+    "asset": "grave",
+    "start": 57.6,
+    "end": 59.04,
+    "handoff": 58.74,
+    "layout": [
+      480,
+      1110,
+      740,
+      680
+    ],
+    "route": "down",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.42,
+    "key": "grave",
+    "x": 480,
+    "y": 1110,
+    "w": 740.0,
+    "h": 495.7816377171216,
+    "alpha_bounds": [
+      182,
+      109,
+      1391,
+      919
+    ]
+  },
+  {
+    "id": "overview",
+    "asset": "phone-track",
+    "start": 58.74,
+    "end": 62.379999999999995,
+    "handoff": 62.08,
+    "layout": [
+      490,
+      1100,
+      560,
+      1130
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 60.25,
+        "x": 0,
+        "y": -25,
+        "scale": 1.03,
+        "d": 0.5,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "overview",
+    "x": 490,
+    "y": 1100,
+    "w": 560.0,
+    "h": 1120.0,
+    "alpha_bounds": [
+      50,
+      115,
+      825,
+      1665
+    ]
+  },
+  {
+    "id": "scan",
+    "asset": "phone-scan",
+    "start": 62.08,
+    "end": 64.88,
+    "handoff": 64.58,
+    "layout": [
+      400,
+      1070,
+      490,
+      1000
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "scan",
+    "x": 400,
+    "y": 1070,
+    "w": 490.0,
+    "h": 854.2931937172775,
+    "alpha_bounds": [
+      130,
+      96,
+      894,
+      1428
+    ]
+  },
+  {
+    "id": "meal-acting",
+    "asset": "meal-acting",
+    "start": 62.52,
+    "end": 63.419999999999995,
+    "handoff": 63.12,
+    "layout": [
+      760,
+      1340,
+      300,
+      470
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "meal-acting",
+    "x": 760,
+    "y": 1340,
+    "w": 300.0,
+    "h": 338.0952380952381,
+    "alpha_bounds": [
+      135,
+      21,
+      1206,
+      1228
+    ]
+  },
+  {
+    "id": "calendar",
+    "asset": "calendar",
+    "start": 63.12,
+    "end": 64.88,
+    "handoff": 64.58,
+    "layout": [
+      760,
+      1320,
+      300,
+      300
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "calendar",
+    "x": 760,
+    "y": 1320,
+    "w": 300.0,
+    "h": 280.6797853309481,
+    "alpha_bounds": [
+      46,
+      121,
+      1164,
+      1167
+    ]
+  },
+  {
+    "id": "patterns",
+    "asset": "phone-trends",
+    "start": 64.58,
+    "end": 67.74,
+    "handoff": 67.44,
+    "layout": [
+      410,
+      1100,
+      520,
+      1100
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.42,
+    "key": "patterns",
+    "x": 410,
+    "y": 1100,
+    "w": 520.0,
+    "h": 1053.3504492939667,
+    "alpha_bounds": [
+      46,
+      112,
+      825,
+      1690
+    ]
+  },
+  {
+    "id": "sugar",
+    "asset": "sugar-spoon",
+    "start": 65.94,
+    "end": 67.74,
+    "handoff": 67.44,
+    "layout": [
+      765,
+      1250,
+      230,
+      260
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "sugar",
+    "x": 765,
+    "y": 1250,
+    "w": 229.99999999999997,
+    "h": 115.93495934959348,
+    "alpha_bounds": [
+      35,
+      147,
+      1511,
+      891
+    ]
+  },
+  {
+    "id": "gaps",
+    "asset": "nutrient-gap",
+    "start": 67.44,
+    "end": 68.45,
+    "handoff": 68.15,
+    "layout": [
+      460,
+      1100,
+      660,
+      740
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "gaps",
+    "x": 460,
+    "y": 1100,
+    "w": 660.0,
+    "h": 651.7204301075269,
+    "alpha_bounds": [
+      67,
+      76,
+      1183,
+      1178
+    ]
+  },
+  {
+    "id": "assessment",
+    "asset": "phone-assessment",
+    "start": 68.15,
+    "end": 69.7,
+    "handoff": 69.4,
+    "layout": [
+      490,
+      1100,
+      560,
+      1130
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "assessment",
+    "x": 490,
+    "y": 1100,
+    "w": 560.0,
+    "h": 1126.9651741293533,
+    "alpha_bounds": [
+      36,
+      87,
+      840,
+      1705
+    ]
+  },
+  {
+    "id": "b12",
+    "asset": "vitamin-b12",
+    "start": 69.4,
+    "end": 71.5,
+    "handoff": 71.2,
+    "layout": [
+      320,
+      900,
+      460,
+      520
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "b12",
+    "x": 320,
+    "y": 900,
+    "w": 460.0,
+    "h": 458.4353741496599,
+    "alpha_bounds": [
+      39,
+      43,
+      1215,
+      1215
+    ]
+  },
+  {
+    "id": "magnesium",
+    "asset": "magnesium",
+    "start": 69.88,
+    "end": 71.5,
+    "handoff": 71.2,
+    "layout": [
+      715,
+      1270,
+      350,
+      400
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "magnesium",
+    "x": 715,
+    "y": 1270,
+    "w": 350.0,
+    "h": 377.18446601941747,
+    "alpha_bounds": [
+      161,
+      113,
+      1088,
+      1112
+    ]
+  },
+  {
+    "id": "begging",
+    "asset": "begging-body",
+    "start": 71.2,
+    "end": 72.84,
+    "handoff": 72.54,
+    "layout": [
+      460,
+      1140,
+      670,
+      1000
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "begging",
+    "x": 460,
+    "y": 1140,
+    "w": 648.0754124116261,
+    "h": 1000.0,
+    "alpha_bounds": [
+      252,
+      56,
+      1077,
+      1329
+    ]
+  },
+  {
+    "id": "neglect",
+    "asset": "neglect",
+    "start": 72.54,
+    "end": 74.96,
+    "handoff": 74.66,
+    "layout": [
+      470,
+      1140,
+      730,
+      980
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.48,
+    "key": "neglect",
+    "x": 470,
+    "y": 1140,
+    "w": 730.0,
+    "h": 705.7359924026591,
+    "alpha_bounds": [
+      142,
+      130,
+      1195,
+      1148
+    ]
+  },
+  {
+    "id": "planner",
+    "asset": "phone-plan",
+    "start": 74.66,
+    "end": 79.2,
+    "handoff": 78.9,
+    "layout": [
+      490,
+      1100,
+      560,
+      1130
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 76.34,
+        "x": -140,
+        "y": -55,
+        "scale": 0.82,
+        "d": 0.55,
+        "rotation": 0
+      },
+      {
+        "t": 78.15,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.48,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "planner",
+    "x": 490,
+    "y": 1100,
+    "w": 560.0,
+    "h": 1122.1649484536083,
+    "alpha_bounds": [
+      50,
+      113,
+      826,
+      1668
+    ]
+  },
+  {
+    "id": "balanced",
+    "asset": "balanced-meal",
+    "start": 76.34,
+    "end": 78.45,
+    "handoff": 78.15,
+    "layout": [
+      765,
+      1320,
+      300,
+      340
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.4,
+    "key": "balanced",
+    "x": 765,
+    "y": 1320,
+    "w": 300.0,
+    "h": 299.4741454864154,
+    "alpha_bounds": [
+      55,
+      58,
+      1196,
+      1197
+    ]
+  },
+  {
+    "id": "juices",
+    "asset": "phone-juices",
+    "start": 78.9,
+    "end": 80.53999999999999,
+    "handoff": 80.24,
+    "layout": [
+      490,
+      1100,
+      560,
+      1130
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "juices",
+    "x": 490,
+    "y": 1100,
+    "w": 560.0,
+    "h": 1128.5714285714287,
+    "alpha_bounds": [
+      46,
+      111,
+      830,
+      1691
+    ]
+  },
+  {
+    "id": "blend",
+    "asset": "phone-blend",
+    "start": 80.24,
+    "end": 82.2,
+    "handoff": 81.9,
+    "layout": [
+      490,
+      1100,
+      560,
+      1130
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "blend",
+    "x": 490,
+    "y": 1100,
+    "w": 560.0,
+    "h": 1115.0063694267515,
+    "alpha_bounds": [
+      46,
+      110,
+      831,
+      1673
+    ]
+  },
+  {
+    "id": "absorption",
+    "asset": "intestinal-villus",
+    "start": 81.9,
+    "end": 84.42,
+    "handoff": 84.12,
+    "layout": [
+      320,
+      840,
+      480,
+      550
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "absorption",
+    "x": 320,
+    "y": 840,
+    "w": 340.6228131560532,
+    "h": 550.0,
+    "alpha_bounds": [
+      70,
+      23,
+      955,
+      1452
+    ]
+  },
+  {
+    "id": "teacher-absorb",
+    "asset": "instructor-up",
+    "start": 82.2,
+    "end": 84.36,
+    "handoff": 84.12,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 55,
+    "flip": false,
+    "tip_source": [
+      449,
+      43
+    ],
+    "targets": [
+      [
+        82.2,
+        330,
+        840,
+        1050
+      ],
+      [
+        82.64,
+        330,
+        1220,
+        800
+      ]
+    ],
+    "tip": [
+      16.840417000801924,
+      15.15637530072173
+    ],
+    "key": "teacher-absorb",
+    "x": 601.972734562951,
+    "y": 1349.8436246992783,
+    "w": 577.6263031275059,
+    "h": 1050.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "uptake",
+    "asset": "energized-cell",
+    "start": 82.64,
+    "end": 84.42,
+    "handoff": 84.12,
+    "layout": [
+      320,
+      1370,
+      430,
+      350
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "uptake",
+    "x": 320,
+    "y": 1370,
+    "w": 402.95202952029524,
+    "h": 350.0,
+    "alpha_bounds": [
+      37,
+      61,
+      1285,
+      1145
+    ]
+  },
+  {
+    "id": "relief",
+    "asset": "body-relief",
+    "start": 84.12,
+    "end": 86.5,
+    "handoff": 86.2,
+    "layout": [
+      480,
+      1110,
+      730,
+      1010
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 85,
+        "x": 0,
+        "y": -25,
+        "scale": 1.04,
+        "d": 0.5,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "relief",
+    "x": 480,
+    "y": 1110,
+    "w": 537.485380116959,
+    "h": 1010.0,
+    "alpha_bounds": [
+      148,
+      89,
+      876,
+      1457
+    ]
+  },
+  {
+    "id": "zombie",
+    "asset": "zombie",
+    "start": 86.2,
+    "end": 89.11999999999999,
+    "handoff": 88.82,
+    "layout": [
+      470,
+      1130,
+      730,
+      1030
+    ],
+    "route": "diagonal",
+    "moves": [
+      {
+        "t": 87.3,
+        "x": -15,
+        "y": 0,
+        "scale": 1.06,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "zombie",
+    "x": 470,
+    "y": 1130,
+    "w": 695.9459459459459,
+    "h": 1030.0,
+    "alpha_bounds": [
+      109,
+      135,
+      984,
+      1430
+    ]
+  },
+  {
+    "id": "energized",
+    "asset": "energetic",
+    "start": 88.82,
+    "end": 89.96,
+    "handoff": 89.66,
+    "layout": [
+      480,
+      1100,
+      720,
+      1030
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "energized",
+    "x": 480,
+    "y": 1100,
+    "w": 549.3805918788713,
+    "h": 1030.0,
+    "alpha_bounds": [
+      144,
+      46,
+      919,
+      1499
+    ]
+  },
+  {
+    "id": "clear",
+    "asset": "clear-thinking",
+    "start": 89.66,
+    "end": 90.74,
+    "handoff": 90.44,
+    "layout": [
+      470,
+      1100,
+      700,
+      1000
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.32,
+    "key": "clear",
+    "x": 470,
+    "y": 1100,
+    "w": 663.4275618374558,
+    "h": 999.9999999999999,
+    "alpha_bounds": [
+      283,
+      76,
+      1034,
+      1208
+    ]
+  },
+  {
+    "id": "functional",
+    "asset": "functional-desk",
+    "start": 90.44,
+    "end": 92.11999999999999,
+    "handoff": 91.82,
+    "layout": [
+      480,
+      1120,
+      800,
+      970
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "entry_duration": 0.36,
+    "key": "functional",
+    "x": 480,
+    "y": 1120,
+    "w": 800.0,
+    "h": 935.6521739130435,
+    "alpha_bounds": [
+      209,
+      109,
+      1129,
+      1185
+    ]
+  },
+  {
+    "id": "search",
+    "asset": "phone-search",
+    "start": 91.82,
+    "end": 94.8,
+    "handoff": 94.8,
+    "layout": [
+      490,
+      1100,
+      540,
+      1090
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 93.15,
+        "x": 0,
+        "y": -25,
+        "scale": 1.045,
+        "d": 0.55,
+        "rotation": 0
+      }
+    ],
+    "z": 10,
+    "key": "search",
+    "x": 490,
+    "y": 1100,
+    "w": 540.0,
+    "h": 967.1641791044776,
+    "alpha_bounds": [
+      145,
+      115,
+      882,
+      1435
+    ]
+  }
+]

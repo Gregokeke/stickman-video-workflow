@@ -37,3 +37,10 @@ The twelve-project set now has **11 directly browsable source projects**: refere
 Use [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) to open the right source folder. References 1–5 were extracted byte-for-byte. Reference 6 has every packed archive member preserved plus its three working WAVs restored byte-for-byte and 73 PNGs restored with exact original-resolution RGBA pixels/alpha. The ready-to-edit `source/` needs no restore command; the optional ZIP still has its original restoration requirement. No video has been recompressed or retimed; the original six retain their existing compact viewing copies, not newly created full-quality masters.
 
 [BROWSABLE-REFERENCE-AUDIT.json](BROWSABLE-REFERENCE-AUDIT.json) records preservation and restored assets. Import and study the browsable sources and matching complete final videos. Older seven-ZIP/five-expanded setup wording is historical where it differs from this layout. The canonical workflow and all production instructions still govern.
+
+
+## All twelve references now have browsable source — latest layout, 2 November 2026
+
+Reference 7 (**Iron, Oxygen and Real Energy**) is now browsable under [source/](12-Project-7-Iron-Oxygen-Real-Energy/source/), too. All twelve projects have ordinary source folders: references 1–7 under source/ in their existing numbered directories; references 8–12 directly in folders 14–18. See [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md).
+
+Reference 7 preserves all 174 ZIP members byte-for-byte and additionally includes its three byte-identical restored working WAVs and 70 pixel-identical original-resolution PNGs, including alpha. PNG encoding bytes can differ without visual loss. Both 6 and 7 are ready to use from source/ without restoration; their unchanged optional ZIPs retain their original helper requirement. Original archives and videos remain unchanged. BROWSABLE-REFERENCE-AUDIT.json now covers references 1–7. This supersedes previous reference-7-ZIP-only setup wording.

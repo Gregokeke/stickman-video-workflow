@@ -1,0 +1,712 @@
+[
+  {
+    "time": 0.1,
+    "start": 0.035150000000000015,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "hook glide",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 2.08,
+    "start": 2.02396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "exact Glow Trinity blame character",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 3.84,
+    "start": 3.79746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "not lazy reversal",
+    "duration": 0.763,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.1,
+    "start": 5.0380199999999995,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "undersupplied character",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 7.94,
+    "start": 7.88738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "diet reveal",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.96,
+    "start": 9.9501,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "iron identity",
+    "duration": 1.641,
+    "tail_preserved": true
+  },
+  {
+    "time": 11.32,
+    "start": 11.28919,
+    "source": "A05b",
+    "path": "assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "weak character",
+    "duration": 0.864,
+    "tail_preserved": true
+  },
+  {
+    "time": 12.38,
+    "start": 12.33769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "fog character",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.84,
+    "start": 13.78396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "useless punchline",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 15.96,
+    "start": 15.895150000000001,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -8,
+    "reason": "iron explanation",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 17.46,
+    "start": 17.409670000000002,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -9,
+    "reason": "hemoglobin handoff",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 19.42,
+    "start": 19.358020000000003,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "red blood cell",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 20.72,
+    "start": 20.66885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "oxygen reveal",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.3,
+    "start": 21.216350000000002,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "lung origin",
+    "duration": 1.163,
+    "tail_preserved": true
+  },
+  {
+    "time": 22.2,
+    "start": 22.14875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "brain destination",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 22.76,
+    "start": 22.70165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "muscle destination",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 23.58,
+    "start": 23.485039999999998,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -8,
+    "reason": "cell zoom",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 24.02,
+    "start": 23.9701,
+    "source": "B09",
+    "path": "assets/sfx/B09_Deep_Passing_Whoosh_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "mitochondrion detail",
+    "duration": 2.042,
+    "tail_preserved": true
+  },
+  {
+    "time": 24.82,
+    "start": 24.77565,
+    "source": "C02",
+    "path": "assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+    "target_peak_dbfs": -16,
+    "reason": "ATP energy",
+    "duration": 2.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 25.36,
+    "start": 25.31502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "deficient blood contrast",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 27.48,
+    "start": 27.42396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "starved cell",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 30.36,
+    "start": 30.29802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "half dead acting",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 32.98,
+    "start": 32.91515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "coffee chapter",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.4,
+    "start": 34.32344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -9,
+    "reason": "third coffee",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 35.6,
+    "start": 35.54875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "empty stomach",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 36.38,
+    "start": 36.34033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "false solution joke",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 38.96,
+    "start": 38.91746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -9,
+    "reason": "news flash",
+    "duration": 0.763,
+    "tail_preserved": true
+  },
+  {
+    "time": 39.97,
+    "start": 39.913959999999996,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "crossed-arms refusal torso arrives",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.48,
+    "start": 40.436539999999994,
+    "source": "C20",
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "not oxygen",
+    "duration": 0.598,
+    "tail_preserved": true
+  },
+  {
+    "time": 41.74,
+    "start": 41.678020000000004,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "cell and depleted battery",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 42.4,
+    "start": 42.35071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "battery drains five to four",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 42.72,
+    "start": 42.67071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "battery drains four to three",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.04,
+    "start": 42.99071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "battery drains three to two",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.36,
+    "start": 43.30165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "battery drains two to one",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 44.46,
+    "start": 44.37635,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "receptor explanation",
+    "duration": 1.163,
+    "tail_preserved": true
+  },
+  {
+    "time": 44.96,
+    "start": 44.91565,
+    "source": "C02",
+    "path": "assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+    "target_peak_dbfs": -16,
+    "reason": "adenosine",
+    "duration": 2.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 45.5,
+    "start": 45.45071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "caffeine docks",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 46.2,
+    "start": 46.14502,
+    "source": "C10",
+    "path": "assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "adenosine rejected",
+    "duration": 0.302,
+    "tail_preserved": true
+  },
+  {
+    "time": 47.38,
+    "start": 47.33769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "exhaustion",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 48.94,
+    "start": 48.84504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -8,
+    "reason": "stress response",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 49.62,
+    "start": 49.56738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "adrenal glands",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 50.96,
+    "start": 50.9501,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "stress hormone identities",
+    "duration": 1.641,
+    "tail_preserved": true
+  },
+  {
+    "time": 52.18,
+    "start": 52.12396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "fake smile",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 53.36,
+    "start": 53.30165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "two hours",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 55.36,
+    "start": 55.31502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "nervous system reveal",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 57.6,
+    "start": 57.51504,
+    "source": "C21",
+    "path": "assets/sfx/C21_Heavy_Whack_Impact_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "grave punchline",
+    "duration": 1.627,
+    "tail_preserved": true
+  },
+  {
+    "time": 58.74,
+    "start": 58.67515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "app chapter",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 62.08,
+    "start": 62.01802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "meal scanner",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 63.12,
+    "start": 63.07071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "daily scan logged",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 64.58,
+    "start": 64.52967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -9,
+    "reason": "patterns screen",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 67.44,
+    "start": 67.39746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "gaps contrast",
+    "duration": 0.763,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.15,
+    "start": 68.10769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "assessment",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 69.4,
+    "start": 69.3901,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "vitamins and minerals",
+    "duration": 1.641,
+    "tail_preserved": true
+  },
+  {
+    "time": 71.2,
+    "start": 71.15769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "body begging",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.54,
+    "start": 72.48396000000001,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "neglect",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 74.66,
+    "start": 74.59514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "planner",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 76.34,
+    "start": 76.28738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "balanced meal",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 78.9,
+    "start": 78.83802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "juice options",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 80.24,
+    "start": 80.19769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "blend detail",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.9,
+    "start": 81.84967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -9,
+    "reason": "absorption",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 82.64,
+    "start": 82.59565,
+    "source": "C02",
+    "path": "assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+    "target_peak_dbfs": -16,
+    "reason": "cell uptake",
+    "duration": 2.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 84.12,
+    "start": 84.07769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "body relief",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 86.2,
+    "start": 86.15746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "zombie contrast",
+    "duration": 0.763,
+    "tail_preserved": true
+  },
+  {
+    "time": 88.82,
+    "start": 88.75801999999999,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -7,
+    "reason": "energized reveal",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 89.66,
+    "start": 89.62033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "clear thinking",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 90.44,
+    "start": 90.39071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "functional",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 91.82,
+    "start": 91.75514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -8,
+    "reason": "search app",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 92.3,
+    "start": 92.25071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "search typing begins",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 92.58,
+    "start": 92.53071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -24,
+    "reason": "search typing continues",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 92.86,
+    "start": 92.81071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "search word completed",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 93.08,
+    "start": 93.04033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "actual Remea icon result settles",
+    "duration": 0.929,
+    "tail_preserved": true
+  }
+]

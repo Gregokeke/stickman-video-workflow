@@ -72,7 +72,9 @@
     "external_render": "12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy.mp4",
     "render_size": 27252680,
     "sha256": "eceaf8dae8db4305a01016f33a2ec9389fcfcfbecbd1781d66a3efb436dc1da2",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "12-Project-7-Iron-Oxygen-Real-Energy/source",
+    "browsable_render": "12-Project-7-Iron-Oxygen-Real-Energy/source/renders/Iron-Oxygen-Real-Energy.mp4"
   },
   {
     "reference": 8,

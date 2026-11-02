@@ -1,0 +1,14 @@
+import {browserPath} from './browser-path.mjs';
+import puppeteer from 'puppeteer-core';import chromium from '@sparticuz/chromium';import path from 'node:path';import{mkdir,writeFile}from'node:fs/promises';
+const dest=process.env.REVIEW_DIR||'production/review';await mkdir(dest,{recursive:true});
+const b=await puppeteer.launch({executablePath:browserPath(),headless:'shell',args:chromium.args});
+try{console.log('Browser launched');const p=await b.newPage();console.log('Page ready');await p.setViewport({width:1080,height:1920});const errors=[];p.on('pageerror',e=>errors.push(e.message));console.log('Opening source');await p.goto('file://'+path.resolve('index.html'),{waitUntil:'domcontentloaded',timeout:30000});console.log('Source open');await p.evaluate(async()=>{await document.fonts.ready;return true});console.log('Fonts ready');
+const missing=await p.evaluate(()=>[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src));if(missing.length)throw Error('Missing images '+JSON.stringify(missing));
+const times=process.env.REVIEW_AT?process.env.REVIEW_AT.split(',').map(Number):[1.3,4.5,6.6,8.9,10.8,11.9,12.95,14.6,16.9,18.5,19.95,21.15,22.4,23.,24.9,26.5,28.7,31.8,33.7,34.95,35.95,37.3,39.6,40.7,42.8,45.6,46.5,48.3,49.45,50.4,51.6,52.9,54.1,56.7,58.1,60.3,62.95,63.8,65.6,67.,68.6,70.1,71.9,73.5,75.8,77.5,79.6,80.6,81.3,82.3,83.4,85.3,87.8,89.3,90.1,91.3,93.];
+const report={times,errors,missingImages:missing,captionOverlaps:[],cane:[],frames:[]};
+for(let i=0;i<times.length;i++){const t=times[i];await p.evaluate(t=>{window.__timelines.main.seek(t);return true},t);
+const caps=await p.evaluate(()=>[...document.querySelectorAll('.caption')].filter(e=>+getComputedStyle(e).opacity>.9).map(e=>({id:e.id,text:e.textContent})));
+if(caps.length>1)report.captionOverlaps.push({t,caps});const f='frame-'+String(i).padStart(2,'0')+'.jpg';await p.screenshot({path:path.join(dest,f),type:'jpeg',quality:88});report.frames.push({file:f,time:t,captions:caps});if(i%12===0)console.log('Review',i,'/',times.length);}
+report.cane=await p.evaluate(()=>{const rows=[];for(const s of DATA.schedule.filter(s=>s.route==='presenter')){const el=document.querySelector('#'+s.key+' .travel');const dot=document.createElement('i');Object.assign(dot.style,{position:'absolute',left:(s.tip[0]-.5)+'px',top:(s.tip[1]-.5)+'px',width:'1px',height:'1px'});el.append(dot);for(const [t,x,y]of s.targets){window.__timelines.main.seek(t+.3);const r=dot.getBoundingClientRect();rows.push({asset:s.asset,time:t+.3,target:[x,y],tip:[r.x+.5,r.y+.5],error:Math.hypot(r.x+.5-x,r.y+.5-y)});}dot.remove();}return rows;});
+await writeFile(path.join(dest,'review.json'),JSON.stringify(report,null,2));console.log('Review complete',errors,'max cane error',Math.max(...report.cane.map(c=>c.error)));if(errors.length||report.captionOverlaps.length||report.cane.some(c=>c.error>2))throw Error('Review audit failed');
+}finally{await b.close();}

@@ -1,0 +1,30 @@
+{
+  "revision": "original-art-reference-six-remake",
+  "original_uploaded_art_preserved": true,
+  "older_short_iron_assets_used": false,
+  "opening_asset": "Remea-Glow-Trinity/assets/blame.png",
+  "opening_choreography": "Retained tired character moves left/down, blame character arrives from right; power3-out 0.48s travel with brief lead.",
+  "distinct_image_hashes": 66,
+  "appearances": 77,
+  "caption_groups": 69,
+  "current_pointer_audit_max_error_px": 0.15095042104780018,
+  "missing_images": [],
+  "page_errors": [],
+  "caption_overlaps": [],
+  "sound_cues": 71,
+  "full_sound_tails_preserved": true,
+  "intentional_crops": "Oversized lower-corner presenter legs at lower target changes; faces, grips and actual explanatory targets reviewed.",
+  "reference_sources": [
+    "Sugar-Two-Weeks final nineteen-fix source and viewing frames",
+    "The-Subtle-Manipulator storyboard, moves and build source"
+  ],
+  "safe_area_review": "Actual supplied red-zone overlay inspected on hook, scientific, app and absorption frames. Hook hand moved inside rail; lower presenter raised/reduced so face and grip remain above bottom overlay.",
+  "supplemental_user_icon": 1,
+  "finishing_polish": {
+    "face": "ImageGen corrected face; original acting and held objects preserved",
+    "battery": "Five cells drain exactly four, leaving one",
+    "refusal_gesture": "New full-body source; large upper-torso crop slides from lower left",
+    "not_equal": "Slanted; separate drawn crossing slash",
+    "search": "Exact user-supplied color icon and typed Remea text; completed search hold"
+  }
+}

@@ -1,0 +1,1020 @@
+{
+  "format_version": 1,
+  "original_archive_sha256": "610c70f9e14fb8f37570879447459c55eedee473e79e1d655f0bc6d88e218f88",
+  "original_archive_bytes": 129247306,
+  "method": "Lossless FLAC for three working WAVs and lossless WebP for selected PNGs. Restore before editing. Original video, resolution, pixels and audio samples are preserved.",
+  "audio": [
+    {
+      "original_path": "assets/audio/effects.wav",
+      "flac_path": "lossless-audio/effects.flac",
+      "original_sha256": "4669d85c385e617144ab86af4ad7c2e7aab4f06c6a657278aa324dd231676e7d",
+      "flac_sha256": "0ea4c5b6fbfd35bfa76a998adbfd7bcb24062c0d6cd8437bd28fe3d4944ef90f",
+      "pcm_format": "s24le",
+      "pcm_bytes": 27302400,
+      "wav_prefix_base64": "UklGRiSaoAFXQVZFZm10IBAAAAABAAIAgLsAAABlBAAGABgAZGF0YQCaoAE=",
+      "wav_suffix_base64": ""
+    },
+    {
+      "original_path": "assets/audio/mix.wav",
+      "flac_path": "lossless-audio/mix.flac",
+      "original_sha256": "6eaad799243f1546ba9b934a83e40d1196f04c1d9d29796b38c3dff672208148",
+      "flac_sha256": "dbba29bafd913f57f195c6495237d42b9016c1f772490b5bc804237620d6c880",
+      "pcm_format": "s24le",
+      "pcm_bytes": 27302400,
+      "wav_prefix_base64": "UklGRl6aoAFXQVZFZm10ICgAAAD+/wIAgLsAAABlBAAGABgAFgAYAAMAAAABAAAAAAAQAIAAAKoAOJtxTElTVBoAAABJTkZPSVNGVA4AAABMYXZmNjAuMTYuMTAwAGRhdGEAmqAB",
+      "wav_suffix_base64": ""
+    },
+    {
+      "original_path": "assets/audio/narration.wav",
+      "flac_path": "lossless-audio/narration.flac",
+      "original_sha256": "12665eedab0587f49f386a59ba463e466a08283f9b17b674ab8a4712bcf4c486",
+      "flac_sha256": "d4e4ef4313218fd98605e51d109ea638650f29ebd89d24a7ddcadc4caf525b78",
+      "pcm_format": "s16le",
+      "pcm_bytes": 9057734,
+      "wav_prefix_base64": "UklGRuo1igBXQVZFZm10IBAAAAABAAEAgLsAAAB3AQACABAAZGF0YcY1igA=",
+      "wav_suffix_base64": ""
+    }
+  ],
+  "images": [
+    {
+      "original_path": "references/red-zone-canvas.png",
+      "encoded_path": "lossless-images/references/red-zone-canvas.png.webp",
+      "original_sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b",
+      "encoded_sha256": "906d73c0de38ccef8f4a628743862cdc95283b691fbede37816126418be0be8a",
+      "mode": "RGBA",
+      "size": [
+        941,
+        1672
+      ],
+      "rgba_sha256": "ce744e9377a5cf6f3538a5434183bb0af04170215116aeefaa267cf5fb047ee4",
+      "original_bytes": 537660,
+      "encoded_bytes": 310278
+    },
+    {
+      "original_path": "assets/graphics/empty-stomach.png",
+      "encoded_path": "lossless-images/assets/graphics/empty-stomach.png.webp",
+      "original_sha256": "fbfee85a3db864636663508b232c3927f2fa3d566fcd835bc2961df0d7c71100",
+      "encoded_sha256": "64f956b955d50264972f8e82dc15688204f9cf01e20eff1250f105b51f7303a5",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "d2aeeb962b9036261b75cf076a42311ec1081d741eb2c260ed84f4964db56df1",
+      "original_bytes": 701992,
+      "encoded_bytes": 428550
+    },
+    {
+      "original_path": "assets/graphics/hemoglobin.png",
+      "encoded_path": "lossless-images/assets/graphics/hemoglobin.png.webp",
+      "original_sha256": "0869eaaaead537037ecc65ac44ffd33344bd76a30482d72ad2f1843c377c1da1",
+      "encoded_sha256": "96ba516a8c2394a55ea8f1ae47bb9ffb47a9e5a5dd1eb7d4aef25ed4eac60fca",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "7b0e907fd5ee3dc14ff1df9accdc1df458ada65612c792dccae48f0c036d1756",
+      "original_bytes": 1070590,
+      "encoded_bytes": 693228
+    },
+    {
+      "original_path": "assets/graphics/lungs.png",
+      "encoded_path": "lossless-images/assets/graphics/lungs.png.webp",
+      "original_sha256": "d0bc393c60410de390d24049c3befb0ebb11fbc5d71c91d5c837aaee8db73469",
+      "encoded_sha256": "80a958adc9eb0dd0119e8f28821feff9f52919f919abcc46d222ea5868786be3",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "fadc0a9dfab3ffcd0121f0d68fc6dfcee71fbaef4410691f48634f77215d5953",
+      "original_bytes": 783881,
+      "encoded_bytes": 477936
+    },
+    {
+      "original_path": "assets/graphics/oxygen.png",
+      "encoded_path": "lossless-images/assets/graphics/oxygen.png.webp",
+      "original_sha256": "e1ab52ede703bc6c01696f54f0365bb1fe6631135f688bf2c2fb683bbf7f64a6",
+      "encoded_sha256": "ef1d4f441dcefef9cfc6303460905dc7445490b6fce245cc043d4899f5bd706d",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "3b6499e33b4b8b97532bb18133d50bd7a0dbd00e172e222baad4fac3d9e5434e",
+      "original_bytes": 488668,
+      "encoded_bytes": 266066
+    },
+    {
+      "original_path": "assets/graphics/magnesium.png",
+      "encoded_path": "lossless-images/assets/graphics/magnesium.png.webp",
+      "original_sha256": "f5ab1b66b6e24d677279c008284f1281acda29f2c9d4c8d456d0e01f1b3d5c31",
+      "encoded_sha256": "813ca22b2e67415c17767c5cd0fee03e7ca711d16183518b8e7d700d3c02dc16",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "42f47b85e8cb60cffc9e6ffd0217dbca1fd87551bfcfb3338e5f590127796011",
+      "original_bytes": 431499,
+      "encoded_bytes": 260728
+    },
+    {
+      "original_path": "assets/graphics/instructor-diagonal.png",
+      "encoded_path": "lossless-images/assets/graphics/instructor-diagonal.png.webp",
+      "original_sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990",
+      "encoded_sha256": "a362162a27de9c32502184f0ccd6865e8a924690bc0fa3a5538ed23bf4d3bfb1",
+      "mode": "RGBA",
+      "size": [
+        1206,
+        1305
+      ],
+      "rgba_sha256": "8f53d5b93a3b5dc5ba73e0ea9e23aa09286a135a46f868f051a0c3b0bc7d5184",
+      "original_bytes": 368290,
+      "encoded_bytes": 204774
+    },
+    {
+      "original_path": "assets/graphics/06-Blend-Details.png",
+      "encoded_path": "lossless-images/assets/graphics/06-Blend-Details.png.webp",
+      "original_sha256": "f300d8c5d0b6a2913ab7c11a60b9460f7789d14c8f4151874b31a14ade45e949",
+      "encoded_sha256": "38ec67fe493ad954fb284c4b96823832ab5d442dd2821b5e1abd3e3b4e504508",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "9eab06c82036423f16ef79f496398f78a23f634cfbe143df427509a7f5824781",
+      "original_bytes": 1269030,
+      "encoded_bytes": 750438
+    },
+    {
+      "original_path": "assets/graphics/vitamin-b12.png",
+      "encoded_path": "lossless-images/assets/graphics/vitamin-b12.png.webp",
+      "original_sha256": "63ce43058ccf316ef6bcf54aac4053511f8d2de1842cdb3fe36ca69d99a7d8eb",
+      "encoded_sha256": "af258b58f34b840bbd798ea05bc1e7f01ef4f64c2e1234bff886ba6fe85a2b1d",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "293a2898b9858ef90088e9ab306396e08a75771cdaeaf2492f3562a5c397a744",
+      "original_bytes": 749384,
+      "encoded_bytes": 475610
+    },
+    {
+      "original_path": "assets/graphics/battery-empty-shell.png",
+      "encoded_path": "lossless-images/assets/graphics/battery-empty-shell.png.webp",
+      "original_sha256": "9d1dfae1c559263f3a997f3abd443295f8c35a88f7fe4c7d6c09a11edd5c67a7",
+      "encoded_sha256": "706cadd6096bc4479c3d7b7d5bbf4555ff66bbd76fa8b3b23be3b8cf8f3f991d",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "083ddcfa5ae4d35d67b7fa48b08433ef1282f79c7e34c3f2135960d142352aaf",
+      "original_bytes": 830793,
+      "encoded_bytes": 543368
+    },
+    {
+      "original_path": "assets/graphics/phone-search.png",
+      "encoded_path": "lossless-images/assets/graphics/phone-search.png.webp",
+      "original_sha256": "8de8cae1fe579f65d6e4477cdcb0b6842b499c42124d3731f6e119d4af71da16",
+      "encoded_sha256": "a4a5c9972288461dd0bfcce72b33454871141929cf5505913f23d7d28cc2b4b8",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "db35f1e55a41e786ce607297a059934a78d3dca77c8551e3dbe25c24d6ebe64f",
+      "original_bytes": 936791,
+      "encoded_bytes": 621842
+    },
+    {
+      "original_path": "assets/graphics/begging-body.png",
+      "encoded_path": "lossless-images/assets/graphics/begging-body.png.webp",
+      "original_sha256": "98315f707bb45b44880c4faff64351f87cb0d781f17ed5d2e6d255084d53c5d1",
+      "encoded_sha256": "ebd9a3426854074cc0076be0f15c624f6e3f0be9a9bcbd19fb8914e327bc53bb",
+      "mode": "RGBA",
+      "size": [
+        1145,
+        1374
+      ],
+      "rgba_sha256": "7cfb0184c82409cf42cbfd7cbefb9e92fcf92fdcc21b6108a50b18f474b1644e",
+      "original_bytes": 603423,
+      "encoded_bytes": 366026
+    },
+    {
+      "original_path": "assets/graphics/caffeine.png",
+      "encoded_path": "lossless-images/assets/graphics/caffeine.png.webp",
+      "original_sha256": "73ea8f9c9d13bad8e47fb8783b2d7386b7f83a9fc0a00e10d23f9697c626a49e",
+      "encoded_sha256": "0615dcfea1cb7bdc6c15b550f6a82cbaed60c156af90f06e6d31fda08ae0b8b3",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "1df48eaac5ef27086c2e4ee032b67bac78c5746076699ba0510208c7fc55c9ea",
+      "original_bytes": 1178880,
+      "encoded_bytes": 769098
+    },
+    {
+      "original_path": "assets/graphics/nutrient-gap.png",
+      "encoded_path": "lossless-images/assets/graphics/nutrient-gap.png.webp",
+      "original_sha256": "63e19fd26a5b129a6ff0072204c0866d0c3638607a5e910b303f57869ce2ff09",
+      "encoded_sha256": "33d02780ce419d560ac544242b7af3df246f74c3240baa86a9b2befbb59dd00b",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "dbf10a7ad3327122403933eb5b3fec0fce417330ac0b5eb6c7db614dbbf108c8",
+      "original_bytes": 1219873,
+      "encoded_bytes": 795626
+    },
+    {
+      "original_path": "assets/graphics/balanced-meal.png",
+      "encoded_path": "lossless-images/assets/graphics/balanced-meal.png.webp",
+      "original_sha256": "8e5aa720a079a32ae20da04c2a4dde68a74ccc95b826ccae6327b01c8b926e8b",
+      "encoded_sha256": "a6ca00d491e385e36aff48f6d6fef9f373902efa60ad110184acef5e064f0cee",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "04508989609923b5742cd5288dbc8e99b91a307058d6e6133f699553be133bee",
+      "original_bytes": 1453323,
+      "encoded_bytes": 924786
+    },
+    {
+      "original_path": "assets/graphics/tired-desk.png",
+      "encoded_path": "lossless-images/assets/graphics/tired-desk.png.webp",
+      "original_sha256": "577d1e7560e2794fd4851569d9a8a41352840bbb8f4285979f4d588fabdac517",
+      "encoded_sha256": "7e359749604bb34f8a8c03e72c8cc378ade1b6572c0df34f1e1fae03bb12d737",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "fe8e1b441b7366070db7425fc5495ecf958d62c36bb3392d5bfc04f4b067d5fb",
+      "original_bytes": 644707,
+      "encoded_bytes": 373904
+    },
+    {
+      "original_path": "assets/graphics/atp.png",
+      "encoded_path": "lossless-images/assets/graphics/atp.png.webp",
+      "original_sha256": "32f0430e67e123b9bcc2279e2e56452fc7e56e188161bd99e923443e6dd862a7",
+      "encoded_sha256": "1c3baff1f08238f5a44b7654ee946a0e0431ec666d72311f86c9158be29035e9",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "db0a2b8279a4273879a7e5cd5a729e38a57c23174cd2002cfd38c5687e1b6c57",
+      "original_bytes": 1230242,
+      "encoded_bytes": 823830
+    },
+    {
+      "original_path": "assets/graphics/01-Nutrition-Overview.png",
+      "encoded_path": "lossless-images/assets/graphics/01-Nutrition-Overview.png.webp",
+      "original_sha256": "d0bf177332c780579a78e4a011584f06d8af56f1378535678c51d30473f079e2",
+      "encoded_sha256": "91665f6b024887411ba7ce729b4b9249fcfac875c93ea2a115eef74aba61a742",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "dd7489e34608ab8bbe86161af6bac06ae0c6430d7567c42d4749d41c6888c09a",
+      "original_bytes": 1168764,
+      "encoded_bytes": 688356
+    },
+    {
+      "original_path": "assets/graphics/adrenal-glands.png",
+      "encoded_path": "lossless-images/assets/graphics/adrenal-glands.png.webp",
+      "original_sha256": "661fcc2d2e95cbe514bcd6d33336bf06f20ff46f37a9ee15c0454a49d5d7797e",
+      "encoded_sha256": "c7e99eb87b715cad0409a7e112aa18e60904f29fb88a8e4d3b7c1ef6fafc3631",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "00ef7302c2df2194638d80b9bdd116f53cfcebdf37fceda82317e695fa25c12c",
+      "original_bytes": 820223,
+      "encoded_bytes": 463352
+    },
+    {
+      "original_path": "assets/graphics/03-Nutrition-Patterns.png",
+      "encoded_path": "lossless-images/assets/graphics/03-Nutrition-Patterns.png.webp",
+      "original_sha256": "21d68c7d952ef177ab45194eb75e214430426ad80a3ee9abdfaa69d89ef0d178",
+      "encoded_sha256": "765e3c3241e105fc3206921809a5342c16d66b3ead3184cab035c1ee08c4b951",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "b4f9c4eef3f19778950ce6e655a4ad109b298d89b64cc61bad50dcc5f630d38c",
+      "original_bytes": 1121859,
+      "encoded_bytes": 634746
+    },
+    {
+      "original_path": "assets/graphics/junk-meal.png",
+      "encoded_path": "lossless-images/assets/graphics/junk-meal.png.webp",
+      "original_sha256": "4ca6b005c092d223db78155759435899c82eddd98e09d1421faf2247a87ba605",
+      "encoded_sha256": "292c646a053d0ff7df4f1892e0e459293d1b059b0c95604a282397f576d5a086",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "9b1ae8f931779afac18fcbe521c62f31bde00a08b3bf68f60ed1bd411f5c0675",
+      "original_bytes": 863127,
+      "encoded_bytes": 493900
+    },
+    {
+      "original_path": "assets/graphics/brain.png",
+      "encoded_path": "lossless-images/assets/graphics/brain.png.webp",
+      "original_sha256": "8793aca8e75209747484216c388e0c21e4e2ecf189e02401aebafd5852875c27",
+      "encoded_sha256": "ba9539f66dbcadeeadca81a3ec6d75f874213eb50e92003462fabae077f6efdb",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "86a4e99ab645549d811065f8340e4b4437fd4afde3075c9a0934d33b3701f1b7",
+      "original_bytes": 905370,
+      "encoded_bytes": 584546
+    },
+    {
+      "original_path": "assets/graphics/cortisol.png",
+      "encoded_path": "lossless-images/assets/graphics/cortisol.png.webp",
+      "original_sha256": "43212b900f60cc856228550aa909286523476618913c7b0122c21c39128fd48e",
+      "encoded_sha256": "5bc240ab5aa4ced6ef1f1b56d22754fcf9390c275fd816ab0b2cc47c0ed4489d",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5dc1589817012c39a3d8b3b41121604ddb9ac84fa9b83eb2197fba589911809a",
+      "original_bytes": 1197948,
+      "encoded_bytes": 782464
+    },
+    {
+      "original_path": "assets/graphics/cell.png",
+      "encoded_path": "lossless-images/assets/graphics/cell.png.webp",
+      "original_sha256": "bf1c29746896da6ff1e1fb3e0ddb31d5076b64872fe4257767b827e80c390f7c",
+      "encoded_sha256": "5b1c341cfcb702d1b0758d886f301f29030e137ea91cb61109f0265bf09f04f2",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "76f9e43fb1efdf13ab4ee6cfd947e7fc19d6582286f17e7540df0f88b0f0ac22",
+      "original_bytes": 839686,
+      "encoded_bytes": 596296
+    },
+    {
+      "original_path": "assets/graphics/functional-desk-face-fixed.png",
+      "encoded_path": "lossless-images/assets/graphics/functional-desk-face-fixed.png.webp",
+      "original_sha256": "12a5f5fc798beaf4145f1712d98711bf4e1a3957eaa7b72433db602293a3a5d9",
+      "encoded_sha256": "7c01aef7679134704327844a7b9997a7989e095067b8ccc58d8101c0402e3282",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "30356a6cd9a89e6215c586c14dbed1ede01a26af4440c1dee9be9ba678f91ab0",
+      "original_bytes": 703884,
+      "encoded_bytes": 432484
+    },
+    {
+      "original_path": "assets/graphics/calendar.png",
+      "encoded_path": "lossless-images/assets/graphics/calendar.png.webp",
+      "original_sha256": "4a1c0040ce4402f7a7f7f26904a6df6bf86f1d85878e874f792055aad9538d50",
+      "encoded_sha256": "42b31c55e971d22d5d5dc63ed562afc9450750e78ec98e97a55ad20f0f2c9cd9",
+      "mode": "RGBA",
+      "size": [
+        1214,
+        1295
+      ],
+      "rgba_sha256": "d440f4c925a4bf4a461611f8205424f9e628b810e625b5596f5f287b2327de50",
+      "original_bytes": 904977,
+      "encoded_bytes": 519162
+    },
+    {
+      "original_path": "assets/graphics/instructor-up.png",
+      "encoded_path": "lossless-images/assets/graphics/instructor-up.png.webp",
+      "original_sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7",
+      "encoded_sha256": "b40f14ffb6d693f7faf17d047d7dc8336c5c899e7553b2e241ffa76f5ce6c366",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1305
+      ],
+      "rgba_sha256": "c4af7b97c29f61903d057e0dd4dbc355364c2772eb207b19fc11bfaa61a1ed48",
+      "original_bytes": 392757,
+      "encoded_bytes": 224964
+    },
+    {
+      "original_path": "assets/graphics/smirking-no-full-body.png",
+      "encoded_path": "lossless-images/assets/graphics/smirking-no-full-body.png.webp",
+      "original_sha256": "da2ed07dd9fb4f5f62dd6bbd46016e9566f53d90295d548c7a09a1ad78aeeebf",
+      "encoded_sha256": "3c4bdd6469443a1f0f23f0d4ef0b70468452443ed240450e029705085d8e5caa",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "9fa1bd8e9fa0646ed3200354ba89971161032981248af2e085115f1e3670d1c0",
+      "original_bytes": 1085944,
+      "encoded_bytes": 710726
+    },
+    {
+      "original_path": "assets/graphics/poor-red-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/poor-red-cell.png.webp",
+      "original_sha256": "c6ec7367dc260efa6ae96b1d9daf0ce4bf8e0df24cb22f31319aff7946012d0b",
+      "encoded_sha256": "bd63bc280168b7d4e9fd1e4795ac50a0084d8cd05abd6c5e2acdd28d48acb3bf",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "1e227ff5ecca20509e08ba17a5ef4d0da49b742ed0d77a5d99b65504c605aa85",
+      "original_bytes": 1055857,
+      "encoded_bytes": 701524
+    },
+    {
+      "original_path": "assets/graphics/zombie.png",
+      "encoded_path": "lossless-images/assets/graphics/zombie.png.webp",
+      "original_sha256": "74f32d061b0010f8cd08f44e1993827a3e5b25da1ea80b6ccba5e1696143c414",
+      "encoded_sha256": "1da0bebbae7819c8135abaee93b58d4f00286289edc6d1f678e5f9bbf8f9e9c4",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "9c1259e9264f3bf63c1aeb1110468fe556ffeab3c380c5e3738b38e48e7bfc08",
+      "original_bytes": 1147260,
+      "encoded_bytes": 751282
+    },
+    {
+      "original_path": "assets/graphics/two-hour-timer.png",
+      "encoded_path": "lossless-images/assets/graphics/two-hour-timer.png.webp",
+      "original_sha256": "3da927a59f49b63680c58d9d52a781a2157347dcdc85c24d22989e9383d5e557",
+      "encoded_sha256": "4abec3a07a3bf1520f27907413d441fc288f96cb3a6ed7e97a1858a5bdac26aa",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "8ec4eead1c091769052239dfe21ef40dbca13e05eb9ee938abc38972bc4142df",
+      "original_bytes": 743167,
+      "encoded_bytes": 428990
+    },
+    {
+      "original_path": "assets/graphics/energetic.png",
+      "encoded_path": "lossless-images/assets/graphics/energetic.png.webp",
+      "original_sha256": "dc208fda61004eece0ee39a9cd84a94f807830b09a8c6cc40563cc49a3979c78",
+      "encoded_sha256": "1daf0ba992b05312100ec94f3c5428795a37c199e5065f7fe8da1f4e88f11d31",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "1c60d1548310d447ec19584d8bd01fdefd99f2a3306d2911ef648aa9895c745e",
+      "original_bytes": 1096729,
+      "encoded_bytes": 714098
+    },
+    {
+      "original_path": "assets/graphics/grave.png",
+      "encoded_path": "lossless-images/assets/graphics/grave.png.webp",
+      "original_sha256": "7a0eafd7c35b113afa58ce96a51d314ff5a5a5a1b70002bb4ff0423ace47839b",
+      "encoded_sha256": "2cfd135ddfd0be732dfa041f6c505dc625b35d3776105e82e485e9722f858297",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "f9470781f9582fd99c7ea6c0092832dc320cf145c4b0946d44f694ce1c4bdc9b",
+      "original_bytes": 982503,
+      "encoded_bytes": 634344
+    },
+    {
+      "original_path": "assets/graphics/iced-coffee.png",
+      "encoded_path": "lossless-images/assets/graphics/iced-coffee.png.webp",
+      "original_sha256": "42b7ba0fa030d8e9d58b5d7251975113854d1a75bc59815844a13fee2e2890aa",
+      "encoded_sha256": "279c48bac5604afed916e13f3252eeb8e9648a50ad854819fdb9d21bb8cf5305",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "0446adf0b5d0fbbfe784197aa15e0e3533b150b12f6a0ea255a1e278cba48a40",
+      "original_bytes": 1159741,
+      "encoded_bytes": 776734
+    },
+    {
+      "original_path": "assets/graphics/adrenaline.png",
+      "encoded_path": "lossless-images/assets/graphics/adrenaline.png.webp",
+      "original_sha256": "0de56e720b853e1d2a6714aeb52153cf89f910265765f109c9d74c276c9bc59d",
+      "encoded_sha256": "8664fbcc576804a9f5e38971f94a3baafac02b21e50cbdb9c6345fffc7d5c872",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "b1bedcb226067d0cec9096990325a997693e4633a765448ebf98a602a076f3de",
+      "original_bytes": 1222410,
+      "encoded_bytes": 797750
+    },
+    {
+      "original_path": "assets/graphics/body-relief.png",
+      "encoded_path": "lossless-images/assets/graphics/body-relief.png.webp",
+      "original_sha256": "dfb5069741c0747496da93752db79d2c2f0d43d34ba4504c814b50237f3532e8",
+      "encoded_sha256": "25b5dab578620d7e8bccaaba25a32924a9b15131c9d103e45768fec013847656",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "57223d40d4f6db8ccf14f83b08ff0746a91263050bae9b1b6b9ea5c1c188ed4f",
+      "original_bytes": 1119986,
+      "encoded_bytes": 729160
+    },
+    {
+      "original_path": "assets/graphics/receptor.png",
+      "encoded_path": "lossless-images/assets/graphics/receptor.png.webp",
+      "original_sha256": "488a6a0f9260cc1ed2888138f914d4370fd3eb77152e88282ed1520fd21c9462",
+      "encoded_sha256": "750b587832d69d40873c585704c1ece2fd3e0bcbcda99bd357df4fe4defa04e7",
+      "mode": "RGBA",
+      "size": [
+        1774,
+        887
+      ],
+      "rgba_sha256": "81b8136d0d2d74acf7dd99cf0cfa8a35e9aecebe1c4f4f12c7095a851432a0c8",
+      "original_bytes": 781814,
+      "encoded_bytes": 492718
+    },
+    {
+      "original_path": "assets/graphics/useless.png",
+      "encoded_path": "lossless-images/assets/graphics/useless.png.webp",
+      "original_sha256": "e5798ba985c43801e3e60c255b8225dc89553188f69f40be25680f9f2092cd12",
+      "encoded_sha256": "faae26b898a38c19bb45a03162d04f27a99aaa192549c95051269408732678d6",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "c03d9fb658a68e3c66da01ffa181c1cd5a631ff2d8cb64a3515df800b86a85ec",
+      "original_bytes": 865743,
+      "encoded_bytes": 561062
+    },
+    {
+      "original_path": "assets/graphics/nervous-system.png",
+      "encoded_path": "lossless-images/assets/graphics/nervous-system.png.webp",
+      "original_sha256": "f1633cae4a6ffb9a3e2ad221943db6ff174653842e8d5809e5d52fc17db16f29",
+      "encoded_sha256": "1fdb2b64d4c8611c4c04818292d1baaec2b93a5e9ee7fb44ec6de4ecddd1c92e",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "daec1ecd474f6693c496bdfccb14aa1bcfd5362f556b167d3fcdb4b17bc8cc2f",
+      "original_bytes": 1507431,
+      "encoded_bytes": 1001010
+    },
+    {
+      "original_path": "assets/graphics/stress-body.png",
+      "encoded_path": "lossless-images/assets/graphics/stress-body.png.webp",
+      "original_sha256": "b7e037662d5b0b2d54cf80c906ca91132fcb2751c901f8a90f3fb9cefcafbea2",
+      "encoded_sha256": "3823a9fe401d3333f293ecbf845f665d753d65c7d6ae1eb2f22c23b497a035c9",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "9cfca533d0f36ea9a64d6314054f9812d16b6d0135455702939ef68a71db2c70",
+      "original_bytes": 1135869,
+      "encoded_bytes": 750304
+    },
+    {
+      "original_path": "assets/graphics/intestinal-villus.png",
+      "encoded_path": "lossless-images/assets/graphics/intestinal-villus.png.webp",
+      "original_sha256": "6c393277a60d33b3040abff6779c808423f5edc585ed170fd5024c0c7e6c9c9e",
+      "encoded_sha256": "3f9fd8fec18ed41fd88bf35805ee77885c74d456376d165d2078d3ec97bccb2a",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "38f8811f274f8729281c4f6e83c99f8c6b791b98c77425743c3e8d6f5b999928",
+      "original_bytes": 1485792,
+      "encoded_bytes": 1041774
+    },
+    {
+      "original_path": "assets/graphics/iron-fe.png",
+      "encoded_path": "lossless-images/assets/graphics/iron-fe.png.webp",
+      "original_sha256": "854f9ab34be85e0d438d58b46ee70432e146f8c7223060b583a0ce5438950428",
+      "encoded_sha256": "dfa7404386128819c52323e7ba491a287f60670d89d3af08075827339550c5eb",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "611f41b673ca740fbf758a563fb2787c481f1f727b95a5bf8822cc204277a3a4",
+      "original_bytes": 1371692,
+      "encoded_bytes": 705280
+    },
+    {
+      "original_path": "assets/graphics/oxygen-starved-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/oxygen-starved-cell.png.webp",
+      "original_sha256": "e09a7eb423efc05a12f0e23f53bfa2894a6319b20c918451c781e6cf54c58423",
+      "encoded_sha256": "21ea80f7962dc59d8eec02131a7c213b0b9386422bbda64978efd21cf9868c25",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "b306b064f189c610ec428cb161fd4c3ff4f76d3c9b910a929a7fc66894ef99ce",
+      "original_bytes": 1017532,
+      "encoded_bytes": 597202
+    },
+    {
+      "original_path": "assets/graphics/not-lazy.png",
+      "encoded_path": "lossless-images/assets/graphics/not-lazy.png.webp",
+      "original_sha256": "f5785c049dc882b6bdd5a746573ac814305bd6ee6e2f3524c3e610d207e760a3",
+      "encoded_sha256": "af595f4b75859fa04ff63689c06bb1da40c53a2ef79797b86d9d0b71f0782276",
+      "mode": "RGBA",
+      "size": [
+        1145,
+        1374
+      ],
+      "rgba_sha256": "9f3ec8065c6a4a6e83a3e7075da8f0d450a0af8f9d5a6b1b6db0064f979d3ee6",
+      "original_bytes": 798945,
+      "encoded_bytes": 487416
+    },
+    {
+      "original_path": "assets/graphics/muscle.png",
+      "encoded_path": "lossless-images/assets/graphics/muscle.png.webp",
+      "original_sha256": "66834739551afeade177b02d035bbf7cf6f5b664ec05cb2fb14f72538c2302a9",
+      "encoded_sha256": "f6b82c1a0d9348c536ae778523ced83f290a39272036361829d0a7044ca39dd6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "e482909dbaca12ab2c3a80f5a0b710af299b3b5dfed2dbf234387c41659d83d9",
+      "original_bytes": 958012,
+      "encoded_bytes": 621730
+    },
+    {
+      "original_path": "assets/graphics/exhausted.png",
+      "encoded_path": "lossless-images/assets/graphics/exhausted.png.webp",
+      "original_sha256": "acaca415033d954178fc08a227e50b46875acb5dbc8eaad40d0fea152451ddf2",
+      "encoded_sha256": "bd43759e524a56a4c051e4ce105569472849e22db6cf043dd198152435761151",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "e00913faf12a9a55a030d1773a3f69a8632f9ab9cb2aa0aea1b67c9a112b45ca",
+      "original_bytes": 1161699,
+      "encoded_bytes": 761928
+    },
+    {
+      "original_path": "assets/graphics/energized-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/energized-cell.png.webp",
+      "original_sha256": "21bd4b4e50dece0e352cdab7f2b3eaa512613b74415685a6be64f568e76e659e",
+      "encoded_sha256": "f7b887d6ef7ccd12e727495b740a9c4b2d29fc11e0a9ed5c5a83a9d016ca3e5f",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "197a7d3a213cc9d986f5a91f51b973b3ecb684dd554aa70980356f02792f8691",
+      "original_bytes": 1293099,
+      "encoded_bytes": 877254
+    },
+    {
+      "original_path": "assets/graphics/weak.png",
+      "encoded_path": "lossless-images/assets/graphics/weak.png.webp",
+      "original_sha256": "43fd65bf90ec985313c45894f2b3e3c074319285fafc752c0f444a4d33ce4ccc",
+      "encoded_sha256": "c7e3dcb5059ace90cd13ee8be07d4bdc8198115c4d29cfdd1915116a6fc50760",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "7571436f00a2987b33f445a03a128b2e8f06d385b7eb9bc080bbfda6c231a66a",
+      "original_bytes": 448709,
+      "encoded_bytes": 256806
+    },
+    {
+      "original_path": "assets/graphics/instructor-straight.png",
+      "encoded_path": "lossless-images/assets/graphics/instructor-straight.png.webp",
+      "original_sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62",
+      "encoded_sha256": "6a08f51eb61e1a8cabd94dc7da18d542eb3adcf7c1ad233151bc5aab892f3947",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1306
+      ],
+      "rgba_sha256": "90bbaf625e0d80691a584aab9f4a686e310da34c82a0f8cc2371241c572c4f94",
+      "original_bytes": 362040,
+      "encoded_bytes": 205130
+    },
+    {
+      "original_path": "assets/graphics/04-Meal-Planner.png",
+      "encoded_path": "lossless-images/assets/graphics/04-Meal-Planner.png.webp",
+      "original_sha256": "0328c435f2f464fa306656f099806994743889395fb5564b9dd6ccfcef5c951a",
+      "encoded_sha256": "9214ad2f040ae91fa2614f71fa41d4191c08071808fe7820ecf4fafe454b23b4",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "ab12b0e8eb5dd4cc422de013ea5edb52dc077b6c3ac7b2ff2294a63a2b592533",
+      "original_bytes": 1344950,
+      "encoded_bytes": 786368
+    },
+    {
+      "original_path": "assets/graphics/meal-acting.png",
+      "encoded_path": "lossless-images/assets/graphics/meal-acting.png.webp",
+      "original_sha256": "07b999b0bbe43b27bf2d1c8299af8ef85ecd6b7fd2460cc14b92b136723a8ac8",
+      "encoded_sha256": "8347745d720ed1803d6b36353a7f5de0482fcce35df0a0b4f26b152967f65ff6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "f88c04e65ef80960033b72c7f475c8a0f582d4715f35dd5ded30327b88bda8ef",
+      "original_bytes": 609550,
+      "encoded_bytes": 355240
+    },
+    {
+      "original_path": "assets/graphics/adenosine-exact.png",
+      "encoded_path": "lossless-images/assets/graphics/adenosine-exact.png.webp",
+      "original_sha256": "d61e1c905efb45a5840d9d135d145d3c00c092260f3bb323c435fe4f7a134d8d",
+      "encoded_sha256": "f8a259123c818a3d4c08165426f87b7e41ba7702a08f1aa4787bf154a89f1517",
+      "mode": "RGBA",
+      "size": [
+        1000,
+        900
+      ],
+      "rgba_sha256": "da00c86e2ca45ffc4b43b8f38c077e7dd142c3ae52ee51ef07b91ab71419f14e",
+      "original_bytes": 53597,
+      "encoded_bytes": 20094
+    },
+    {
+      "original_path": "assets/graphics/coffee-drinker.png",
+      "encoded_path": "lossless-images/assets/graphics/coffee-drinker.png.webp",
+      "original_sha256": "8bf0efbef812f70aa0094834ecd8268a631b0bb61a0cc7cd1e0141121f06f07b",
+      "encoded_sha256": "f2c6903cd3c55e677f1e25eec2c7b6682d2e9c864f8d7e8d517e4b8823a73e42",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "cb2e0cfbe722287349c1ec1964b8a29e4a79c53a681877ece359db39b3bcac65",
+      "original_bytes": 630205,
+      "encoded_bytes": 338542
+    },
+    {
+      "original_path": "assets/graphics/undersupplied-body.png",
+      "encoded_path": "lossless-images/assets/graphics/undersupplied-body.png.webp",
+      "original_sha256": "a4b51a23317f5e416d6c089b99e952b70334bb002a1f9d6ac7591ec72beff688",
+      "encoded_sha256": "1b77048c9d2942eb56fd10b3bfaa74da6f42bb7a199d4ed91510a0e3274bed15",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "4c07bbf45585179d770ad68c7e203ff742bbb2d6ffb78d907bca950195cd838a",
+      "original_bytes": 1141205,
+      "encoded_bytes": 753740
+    },
+    {
+      "original_path": "assets/graphics/sugar-spoon.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-spoon.png.webp",
+      "original_sha256": "44910ca238bca81a606d4a241541fb33fd4512c3a870703695b38cba1637f1f0",
+      "encoded_sha256": "c8882b0a3b39faf623031e5afbdeb57b895f20a148439a72e6817881c347cd2f",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5659cd418b9464caff3544f7a52df75e3d54cab95676d685acc05b41bd902a6e",
+      "original_bytes": 924351,
+      "encoded_bytes": 608726
+    },
+    {
+      "original_path": "assets/graphics/half-dead.png",
+      "encoded_path": "lossless-images/assets/graphics/half-dead.png.webp",
+      "original_sha256": "bd4c7e25f6721c2c2bb7c06f6085994ddb55e95a1bd4d3fd485f627831233a53",
+      "encoded_sha256": "aecb89c7b5e6818b4e30b9dd02dc3847364442aa52533903ea98519ddf05b592",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "7884b451a924d31ffcd65dfa4bb370c7c1c36208cf61323062f82b0bb1ab533e",
+      "original_bytes": 1043080,
+      "encoded_bytes": 693032
+    },
+    {
+      "original_path": "assets/graphics/mitochondrion.png",
+      "encoded_path": "lossless-images/assets/graphics/mitochondrion.png.webp",
+      "original_sha256": "421aa2a90ca10cd2026b269ce4271129690adc8828c8a7d6d63a601e9fcff816",
+      "encoded_sha256": "2e4b5fa4d08adb0eaa6fe95f3d444a38d4d9815172235d1e569e7b92d4e435d0",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5185025622d4b5a7fbc69c2647d8816f49a34a679feb5a750309628a9ab8fef4",
+      "original_bytes": 1266061,
+      "encoded_bytes": 837514
+    },
+    {
+      "original_path": "assets/graphics/red-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/red-cell.png.webp",
+      "original_sha256": "295795da1c475c701d1b7736a7eec247bdd22ac93e21b35d5a4c2ed9d8d0e417",
+      "encoded_sha256": "e4bf4806e83dfc6e3ccfc2a6a57a9e54da865835a9fa8fcb41f72bfa6e1db9f4",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "14c7e99d3ff91cd26b4f003e48f5bb6362c718b69792b5f4b0e05b7776d5e94e",
+      "original_bytes": 1122177,
+      "encoded_bytes": 706700
+    },
+    {
+      "original_path": "assets/graphics/phone-scan.png",
+      "encoded_path": "lossless-images/assets/graphics/phone-scan.png.webp",
+      "original_sha256": "d253c84a4d86a192e341394564b201da73bdf54e00963350d6f967542b1445c9",
+      "encoded_sha256": "f6236f02a399b67f11e70b3973e30ffabd918db20a7c2badd1d16ea9637141fd",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "21de03c45e8a34a6198451933d02ea8543284cbc3734828ab432cbc1cce07958",
+      "original_bytes": 1195125,
+      "encoded_bytes": 801002
+    },
+    {
+      "original_path": "assets/graphics/blame.png",
+      "encoded_path": "lossless-images/assets/graphics/blame.png.webp",
+      "original_sha256": "cf50c102b5cdaa4ecd7a13c060f6f8dbb19b0dca895f3b448cb53df22cddfa62",
+      "encoded_sha256": "b81783947c1048f8e7c4cfa6bdde16b1c9407a62d509299e77c45b14a4440ed5",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "cf6a013bbc903dfb3add3882f597ab975b775206723167263e2fca189ab2acde",
+      "original_bytes": 479826,
+      "encoded_bytes": 266410
+    },
+    {
+      "original_path": "assets/graphics/05-Juice-Options.png",
+      "encoded_path": "lossless-images/assets/graphics/05-Juice-Options.png.webp",
+      "original_sha256": "961525762cccd7234996fbafaf3abed682f47335fc45ab10c77e23b588fa2e42",
+      "encoded_sha256": "cfbb52db99a321896b34b3bbe46d81b8df12e06eaf6598cbb6a119e07d865b22",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "ae9a1d707efc031104b1a3df2e6f4bf327f7848491d5edb9fd3ebfd9227009b8",
+      "original_bytes": 1160357,
+      "encoded_bytes": 685224
+    },
+    {
+      "original_path": "assets/graphics/brain-fog.png",
+      "encoded_path": "lossless-images/assets/graphics/brain-fog.png.webp",
+      "original_sha256": "1cc6ef5cec0d4a30564b9727a0cf3f88ab4fc2425d7eeb84867c14aa45380d9b",
+      "encoded_sha256": "ce94500bf2ecbac62c447934b8d98df092c53a7e110c2514e0cc705b6bd9f62b",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "dd01d70b5cd3d40dc2956127b7cede761dc88056531281d9b719011d9296903b",
+      "original_bytes": 1152916,
+      "encoded_bytes": 763754
+    },
+    {
+      "original_path": "assets/graphics/smug-solution.png",
+      "encoded_path": "lossless-images/assets/graphics/smug-solution.png.webp",
+      "original_sha256": "ba1a144d94d75a3989463d39d08e3bc6013acd3f03870586cf8a2ff785d05bc9",
+      "encoded_sha256": "6d2dc51f05a570dfddc5531c01f27189a60d53dcde429c4c5961340bc4290435",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "058c50147f5dd42f2d34153d3a12ad38f10a7e78f2e682bc149fba56f6e1ac83",
+      "original_bytes": 1043986,
+      "encoded_bytes": 686538
+    },
+    {
+      "original_path": "assets/graphics/clear-thinking.png",
+      "encoded_path": "lossless-images/assets/graphics/clear-thinking.png.webp",
+      "original_sha256": "d5c70b8e651dbcfdc08780a25ae6dd69dda57c3a88d794a4e6d6d3f5fb360a96",
+      "encoded_sha256": "9aba78429d830df9f59e7f0d7a8b6e02081374a541cc0e816bce793b3e23827d",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "c97a1fd5da9c50c439ba599a5f2dd6f2a891c148f58717e7c3fb8f5c9cf4359a",
+      "original_bytes": 619734,
+      "encoded_bytes": 365108
+    },
+    {
+      "original_path": "assets/graphics/02-Nutrient-Assessment.png",
+      "encoded_path": "lossless-images/assets/graphics/02-Nutrient-Assessment.png.webp",
+      "original_sha256": "2087a95fa6618519236863cbc6d312c3c64859a5429e6c180921e9b629cf076f",
+      "encoded_sha256": "30f6c25e01595b9b5fa6c5f1a5074d242c00c65edf1d4ed05019a2dd5f8e4096",
+      "mode": "RGBA",
+      "size": [
+        876,
+        1795
+      ],
+      "rgba_sha256": "abf6bad50ec863270cd37131010938d4fd3345ee295dab21750c94dc06cd53ae",
+      "original_bytes": 1177018,
+      "encoded_bytes": 688016
+    },
+    {
+      "original_path": "assets/graphics/fake-alive.png",
+      "encoded_path": "lossless-images/assets/graphics/fake-alive.png.webp",
+      "original_sha256": "07f8a01fdfc253aeecc9d983cd5a4b2b8a21c0b71f58b7eb7cb7e8b2aa64e13b",
+      "encoded_sha256": "ddfde114ea1d70278b94b545d0166d527024669001ee4d5c2bdf47d681c6e398",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "b0dd0675ebc47ec1f10eb9e178ed77ea66ef74b4b6a761e2e1c3feb49e9e8a16",
+      "original_bytes": 1091426,
+      "encoded_bytes": 712884
+    },
+    {
+      "original_path": "assets/graphics/neglect.png",
+      "encoded_path": "lossless-images/assets/graphics/neglect.png.webp",
+      "original_sha256": "6eb47ee94c32e165631e21109f0070b8d1c8585e3b4058d63d09045452806f3e",
+      "encoded_sha256": "c4d06b6904bd0988b63430071ee1ff019da60f6593a46e9c7609814c9e7335d6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "a70b7405e1f40676e4c15055f5f6102c97ff488b5637c31545c93303dc99d598",
+      "original_bytes": 630870,
+      "encoded_bytes": 364212
+    },
+    {
+      "original_path": "references/instructor/03-straight-head-tilt.png",
+      "encoded_path": "lossless-images/references/instructor/03-straight-head-tilt.png.webp",
+      "original_sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62",
+      "encoded_sha256": "6a08f51eb61e1a8cabd94dc7da18d542eb3adcf7c1ad233151bc5aab892f3947",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1306
+      ],
+      "rgba_sha256": "90bbaf625e0d80691a584aab9f4a686e310da34c82a0f8cc2371241c572c4f94",
+      "original_bytes": 362040,
+      "encoded_bytes": 205130
+    },
+    {
+      "original_path": "references/instructor/01-diagonal.png",
+      "encoded_path": "lossless-images/references/instructor/01-diagonal.png.webp",
+      "original_sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990",
+      "encoded_sha256": "a362162a27de9c32502184f0ccd6865e8a924690bc0fa3a5538ed23bf4d3bfb1",
+      "mode": "RGBA",
+      "size": [
+        1206,
+        1305
+      ],
+      "rgba_sha256": "8f53d5b93a3b5dc5ba73e0ea9e23aa09286a135a46f868f051a0c3b0bc7d5184",
+      "original_bytes": 368290,
+      "encoded_bytes": 204774
+    },
+    {
+      "original_path": "references/instructor/02-upward.png",
+      "encoded_path": "lossless-images/references/instructor/02-upward.png.webp",
+      "original_sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7",
+      "encoded_sha256": "b40f14ffb6d693f7faf17d047d7dc8336c5c899e7553b2e241ffa76f5ce6c366",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1305
+      ],
+      "rgba_sha256": "c4af7b97c29f61903d057e0dd4dbc355364c2772eb207b19fc11bfaa61a1ed48",
+      "original_bytes": 392757,
+      "encoded_bytes": 224964
+    }
+  ]
+}

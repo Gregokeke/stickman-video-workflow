@@ -1,0 +1,666 @@
+[
+  {
+    "id": "tired-desk",
+    "file": "assets/graphics/tired-desk.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body red man exhausted at desk, cheek on palm, limp arm. Already generated.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "undersupplied-body",
+    "file": "assets/graphics/undersupplied-body.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body expressive red stickman looking down into his open empty lunchbox, shoulders sagging, other hand helpless palm up. Whole coherent actor and lunchbox, no text.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "iron-fe",
+    "file": "assets/graphics/iron-fe.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity asset: one bold red stylized iron atom, a central red sphere with the correct large black symbol Fe; minimal black electron-orbit schematic, no invented bonds. Exact text Fe only. No pills, no character.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "brain-fog",
+    "file": "assets/graphics/brain-fog.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body red man pressing two fingers to his temple, confused weary expression, a small soft gray fog cloud wrapping above the head without hiding eyes. Coherent pose, complete body, no text.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "hemoglobin",
+    "file": "assets/graphics/hemoglobin.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity illustration: one hemoglobin protein schematic, compact four-lobed folded ribbon cluster in two red and dark-red tones with sparse black separation; four small heme pockets suggested within protein. Correct label HEMOGLOBIN directly below, large. No faces, no blood-drop mascot, no formula.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "red-cell",
+    "file": "assets/graphics/red-cell.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration: one human red blood cell as a biconcave disc viewed obliquely, cutaway window to show a few small folded-protein schematics within. Predominantly red, clear black contour. Large label RED BLOOD CELL below. No nucleus, no cartoon face, no text other than label.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "oxygen",
+    "file": "assets/graphics/oxygen.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity asset: oxygen O2 molecule represented by two equal red spheres connected as a simple double-bond schematic, black outlines and large exact label O\u2082 below. No face or extra elements.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "muscle",
+    "file": "assets/graphics/muscle.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration: flexed human upper arm showing striated skeletal muscle fibers in a clean red cutaway, black outlines, separate self-contained arm schematic, readable at small scale. Exact large label MUSCLE. No hand pointing, no torso.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "cell",
+    "file": "assets/graphics/cell.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration: one animal body cell cutaway, broad red outer membrane and transparent open interior, visible small dark red nucleus and three elongated red mitochondria, clean black contours. Single cell; no face; no label or words. Leave interior readable for later separate explanatory particles.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "poor-red-cell",
+    "file": "assets/graphics/poor-red-cell.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration: a small pale red human biconcave red blood cell, thinner and paler center with clear black thin outline, beside a stronger normal red disc for comparison, same perspective. This is one meaningful comparison illustration. No nucleus, no faces, no words, no numerical values.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "oxygen-starved-cell",
+    "file": "assets/graphics/oxygen-starved-cell.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration: one animal body cell cutaway matching reference style, muted red outer membrane, three small dim red mitochondria with sparse black cristae, spacious interior with nucleus. Visibly less active schematic state, no gore, no face, no fire, no particles, no text.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "iced-coffee",
+    "file": "assets/graphics/iced-coffee.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Standalone large clear takeaway cup of iced coffee with black lid and straw, red and white ice cubes, red liquid stylization, bold black contours. Unbranded with no text. Full cup and complete straw, simple flat art.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "empty-stomach",
+    "file": "assets/graphics/empty-stomach.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific empty human stomach schematic cutaway: red curved stomach outline, blank hollow pale-red interior with no food, short esophagus and outlet, clear black details. No face, no labels, no text.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "caffeine",
+    "file": "assets/graphics/caffeine.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity: verified caffeine structural motif, xanthine fused six and five member rings with two C=O groups and three N-methyl branches, flat bold black chemical bonds and sparse red accents. Molecular formula C8H10N4O2 and exact large label CAFFEINE. No extra fake bonds. Readable clean educational chemistry asset, not a pill or coffee cup.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "adenosine",
+    "file": "assets/graphics/adenosine-exact.png",
+    "kind": "exact-scientific-diagram",
+    "source": "PubChem CID 60961 isomeric SMILES; RDKit",
+    "prompt": "Exact chemical diagram replaces inaccurate generated regioisomer; excluded from 65 ImageGen count.",
+    "reference_files": []
+  },
+  {
+    "id": "receptor",
+    "file": "assets/graphics/receptor.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific cell-membrane receptor cross-section, broad red membrane strip and one black-outlined red U-shaped receptor pocket with open top, clean empty docking space. Simplified schematic for caffeine blocking adenosine; no molecule within pocket, no arrows or labels, no text. One standalone mechanism asset.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "adrenal-glands",
+    "file": "assets/graphics/adrenal-glands.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific illustration of two human kidneys with their small triangular adrenal glands sitting on top, kidneys dark red, adrenal caps bright red with thick black contour separating them clearly. Label ADRENAL GLANDS large below. Anatomically plausible, no faces.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "adrenaline",
+    "file": "assets/graphics/adrenaline.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity: adrenaline / epinephrine molecular schematic, catechol six-member aromatic ring with two adjacent OH groups, beta-hydroxyl ethylamine side chain with N-methyl; black bonds with red atom highlights, exact large label ADRENALINE below, no other wording. Clear chemistry teaching asset.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "fake-alive",
+    "file": "assets/graphics/fake-alive.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body red stickman forcing a huge smile while visibly exhausted, eyelids heavy, holding his own cheeks upward with both hands, slumped knees and limp posture. Expressive ironic acting, coherent hands, complete body. No text or props.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "two-hour-timer",
+    "file": "assets/graphics/two-hour-timer.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Standalone bold red black analog timer / alarm clock showing two-hour duration as a clean two-sector arc with exact large text 2 HOURS on face. No invented tiny numbers, no other symbols, full silhouette.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "phone-track",
+    "file": "assets/graphics/phone-track.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "One upright smartphone mockup, white screen, thick red rounded case and black edge, three large red food-log pictograms with simple black progress bars, generous screen whitespace. No text anywhere, no brand, app name, feature name, personal name, logo, numbers or wordmarks. Flat graphic art, front-facing complete phone.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "phone-scan",
+    "file": "assets/graphics/phone-scan.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "One upright smartphone mockup, white screen, red case black edge. Screen shows large overhead balanced meal plate with vegetables and protein within four black scanner corner brackets; small red shutter circle below. No words, no names, no logo, no numbers. Complete phone, front-facing clean flat graphic.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "phone-trends",
+    "file": "assets/graphics/phone-trends.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "One upright smartphone mockup, red case black edge, white screen. Screen shows a simple jagged red trend line on black axes above three neutral-gray nutrient bars with red missing sections. No numerical axes, no text, no names or logos. This is an illustrative log pattern, not clinical diagnosis. Large clean UI, full phone.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "nutrient-gap",
+    "file": "assets/graphics/nutrient-gap.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Standalone nutrition metaphor: a red dinner plate divided into four simple food groups with one visibly empty outlined quarter, clear black borders, three groups represented by vegetables, beans and grains. Large readable empty space conveys gaps. No letters, words, numbers, logos or floating symbols.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "magnesium",
+    "file": "assets/graphics/magnesium.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity illustration of magnesium atom schematic with central red sphere labeled Mg in large black type, sparse simple electron shells in black. Exact text Mg only. No pill, no mascot, no unrelated molecule.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "vitamin-b12",
+    "file": "assets/graphics/vitamin-b12.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific identity asset for vitamin B12: simplified recognizable complex corrin macrocycle schematic with central cobalt Co, red and black chemical illustration, not a pill. Large correct label VITAMIN B12 below. Identify as schematic through simplicity, no invented full molecular formula.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "phone-plan",
+    "file": "assets/graphics/phone-plan.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "One upright smartphone mockup red case black edge white screen. Screen contains four large meal cards in a two by two grid with distinct food pictures: breakfast oats, balanced lunch bowl, beans and vegetables, fruit. One large red checkmark below. No words, names, labels, logos, numbers or branding. Clean spacious full phone.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "juice-glass",
+    "file": "assets/graphics/juice-glass.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Single tall clear juice glass with bold black contours, saturated red juice and small white highlight, simple sliced beet garnish on rim, complete glass no background. No text or logos. Flat illustration matching red stickman world, not photorealistic.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "carrot",
+    "file": "assets/graphics/carrot.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Single fresh carrot with two smaller connected leaf stems, red carrot and black leaf details, clean bold red/black flat silhouette, no lettering, no face. Whole carrot no background.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "spinach",
+    "file": "assets/graphics/spinach.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Small coherent bunch of fresh spinach leaves tied at stems, saturated red leaves with black veins and outline, bold simple plant illustration. No words or faces, standalone transparent asset.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "intestinal-villus",
+    "file": "assets/graphics/intestinal-villus.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific intestinal villus cutaway: one finger-like projection with red epithelial border, internal black-outlined capillary loop and central pale channel, simplified readable anatomy. Several small open spaces outside border for later animated particles, but no particles or arrows included. Exact large label ABSORPTION below; no clinical values or promises.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "energized-cell",
+    "file": "assets/graphics/energized-cell.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Scientific animal cell cutaway, red membrane, visible nucleus and three large clear red mitochondria with readable black cristae. Healthy schematic state, more complete and organized than depleted cell, no cartoon face, fire, sparkles, arrows or words. Broad readable interior.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "zombie",
+    "file": "assets/graphics/zombie.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body red stickman zombie-like with shuffling bent knees, both arms limp forward, eyelids nearly shut, slack mouth and disheveled outline, exaggerated harmless tiredness. No wounds, gore, gray skin or horror extras. Complete expressive rounded red character, no text.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "functional-desk",
+    "file": "assets/graphics/functional-desk.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "Full-body energetic red stickman seated upright at a simple red desk working confidently at an unbranded laptop, alert smiling eyes, one hand typing and other holding a completed blank checklist. Coherent hands and whole chair and legs. No lettering, app logos or words; a few bold black checkmarks on sheet allowed.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "phone-search",
+    "file": "assets/graphics/phone-search.png",
+    "kind": "new",
+    "source": "Built-in ImageGen; actual three style references attached",
+    "prompt": "One upright smartphone mockup with red case black edge and white screen. Large empty outlined search bar with black magnifying-glass icon, and one generic red rounded square app tile with a white leaf pictogram below. No text anywhere, no brand, app name, feature name, personal name or store logo, no number. Entire phone clear, simple flat art.",
+    "reference_files": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "not-lazy",
+    "file": "assets/graphics/not-lazy.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Additional-References/The-Subtle-Manipulator-Extracted/The-Subtle-Manipulator/assets/realize.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "junk-meal",
+    "file": "assets/graphics/junk-meal.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/junk-meal.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "weak",
+    "file": "assets/graphics/weak.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/exhausted-drag.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "useless",
+    "file": "assets/graphics/useless.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/apathy.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "lungs",
+    "file": "assets/graphics/lungs.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/lungs.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "brain",
+    "file": "assets/graphics/brain.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/brain.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "mitochondrion",
+    "file": "assets/graphics/mitochondrion.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/mitochondrion.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "atp",
+    "file": "assets/graphics/atp.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/atp.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "half-dead",
+    "file": "assets/graphics/half-dead.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/rotting-bed.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "coffee-drinker",
+    "file": "assets/graphics/coffee-drinker.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/coffee-sip.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "smug-solution",
+    "file": "assets/graphics/smug-solution.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/sarcastic-presenter.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "battery",
+    "file": "assets/graphics/battery.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/battery.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "exhausted",
+    "file": "assets/graphics/exhausted.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/couch-slouch.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "cortisol",
+    "file": "assets/graphics/cortisol.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/cortisol.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "stress-body",
+    "file": "assets/graphics/stress-body.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/stress-body.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "nervous-system",
+    "file": "assets/graphics/nervous-system.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/nervous-system.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "grave",
+    "file": "assets/graphics/grave.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill-Vertical-Gauge-Project-Extracted/Walking-Magic-Pill/assets/graphics/closed-coffin.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "meal-acting",
+    "file": "assets/graphics/meal-acting.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/meal-plate-approved.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "calendar",
+    "file": "assets/graphics/calendar.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/calendar.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "sugar-spoon",
+    "file": "assets/graphics/sugar-spoon.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/sugar-spoon.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "begging-body",
+    "file": "assets/graphics/begging-body.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/starving-person.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "neglect",
+    "file": "assets/graphics/neglect.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/existential-person.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "balanced-meal",
+    "file": "assets/graphics/balanced-meal.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/diet-plate-v2.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "drinking",
+    "file": "assets/graphics/drinking.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass-Complete-Project-Extracted/Remea-Gut-to-Glass/assets/drinking.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "energetic",
+    "file": "assets/graphics/energetic.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/energetic-person.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "clear-thinking",
+    "file": "assets/graphics/clear-thinking.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/focus-person.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "body-relief",
+    "file": "assets/graphics/body-relief.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/body-relief.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "instructor-diagonal",
+    "file": "assets/graphics/instructor-diagonal.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/cane-presenter.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "instructor-up",
+    "file": "assets/graphics/instructor-up.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/cane-up.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "instructor-straight",
+    "file": "assets/graphics/instructor-straight.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks-Editable-Project-Extracted/Sugar-Two-Weeks/assets/graphics/cane-up-straight-tilt.png",
+    "prompt": null,
+    "reference_files": []
+  },
+  {
+    "id": "ginger",
+    "file": "assets/graphics/ginger.png",
+    "kind": "approved-reuse",
+    "source": "/workspace/scratch/14823762e2d8/workspace/Stickman-Animations-Complete-Workspace/07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass-Complete-Project-Extracted/Remea-Gut-to-Glass/assets/ginger.png",
+    "prompt": null,
+    "reference_files": []
+  }
+]

@@ -50,7 +50,7 @@ def main():
  for i in m['files']:
   if i['bytes']>=100*1024*1024:errors.append('File at or above GitHub size limit: '+i['path'])
  browsable=json.loads((R/'BROWSABLE-REFERENCE-AUDIT.json').read_text())
- if sorted(i['reference'] for i in browsable['projects'])!=list(range(1,7)):errors.append('Expected six browsable original projects')
+ if sorted(i['reference'] for i in browsable['projects'])!=list(range(1,8)):errors.append('Expected seven browsable original projects')
  browsable_count=0;restored_count=0
  for project in browsable['projects']:
   if len(project['files'])!=project['file_count']:errors.append('Browsable member count mismatch: '+project['name'])
@@ -68,6 +68,6 @@ def main():
   if item.get('browsable_render') and sha(R/item['browsable_render'])!=item['sha256']:errors.append('Browsable video changed: '+str(item['reference']))
  if (R/'04-Workflow-and-Animation/Stickman Animations Workflow.md').exists():errors.append('Duplicate standalone workflow')
  if errors:print('\n'.join(errors),file=sys.stderr);return 1
- print(f"Verified {len(m['files'])} files, {len(archives)} ZIPs, {len(pairs)} project renders and {imported} new-project members, {browsable_count} original-six members and {restored_count} restored assets.")
+ print(f"Verified {len(m['files'])} files, {len(archives)} ZIPs, {len(pairs)} project renders and {imported} new-project members, {browsable_count} original-seven members and {restored_count} restored assets.")
  return 0
 if __name__=='__main__':raise SystemExit(main())

@@ -1,5 +1,12 @@
 # Stickman Video Workflow — twelve references
 
+## All twelve references now have browsable source — latest layout, 2 November 2026
+
+Reference 7 (**Iron, Oxygen and Real Energy**) is now browsable under [source/](12-Project-7-Iron-Oxygen-Real-Energy/source/), too. All twelve projects have ordinary source folders: references 1–7 under source/ in their existing numbered directories; references 8–12 directly in folders 14–18. See [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md).
+
+Reference 7 preserves all 174 ZIP members byte-for-byte and additionally includes its three byte-identical restored working WAVs and 70 pixel-identical original-resolution PNGs, including alpha. PNG encoding bytes can differ without visual loss. Both 6 and 7 are ready to use from source/ without restoration; their unchanged optional ZIPs retain their original helper requirement. Original archives and videos remain unchanged. BROWSABLE-REFERENCE-AUDIT.json now covers references 1–7. This supersedes previous reference-7-ZIP-only setup wording.
+
+
 ## References 1–6 are also browsable — 2 November 2026
 
 The twelve-project set now has **11 directly browsable source projects**: references 1–6 under each existing numbered folder's `source/`, and references 8–12 directly in folders 14–18. Reference 7 retains its existing ZIP layout. All seven original project ZIPs remain unchanged as optional download/backups; no project has been renumbered.

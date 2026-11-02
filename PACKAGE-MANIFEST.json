@@ -666,8 +666,8 @@
     },
     {
       "path": "04-Workflow-and-Animation/workflow.md",
-      "bytes": 98612,
-      "sha256": "10a9458c54d8329f5e3700e5aecd4927df5af23b74e72c2e3ea1fa850cb70092"
+      "bytes": 100498,
+      "sha256": "300296508152af77f419155ed14af0428f9c695716efd0598e802c1c67c4f4b7"
     },
     {
       "path": "05-Visual-References.zip",
@@ -3456,8 +3456,1263 @@
     },
     {
       "path": "12-Project-7-Iron-Oxygen-Real-Energy/README.md",
-      "bytes": 1726,
-      "sha256": "68386311d64b9985524dadfafc468720a5586df0d3366778d8634536e0b22c68"
+      "bytes": 2128,
+      "sha256": "c7d793e6b14ffb9f806a17ab8acec63fbe4e2ce5626add2c026f2a086c7c2688"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/REFERENCE-SETUP.md",
+      "bytes": 1598,
+      "sha256": "b34d8c04d27684a8bcccb69af99a28496656a27de11c053381864789ea825184"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/DESIGN.md",
+      "bytes": 3098,
+      "sha256": "5ccadd93c64a06a8b5d30b61333ea4b10465b9c01d553e284acda3065264c4c6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/LOSSLESS-COMPRESSION.json",
+      "bytes": 41167,
+      "sha256": "45aca7be3c9e39f862cdfcc0269cd8aa2cfe049805e97c748d5f517b96c5a5a4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/README.md",
+      "bytes": 3911,
+      "sha256": "a80e67aa8655f71f562bb9e78bf18e7687e2e35697d0e259c10004e7d594873d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/SFX-CREDITS.md",
+      "bytes": 478,
+      "sha256": "ec94b52b917d7fa93cf68a2c667ce9bca8aba44b9d5ed6509109ee57c95d4f79"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/animation.js",
+      "bytes": 4322,
+      "sha256": "1c049c9ec4e139c63a44b1e605830cb42cc72ad2779fe94c9ed8bcac399c3f96"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/asset-inventory.json",
+      "bytes": 13472,
+      "sha256": "bdabaa55c10afd690d6fab8bce14ab30e300e9abb59f9cfb82fb6735556bc772"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/asset-plan.json",
+      "bytes": 29338,
+      "sha256": "b0afb64608494788cda548eb24d7c8fb97c7e87bdd433f83aa8df7e5f34394d0"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/asset-sources.json",
+      "bytes": 33312,
+      "sha256": "22dba65fe34187163993acd7a779eedebe4580c47ecb23d98dc3d95eb1d18200"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/audio/effects.wav",
+      "bytes": 27302444,
+      "sha256": "4669d85c385e617144ab86af4ad7c2e7aab4f06c6a657278aa324dd231676e7d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/audio/mix.wav",
+      "bytes": 27302502,
+      "sha256": "6eaad799243f1546ba9b934a83e40d1196f04c1d9d29796b38c3dff672208148"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/audio/narration.wav",
+      "bytes": 9057778,
+      "sha256": "12665eedab0587f49f386a59ba463e466a08283f9b17b674ab8a4712bcf4c486"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/audio/source-narration.mp3",
+      "bytes": 1586791,
+      "sha256": "d39ef8b8371b845b1bca992fc45c7ab21b59653d2cb05593386d645c39b379d0"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/fonts/caption-bold.ttf",
+      "bytes": 147264,
+      "sha256": "27da758f4dcac9a65abe914c13b463b42982b9909bc65713424099f4810bd1e6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/01-Nutrition-Overview.png",
+      "bytes": 1288516,
+      "sha256": "f7847bd1c77e3a3b2b57e44007b09dcff2aaaabcef9e73aee3739277333230f2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/02-Nutrient-Assessment.png",
+      "bytes": 1292620,
+      "sha256": "51d351fb7c92c0d9fb0a99cf3a3c362775c3d9e5d55a1f701e656161e82e1047"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/03-Nutrition-Patterns.png",
+      "bytes": 1227508,
+      "sha256": "6da7a595c848e5096515a149da2b329ae030f57a7787f8ee94a4e39dcce2da04"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/04-Meal-Planner.png",
+      "bytes": 1470870,
+      "sha256": "a0eff61f59f1b99c90aff72b4ac604141c86f1d5f39c6ab700ea3e1a6f32a6b7"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/05-Juice-Options.png",
+      "bytes": 1267976,
+      "sha256": "fcab77d282d9efc601e53d5bef8122ec786fc5582ef54fb78ce0af56b80c2aa4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/06-Blend-Details.png",
+      "bytes": 1403636,
+      "sha256": "f79695ce8158bae06602ee80310693a297a9cafeb4e92ec78e10e27fed880f21"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/adenosine-exact.png",
+      "bytes": 71311,
+      "sha256": "084edbdc49fb1e15c7ac9a52bff0450818aa6f2474a5a27b25637cebf76f1916"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/adrenal-glands.png",
+      "bytes": 908588,
+      "sha256": "c6c81fcba2e2188a462bd742d508bcb804eb34196c6f26429a47ea90dbae8f45"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/adrenaline.png",
+      "bytes": 1582555,
+      "sha256": "31c5dfd7ea92e6707c0554a2585449a4706c1c6e8aaef3093f119e4af39bf3d9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/atp.png",
+      "bytes": 1576367,
+      "sha256": "e73d9859de1400c37cb07b2fd9df11b575d044a55a338b6cb57596eaf3295628"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/balanced-meal.png",
+      "bytes": 1618462,
+      "sha256": "2a6988182a460a0f0c902370065a683875584f1f2b2a2957ec97f6f403f598ed"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/battery-empty-shell.png",
+      "bytes": 1136048,
+      "sha256": "be6d0de42f7f0ec3aacaf7de2d8dce8c3eeef048d3baa1301e4498576b69977b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/begging-body.png",
+      "bytes": 708495,
+      "sha256": "ea632e0871530cef5f891a542d132194370689b1eb79b38c85abdb6ce335bf9e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/blame.png",
+      "bytes": 543713,
+      "sha256": "dbe0fede244f5602e9237709747299c862d2898dbb8003fcafaec0727160c547"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/body-relief.png",
+      "bytes": 1455631,
+      "sha256": "d7437ddbf5003c0f6726947c051a9338d39566092931456ca62eac8948b8898c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/brain-fog.png",
+      "bytes": 1484652,
+      "sha256": "b0d4b580337f2910125d6dea77dbd7e988fe1501086b9d652f7366cb33605fe9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/brain-fog.png.hvs0wx2h.restore",
+      "bytes": 852153,
+      "sha256": "95014a26cee7f33759fa4e14b362471f794807a80d0a88ff8dbf78aa9760ff5b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/brain.png",
+      "bytes": 1045315,
+      "sha256": "0cf16033076a684f632012cd1f157a911ee5868ddd22d0efd33f529e8397ba0a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/caffeine.png",
+      "bytes": 1523948,
+      "sha256": "aec2a85df879b6ac6dd5721a0e0039dd8d107a0852b7ea464a7028cae3d92795"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/calendar.png",
+      "bytes": 999626,
+      "sha256": "3e422c0d538378a5932100c87ca95bf3da3927462b4cbe62ff946de738d878f9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/cell.png",
+      "bytes": 998094,
+      "sha256": "4b8cef928538d9e4d7a889f2f5822cb6994e9eb789003e4303ebc0cc7cdc9331"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/clear-thinking.png",
+      "bytes": 699968,
+      "sha256": "1984307aca70317c26444851ddb99f8ba9a7b17f7b7fb3575194b92a8df60e26"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/coffee-drinker.png",
+      "bytes": 682401,
+      "sha256": "edacc2546b028c87071426fac5009e379a3c18b37cc4c84fc47fbe43b033a0f5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/cortisol.png",
+      "bytes": 1550798,
+      "sha256": "191ce3995f91a52618741fdb348ce686074515153d8fcacd74b51840706636fc"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/empty-stomach.png",
+      "bytes": 804297,
+      "sha256": "52dae835b57f8c630a62339d2ee59c369158e61f8aec7d0223e9dc0c97ebf9f4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/energetic.png",
+      "bytes": 1428499,
+      "sha256": "214e7119a4144262b40b5dd2034b4a1fb00babb1dcaf1b736af2b9b4a6e7a712"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/energized-cell.png",
+      "bytes": 1508371,
+      "sha256": "dd94acb0062b368ea6593f5142bee1257a9a23cbd3c0c6860d8cf13fe18793f5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/exhausted.png",
+      "bytes": 1518387,
+      "sha256": "905a6be88420ad3842808b247455cd40dc423d2f40772ef9d3d28a624fb7cf48"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/fake-alive.png",
+      "bytes": 1419580,
+      "sha256": "4f59e08c5ff677e5590d43075f0c832cb48f9c747e3f1883c3e286bbb524330a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/functional-desk-face-fixed.png",
+      "bytes": 816008,
+      "sha256": "70efa659377f1baf1a68224adfb163385c7dc4e615bba7ec2f7906eeac2dacd3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/grave.png",
+      "bytes": 1309968,
+      "sha256": "8a630489a55003770a4c5abe1f42a602f3801f74a7e65229a79591dc31cc43d6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/grave.png.0pbd0v57.restore",
+      "bytes": 1114345,
+      "sha256": "19e883569915b949e515f600aea29cfd6f2ee318be9cd491ba8b98f1b1418450"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/half-dead.png",
+      "bytes": 1379695,
+      "sha256": "3f1a4379ada8987c212c4f529ecdab37d05d3b17161e60fa4ebd4bbb95563965"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/hemoglobin.png",
+      "bytes": 1233969,
+      "sha256": "417d7e733f73b6fe41d534bd9ecaf6dae39d947c48cf29e258426b2d0d831bb7"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/iced-coffee.png",
+      "bytes": 1489571,
+      "sha256": "57d43b63bda02015813dd446f24ac8ac160b88a04b6b196a024ee89f0dca0d19"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/instructor-diagonal.png",
+      "bytes": 424478,
+      "sha256": "612c0304ea7c77be9ecb06b95fdffd54ec2852a4750c2b06f1c1e2c81e8ccbe2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/instructor-straight.png",
+      "bytes": 414277,
+      "sha256": "fb558a4198ac1b45b4d21b9dcd415e70f3915a9d73a5ac59705096542db9203c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/instructor-up.png",
+      "bytes": 451621,
+      "sha256": "64a139aa2bcfed2929c292a595bcba72748f8b448d891fdc6e4ecf21f9430e87"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/intestinal-villus.png",
+      "bytes": 1852855,
+      "sha256": "2268e8d2fe068379f84ccef3d94f5cfd3e61e68901cc7c97c74b2987b10a3f4c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/iron-fe.png",
+      "bytes": 1234456,
+      "sha256": "fcf0dc30f105e664284589e9bdd12601a3e5cf50c4374b608c4bbf7dbcf93159"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/junk-meal.png",
+      "bytes": 950566,
+      "sha256": "608a77e71273f2621c9f0fef8fe2796795116ec8345af72829f195bd26f44d19"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/lungs.png",
+      "bytes": 897466,
+      "sha256": "aec38dc9da9b87c3a822faa2ef95e1f4305614379c7c8722e67143c058748254"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/magnesium.png",
+      "bytes": 511442,
+      "sha256": "0867498ec9388d0dd6b8cda76b2b4dea71410893525cb214b40eba1ab51abb91"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/meal-acting.png",
+      "bytes": 697498,
+      "sha256": "52e89901a8059a050d05701086636a9c66e8409bd9d33d53e5b9641dbbf47cf2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/mitochondrion.png",
+      "bytes": 1620644,
+      "sha256": "9850798c7f489e290e8b6dd92c8c2385a0e5ca73a36d47f73060859abfd41448"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/muscle.png",
+      "bytes": 1122193,
+      "sha256": "fb682a4b4a9bc618b61b2aa934b41d0048d3e7814edaa5885f1470658449a088"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/neglect.png",
+      "bytes": 715760,
+      "sha256": "8db5e25f538c63d76a9d07f96f07ef4cfe9aa47d684ecc6670372ab38f5fe351"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/nervous-system.png",
+      "bytes": 1851716,
+      "sha256": "3d5765bf373f4bfbdf8af2f3cc5629f28b172d448e6f9e38819bffe68f0361e3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/not-lazy.png",
+      "bytes": 916451,
+      "sha256": "a8518bde38948b62b0196a09e03af588a9dcc5190f157deac5469b3ac21dbd7e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/nutrient-gap.png",
+      "bytes": 1403527,
+      "sha256": "fce9dc13a617695c9f0c1b8bfdce8edb74b1c6ed366627db323abee3578668fe"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/oxygen-starved-cell.png",
+      "bytes": 1137302,
+      "sha256": "8d65720fde7232c941a9204d3506539264fe92a80a6aacab91d6440d668ea51c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/oxygen.png",
+      "bytes": 531748,
+      "sha256": "0ec068d4125753548e70c37cd0c002a3d9abd7e30b3bfcfc4c40f143471af848"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/phone-scan.png",
+      "bytes": 1518529,
+      "sha256": "2b4773e46214429311aa3009b764c6d2f98c210912b9514ba3779ba4bb7dcb28"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/phone-search.png",
+      "bytes": 1236246,
+      "sha256": "be42fa79fa726cb1ffad1cf75677ff0ef1e5513022d30c97590f3f7ca413aec6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/poor-red-cell.png",
+      "bytes": 1398593,
+      "sha256": "6a9a7d0b2f59439857a3d96ade83c810bd49990b05aae9119b5ac92ff011b9b3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/receptor.png",
+      "bytes": 870586,
+      "sha256": "5c347f11ec12e2b0a616a451bab1629835f2499b82836cab05eb241f4a0b5278"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/red-cell.png",
+      "bytes": 1267348,
+      "sha256": "d8b542c1b7941070838b0e683c625168611c69ebf27a9d0a36c82f230a9501cb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/remea-actual-app-icon.png",
+      "bytes": 670409,
+      "sha256": "d78d0cd536bf1bc9350406b073c8bd597e32b424401e68d1dca213a7b1b4be8b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/smirking-no-full-body.png",
+      "bytes": 1414400,
+      "sha256": "a7ff863004fa9da9daced533f5c350fa3cefd76eb39a52536ce8cadca6be28b4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/smug-solution.png",
+      "bytes": 1367684,
+      "sha256": "d0cb8f27771558f9e981ba03b685197db5a7abaee0ba51a3550c59e85f8ed849"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/stress-body.png",
+      "bytes": 1472877,
+      "sha256": "17b7bb3d82d648fbdce2d6f24580fcec74274db0b5eceed916be3aebc40b8693"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/sugar-spoon.png",
+      "bytes": 1226066,
+      "sha256": "be55415fe919f9c470ec7ef1a75ec814c4942beac911b6df30b17d61a762abbf"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/tired-desk.png",
+      "bytes": 732866,
+      "sha256": "b49f651c30d196df86b72774b6d3acea3e94663c546f9097a764ae0ae8438aa3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/two-hour-timer.png",
+      "bytes": 849577,
+      "sha256": "eb7020afb7768d325b9ea09ca78bc1b2397e9fe7a86d8990783186f007671a6c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/undersupplied-body.png",
+      "bytes": 1480758,
+      "sha256": "108e453cda2d7b5203103517b9a00dcc24278bb8989895cb1b7c38619a68bb77"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/undersupplied-body.png.padxkwmi.restore",
+      "bytes": 852153,
+      "sha256": "7683d40977253d35d501f2327b9b23340df46738c8338dc6b4f75489ba8bbb84"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/useless.png",
+      "bytes": 1149775,
+      "sha256": "f51b08ea9aa3b369b0324f5b7f06516058986e2ab1f10fc616edd12c42d7cd5b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/vitamin-b12.png",
+      "bytes": 883230,
+      "sha256": "db572ee327455098d140f00efd1a990ea6da904be2fc1abb77233eaf5e062dbd"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/weak.png",
+      "bytes": 518483,
+      "sha256": "d33f9602cbaced17ce90edaebd89d3ae66bb5f70253faa721b3fcbe76f4b00cb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/graphics/zombie.png",
+      "bytes": 1489771,
+      "sha256": "443f036a3fc5d9d2f1157d25169a93238ee9654b772bcf416e5e91742d8afd8d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+      "bytes": 248934,
+      "sha256": "893dfa5e969ce42b282d1dca10c51111ad988a63a783c0428fe9d89977d0d948"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+      "bytes": 82182,
+      "sha256": "c41ab00bbd9df6720dbb61cefe98f59535f71145459cc54c205cf61b8b2d9d7c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B02_Dry_Shutter_Click_01.wav",
+      "bytes": 89958,
+      "sha256": "181659ac2b54a24cd8763cef976f10c860e30d8ed54aca5bdcd4ff6abd0fade8"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B03_Low_Tapered_Sweep_01.wav",
+      "bytes": 917382,
+      "sha256": "6d9eba71dad785a9ab0554cbcd46fdc81d26742335d0051b33074bfc46f6d3c6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B06_Soft_Air_Brush_01.wav",
+      "bytes": 143814,
+      "sha256": "2ef83770d54b33aa4563c6d9074771ead42f319bf1c8b174af699638a5f51f26"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+      "bytes": 68934,
+      "sha256": "62f51515854826b0777871d1e3aae3c6c1e32f4d6341ca0323be4fc15c2ca193"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B09_Deep_Passing_Whoosh_02.wav",
+      "bytes": 588198,
+      "sha256": "6dd043f92068b81a0e88c6338a3f1403125fa80e0d7f5a1ca7a36f7846564801"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B10_Camera_Shutter_Short_02.wav",
+      "bytes": 77574,
+      "sha256": "aba368d36fb58c516950ae7e0e9ac6151d3352b87d2b2908cb00a92f2d33395f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B15_Rounded_Plop_01.wav",
+      "bytes": 98598,
+      "sha256": "201f78068cadbdb4e1586dff169b98903091a22a2e70d296e73497b17531e34e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B16_Rounded_Plop_02.wav",
+      "bytes": 81318,
+      "sha256": "3a515a732379dcae0f6cd4657bdcae86964109324e9eca3014899ff35d50778c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B17_Bouncy_Plop_03.wav",
+      "bytes": 62022,
+      "sha256": "6461f112c27b4dfac06d594f014bdf70cdec5ddca2e46d5bcb34ff206e7b2107"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B18_Rounded_Plop_04.wav",
+      "bytes": 59430,
+      "sha256": "056fb7867202141442e408f5288319b50637be71292b2bbaa398111adb186f39"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+      "bytes": 472710,
+      "sha256": "119e22822431b72e13a1e1f9576427e3fb037a9868054e01a07b35e85776c5e9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+      "bytes": 155622,
+      "sha256": "02cdc66718e48e581c43fb2f1933215bc28a39f05f3f5a490321f1d7fa573040"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+      "bytes": 335046,
+      "sha256": "1b08a84c261a1dbafd4964edf977d02f15ab53c69804f6b6e4b69782ab514cce"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B27_Dry_Double_Tick_01.wav",
+      "bytes": 87942,
+      "sha256": "39b9cf6688a9ba9d32348df709e0f55b30e03fba68118ef1bdf742459e9f2120"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B31_Swiping_Whoosh_01.wav",
+      "bytes": 260742,
+      "sha256": "d652161774c8419aa204602637e4ec64fe653f40e6dba915320e825d4f36f70c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+      "bytes": 459996,
+      "sha256": "ce9113282c608486bdd5b02b21cb627e3d674ab2d62cf9000856cbe48cffd01d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C01_Gear_Ratchet_Crank_01.wav",
+      "bytes": 699654,
+      "sha256": "0181a98e556d7678df0027b1250844f8836f1cf5198f4c2aaeaba3181ae70d44"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+      "bytes": 719814,
+      "sha256": "17b4a25a00c381415f27f7cbd43089857b072e52bbf8ed9f39873e2b3dc930fb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+      "bytes": 219846,
+      "sha256": "950f3ba20f5851b62ac1eb7ad6881b0d3d0f2fa105adad67ff399449f54cee8a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C08_Bubble_Plop_05.wav",
+      "bytes": 66918,
+      "sha256": "08039b619c44d4f4d6b9551fb96c6670b1149fa3d1b3ed8ae20a63dce0dbfc30"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+      "bytes": 367590,
+      "sha256": "cb8394e49fb522f74121ff17c068911156b104dd04e730b162944dc214ff5c54"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+      "bytes": 87078,
+      "sha256": "574663669d88ccb3360d2853cd613ca188dcc2320b2ecac170ea87eaab8cc52b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+      "bytes": 320934,
+      "sha256": "5b2313d7e3d704fbd40c51d2f6deecc7ea501ddc2d2663dc47810a4dc0da0889"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C14_Success_Notification_Blip_01.wav",
+      "bytes": 267654,
+      "sha256": "4b160779a193fe9b0e2897cda9cc4dbb25018b8c98ae7f0ace0b03b3e482ca8b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C15_Digital_Glitch_Buzz_01.wav",
+      "bytes": 221574,
+      "sha256": "3edf98f5cafabe848f2d4fbc87d421679e3b0117f1b2c2913bba67227b713b54"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+      "bytes": 385158,
+      "sha256": "5ae8fff924af70a7e30281a003a96a6876827576b5357e52b410e3e976400d65"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C19_Cartoon_Pitch_Rise_01.wav",
+      "bytes": 146118,
+      "sha256": "099b705cfc9129c9fe09631e19036f311de3be3667303325272147493f80b780"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C20_Dry_Crack_Snap_01.wav",
+      "bytes": 172326,
+      "sha256": "b898ae98e91203488dba0d6620e3326c79b120a290193f0439e5c5e7eb74a0cb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/C21_Heavy_Whack_Impact_01.wav",
+      "bytes": 468678,
+      "sha256": "738a11ee729bbd3e3166a81fd269b98148149151593112b0a80eb333c5f123d1"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/Manifest.json",
+      "bytes": 18182,
+      "sha256": "64f480e597314b15362ce5d2456e6723d840537e2530e847571f3db66075e89a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+      "bytes": 123942,
+      "sha256": "0eda27faa3e38ec3d06e273013ca685fbfd32ecefc75be13587c5c38973a2968"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/assets/vendor/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/audio-edits.json",
+      "bytes": 893,
+      "sha256": "7386c1a71fa99e6816d1105ecf26289667767473368e2a1d5ad444ecde65ec2f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/audit_finishing.mjs",
+      "bytes": 1782,
+      "sha256": "9efe2f7cf26e0b694a86ee3af27d1ed355dec90595b420d5f57c10d44d9e36b4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/browser-path.mjs",
+      "bytes": 869,
+      "sha256": "b91ed342a95b633a5bb467a4ceb23a6a7f40db887ddcea6936dbde7040eca285"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/build.py",
+      "bytes": 11384,
+      "sha256": "0b744bbb8dd40bdb207d33966dc2f3c2097305abbcf99de0389aa28abbd22f4b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/captions.json",
+      "bytes": 5864,
+      "sha256": "fa4b14462e761ce792d2a024f736777b7845ae53ab3220360e55359f0515c6b0"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/index.html",
+      "bytes": 94800,
+      "sha256": "3acdd9e8a64a7fbc8c98b2010b0726f7787e4024e4760c9971ab745d9fa3084f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-audio/effects.flac",
+      "bytes": 4466110,
+      "sha256": "0ea4c5b6fbfd35bfa76a998adbfd7bcb24062c0d6cd8437bd28fe3d4944ef90f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-audio/mix.flac",
+      "bytes": 10104295,
+      "sha256": "dbba29bafd913f57f195c6495237d42b9016c1f772490b5bc804237620d6c880"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-audio/narration.flac",
+      "bytes": 3059910,
+      "sha256": "d4e4ef4313218fd98605e51d109ea638650f29ebd89d24a7ddcadc4caf525b78"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/01-Nutrition-Overview.png.webp",
+      "bytes": 688356,
+      "sha256": "91665f6b024887411ba7ce729b4b9249fcfac875c93ea2a115eef74aba61a742"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/02-Nutrient-Assessment.png.webp",
+      "bytes": 688016,
+      "sha256": "30f6c25e01595b9b5fa6c5f1a5074d242c00c65edf1d4ed05019a2dd5f8e4096"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/03-Nutrition-Patterns.png.webp",
+      "bytes": 634746,
+      "sha256": "765e3c3241e105fc3206921809a5342c16d66b3ead3184cab035c1ee08c4b951"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/04-Meal-Planner.png.webp",
+      "bytes": 786368,
+      "sha256": "9214ad2f040ae91fa2614f71fa41d4191c08071808fe7820ecf4fafe454b23b4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/05-Juice-Options.png.webp",
+      "bytes": 685224,
+      "sha256": "cfbb52db99a321896b34b3bbe46d81b8df12e06eaf6598cbb6a119e07d865b22"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/06-Blend-Details.png.webp",
+      "bytes": 750438,
+      "sha256": "38ec67fe493ad954fb284c4b96823832ab5d442dd2821b5e1abd3e3b4e504508"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/adenosine-exact.png.webp",
+      "bytes": 20094,
+      "sha256": "f8a259123c818a3d4c08165426f87b7e41ba7702a08f1aa4787bf154a89f1517"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/adrenal-glands.png.webp",
+      "bytes": 463352,
+      "sha256": "c7e99eb87b715cad0409a7e112aa18e60904f29fb88a8e4d3b7c1ef6fafc3631"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/adrenaline.png.webp",
+      "bytes": 797750,
+      "sha256": "8664fbcc576804a9f5e38971f94a3baafac02b21e50cbdb9c6345fffc7d5c872"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/atp.png.webp",
+      "bytes": 823830,
+      "sha256": "1c3baff1f08238f5a44b7654ee946a0e0431ec666d72311f86c9158be29035e9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/balanced-meal.png.webp",
+      "bytes": 924786,
+      "sha256": "a6ca00d491e385e36aff48f6d6fef9f373902efa60ad110184acef5e064f0cee"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/battery-empty-shell.png.webp",
+      "bytes": 543368,
+      "sha256": "706cadd6096bc4479c3d7b7d5bbf4555ff66bbd76fa8b3b23be3b8cf8f3f991d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/begging-body.png.webp",
+      "bytes": 366026,
+      "sha256": "ebd9a3426854074cc0076be0f15c624f6e3f0be9a9bcbd19fb8914e327bc53bb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/blame.png.webp",
+      "bytes": 266410,
+      "sha256": "b81783947c1048f8e7c4cfa6bdde16b1c9407a62d509299e77c45b14a4440ed5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/body-relief.png.webp",
+      "bytes": 729160,
+      "sha256": "25b5dab578620d7e8bccaaba25a32924a9b15131c9d103e45768fec013847656"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/brain-fog.png.webp",
+      "bytes": 763754,
+      "sha256": "ce94500bf2ecbac62c447934b8d98df092c53a7e110c2514e0cc705b6bd9f62b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/brain.png.webp",
+      "bytes": 584546,
+      "sha256": "ba9539f66dbcadeeadca81a3ec6d75f874213eb50e92003462fabae077f6efdb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/caffeine.png.webp",
+      "bytes": 769098,
+      "sha256": "0615dcfea1cb7bdc6c15b550f6a82cbaed60c156af90f06e6d31fda08ae0b8b3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/calendar.png.webp",
+      "bytes": 519162,
+      "sha256": "42b31c55e971d22d5d5dc63ed562afc9450750e78ec98e97a55ad20f0f2c9cd9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/cell.png.webp",
+      "bytes": 596296,
+      "sha256": "5b1c341cfcb702d1b0758d886f301f29030e137ea91cb61109f0265bf09f04f2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/clear-thinking.png.webp",
+      "bytes": 365108,
+      "sha256": "9aba78429d830df9f59e7f0d7a8b6e02081374a541cc0e816bce793b3e23827d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/coffee-drinker.png.webp",
+      "bytes": 338542,
+      "sha256": "f2c6903cd3c55e677f1e25eec2c7b6682d2e9c864f8d7e8d517e4b8823a73e42"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/cortisol.png.webp",
+      "bytes": 782464,
+      "sha256": "5bc240ab5aa4ced6ef1f1b56d22754fcf9390c275fd816ab0b2cc47c0ed4489d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/empty-stomach.png.webp",
+      "bytes": 428550,
+      "sha256": "64f956b955d50264972f8e82dc15688204f9cf01e20eff1250f105b51f7303a5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/energetic.png.webp",
+      "bytes": 714098,
+      "sha256": "1daf0ba992b05312100ec94f3c5428795a37c199e5065f7fe8da1f4e88f11d31"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/energized-cell.png.webp",
+      "bytes": 877254,
+      "sha256": "f7b887d6ef7ccd12e727495b740a9c4b2d29fc11e0a9ed5c5a83a9d016ca3e5f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/exhausted.png.webp",
+      "bytes": 761928,
+      "sha256": "bd43759e524a56a4c051e4ce105569472849e22db6cf043dd198152435761151"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/fake-alive.png.webp",
+      "bytes": 712884,
+      "sha256": "ddfde114ea1d70278b94b545d0166d527024669001ee4d5c2bdf47d681c6e398"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/functional-desk-face-fixed.png.webp",
+      "bytes": 432484,
+      "sha256": "7c01aef7679134704327844a7b9997a7989e095067b8ccc58d8101c0402e3282"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/grave.png.webp",
+      "bytes": 634344,
+      "sha256": "2cfd135ddfd0be732dfa041f6c505dc625b35d3776105e82e485e9722f858297"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/half-dead.png.webp",
+      "bytes": 693032,
+      "sha256": "aecb89c7b5e6818b4e30b9dd02dc3847364442aa52533903ea98519ddf05b592"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/hemoglobin.png.webp",
+      "bytes": 693228,
+      "sha256": "96ba516a8c2394a55ea8f1ae47bb9ffb47a9e5a5dd1eb7d4aef25ed4eac60fca"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/iced-coffee.png.webp",
+      "bytes": 776734,
+      "sha256": "279c48bac5604afed916e13f3252eeb8e9648a50ad854819fdb9d21bb8cf5305"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/instructor-diagonal.png.webp",
+      "bytes": 204774,
+      "sha256": "a362162a27de9c32502184f0ccd6865e8a924690bc0fa3a5538ed23bf4d3bfb1"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/instructor-straight.png.webp",
+      "bytes": 205130,
+      "sha256": "6a08f51eb61e1a8cabd94dc7da18d542eb3adcf7c1ad233151bc5aab892f3947"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/instructor-up.png.webp",
+      "bytes": 224964,
+      "sha256": "b40f14ffb6d693f7faf17d047d7dc8336c5c899e7553b2e241ffa76f5ce6c366"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/intestinal-villus.png.webp",
+      "bytes": 1041774,
+      "sha256": "3f9fd8fec18ed41fd88bf35805ee77885c74d456376d165d2078d3ec97bccb2a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/iron-fe.png.webp",
+      "bytes": 705280,
+      "sha256": "dfa7404386128819c52323e7ba491a287f60670d89d3af08075827339550c5eb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/junk-meal.png.webp",
+      "bytes": 493900,
+      "sha256": "292c646a053d0ff7df4f1892e0e459293d1b059b0c95604a282397f576d5a086"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/lungs.png.webp",
+      "bytes": 477936,
+      "sha256": "80a958adc9eb0dd0119e8f28821feff9f52919f919abcc46d222ea5868786be3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/magnesium.png.webp",
+      "bytes": 260728,
+      "sha256": "813ca22b2e67415c17767c5cd0fee03e7ca711d16183518b8e7d700d3c02dc16"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/meal-acting.png.webp",
+      "bytes": 355240,
+      "sha256": "8347745d720ed1803d6b36353a7f5de0482fcce35df0a0b4f26b152967f65ff6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/mitochondrion.png.webp",
+      "bytes": 837514,
+      "sha256": "2e4b5fa4d08adb0eaa6fe95f3d444a38d4d9815172235d1e569e7b92d4e435d0"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/muscle.png.webp",
+      "bytes": 621730,
+      "sha256": "f6b82c1a0d9348c536ae778523ced83f290a39272036361829d0a7044ca39dd6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/neglect.png.webp",
+      "bytes": 364212,
+      "sha256": "c4d06b6904bd0988b63430071ee1ff019da60f6593a46e9c7609814c9e7335d6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/nervous-system.png.webp",
+      "bytes": 1001010,
+      "sha256": "1fdb2b64d4c8611c4c04818292d1baaec2b93a5e9ee7fb44ec6de4ecddd1c92e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/not-lazy.png.webp",
+      "bytes": 487416,
+      "sha256": "af595f4b75859fa04ff63689c06bb1da40c53a2ef79797b86d9d0b71f0782276"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/nutrient-gap.png.webp",
+      "bytes": 795626,
+      "sha256": "33d02780ce419d560ac544242b7af3df246f74c3240baa86a9b2befbb59dd00b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/oxygen-starved-cell.png.webp",
+      "bytes": 597202,
+      "sha256": "21ea80f7962dc59d8eec02131a7c213b0b9386422bbda64978efd21cf9868c25"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/oxygen.png.webp",
+      "bytes": 266066,
+      "sha256": "ef1d4f441dcefef9cfc6303460905dc7445490b6fce245cc043d4899f5bd706d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/phone-scan.png.webp",
+      "bytes": 801002,
+      "sha256": "f6236f02a399b67f11e70b3973e30ffabd918db20a7c2badd1d16ea9637141fd"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/phone-search.png.webp",
+      "bytes": 621842,
+      "sha256": "a4a5c9972288461dd0bfcce72b33454871141929cf5505913f23d7d28cc2b4b8"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/poor-red-cell.png.webp",
+      "bytes": 701524,
+      "sha256": "bd63bc280168b7d4e9fd1e4795ac50a0084d8cd05abd6c5e2acdd28d48acb3bf"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/receptor.png.webp",
+      "bytes": 492718,
+      "sha256": "750b587832d69d40873c585704c1ece2fd3e0bcbcda99bd357df4fe4defa04e7"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/red-cell.png.webp",
+      "bytes": 706700,
+      "sha256": "e4bf4806e83dfc6e3ccfc2a6a57a9e54da865835a9fa8fcb41f72bfa6e1db9f4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/smirking-no-full-body.png.webp",
+      "bytes": 710726,
+      "sha256": "3c4bdd6469443a1f0f23f0d4ef0b70468452443ed240450e029705085d8e5caa"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/smug-solution.png.webp",
+      "bytes": 686538,
+      "sha256": "6d2dc51f05a570dfddc5531c01f27189a60d53dcde429c4c5961340bc4290435"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/stress-body.png.webp",
+      "bytes": 750304,
+      "sha256": "3823a9fe401d3333f293ecbf845f665d753d65c7d6ae1eb2f22c23b497a035c9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/sugar-spoon.png.webp",
+      "bytes": 608726,
+      "sha256": "c8882b0a3b39faf623031e5afbdeb57b895f20a148439a72e6817881c347cd2f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/tired-desk.png.webp",
+      "bytes": 373904,
+      "sha256": "7e359749604bb34f8a8c03e72c8cc378ade1b6572c0df34f1e1fae03bb12d737"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/two-hour-timer.png.webp",
+      "bytes": 428990,
+      "sha256": "4abec3a07a3bf1520f27907413d441fc288f96cb3a6ed7e97a1858a5bdac26aa"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/undersupplied-body.png.webp",
+      "bytes": 753740,
+      "sha256": "1b77048c9d2942eb56fd10b3bfaa74da6f42bb7a199d4ed91510a0e3274bed15"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/useless.png.webp",
+      "bytes": 561062,
+      "sha256": "faae26b898a38c19bb45a03162d04f27a99aaa192549c95051269408732678d6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/vitamin-b12.png.webp",
+      "bytes": 475610,
+      "sha256": "af258b58f34b840bbd798ea05bc1e7f01ef4f64c2e1234bff886ba6fe85a2b1d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/weak.png.webp",
+      "bytes": 256806,
+      "sha256": "c7e3dcb5059ace90cd13ee8be07d4bdc8198115c4d29cfdd1915116a6fc50760"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/assets/graphics/zombie.png.webp",
+      "bytes": 751282,
+      "sha256": "1da0bebbae7819c8135abaee93b58d4f00286289edc6d1f678e5f9bbf8f9e9c4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/references/instructor/01-diagonal.png.webp",
+      "bytes": 204774,
+      "sha256": "a362162a27de9c32502184f0ccd6865e8a924690bc0fa3a5538ed23bf4d3bfb1"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/references/instructor/02-upward.png.webp",
+      "bytes": 224964,
+      "sha256": "b40f14ffb6d693f7faf17d047d7dc8336c5c899e7553b2e241ffa76f5ce6c366"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/references/instructor/03-straight-head-tilt.png.webp",
+      "bytes": 205130,
+      "sha256": "6a08f51eb61e1a8cabd94dc7da18d542eb3adcf7c1ad233151bc5aab892f3947"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/lossless-images/references/red-zone-canvas.png.webp",
+      "bytes": 310278,
+      "sha256": "906d73c0de38ccef8f4a628743862cdc95283b691fbede37816126418be0be8a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/mix_audio.py",
+      "bytes": 6331,
+      "sha256": "68462bd2baa134bb3ec88fd86926562e78b7c763a2daa8b159c570b18a096b8a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/package-lock.json",
+      "bytes": 72264,
+      "sha256": "a341e36c1835b30f205a7cbfaa09ce31cf10eb019f24a0a3324506603d98c849"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/package.json",
+      "bytes": 417,
+      "sha256": "4cdd9fcd6f0ff83e813f491f0ef2ca67432ab5d0ec620780df099bc2af6335a4"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/prepare_audio.py",
+      "bytes": 1768,
+      "sha256": "03c5eb29750a17ae23f4031a7761be573ea0ccbf08d27cd25ff270017c3f6f16"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/FINISHING-POLISH.md",
+      "bytes": 1144,
+      "sha256": "939eaa69a6d368373f11f07f58f5910aa97a1f76a823fb5a2970572cd4455cc5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/SCIENTIFIC-ART-NOTES.md",
+      "bytes": 1723,
+      "sha256": "a27ce054c6be1c40f154497369d8d91426499099a765b29051d3dc36c69d843b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/STATUS.md",
+      "bytes": 619,
+      "sha256": "a289afa4167dbfb9dead4a7bb8c053b597fc3097dace93d8e9f56e7476ded4c1"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/asset-restoration.json",
+      "bytes": 1673,
+      "sha256": "37a54c23296f7dac16a7070807f65e233c7529f12d26a6fa9fca3ff88d882b6c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/audio-mastering.json",
+      "bytes": 710,
+      "sha256": "05b64588267f4cabcf534a3b832be110787c1d0c3af5348cef8a9c3dae9336c6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/encoded-audio-verification.json",
+      "bytes": 123,
+      "sha256": "cc45660bae3dd614ab2fe8d7c3776896dab6eeb6ac444b042dee021e8f47c0d3"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/export-verification.json",
+      "bytes": 577,
+      "sha256": "d1d808086d46d6f9b71fe861294c4e1f7c10fd2254b13a9f1e65496fc702dc18"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/final-schedule.json",
+      "bytes": 38914,
+      "sha256": "e0a13f06b011bfbfd33ac5cf6f4bc042a266525281ead2c40e33653c508ea2a8"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/finishing-audit.json",
+      "bytes": 509,
+      "sha256": "64a6db666561643000002cf29bee0308d611989fa6ba6aa0fb9715c58ddf43d6"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/hyperframes-check.json",
+      "bytes": 62690,
+      "sha256": "66b476e9a7ce58a8e846a6081a6d174bc18ba95e48b782a8c31e7003b692231c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/missing-assets.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/production/quality-report.json",
+      "bytes": 1584,
+      "sha256": "4d32a88dbff68327f2b15d5d4d45cdb05f070bef339b298a2adc951e0d010b72"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/01-IMG-20261023-WA0029.jpg",
+      "bytes": 45404,
+      "sha256": "a8035770a33041449372e8130de6fd6e74d2bca09e75ad02ef41077b87516aff"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/02-IMG-20261023-WA0028.jpg",
+      "bytes": 54322,
+      "sha256": "8f21f9f798c1eedfd2007701b9427ff991688327a4c2364ad2ca7b9539cc35c1"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/03-IMG-20261023-WA0027.jpg",
+      "bytes": 57169,
+      "sha256": "c0ee3cdeb99e1be0bc887c613c1755c6872d78b39fe2edb6d560f6cd7b2d5c56"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/04-IMG-20261023-WA0026.jpg",
+      "bytes": 56836,
+      "sha256": "86b144e98013943c4fbb0a02f06857734e74eed0663ffd36d8ca36de33ae2699"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/05-IMG-20261023-WA0024.jpg",
+      "bytes": 60476,
+      "sha256": "b2652cd66ea5f35da61d55b1c12094de0ddb49d6563655ca39e744e7c4f72329"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/06-IMG-20261023-WA0022.jpg",
+      "bytes": 56490,
+      "sha256": "64014885ef9ca00b1f8af05305ef0bf1901a69ee6e832c0da92f2008ddf90eed"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/07-IMG-20261023-WA0023.jpg",
+      "bytes": 49364,
+      "sha256": "bf024cee020cfe5dfc5a65748d87a74647f410a1be3f60bb72a899798251b47a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/Animation-Sheet.md",
+      "bytes": 5964,
+      "sha256": "8217bc03ca1fe8583a1a997379a539f2e9ef1348987a69ed6e89832c4069a23b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/Instructor-Guide.md",
+      "bytes": 3096,
+      "sha256": "6cdca070f1c8dca37988ec39cab3704507420c7f03f7941e9b661ccc7b95f3e9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/Micro-Explanation-Animation-Study.md",
+      "bytes": 11236,
+      "sha256": "9357188292f740781a4e712146a6f6b0840567348a5555aaf3d1f1ea7fe13409"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/OG-MOTION-STUDY.md",
+      "bytes": 2630,
+      "sha256": "0048e2678c2e3f47102247466d6c8fad56a1ff7917192a6ff8c75a197dcc2971"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/README.md",
+      "bytes": 1744,
+      "sha256": "36301fb5bd1f5fd819b8ea912806fb9d39f44e8c948453946755f948cd2686df"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/Sound-Effects-Usage.md",
+      "bytes": 681,
+      "sha256": "862924957b0f9d8bed69b7c9eddad2a9eed1ef29f5388b1c131eed5d610b313b"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/Stickman Animations Workflow.md",
+      "bytes": 74952,
+      "sha256": "68a960cfdd79c34864442e460d59565b5e8eaa9d6516158d77168b5486e46a5e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/01-diagonal.png",
+      "bytes": 424478,
+      "sha256": "612c0304ea7c77be9ecb06b95fdffd54ec2852a4750c2b06f1c1e2c81e8ccbe2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/02-upward.png",
+      "bytes": 451621,
+      "sha256": "64a139aa2bcfed2929c292a595bcba72748f8b448d891fdc6e4ecf21f9430e87"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/03-straight-head-tilt.png",
+      "bytes": 414277,
+      "sha256": "fb558a4198ac1b45b4d21b9dcd415e70f3915a9d73a5ac59705096542db9203c"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/116-9.jpg",
+      "bytes": 145790,
+      "sha256": "e7cd7ac17b81586f196fa4579e539e9244a22a3222fb51a4243c713e0afedcdb"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/20-4.jpg",
+      "bytes": 114522,
+      "sha256": "be462c811a0c368832df9c007a51ddd974feb243f21decf91b85957c2558adc9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/22-3.jpg",
+      "bytes": 127704,
+      "sha256": "51dd4415807d60ad7b2f467e85179b6276f231b01f90d2245cc94444aaa12b81"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/53-5.jpg",
+      "bytes": 138080,
+      "sha256": "b27a2cc521ca27bf08dd78deac5cb219acf8c75c8d1ac014fff48287180c640d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/55-8.jpg",
+      "bytes": 128499,
+      "sha256": "8a42c554e84e9bc8548fb9fe36058252c3a645b053ec8520109bfddae9ffc04d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/72-6.jpg",
+      "bytes": 135144,
+      "sha256": "cbaf37bd71c0fe44d8748a0db59721527463bdec78a2d46d5bf36f422842b7c7"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/instructor/scene-examples/81-4.jpg",
+      "bytes": 159882,
+      "sha256": "0be9e60f831fe49b80b632af232449028e989e2432f19b53a85ccb4a301a51c2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/red-zone-canvas.png",
+      "bytes": 595189,
+      "sha256": "8f9415ae8c9ec5e4ee8f3bbbf4fb58e5e5f0d6a9acdc4b9ac9fe59d39aa86bcc"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/references/workflow.md",
+      "bytes": 74952,
+      "sha256": "68a960cfdd79c34864442e460d59565b5e8eaa9d6516158d77168b5486e46a5e"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/remake.py",
+      "bytes": 8862,
+      "sha256": "619f21671f0cb48a861e584e1018717b40d1be3665193f62fb6e1b717cefc18f"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/render.mjs",
+      "bytes": 3547,
+      "sha256": "82821ce83a1a4db366a33c7a82c293b55ded2508bc9977892a3538828ccd2935"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/renders/Iron-Oxygen-Real-Energy.mp4",
+      "bytes": 27252680,
+      "sha256": "eceaf8dae8db4305a01016f33a2ec9389fcfcfbecbd1781d66a3efb436dc1da2"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/requirements.txt",
+      "bytes": 40,
+      "sha256": "6f627332ef402dc48085f1d02e709f6f948ed0c2272f8d128caf9c9da7e01c6d"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/restore_assets.py",
+      "bytes": 3370,
+      "sha256": "0a5883ca0d85839cfafcbc7a1c5fc41bc7ade5d9d4ba33a502d1a3093b41a700"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/review.mjs",
+      "bytes": 2928,
+      "sha256": "d4c39f4bd7bac19d38db1cdf578f96e25a1fff22557caee6c481edc40dd371e9"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/script.txt",
+      "bytes": 1695,
+      "sha256": "51f315c68e3c18ad839845cd73d8a4bf6a277867cdd57542f8dc4f9da246b47a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/sound-cues.json",
+      "bytes": 17223,
+      "sha256": "eb31496f42d086960c36cc1070b3058e4f750fb4ab8bf7a87ac1ffe7f0b3f340"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/source-words.json",
+      "bytes": 18755,
+      "sha256": "ac30bf01263bf5c494dbbc757b2f658949303981f15146802ba132f915fbb3a5"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/storyboard.json",
+      "bytes": 24958,
+      "sha256": "2d356febdd0667da783d28dd392b401523112c9bd59a392c60baa55eb8e7bf82"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/storyboard.md",
+      "bytes": 3129,
+      "sha256": "78e8e89682d93ca299aad30241a21060cb3ceca76ef890e89652e40ba3f3063a"
+    },
+    {
+      "path": "12-Project-7-Iron-Oxygen-Real-Energy/source/words.json",
+      "bytes": 18693,
+      "sha256": "eb98d1c72abe85f2dba11d9f289c810abd4786629d5c8f48951e6ad5feea7bc9"
     },
     {
       "path": "13-Bouncy-Animation-Study/Bouncy-Reference-Compilation.mp4",
@@ -8371,8 +9626,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 6219,
-      "sha256": "f349d9dc6cb094b19ca4c329705d6971b7f1a0a4ede441685636098945bb4dfc"
+      "bytes": 7211,
+      "sha256": "baee84e39e274c8c28bc1c6f0d5940f3fed6f1ccf2e55c50395406c20a684f80"
     },
     {
       "path": "ARCHIVE-CONTENTS.json",
@@ -8381,18 +9636,18 @@
     },
     {
       "path": "BROWSABLE-REFERENCE-AUDIT.json",
-      "bytes": 211904,
-      "sha256": "c2e316938a86388f76cc164a65fa053c74898ac2d0d49fe8ce84fb713e58b610"
+      "bytes": 309820,
+      "sha256": "cb9cb347a5dc1cb671d5af5b21d3e59ad21d7dbadb31f6e49a3823e5e80b32b6"
     },
     {
       "path": "DOWNLOADS.md",
-      "bytes": 4833,
-      "sha256": "4f759abc8767ec6430000dd4f30cce666fffad6081aab1eb0756c8365a1d6718"
+      "bytes": 5825,
+      "sha256": "9faeacd08b5c8866a9c45acc64bc8cce45a1abc3b17433ffc35e39a6700f820e"
     },
     {
       "path": "FILE-INDEX.md",
-      "bytes": 317126,
-      "sha256": "1642e7a207dbe3f8c628975b6fe3c86ddf9c92323463ac32086a72bad5cbd784"
+      "bytes": 362308,
+      "sha256": "f9f2d1d125162ff6a572f7f2c6b8e0743989743c32b1881ab6c4692d3489ad27"
     },
     {
       "path": "LOSSLESS-PACKAGING.json",
@@ -8406,13 +9661,13 @@
     },
     {
       "path": "PROJECT-RENDERS-INDEX.json",
-      "bytes": 6415,
-      "sha256": "8e294be3fb7e0afe73167eddf64f75fde71b99c86e23091b6297b4a786df5bda"
+      "bytes": 6603,
+      "sha256": "0f9f4e26f7c91c0ef22c0520c49224c76768225cfe2d831e89f342c366ce078e"
     },
     {
       "path": "README.md",
-      "bytes": 16891,
-      "sha256": "6d3343adca5ac131e1d85b7baefa54f64180aeb75080eaa703d4ea398ad6e2e3"
+      "bytes": 17883,
+      "sha256": "567e079a1efe7eb09c6a17b89b586ff4b28c2015a8bfbf43ff047bb0809d09c8"
     },
     {
       "path": "REFERENCE-IMPORT-AUDIT.json",
@@ -8421,8 +9676,8 @@
     },
     {
       "path": "REFERENCE-PROJECTS.md",
-      "bytes": 5719,
-      "sha256": "eb81dcfe20a06be2361e59199e4bab08c74e92343eaf3a37e81588caf24adf3a"
+      "bytes": 6377,
+      "sha256": "29117c34abaaee10bc5061a06642e6a66c25580754931ebe8ec19b2eaf53dd66"
     },
     {
       "path": "REORGANIZATION.json",
@@ -8431,13 +9686,13 @@
     },
     {
       "path": "START-HERE.md",
-      "bytes": 7016,
-      "sha256": "e498f9bdbb542cd7befca2bb859d6c09aabb0b9bbf86740f8edefb24070b4396"
+      "bytes": 8008,
+      "sha256": "d98d7f112d3c7c9a3bab7847c21eae1cadfe184f0652104afa5b427abb47484c"
     },
     {
       "path": "STUDY-CATALOG.md",
-      "bytes": 7881,
-      "sha256": "0cb66ebed99f931677f448d4ac518d7c820cc4ccc839f8ea35f2508748b5fefe"
+      "bytes": 8873,
+      "sha256": "bf7f5684d52230724bddfe202ff9a0cb709f1b8a39e46434807e4c51edf2fc83"
     },
     {
       "path": "archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin",
@@ -8486,8 +9741,8 @@
     },
     {
       "path": "tools/verify_workspace.py",
-      "bytes": 4820,
-      "sha256": "d3e4efd22ea5082160ab34a11ce6aad7898a097e94764874b61018f58cf20aa2"
+      "bytes": 4824,
+      "sha256": "19ac20836604bccab3e377f208b9e891205d69562cb86fea82a71787ac405358"
     }
   ],
   "reference_layout": {

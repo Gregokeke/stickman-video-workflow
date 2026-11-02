@@ -11,3 +11,8 @@ Extract into a separate writable location and follow the original README and loc
 Other projects mentioned in the original source README are provenance, not extra numbered references added by this update.
 
 After extracting, install the normal project dependencies including Pillow and FFmpeg, then run `python restore_assets.py` before previewing/editing. This restores byte-identical WAVs and pixel-identical original-resolution PNGs from bundled lossless FLAC/WebP files. Existing source scripts and paths then work normally. The finished MP4 plays immediately without restoration. See the ZIP's README and LOSSLESS-COMPRESSION.json.
+
+
+## Current browsable source — 2 November 2026
+
+Open [source/](source/) for all original files plus verified restored working WAV/PNG assets. No restore command is needed in this source folder. [REFERENCE-SETUP.md](REFERENCE-SETUP.md) explains preservation and dependencies. The optional ZIP and original finished MP4 remain unchanged; current canonical workflow instructions govern new production.

@@ -1,0 +1,33 @@
+{
+  "battery": [
+    {
+      "time": 42.2,
+      "filled_bars": 5
+    },
+    {
+      "time": 42.65,
+      "filled_bars": 4
+    },
+    {
+      "time": 42.95,
+      "filled_bars": 3
+    },
+    {
+      "time": 43.27,
+      "filled_bars": 2
+    },
+    {
+      "time": 43.65,
+      "filled_bars": 1
+    }
+  ],
+  "search": {
+    "typed": "Remea",
+    "icon": "assets/graphics/remea-actual-app-icon.png",
+    "iconVisible": 1,
+    "cursorHidden": true,
+    "missing": [],
+    "slashOffset": 0
+  },
+  "passed": true
+}

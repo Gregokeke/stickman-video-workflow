@@ -1,0 +1,434 @@
+[
+  {
+    "id": "tired-desk",
+    "path": "assets/graphics/tired-desk.png",
+    "sha256": "577d1e7560e2794fd4851569d9a8a41352840bbb8f4285979f4d588fabdac517",
+    "kind": "new"
+  },
+  {
+    "id": "undersupplied-body",
+    "path": "assets/graphics/undersupplied-body.png",
+    "sha256": "a4b51a23317f5e416d6c089b99e952b70334bb002a1f9d6ac7591ec72beff688",
+    "kind": "new"
+  },
+  {
+    "id": "iron-fe",
+    "path": "assets/graphics/iron-fe.png",
+    "sha256": "854f9ab34be85e0d438d58b46ee70432e146f8c7223060b583a0ce5438950428",
+    "kind": "new"
+  },
+  {
+    "id": "brain-fog",
+    "path": "assets/graphics/brain-fog.png",
+    "sha256": "1cc6ef5cec0d4a30564b9727a0cf3f88ab4fc2425d7eeb84867c14aa45380d9b",
+    "kind": "new"
+  },
+  {
+    "id": "hemoglobin",
+    "path": "assets/graphics/hemoglobin.png",
+    "sha256": "0869eaaaead537037ecc65ac44ffd33344bd76a30482d72ad2f1843c377c1da1",
+    "kind": "new"
+  },
+  {
+    "id": "red-cell",
+    "path": "assets/graphics/red-cell.png",
+    "sha256": "295795da1c475c701d1b7736a7eec247bdd22ac93e21b35d5a4c2ed9d8d0e417",
+    "kind": "new"
+  },
+  {
+    "id": "oxygen",
+    "path": "assets/graphics/oxygen.png",
+    "sha256": "e1ab52ede703bc6c01696f54f0365bb1fe6631135f688bf2c2fb683bbf7f64a6",
+    "kind": "new"
+  },
+  {
+    "id": "muscle",
+    "path": "assets/graphics/muscle.png",
+    "sha256": "66834739551afeade177b02d035bbf7cf6f5b664ec05cb2fb14f72538c2302a9",
+    "kind": "new"
+  },
+  {
+    "id": "cell",
+    "path": "assets/graphics/cell.png",
+    "sha256": "bf1c29746896da6ff1e1fb3e0ddb31d5076b64872fe4257767b827e80c390f7c",
+    "kind": "new"
+  },
+  {
+    "id": "poor-red-cell",
+    "path": "assets/graphics/poor-red-cell.png",
+    "sha256": "c6ec7367dc260efa6ae96b1d9daf0ce4bf8e0df24cb22f31319aff7946012d0b",
+    "kind": "new"
+  },
+  {
+    "id": "oxygen-starved-cell",
+    "path": "assets/graphics/oxygen-starved-cell.png",
+    "sha256": "e09a7eb423efc05a12f0e23f53bfa2894a6319b20c918451c781e6cf54c58423",
+    "kind": "new"
+  },
+  {
+    "id": "iced-coffee",
+    "path": "assets/graphics/iced-coffee.png",
+    "sha256": "42b7ba0fa030d8e9d58b5d7251975113854d1a75bc59815844a13fee2e2890aa",
+    "kind": "new"
+  },
+  {
+    "id": "empty-stomach",
+    "path": "assets/graphics/empty-stomach.png",
+    "sha256": "fbfee85a3db864636663508b232c3927f2fa3d566fcd835bc2961df0d7c71100",
+    "kind": "new"
+  },
+  {
+    "id": "caffeine",
+    "path": "assets/graphics/caffeine.png",
+    "sha256": "73ea8f9c9d13bad8e47fb8783b2d7386b7f83a9fc0a00e10d23f9697c626a49e",
+    "kind": "new"
+  },
+  {
+    "id": "adenosine",
+    "path": "assets/graphics/adenosine-exact.png",
+    "sha256": "d61e1c905efb45a5840d9d135d145d3c00c092260f3bb323c435fe4f7a134d8d",
+    "kind": "exact-scientific-diagram"
+  },
+  {
+    "id": "receptor",
+    "path": "assets/graphics/receptor.png",
+    "sha256": "488a6a0f9260cc1ed2888138f914d4370fd3eb77152e88282ed1520fd21c9462",
+    "kind": "new"
+  },
+  {
+    "id": "adrenal-glands",
+    "path": "assets/graphics/adrenal-glands.png",
+    "sha256": "661fcc2d2e95cbe514bcd6d33336bf06f20ff46f37a9ee15c0454a49d5d7797e",
+    "kind": "new"
+  },
+  {
+    "id": "adrenaline",
+    "path": "assets/graphics/adrenaline.png",
+    "sha256": "0de56e720b853e1d2a6714aeb52153cf89f910265765f109c9d74c276c9bc59d",
+    "kind": "new"
+  },
+  {
+    "id": "fake-alive",
+    "path": "assets/graphics/fake-alive.png",
+    "sha256": "07f8a01fdfc253aeecc9d983cd5a4b2b8a21c0b71f58b7eb7cb7e8b2aa64e13b",
+    "kind": "new"
+  },
+  {
+    "id": "two-hour-timer",
+    "path": "assets/graphics/two-hour-timer.png",
+    "sha256": "3da927a59f49b63680c58d9d52a781a2157347dcdc85c24d22989e9383d5e557",
+    "kind": "new"
+  },
+  {
+    "id": "phone-track",
+    "path": "assets/graphics/01-Nutrition-Overview.png",
+    "sha256": "d0bf177332c780579a78e4a011584f06d8af56f1378535678c51d30473f079e2",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "phone-scan",
+    "path": "assets/graphics/phone-scan.png",
+    "sha256": "d253c84a4d86a192e341394564b201da73bdf54e00963350d6f967542b1445c9",
+    "kind": "new"
+  },
+  {
+    "id": "phone-trends",
+    "path": "assets/graphics/03-Nutrition-Patterns.png",
+    "sha256": "21d68c7d952ef177ab45194eb75e214430426ad80a3ee9abdfaa69d89ef0d178",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "nutrient-gap",
+    "path": "assets/graphics/nutrient-gap.png",
+    "sha256": "63e19fd26a5b129a6ff0072204c0866d0c3638607a5e910b303f57869ce2ff09",
+    "kind": "new"
+  },
+  {
+    "id": "magnesium",
+    "path": "assets/graphics/magnesium.png",
+    "sha256": "f5ab1b66b6e24d677279c008284f1281acda29f2c9d4c8d456d0e01f1b3d5c31",
+    "kind": "new"
+  },
+  {
+    "id": "vitamin-b12",
+    "path": "assets/graphics/vitamin-b12.png",
+    "sha256": "63ce43058ccf316ef6bcf54aac4053511f8d2de1842cdb3fe36ca69d99a7d8eb",
+    "kind": "new"
+  },
+  {
+    "id": "phone-plan",
+    "path": "assets/graphics/04-Meal-Planner.png",
+    "sha256": "0328c435f2f464fa306656f099806994743889395fb5564b9dd6ccfcef5c951a",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "juice-glass",
+    "path": "assets/graphics/juice-glass.png",
+    "sha256": "e441ae796847fa6440f2a247ab3e8bc4e4b7aee8fc2ee9fb1dfb2f467b2f7df1",
+    "kind": "new"
+  },
+  {
+    "id": "carrot",
+    "path": "assets/graphics/carrot.png",
+    "sha256": "45628739999ce8b77ed764d707f5f33dcd9b5a4c7f3b2b5391c6172e4087d60e",
+    "kind": "new"
+  },
+  {
+    "id": "spinach",
+    "path": "assets/graphics/spinach.png",
+    "sha256": "d55079b812a0795035bf8d27e37b2287fe895052a275f564e899f6d790f6c99c",
+    "kind": "new"
+  },
+  {
+    "id": "intestinal-villus",
+    "path": "assets/graphics/intestinal-villus.png",
+    "sha256": "6c393277a60d33b3040abff6779c808423f5edc585ed170fd5024c0c7e6c9c9e",
+    "kind": "new"
+  },
+  {
+    "id": "energized-cell",
+    "path": "assets/graphics/energized-cell.png",
+    "sha256": "21bd4b4e50dece0e352cdab7f2b3eaa512613b74415685a6be64f568e76e659e",
+    "kind": "new"
+  },
+  {
+    "id": "zombie",
+    "path": "assets/graphics/zombie.png",
+    "sha256": "74f32d061b0010f8cd08f44e1993827a3e5b25da1ea80b6ccba5e1696143c414",
+    "kind": "new"
+  },
+  {
+    "id": "functional-desk",
+    "path": "assets/graphics/functional-desk-face-fixed.png",
+    "sha256": "12a5f5fc798beaf4145f1712d98711bf4e1a3957eaa7b72433db602293a3a5d9",
+    "kind": "new"
+  },
+  {
+    "id": "phone-search",
+    "path": "assets/graphics/phone-search.png",
+    "sha256": "8de8cae1fe579f65d6e4477cdcb0b6842b499c42124d3731f6e119d4af71da16",
+    "kind": "new"
+  },
+  {
+    "id": "not-lazy",
+    "path": "assets/graphics/not-lazy.png",
+    "sha256": "f5785c049dc882b6bdd5a746573ac814305bd6ee6e2f3524c3e610d207e760a3",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "junk-meal",
+    "path": "assets/graphics/junk-meal.png",
+    "sha256": "4ca6b005c092d223db78155759435899c82eddd98e09d1421faf2247a87ba605",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "weak",
+    "path": "assets/graphics/weak.png",
+    "sha256": "43fd65bf90ec985313c45894f2b3e3c074319285fafc752c0f444a4d33ce4ccc",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "useless",
+    "path": "assets/graphics/useless.png",
+    "sha256": "e5798ba985c43801e3e60c255b8225dc89553188f69f40be25680f9f2092cd12",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "lungs",
+    "path": "assets/graphics/lungs.png",
+    "sha256": "d0bc393c60410de390d24049c3befb0ebb11fbc5d71c91d5c837aaee8db73469",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "brain",
+    "path": "assets/graphics/brain.png",
+    "sha256": "8793aca8e75209747484216c388e0c21e4e2ecf189e02401aebafd5852875c27",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "mitochondrion",
+    "path": "assets/graphics/mitochondrion.png",
+    "sha256": "421aa2a90ca10cd2026b269ce4271129690adc8828c8a7d6d63a601e9fcff816",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "atp",
+    "path": "assets/graphics/atp.png",
+    "sha256": "32f0430e67e123b9bcc2279e2e56452fc7e56e188161bd99e923443e6dd862a7",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "half-dead",
+    "path": "assets/graphics/half-dead.png",
+    "sha256": "bd4c7e25f6721c2c2bb7c06f6085994ddb55e95a1bd4d3fd485f627831233a53",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "coffee-drinker",
+    "path": "assets/graphics/coffee-drinker.png",
+    "sha256": "8bf0efbef812f70aa0094834ecd8268a631b0bb61a0cc7cd1e0141121f06f07b",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "smug-solution",
+    "path": "assets/graphics/smug-solution.png",
+    "sha256": "ba1a144d94d75a3989463d39d08e3bc6013acd3f03870586cf8a2ff785d05bc9",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "battery",
+    "path": "assets/graphics/battery-empty-shell.png",
+    "sha256": "9d1dfae1c559263f3a997f3abd443295f8c35a88f7fe4c7d6c09a11edd5c67a7",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "exhausted",
+    "path": "assets/graphics/exhausted.png",
+    "sha256": "acaca415033d954178fc08a227e50b46875acb5dbc8eaad40d0fea152451ddf2",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "cortisol",
+    "path": "assets/graphics/cortisol.png",
+    "sha256": "43212b900f60cc856228550aa909286523476618913c7b0122c21c39128fd48e",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "stress-body",
+    "path": "assets/graphics/stress-body.png",
+    "sha256": "b7e037662d5b0b2d54cf80c906ca91132fcb2751c901f8a90f3fb9cefcafbea2",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "nervous-system",
+    "path": "assets/graphics/nervous-system.png",
+    "sha256": "f1633cae4a6ffb9a3e2ad221943db6ff174653842e8d5809e5d52fc17db16f29",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "grave",
+    "path": "assets/graphics/grave.png",
+    "sha256": "7a0eafd7c35b113afa58ce96a51d314ff5a5a5a1b70002bb4ff0423ace47839b",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "meal-acting",
+    "path": "assets/graphics/meal-acting.png",
+    "sha256": "07b999b0bbe43b27bf2d1c8299af8ef85ecd6b7fd2460cc14b92b136723a8ac8",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "calendar",
+    "path": "assets/graphics/calendar.png",
+    "sha256": "4a1c0040ce4402f7a7f7f26904a6df6bf86f1d85878e874f792055aad9538d50",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "sugar-spoon",
+    "path": "assets/graphics/sugar-spoon.png",
+    "sha256": "44910ca238bca81a606d4a241541fb33fd4512c3a870703695b38cba1637f1f0",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "begging-body",
+    "path": "assets/graphics/begging-body.png",
+    "sha256": "98315f707bb45b44880c4faff64351f87cb0d781f17ed5d2e6d255084d53c5d1",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "neglect",
+    "path": "assets/graphics/neglect.png",
+    "sha256": "6eb47ee94c32e165631e21109f0070b8d1c8585e3b4058d63d09045452806f3e",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "balanced-meal",
+    "path": "assets/graphics/balanced-meal.png",
+    "sha256": "8e5aa720a079a32ae20da04c2a4dde68a74ccc95b826ccae6327b01c8b926e8b",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "drinking",
+    "path": "assets/graphics/drinking.png",
+    "sha256": "a8ca04aacb646ab399a8b2ff1da42afdcb2e7e0605e4fc1fd6d39ffae71e274f",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "energetic",
+    "path": "assets/graphics/energetic.png",
+    "sha256": "dc208fda61004eece0ee39a9cd84a94f807830b09a8c6cc40563cc49a3979c78",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "clear-thinking",
+    "path": "assets/graphics/clear-thinking.png",
+    "sha256": "d5c70b8e651dbcfdc08780a25ae6dd69dda57c3a88d794a4e6d6d3f5fb360a96",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "body-relief",
+    "path": "assets/graphics/body-relief.png",
+    "sha256": "dfb5069741c0747496da93752db79d2c2f0d43d34ba4504c814b50237f3532e8",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "instructor-diagonal",
+    "path": "assets/graphics/instructor-diagonal.png",
+    "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "instructor-up",
+    "path": "assets/graphics/instructor-up.png",
+    "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "instructor-straight",
+    "path": "assets/graphics/instructor-straight.png",
+    "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "ginger",
+    "path": "assets/graphics/ginger.png",
+    "sha256": "b8e3c9eece3731f3b3b7a7d3814189b72216443f70271658d3ca83c3f7ab8f3a",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "blame",
+    "path": "assets/graphics/blame.png",
+    "sha256": "cf50c102b5cdaa4ecd7a13c060f6f8dbb19b0dca895f3b448cb53df22cddfa62",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "phone-assessment",
+    "path": "assets/graphics/02-Nutrient-Assessment.png",
+    "sha256": "2087a95fa6618519236863cbc6d312c3c64859a5429e6c180921e9b629cf076f",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "phone-juices",
+    "path": "assets/graphics/05-Juice-Options.png",
+    "sha256": "961525762cccd7234996fbafaf3abed682f47335fc45ab10c77e23b588fa2e42",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "phone-blend",
+    "path": "assets/graphics/06-Blend-Details.png",
+    "sha256": "f300d8c5d0b6a2913ab7c11a60b9460f7789d14c8f4151874b31a14ade45e949",
+    "kind": "approved-reuse"
+  },
+  {
+    "id": "smirking-no",
+    "path": "assets/graphics/smirking-no-full-body.png",
+    "sha256": "da2ed07dd9fb4f5f62dd6bbd46016e9566f53d90295d548c7a09a1ad78aeeebf",
+    "kind": "new"
+  },
+  {
+    "id": "remea-app-icon",
+    "path": "assets/graphics/remea-actual-app-icon.png",
+    "sha256": "d78d0cd536bf1bc9350406b073c8bd597e32b424401e68d1dca213a7b1b4be8b",
+    "kind": "user-supplied"
+  }
+]
