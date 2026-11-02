@@ -138,7 +138,7 @@ Thirteen finished projects, all with browsable source: references 1–7 under so
 | [04-Workflow-and-Animation/references/style/A-science-host.png](04-Workflow-and-Animation/references/style/A-science-host.png) | 1283307 |
 | [04-Workflow-and-Animation/references/style/D-casual-watcher.png](04-Workflow-and-Animation/references/style/D-casual-watcher.png) | 1352171 |
 | [04-Workflow-and-Animation/references/style/PROVENANCE.json](04-Workflow-and-Animation/references/style/PROVENANCE.json) | 992 |
-| [04-Workflow-and-Animation/workflow.md](04-Workflow-and-Animation/workflow.md) | 108443 |
+| [04-Workflow-and-Animation/workflow.md](04-Workflow-and-Animation/workflow.md) | 119130 |
 | [05-Visual-References.zip](05-Visual-References.zip) | 283532 |
 | [06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip](06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip) | 36584529 |
 | [06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4](06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4) | 4964727 |

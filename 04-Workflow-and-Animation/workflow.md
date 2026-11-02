@@ -950,3 +950,72 @@ Twenty per 30 seconds averages 1.5 seconds per illustration, but is **not a mand
 Keep the established definition: count distinct final illustrations or principal standalone props actually used for a specific narrative purpose. A coherent combined interaction is one illustration, not one per embedded person/object. Zooming, panning, scaling, fading, reusing/copying a file, changing captions, dividing one image into clipped parts, drawing a line, or animating the same graph/energy bar does not produce additional counted illustrations. Functional parts and micro animations still add explanation but do not artificially inflate the original-art count. Do not count unused/discarded artwork, redundant near-identical filler or rapid unreadable flashes. Existing originality/reuse permissions still follow the current brief.
 
 Record tightened duration, the formula-derived minimum, any higher brief requirement, planned and actually used distinct counts, the per-segment allocation and phrase-to-asset coverage. Final checks must confirm both the count and complete context coverage. Maintain all existing spacing, bounded intentional-overlap, clean handoff, accurate path/line, emergence, moving-part, presenter and final-render checks; the higher illustration density must not create clutter or sacrifice comprehension.
+
+
+## 37. Strict comprehensive audio snapping; protect every word and expression — 2 November 2026
+
+**When this happens: at the beginning of production, once the supplied or authorized generated narration is available, before timing alignment, illustration-count calculation, phrase/storyboard planning, artwork generation, animation and the first render.** This is a separate initial audio-preparation stage, not part of the post-render correction-batch process in section 38. Do not postpone snapping until a rendered-video review.
+
+This is a **mandatory production rule**. Remove every removable pause, silence and stretch of dead air throughout the supplied narration, including short internal gaps as well as leading/trailing silence. Do not stop after removing a few obvious long gaps or retain removable pauses merely to be conservative. Preserve every spoken word, syllable, consonant, word ending and audible expression; strict snapping means removing empty time, not clipping speech, cutting off expressive sounds, accelerating the voice or replacing the recording.
+
+This supersedes any earlier gentle-pass default or fixed minimum-gap/padding settings in sections 5.3 and 17 that leave removable silence behind. Earlier numeric thresholds and successful edits remain historical examples, not a reason to skip shorter gaps or apply the same safe settings to every recording. The existing prohibition against transcript-estimated interword cutting still applies: establish real acoustic boundaries rather than treating every recognizer timestamp gap as silence.
+
+### 37.1 Required whole-recording snapping procedure
+
+1. Keep the untouched original recording. Inspect the **entire** waveform/audio locally, not only the first portion or the longest gaps. Detect candidate silences throughout with recording-appropriate acoustic analysis; use local voice activity analysis where helpful. Recheck shorter pauses and quieter passages instead of relying on a single coarse threshold or a minimum gap that hides them.
+2. Separate genuine empty time from quiet speech, articulation, low-level consonants and expressive sounds such as a spoken breath, sigh or laugh. Remove each actual silent pause as tightly as intelligibility permits. Retain only the tiny boundary allowance required to avoid clipped articulation, fused words or clicks, and any pause the user explicitly requires. Do not preserve broad dead-air gaps under the general label of natural pacing.
+3. Adjust individual boundaries using the actual audio. Do not blindly cut on transcript-estimated word edges or apply one aggressive gate to quiet syllables. Very short boundary fades may prevent clicks, but must not erase consonants, expression onsets or word tails. Do not time-stretch or speed up the speaker to simulate silence removal.
+4. Listen to **every edited join**, with enough surrounding speech to judge both sides, and review the complete tightened recording against the original for word/expression completeness. If a cut damages speech or an expression, restore the necessary sound and refine that boundary; this does not justify restoring the whole surrounding pause.
+5. Audit every remaining detected pause. Remove any remaining removable silence; record a concrete reason for any retained interval, such as actual quiet speech/articulation, an audible expression or an explicitly requested pause. A waveform threshold alone cannot certify that all speech is intact or all dead air is gone.
+
+Do not use a target number of removed seconds. A prior recording losing roughly nine seconds rather than three or four demonstrates the desired rigor, not a quota for every script. The correct outcome is **no removable dead air left and no word or expression lost**. Do not manufacture a nine-second saving by cutting speech or stop early because a nominal saving has already been reached.
+
+### 37.2 Timing, records and completion gate
+
+Save original and tightened durations, the total removed time, detected intervals, exact cut/keep intervals, any protected boundary allowance and reasons for retained gaps in the audio-edit map/production notes. Confirm the opening, quiet passages and final word/expression are complete. Reject chopped speech, fused unintelligible words, clipped endings, clicks and unexplained residual pauses.
+
+Only after this snapping pass is complete should the working narration become the definitive timing clock. Reuse/transform valid alignment or transcribe/align locally as needed; ElevenLabs remains TTS-only. Recalculate the illustration minimum from section 36 using the actual tightened narration, then synchronize captions, illustration cues and sound effects to that version. Visual-only revisions do not require repeating an already approved audio pass.
+
+Do not label audio snapping complete solely because a detector ran or a few gaps were removed. Completion requires the whole-recording silence audit, every-join listening check and verified preservation of all wording/expressions. State honestly which listening/verification steps were actually completed.
+
+## 38. Full-video review, timestamped checklist, then batch fixes — 2 November 2026
+
+**When this happens: after a complete video render.** Audio snapping under section 37 must already have been completed before planning and production; this later review verifies the rendered result and does not defer initial silence removal.
+
+This is a **strict mandatory review order**:
+
+**Complete render → review the entire video → finish the timestamped issue checklist → fix the complete batch → render the corrected video → review that complete output and verify the checklist.**
+
+Do **not** discover one ordinary issue, abandon the rest of the review, fix it, render again and repeatedly restart from the beginning. An overlap, late transition, incorrect placement or wrong-context prop is a checklist entry, not a reason to cancel the ongoing full-video review. This supersedes any interpretation of sections 12–13, earlier sample-based review guidance or project-specific notes that permits a stop-on-first-issue/full-render loop. Local preview and targeted frame checks support the process; they do not replace complete output review.
+
+### 38.1 Finish the review before editing or rerendering
+
+After the first completed render, review the **actual entire encoded video from beginning through the full ending, with narration and effects**. Check the opening, all middle scenes and the final word/sound tail. Scrub and inspect every transition frame where required by section 31, including movement overlaps and presenter retargets. A few screenshots, contact sheets, selected transitions or source-timeline inspection are insufficient as the complete review.
+
+While reviewing, record all observed defects in one persistent checklist, for example production/review-checklist.md. Pause or replay a range to identify an issue precisely, then resume and complete the rest of the video; do not jump straight into fixing the first issue. Cover, at minimum:
+
+- Unintended overlaps/touching, insufficient spacing, hidden props, caption/label conflicts and incorrect layer order; distinguish documented grips, cane contact and bounded emergence overlaps.
+- Late outgoing fades/exits, delayed arrivals, accidental double images/ghosts, bad transitions, movement collisions, clipping, unsafe placements and inadequate readable holds.
+- Props/illustrations that do not match the exact spoken phrase, mistimed context changes, missing necessary visual coverage and inappropriate retained context.
+- Emergence source visibility/anchors, component registration, meaningful chart/energy-bar/waveform changes, accurate purposeful drawn paths and correct presenter targets/retarget timing.
+- Caption wording/timing/readability, speech completeness, residual dead air, clipped words/expressions, clicks, poorly timed or overpowering effects and incomplete endings.
+- Current character/anatomy/3D-prop rules, distinct illustration count and the project's other explicit requirements.
+
+Give each issue an ID, exact timestamp or start/end range (prefer mm:ss.mmm), affected scene/asset, observed problem, expected behavior and planned correction. Record severity/dependencies where useful and preserve evidence needed to reproduce it. Five to fifteen issues is an example of a batch size, not a quota or a limit; record every issue found before declaring the review pass complete.
+
+### 38.2 Fix the collected batch before the next full render
+
+Once the end-to-end review is finished, work through **all** checklist items systematically. Group shared causes such as a common late-exit function, but track every affected timestamp/scene. Correct the whole batch and use inexpensive local previews, targeted frame inspection, audio-join checks and source validation to confirm fixes and nearby interactions. Preserve unaffected approved artwork, narration, timing and staging unless a listed issue requires a change.
+
+Track source-fix completion separately from verification in the corrected encoded output. A source edit is not proof that the final video is fixed. Resolve dependencies and record any genuine blocker; do not silently drop unresolved items or render after each individual fix merely to keep restarting the review.
+
+Only produce the next full render when the complete actionable batch is fixed and ready for verification. The normal unit of full rerendering is the **reviewed correction batch**, not one ordinary checklist item.
+
+### 38.3 Verify the corrected full video and finish
+
+Review the corrected encoded video completely again, verify each checklist timestamp and its neighboring handoffs, and check for regressions elsewhere. Mark an item verified only after checking its actual corrected output. If additional defects appear, finish this full pass, collect them into the next timestamped batch, then fix that batch together before another full render. Do not resume the stop-on-first-error pattern.
+
+Keep the workflow finite and evidence-based: when the complete pass, checklist verification and existing delivery checks pass, deliver the matching final video and editable source. Do not add unnecessary renders or repeat broad reviews without a new issue. Do not impose an arbitrary render-count cap that leaves real defects unfixed.
+
+Preserve the checklist, review version/timestamps, source-fix status and final verification status with production records. Report review scope honestly; do not claim complete audiovisual review if only samples were inspected. All earlier spacing, context, audio-protection, phrase-coverage, originality, preservation and final-output requirements remain in force.
+

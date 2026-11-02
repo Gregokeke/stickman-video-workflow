@@ -666,8 +666,8 @@
     },
     {
       "path": "04-Workflow-and-Animation/workflow.md",
-      "bytes": 108443,
-      "sha256": "6015640e34cd56def38e91c8c64a909e363c23d8d7f77bea91bf2be480f50f1e"
+      "bytes": 119130,
+      "sha256": "cc6b5fed7b7a20856fdb32badf32b5833b47f282972d391552a69052504da5c0"
     },
     {
       "path": "05-Visual-References.zip",
@@ -10147,7 +10147,7 @@
     {
       "path": "FILE-INDEX.md",
       "bytes": 376076,
-      "sha256": "a5c7a093b2f9e8512c19d41ba68276bed6354e3ac6297235e10a768cf988eaad"
+      "sha256": "1ee6f801707b6ea62826ad5f65f45f086bc3ebf8a446dd29aa5a89086b043fd0"
     },
     {
       "path": "LOSSLESS-PACKAGING.json",
