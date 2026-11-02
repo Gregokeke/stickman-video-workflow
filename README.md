@@ -1,4 +1,11 @@
-# Stickman Video Workflow — twelve references
+# Stickman Video Workflow — thirteen references
+
+## Thirteen references — The Subtle Manipulator added, 2 November 2026
+
+The complete **The Subtle Manipulator** project is now **reference 13**, in [19-Project-13-The-Subtle-Manipulator/](19-Project-13-The-Subtle-Manipulator/). All 99 original files, including the unchanged final video, artwork, narration, timings, source, design notes and provenance, are directly browsable. No restoration or recompression is needed. Existing references 1–12 keep their numbers and files; the workspace now has **13 finished reference projects, all with browsable source**. The original ZIP backups for 1–7 remain available.
+
+Study Subtle Manipulator for expressive acting and varied connected choreography; use current canonical workflow/style/anatomy/transcription/QA rules. A sample's source reuse history or lack of presenter/micro explanations does not override a new brief. Import/study all thirteen; supporting original-motion, micro and bouncy studies remain separate. See [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) and its source-folder REFERENCE-SETUP.md. This supersedes earlier twelve-reference counts without removing earlier projects or instructions.
+
 
 ## All twelve references now have browsable source — latest layout, 2 November 2026
 

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "schemer",
+    "sha256": "acc7012e81b45713cd82d5c8549c4d717f9d36f76bc45d6ad4f946cf58589978",
+    "path": "assets/schemer.png"
+  },
+  {
+    "id": "warning",
+    "sha256": "252897566a332578d019bccc374f20f64bb3fa2c849454c6ffd870720ffe7f64",
+    "path": "assets/warning.png"
+  },
+  {
+    "id": "liar",
+    "sha256": "97c8b605b1f63a4706fd1ba6fd7b64f257aa6ee1bb6b31a40d1b88187ef18cad",
+    "path": "assets/liar.png"
+  },
+  {
+    "id": "conversation",
+    "sha256": "82a629b38acfb466f6dc46a38a9397b06abbf683be716e52ebbb4d9c86ff6567",
+    "path": "assets/conversation.png"
+  },
+  {
+    "id": "truth-card",
+    "sha256": "d07271a29e4e4c1972881dccb174033ed947852908bd66dda8523b1bb6b9e8be",
+    "path": "assets/truth-card.png"
+  },
+  {
+    "id": "twisted-truth",
+    "sha256": "645f3ea2872910adfb3111953c45c985990aa93114e02c2d343d5997443458e6",
+    "path": "assets/twisted-truth.png"
+  },
+  {
+    "id": "argue",
+    "sha256": "fc6131faa3bb6648833a7fff667d5965b340ae92268151ea967afbc66cb9a786",
+    "path": "assets/argue.png"
+  },
+  {
+    "id": "agree",
+    "sha256": "44096faca2633654a42c616f644c10c043dd98c74a21460e4cd93fec758bb931",
+    "path": "assets/agree.png"
+  },
+  {
+    "id": "nod-head",
+    "sha256": "14e078d93b8cab41be2d9b5b52165510d380ae96a5e7efaef464eca51eb1f86e",
+    "path": "assets/nod-head.png"
+  },
+  {
+    "id": "talking",
+    "sha256": "16ebe36eada8f301ee37f84223939a8a97d3d3bd69f498ba8e1c0519a1d305c9",
+    "path": "assets/talking.png"
+  },
+  {
+    "id": "mirror",
+    "sha256": "032f3e0cc2eb161aa80479d16b1a2a12aeeec7c56cc47953a15ce816d35cec71",
+    "path": "assets/mirror.png"
+  },
+  {
+    "id": "feel-seen",
+    "sha256": "137faaf2e7af9af493332c99525d90a56cdb5a0690742d3796e257776eba9fdd",
+    "path": "assets/feel-seen.png"
+  },
+  {
+    "id": "understood",
+    "sha256": "87e2c52518a2c4a36693b8e8183d951e50553cffd784133092acc153ec98a92e",
+    "path": "assets/understood.png"
+  },
+  {
+    "id": "validated",
+    "sha256": "ee72d45a530823a5bd7c3e7910d28499b5d5bcc225d9fb4ee2e77361d625cfbf",
+    "path": "assets/validated.png"
+  },
+  {
+    "id": "unguarded",
+    "sha256": "678934ee676b16c59640682375199a5c6db0a24827829dc491540163c8a74e49",
+    "path": "assets/unguarded.png"
+  },
+  {
+    "id": "shield",
+    "sha256": "4e52b4f31b81f6db8a7cf58b2cdfcc368284251911bb3363f90d40e7752773b5",
+    "path": "assets/shield.png"
+  },
+  {
+    "id": "plant-hand",
+    "sha256": "5281f9029d8cfc68405a15a892bbf6d046c2f33611b1d29045f73fb5d9525177",
+    "path": "assets/plant-hand.png"
+  },
+  {
+    "id": "idea",
+    "sha256": "6f9a221f35d195f32d2be0a3abed77dd61912570ba761977ccce7a5bfaab8d3b",
+    "path": "assets/idea.png"
+  },
+  {
+    "id": "sneaky",
+    "sha256": "d936f8dcf0318f449cf237e63917263d68346639efae031743ec24b6bde6e2b3",
+    "path": "assets/sneaky.png"
+  },
+  {
+    "id": "self-idea",
+    "sha256": "c3a265ecb31a39c865bb004e7a3e61a53ebbde2cf7239b353531d87311a59d8b",
+    "path": "assets/self-idea.png"
+  },
+  {
+    "id": "fist",
+    "sha256": "ecf0c528867954c016460415fa8847208fa02a14f4a306627257a8ee85d56218",
+    "path": "assets/fist.png"
+  },
+  {
+    "id": "guide",
+    "sha256": "4c6ec65c311fdc0d4b2af7b9a035c6739dd54663f4c4ee50464750701a6f6c73",
+    "path": "assets/guide.png"
+  },
+  {
+    "id": "mind",
+    "sha256": "1302137d064c14497a348719c1c4e41375a209354c3b8d9741f98055a51ed849",
+    "path": "assets/mind.png"
+  },
+  {
+    "id": "choice-thought",
+    "sha256": "30a80c3483e8998364cb70cdbc8be14f447a735bb7b9fa57ae6d739949048022",
+    "path": "assets/choice-thought.png"
+  },
+  {
+    "id": "choice-cards",
+    "sha256": "4fc1e81942be7b8225408dc5cb2faeefd2147659433136997e6f67c92c75ce45",
+    "path": "assets/choice-cards.png"
+  },
+  {
+    "id": "knowing",
+    "sha256": "4da0b8a91156bce035582810d139b3229ddb7a7136327e6c1f9177c485dc1f7a",
+    "path": "assets/knowing.png"
+  },
+  {
+    "id": "realize",
+    "sha256": "f5785c049dc882b6bdd5a746573ac814305bd6ee6e2f3524c3e610d207e760a3",
+    "path": "assets/realize.png"
+  },
+  {
+    "id": "mastermind",
+    "sha256": "c9093c63800d71495f6e543a66f3794202983968e2e7f477b8307f98ad862918",
+    "path": "assets/mastermind.png"
+  },
+  {
+    "id": "megaphone",
+    "sha256": "0f95e1c820db4f2f17cf146432be68f06146ac3efd0c85e6906c9767fdd51d89",
+    "path": "assets/megaphone.png"
+  },
+  {
+    "id": "conditions",
+    "sha256": "81b914bbea859e938f1aca02741e18f406bb4913416dd3c5c39c1f1e5f023c64",
+    "path": "assets/conditions.png"
+  },
+  {
+    "id": "open-door",
+    "sha256": "31accb6cb156c89427022f2d11336246c6cff9c3575305d43969ef8f04e800c1",
+    "path": "assets/open-door.png"
+  },
+  {
+    "id": "self-convinced",
+    "sha256": "cc71ef7d5ee5400398b30a55097285c9e00f26a7959082c7f4a8bed84dc12ea2",
+    "path": "assets/self-convinced.png"
+  },
+  {
+    "id": "realization-eye",
+    "sha256": "bb3e7e9ab74c30ac51a4976e9390e6eedd586fca6869e675e1b43b06ff510f29",
+    "path": "assets/realization-eye.png"
+  },
+  {
+    "id": "fulfilled",
+    "sha256": "78a8bb135bac886f128f6724cca7fbe9898df46ef3f533e50b7962523c9d7014",
+    "path": "assets/fulfilled.png"
+  },
+  {
+    "id": "willing",
+    "sha256": "6fe45df727ab267f71c8c0ac961dcdb304e91a8e14da6054b20095f5e2979c96",
+    "path": "assets/willing.png"
+  }
+]

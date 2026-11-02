@@ -1,0 +1,39 @@
+[
+  {
+    "frame": "frame-00-at-18.9s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-01-at-20.95s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-02-at-22.1s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-03-at-23.6s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-04-at-30.5s.png",
+    "red_foreground_under_UI_pixels": 0,
+    "corrected": true
+  },
+  {
+    "frame": "frame-05-at-35.6s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-06-at-37.2s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-07-at-38.9s.png",
+    "red_foreground_under_UI_pixels": 0
+  },
+  {
+    "frame": "frame-08-at-40.1s.png",
+    "red_foreground_under_UI_pixels": 0
+  }
+]

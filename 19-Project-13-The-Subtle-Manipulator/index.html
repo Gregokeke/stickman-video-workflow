@@ -1,0 +1,312 @@
+<!doctype html><html><head><meta charset="utf-8"><title>The Subtle Manipulator</title><script src="assets/gsap.min.js"></script><style>@font-face{font-family:Caption;src:url('assets/caption-bold.ttf')}*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#fff}#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:#fff;color:#101010;font-family:Caption,Arial,sans-serif}.shade{position:absolute;inset:-20px;z-index:20;pointer-events:none;box-shadow:inset 95px 0 120px -40px #0009,inset -95px 0 120px -40px #0009,inset 0 65px 95px -40px #0006,inset 0 -65px 95px -40px #0006}.asset{position:absolute;opacity:0;transform-origin:50% 50%;will-change:transform,opacity}.asset img{display:block;position:absolute;max-width:none;filter:drop-shadow(-13px 18px 12px rgba(0,0,0,.28))}.caption{position:absolute;left:115px;top:220px;width:850px;height:260px;z-index:25;display:flex;align-items:center;justify-content:center;text-align:center;font-size:62px;font-weight:700;font-style:italic;text-transform:uppercase;line-height:1.12;letter-spacing:-1.8px;opacity:0}.caption span{display:block;max-width:850px;transform:scaleX(.90)}b{color:#de0b13}.negation{position:absolute;inset:0;width:100%;height:100%;z-index:12;pointer-events:none}.negation path{stroke:#101010;stroke-width:19;stroke-linecap:round;fill:none;stroke-dasharray:1000;stroke-dashoffset:1000}</style></head><body><div id="root" data-composition-id="main" data-start="0" data-duration="46.74" data-width="1080" data-height="1920">
+<div class="asset" id="schemer" style="left:85.0px;top:590.0px;width:710px;height:920px;z-index:5" data-layout-allow-overflow><img src="assets/schemer.png" style="left:-164.821px;top:-15.050px;width:1039.643px;height:950.100px" alt="The most dangerous manipulator">
+</div>
+<div class="asset" id="warning" style="left:665.0px;top:490.0px;width:140px;height:140px;z-index:8" data-layout-allow-overflow><img src="assets/warning.png" style="left:-15.778px;top:-1.064px;width:172.809px;height:142.755px" alt="dangerous">
+</div>
+<div class="asset" id="liar" style="left:70.0px;top:660.0px;width:760px;height:800px;z-index:5" data-layout-allow-overflow><img src="assets/liar.png" style="left:-65.272px;top:8.367px;width:847.891px;height:774.864px" alt="is not the one that lies to your face">
+</div>
+<div class="asset" id="conversation" style="left:50.0px;top:720.0px;width:790px;height:740px;z-index:5" data-layout-allow-overflow><img src="assets/conversation.png" style="left:-26.362px;top:-51.689px;width:820.477px;height:820.477px" alt="tells you the truth; slightly twisted">
+</div>
+<div class="asset" id="truth-card" style="left:580.0px;top:670.0px;width:220px;height:220px;z-index:7" data-layout-allow-overflow><img src="assets/truth-card.png" style="left:-64.907px;top:-5.352px;width:349.814px;height:233.209px" alt="truth">
+</div>
+<div class="asset" id="twisted-truth" style="left:290.0px;top:700.0px;width:470px;height:320px;z-index:7" data-layout-allow-overflow><img src="assets/twisted-truth.png" style="left:-62.257px;top:-26.002px;width:590.286px;height:393.524px" alt="just slightly twisted">
+</div>
+<div class="asset" id="argue" style="left:55.0px;top:660.0px;width:790px;height:780px;z-index:5" data-layout-allow-overflow><img src="assets/argue.png" style="left:-20.270px;top:125.155px;width:819.338px;height:546.226px" alt="Real manipulators do not argue">
+</div>
+<div class="asset" id="agree" style="left:95.0px;top:625.0px;width:710px;height:850px;z-index:5" data-layout-allow-overflow><img src="assets/agree.png" style="left:-28.350px;top:4.481px;width:757.879px;height:824.028px" alt="They agree with you">
+</div>
+<div class="asset" id="nod-head" style="left:85.0px;top:615.0px;width:730px;height:850px;z-index:5" data-layout-allow-overflow><img src="assets/nod-head.png" style="left:-80.082px;top:-51.117px;width:882.861px;height:949.313px" alt="Slowly, they nod">
+</div>
+<div class="asset" id="talking" style="left:75.0px;top:600.0px;width:740px;height:900px;z-index:5" data-layout-allow-overflow><img src="assets/talking.png" style="left:-101.113px;top:-23.360px;width:939.231px;height:939.231px" alt="When you speak">
+</div>
+<div class="asset" id="mirror" style="left:55.0px;top:700.0px;width:790px;height:740px;z-index:5" data-layout-allow-overflow><img src="assets/mirror.png" style="left:-15.407px;top:100.911px;width:816.032px;height:544.022px" alt="they mirror your energy">
+</div>
+<div class="asset" id="feel-seen" style="left:100.0px;top:625.0px;width:700px;height:850px;z-index:5" data-layout-allow-overflow><img src="assets/feel-seen.png" style="left:-159.467px;top:-54.790px;width:954.252px;height:954.252px" alt="They make you feel seen">
+</div>
+<div class="asset" id="understood" style="left:55.0px;top:670.0px;width:790px;height:780px;z-index:5" data-layout-allow-overflow><img src="assets/understood.png" style="left:-31.163px;top:109.536px;width:839.751px;height:559.834px" alt="understood">
+</div>
+<div class="asset" id="validated" style="left:90.0px;top:625.0px;width:720px;height:850px;z-index:5" data-layout-allow-overflow><img src="assets/validated.png" style="left:-118.296px;top:-37.596px;width:915.700px;height:915.700px" alt="validated">
+</div>
+<div class="asset" id="unguarded" style="left:90.0px;top:645.0px;width:700px;height:870px;z-index:5" data-layout-allow-overflow><img src="assets/unguarded.png" style="left:-17.643px;top:193.243px;width:732.425px;height:488.283px" alt="the moment your guard drops">
+</div>
+<div class="asset" id="shield" style="left:500.0px;top:1080.0px;width:280px;height:300px;z-index:9" data-layout-allow-overflow><img src="assets/shield.png" style="left:-48.608px;top:-20.019px;width:377.216px;height:341.182px" alt="your guard drops">
+</div>
+<div class="asset" id="plant-hand" style="left:375.0px;top:630.0px;width:430px;height:320px;z-index:9" data-layout-allow-overflow><img src="assets/plant-hand.png" style="left:-8.611px;top:-32.130px;width:443.002px;height:373.874px" alt="they plant an idea">
+</div>
+<div class="asset" id="idea" style="left:545.0px;top:610.0px;width:210px;height:260px;z-index:10" data-layout-allow-overflow><img src="assets/idea.png" style="left:-41.800px;top:-11.818px;width:294.759px;height:286.417px" alt="plant an idea; think it came from you">
+</div>
+<div class="asset" id="sneaky" style="left:80.0px;top:630.0px;width:720px;height:880px;z-index:5" data-layout-allow-overflow><img src="assets/sneaky.png" style="left:-74.815px;top:-57.037px;width:861.481px;height:1001.481px" alt="they do it so subtly">
+</div>
+<div class="asset" id="self-idea" style="left:90.0px;top:645.0px;width:710px;height:870px;z-index:5" data-layout-allow-overflow><img src="assets/self-idea.png" style="left:-126.686px;top:20.833px;width:913.255px;height:834.598px" alt="you think it came from you">
+</div>
+<div class="asset" id="fist" style="left:155.0px;top:735.0px;width:590px;height:650px;z-index:5" data-layout-allow-overflow><img src="assets/fist.png" style="left:-179.133px;top:-110.747px;width:932.627px;height:852.301px" alt="They do not control you with force">
+<svg class="negation" viewBox="0 0 590 650"><path id="slash-fist" d="M106.2 533.0 L483.79999999999995 117.0"/></svg>
+</div>
+<div class="asset" id="guide" style="left:80.0px;top:635.0px;width:740px;height:850px;z-index:5" data-layout-allow-overflow><img src="assets/guide.png" style="left:-135.228px;top:103.206px;width:961.624px;height:641.083px" alt="They merely guide you">
+</div>
+<div class="asset" id="mind" style="left:100.0px;top:640.0px;width:700px;height:860px;z-index:5" data-layout-allow-overflow><img src="assets/mind.png" style="left:-93.189px;top:-29.443px;width:884.933px;height:927.554px" alt="They do not change your mind; they steer it: thinking person guided across frame">
+</div>
+<div class="asset" id="choice-thought" style="left:85.0px;top:615.0px;width:710px;height:890px;z-index:5" data-layout-allow-overflow><img src="assets/choice-thought.png" style="left:-168.713px;top:-47.539px;width:977.285px;height:977.285px" alt="You think you made the choice">
+</div>
+<div class="asset" id="choice-cards" style="left:600.0px;top:670.0px;width:200px;height:220px;z-index:8" data-layout-allow-overflow><img src="assets/choice-cards.png" style="left:-6.633px;top:4.983px;width:213.265px;height:213.265px" alt="the choice">
+</div>
+<div class="asset" id="knowing" style="left:65.0px;top:630.0px;width:720px;height:880px;z-index:5" data-layout-allow-overflow><img src="assets/knowing.png" style="left:-178.930px;top:-67.017px;width:1000.471px;height:1000.471px" alt="That is the entire point">
+</div>
+<div class="asset" id="realize" style="left:75.0px;top:600.0px;width:750px;height:900px;z-index:7" data-layout-allow-overflow><img src="assets/realize.png" style="left:-70.982px;top:-43.831px;width:836.445px;height:1003.734px" alt="You did not">
+</div>
+<div class="asset" id="mastermind" style="left:60.0px;top:660.0px;width:760px;height:820px;z-index:5" data-layout-allow-overflow><img src="assets/mastermind.png" style="left:-102.668px;top:-74.198px;width:927.090px;height:992.873px" alt="The greatest manipulators">
+</div>
+<div class="asset" id="megaphone" style="left:370.0px;top:465.0px;width:480px;height:650px;z-index:8" data-layout-allow-overflow><img src="assets/megaphone.png" style="left:-2.824px;top:76.731px;width:500.571px;height:511.462px" alt="Unspoken words: no direct persuasion">
+</div>
+<div class="asset" id="conditions" style="left:125.0px;top:615.0px;width:650px;height:870px;z-index:5" data-layout-allow-overflow><img src="assets/conditions.png" style="left:14.243px;top:-19.068px;width:610.192px;height:915.288px" alt="They arrange the conditions: a calculating schemer">
+</div>
+<div class="asset" id="open-door" style="left:585.0px;top:645.0px;width:250px;height:470px;z-index:3" data-layout-allow-overflow><img src="assets/open-door.png" style="left:-116.953px;top:11.109px;width:448.498px;height:448.498px" alt="A willing step through an available doorway">
+</div>
+<div class="asset" id="self-convinced" style="left:35.0px;top:725.0px;width:590px;height:850px;z-index:7" data-layout-allow-overflow><img src="assets/self-convinced.png" style="left:-13.022px;top:-29.391px;width:601.936px;height:902.905px" alt="you convince yourself">
+</div>
+<div class="asset" id="realization-eye" style="left:125.0px;top:615.0px;width:640px;height:890px;z-index:5" data-layout-allow-overflow><img src="assets/realization-eye.png" style="left:0.039px;top:-42.620px;width:641.803px;height:962.704px" alt="Wide-eyed recognition">
+</div>
+<div class="asset" id="fulfilled" style="left:55.0px;top:670.0px;width:790px;height:780px;z-index:5" data-layout-allow-overflow><img src="assets/fulfilled.png" style="left:-55.634px;top:-56.809px;width:872.060px;height:872.060px" alt="already done exactly what they wanted">
+</div>
+<div class="asset" id="willing" style="left:60.0px;top:680.0px;width:780px;height:800px;z-index:5" data-layout-allow-overflow><img src="assets/willing.png" style="left:-66.338px;top:-49.296px;width:883.099px;height:883.099px" alt="willingly">
+</div>
+<div class="caption" id="cap0"><span>The most <b>dangerous</b> <b>manipulator</b></span></div>
+<div class="caption" id="cap1"><span>is not the one</span></div>
+<div class="caption" id="cap2"><span>that <b>lies</b> to your face.</span></div>
+<div class="caption" id="cap3"><span>It&#x27;s the one that tells you</span></div>
+<div class="caption" id="cap4"><span>the <b>truth,</b></span></div>
+<div class="caption" id="cap5"><span>just slightly <b>twisted.</b></span></div>
+<div class="caption" id="cap6"><span>Real <b>manipulators</b> don&#x27;t <b>argue.</b></span></div>
+<div class="caption" id="cap7"><span>They <b>agree</b> with you.</span></div>
+<div class="caption" id="cap8"><span>Slowly, they <b>nod.</b></span></div>
+<div class="caption" id="cap9"><span>When you speak,</span></div>
+<div class="caption" id="cap10"><span>they <b>mirror</b> your energy.</span></div>
+<div class="caption" id="cap11"><span>They make you feel <b>seen,</b></span></div>
+<div class="caption" id="cap12"><span><b>understood,</b></span></div>
+<div class="caption" id="cap13"><span><b>validated.</b></span></div>
+<div class="caption" id="cap14"><span>And the moment your <b>guard</b> <b>drops,</b></span></div>
+<div class="caption" id="cap15"><span>they <b>plant</b> an <b>idea.</b></span></div>
+<div class="caption" id="cap16"><span>And they do it so <b>subtly,</b></span></div>
+<div class="caption" id="cap17"><span>you think it came from you.</span></div>
+<div class="caption" id="cap18"><span>They don&#x27;t control you with <b>force.</b></span></div>
+<div class="caption" id="cap19"><span>They merely <b>guide</b> you</span></div>
+<div class="caption" id="cap20"><span>with <b>suggestion.</b></span></div>
+<div class="caption" id="cap21"><span>They don&#x27;t <b>change</b> your mind.</span></div>
+<div class="caption" id="cap22"><span>They <b>steer</b> it.</span></div>
+<div class="caption" id="cap23"><span>You think you made the <b>choice.</b></span></div>
+<div class="caption" id="cap24"><span>That&#x27;s the entire <b>point.</b></span></div>
+<div class="caption" id="cap25"><span>You <b>didn&#x27;t.</b></span></div>
+<div class="caption" id="cap26"><span>The <b>greatest</b> <b>manipulators</b></span></div>
+<div class="caption" id="cap27"><span>never <b>convince</b> you of anything.</span></div>
+<div class="caption" id="cap28"><span>They make the <b>conditions</b></span></div>
+<div class="caption" id="cap29"><span>where you <b>convince</b> <b>yourself.</b></span></div>
+<div class="caption" id="cap30"><span>And by the time you <b>realize,</b></span></div>
+<div class="caption" id="cap31"><span>you&#x27;ve already done</span></div>
+<div class="caption" id="cap32"><span><b>exactly</b> what they <b>wanted,</b></span></div>
+<div class="caption" id="cap33"><span><b>willingly.</b></span></div>
+<div class="shade" data-layout-ignore></div><audio id="audio" src="assets/mix.wav" data-start="0" data-duration="46.74" data-track-index="1"></audio></div>
+<script>window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});window.__timelines.main=tl;
+tl.fromTo("#schemer",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},0.03);
+tl.to("#schemer",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},2.3);
+tl.to("#schemer",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},2.3249999999999997);
+tl.fromTo("#warning",{"opacity": 0, "x": 0, "y": 200, "scale": 0.93, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},0.52);
+tl.to("#warning",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},2.3);
+tl.to("#warning",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},2.3249999999999997);
+tl.fromTo("#liar",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},2.3);
+tl.to("#liar",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},4.46);
+tl.to("#liar",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},4.485);
+tl.fromTo("#conversation",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},4.46);
+tl.to("#conversation",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},8.2);
+tl.to("#conversation",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},8.225);
+tl.fromTo("#truth-card",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},5.15);
+tl.to("#truth-card",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},6.42);
+tl.to("#truth-card",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},6.445);
+tl.fromTo("#twisted-truth",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},6.42);
+tl.to("#twisted-truth",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},8.2);
+tl.to("#twisted-truth",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},8.225);
+tl.fromTo("#argue",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},8.2);
+tl.to("#argue",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},10.16);
+tl.to("#argue",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},10.185);
+tl.fromTo("#agree",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},10.16);
+tl.to("#agree",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},11.2);
+tl.to("#agree",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},11.225);
+tl.fromTo("#nod-head",{"opacity": 0, "x": 0, "y": 35, "scale": 0.67, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},11.2);
+tl.to("#nod-head",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},12.78);
+tl.to("#nod-head",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},12.805);
+tl.fromTo("#talking",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},12.78);
+tl.to("#talking",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},13.8);
+tl.to("#talking",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},13.825000000000001);
+tl.fromTo("#mirror",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},13.8);
+tl.to("#mirror",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},15.2);
+tl.to("#mirror",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},15.225);
+tl.fromTo("#feel-seen",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},15.2);
+tl.to("#feel-seen",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},16.64);
+tl.to("#feel-seen",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},16.665);
+tl.fromTo("#understood",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},16.64);
+tl.to("#understood",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},17.52);
+tl.to("#understood",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},17.544999999999998);
+tl.fromTo("#validated",{"opacity": 0, "x": 0, "y": 200, "scale": 0.93, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},17.52);
+tl.to("#validated",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},18.32);
+tl.to("#validated",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},18.345);
+tl.fromTo("#unguarded",{"opacity": 0, "x": -120, "y": 95, "scale": 0.5676, "rotation": 0},{"opacity": 1, "x": -55, "y": -30, "scale": 0.86, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},18.32);
+tl.to("#unguarded",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},21.38);
+tl.to("#unguarded",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},21.404999999999998);
+tl.fromTo("#shield",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},18.32);
+tl.to("#shield",{"x": 0, "y": 340, "scale": 0.64, "duration": 0.36, "ease": "power2.inOut"},19.28);
+tl.to("#shield",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},19.305);
+tl.fromTo("#plant-hand",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},20.08);
+tl.to("#plant-hand",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},20.8);
+tl.to("#plant-hand",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},20.825);
+tl.fromTo("#idea",{"opacity": 0, "x": 0, "y": 35, "scale": 0.67, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},21.02);
+tl.to("#idea",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},24.66);
+tl.to("#idea",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},24.685);
+tl.fromTo("#sneaky",{"opacity": 0, "x": -365, "y": 115, "scale": 0.7644, "rotation": 0},{"opacity": 1, "x": -65, "y": 90, "scale": 0.84, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},21.38);
+tl.to("#sneaky",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},22.84);
+tl.to("#sneaky",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},22.865);
+tl.fromTo("#self-idea",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},22.84);
+tl.to("#self-idea",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},24.66);
+tl.to("#self-idea",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},24.685);
+tl.fromTo("#fist",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},24.66);
+tl.to("#fist",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},26.58);
+tl.to("#fist",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},26.604999999999997);
+tl.fromTo("#guide",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},26.58);
+tl.to("#guide",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},28.5);
+tl.to("#guide",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},28.525);
+tl.fromTo("#mind",{"opacity": 0, "x": 0, "y": 35, "scale": 0.67, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},28.5);
+tl.to("#mind",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},30.92);
+tl.to("#mind",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},30.945);
+tl.fromTo("#choice-thought",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},30.92);
+tl.to("#choice-thought",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},32.64);
+tl.to("#choice-thought",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},32.665);
+tl.fromTo("#choice-cards",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},31.54);
+tl.to("#choice-cards",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},32.64);
+tl.to("#choice-cards",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},32.665);
+tl.fromTo("#knowing",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},32.64);
+tl.to("#knowing",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},34.32);
+tl.to("#knowing",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},34.345);
+tl.fromTo("#realize",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.38, "ease": "power3.out", "immediateRender": false},34.28);
+tl.to("#realize",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},34.98);
+tl.to("#realize",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},35.004999999999995);
+tl.fromTo("#mastermind",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},34.98);
+tl.to("#mastermind",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},38.18);
+tl.to("#mastermind",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},38.205);
+tl.fromTo("#megaphone",{"opacity": 0, "x": 300, "y": 35, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},36.18);
+tl.to("#megaphone",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},38.18);
+tl.to("#megaphone",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},38.205);
+tl.fromTo("#conditions",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},38.18);
+tl.to("#conditions",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},39.5);
+tl.to("#conditions",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},39.525);
+tl.fromTo("#open-door",{"opacity": 0, "x": 0, "y": 200, "scale": 0.93, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},38.58);
+tl.to("#open-door",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},40.74);
+tl.to("#open-door",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},40.765);
+tl.fromTo("#self-convinced",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},39.34);
+tl.to("#self-convinced",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},40.74);
+tl.to("#self-convinced",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},40.765);
+tl.fromTo("#realization-eye",{"opacity": 0, "x": 0, "y": 35, "scale": 0.67, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},40.74);
+tl.to("#realization-eye",{"x": "+=-190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},42.66);
+tl.to("#realization-eye",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},42.684999999999995);
+tl.fromTo("#fulfilled",{"opacity": 0, "x": -300, "y": 25, "scale": 0.91, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},42.66);
+tl.to("#fulfilled",{"x": "+=190", "y": "+=45", "scale": "*=0.84", "duration": 0.4, "ease": "power2.inOut"},45.12);
+tl.to("#fulfilled",{"opacity": 0, "duration": 0.26, "ease": "power1.out"},45.144999999999996);
+tl.fromTo("#willing",{"opacity": 0, "x": -65, "y": 125, "scale": 0.66, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 1, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},45.12);
+tl.to("#schemer",{"x": -85, "y": 120, "scale": 0.82, "duration": 0.48, "ease": "power2.inOut"},0.96);
+tl.to("#schemer",{"x": 0, "y": 0, "scale": 1, "duration": 0.48, "ease": "power2.inOut"},1.62);
+tl.to("#conversation",{"x": -80, "y": 140, "scale": 0.72, "duration": 0.52, "ease": "power2.inOut"},5.02);
+tl.to("#conversation",{"x": -120, "y": 220, "scale": 0.59, "duration": 0.5, "ease": "power2.inOut"},6.42);
+tl.to("#conversation",{"x": -30, "y": 70, "scale": 0.86, "duration": 0.56, "ease": "power2.inOut"},7.3);
+tl.to("#twisted-truth",{"x": 155, "y": -100, "scale": 0.5, "duration": 0.5, "ease": "power2.inOut"},7.3);
+tl.to("#nod-head",{"y": 32, "rotation": 3, "duration": 0.22, "ease": "sine.inOut"},11.72);
+tl.to("#nod-head",{"y": 0, "rotation": 0, "duration": 0.22, "ease": "sine.inOut"},12.02);
+tl.to("#unguarded",{"x": 0, "y": 0, "scale": 1, "duration": 0.48, "ease": "power2.inOut"},19.28);
+tl.to("#unguarded",{"x": -100, "y": 120, "scale": 0.72, "duration": 0.46, "ease": "power2.inOut"},20.08);
+tl.to("#idea",{"x": 20, "y": 0, "scale": 0.9, "duration": 0.45, "ease": "power2.inOut"},21.56);
+tl.to("#idea",{"x": 65, "y": -140, "scale": 0.9, "duration": 0.38, "ease": "power2.inOut"},22.84);
+tl.to("#self-idea",{"x": -90, "y": 100, "scale": 0.84, "duration": 0.4, "ease": "power2.inOut"},23.38);
+tl.to("#self-idea",{"x": 0, "y": 0, "scale": 1, "duration": 0.48, "ease": "power2.inOut"},23.9);
+tl.to("#idea",{"x": 60, "y": -140, "scale": 0.82, "duration": 0.4, "ease": "power2.inOut"},23.9);
+tl.to("#mind",{"x": 0, "y": -70, "scale": 1.1, "duration": 0.45, "ease": "power2.inOut"},29.38);
+tl.to("#mind",{"x": 185, "y": -130, "scale": 0.61, "duration": 0.45, "ease": "power2.inOut"},30.02);
+tl.to("#choice-thought",{"x": -90, "y": 110, "scale": 0.81, "duration": 0.48, "ease": "power2.inOut"},31.4);
+tl.to("#choice-thought",{"x": 0, "y": 0, "scale": 1, "duration": 0.45, "ease": "power2.inOut"},32.03);
+tl.to("#choice-cards",{"x": 25, "y": -50, "scale": 0.75, "duration": 0.42, "ease": "power2.inOut"},32.03);
+tl.to("#knowing",{"x": -80, "y": 120, "scale": 0.84, "duration": 0.4, "ease": "power2.inOut"},33.15);
+tl.to("#mastermind",{"x": -140, "y": 180, "scale": 0.64, "duration": 0.48, "ease": "power2.inOut"},36.0);
+tl.to("#conditions",{"x": -150, "y": 120, "scale": 0.7, "duration": 0.45, "ease": "power2.inOut"},38.7);
+tl.to("#conditions",{"x": -190, "y": 160, "scale": 0.6, "duration": 0.3, "ease": "sine.inOut"},39.18);
+tl.to("#self-convinced",{"x": 0, "y": 0, "scale": 1.04, "duration": 0.45, "ease": "power2.inOut"},39.84);
+tl.to("#realization-eye",{"x": -10, "y": -25, "scale": 1.06, "duration": 0.48, "ease": "power2.inOut"},41.65);
+tl.to("#fulfilled",{"x": -65, "y": 80, "scale": 0.87, "duration": 0.48, "ease": "power2.inOut"},43.55);
+tl.to("#fulfilled",{"x": 0, "y": -15, "scale": 1.02, "duration": 0.5, "ease": "power2.inOut"},44.2);
+tl.to("#willing",{"x": 0, "y": -25, "scale": 1.04, "duration": 0.45, "ease": "power2.inOut"},45.68);
+tl.to("#slash-fist",{"strokeDashoffset": 0, "duration": 0.28, "ease": "power2.out"},24.92);
+tl.fromTo("#guide",{opacity:0,x:-310,y:280,scale:.50},{opacity:1,x:-170,y:280,scale:.58,duration:.42,ease:"power3.out",immediateRender:false},30.02);
+tl.to("#guide",{"opacity": 0, "x": -340, "y": 220, "duration": 0.3, "ease": "power1.out"},30.92);
+tl.fromTo("#cap0",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},0.0);
+tl.set("#cap0",{opacity:0},1.96);
+tl.fromTo("#cap1",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},1.96);
+tl.set("#cap1",{opacity:0},2.84);
+tl.fromTo("#cap2",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},2.84);
+tl.set("#cap2",{opacity:0},4.46);
+tl.fromTo("#cap3",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},4.46);
+tl.set("#cap3",{opacity:0},5.4);
+tl.fromTo("#cap4",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},5.4);
+tl.set("#cap4",{opacity:0},6.26);
+tl.fromTo("#cap5",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},6.26);
+tl.set("#cap5",{opacity:0},8.2);
+tl.fromTo("#cap6",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},8.2);
+tl.set("#cap6",{opacity:0},10.16);
+tl.fromTo("#cap7",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},10.16);
+tl.set("#cap7",{opacity:0},11.2);
+tl.fromTo("#cap8",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},11.2);
+tl.set("#cap8",{opacity:0},12.78);
+tl.fromTo("#cap9",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},12.78);
+tl.set("#cap9",{opacity:0},13.8);
+tl.fromTo("#cap10",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},13.8);
+tl.set("#cap10",{opacity:0},15.2);
+tl.fromTo("#cap11",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},15.2);
+tl.set("#cap11",{opacity:0},16.64);
+tl.fromTo("#cap12",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},16.64);
+tl.set("#cap12",{opacity:0},17.52);
+tl.fromTo("#cap13",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},17.52);
+tl.set("#cap13",{opacity:0},18.32);
+tl.fromTo("#cap14",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},18.32);
+tl.set("#cap14",{opacity:0},20.08);
+tl.fromTo("#cap15",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},20.08);
+tl.set("#cap15",{opacity:0},21.38);
+tl.fromTo("#cap16",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},21.38);
+tl.set("#cap16",{opacity:0},22.84);
+tl.fromTo("#cap17",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},22.84);
+tl.set("#cap17",{opacity:0},24.66);
+tl.fromTo("#cap18",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},24.66);
+tl.set("#cap18",{opacity:0},26.58);
+tl.fromTo("#cap19",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},26.58);
+tl.set("#cap19",{opacity:0},27.58);
+tl.fromTo("#cap20",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},27.58);
+tl.set("#cap20",{opacity:0},28.28);
+tl.fromTo("#cap21",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},28.28);
+tl.set("#cap21",{opacity:0},30.02);
+tl.fromTo("#cap22",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},30.02);
+tl.set("#cap22",{opacity:0},30.92);
+tl.fromTo("#cap23",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},30.92);
+tl.set("#cap23",{opacity:0},32.64);
+tl.fromTo("#cap24",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},32.64);
+tl.set("#cap24",{opacity:0},34.32);
+tl.fromTo("#cap25",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},34.32);
+tl.set("#cap25",{opacity:0},34.98);
+tl.fromTo("#cap26",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},34.98);
+tl.set("#cap26",{opacity:0},36.18);
+tl.fromTo("#cap27",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},36.18);
+tl.set("#cap27",{opacity:0},38.18);
+tl.fromTo("#cap28",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},38.18);
+tl.set("#cap28",{opacity:0},39.06);
+tl.fromTo("#cap29",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},39.06);
+tl.set("#cap29",{opacity:0},40.74);
+tl.fromTo("#cap30",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},40.74);
+tl.set("#cap30",{opacity:0},42.66);
+tl.fromTo("#cap31",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},42.66);
+tl.set("#cap31",{opacity:0},43.68);
+tl.fromTo("#cap32",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},43.68);
+tl.set("#cap32",{opacity:0},45.36);
+tl.fromTo("#cap33",{opacity:0,y:15},{opacity:1,y:0,duration:.11,ease:"power2.out",immediateRender:false},45.36);
+tl.set("#cap33",{opacity:0},46.74);
+tl.seek(0);</script></body></html>

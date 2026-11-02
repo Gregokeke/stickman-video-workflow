@@ -1,0 +1,3 @@
+Pillow
+numpy
+# Optional only for rerunning original transcription: faster-whisper

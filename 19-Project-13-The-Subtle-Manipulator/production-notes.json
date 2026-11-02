@@ -1,0 +1,20 @@
+{
+  "tightened_audio_duration": 46.0663125,
+  "minimum_visual_count": 35,
+  "planned_distinct_visual_count": 35,
+  "used_distinct_visual_count": 35,
+  "source_duration": 52.27102083333333,
+  "output_duration": 46.74,
+  "style": "Quiet-People-Loyal-Friends-1",
+  "motion_reference": "Project 2 When He Goes Quiet Clean Fades",
+  "no_presenter": true,
+  "no_micro_explainers": true,
+  "return_to_center_sequences": [
+    "schemer",
+    "conversation",
+    "self-idea",
+    "choice-thought",
+    "mastermind",
+    "fulfilled"
+  ]
+}

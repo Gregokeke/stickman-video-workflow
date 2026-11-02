@@ -1,4 +1,4 @@
-# Twelve finished reference projects
+# Thirteen finished reference projects
 
 Updated 2 November 2026. Study all twelve plus the supporting original-motion, micro-explanation and bouncy studies. Read the entire current workflow and Style-References.md; older project-specific workflows are historical, including those in expanded folders. Character approval remains A/D with hairless/plain-stickman flexibility and the anatomy exception. Do not copy source narration into a new script or treat every archived style as newly approved.
 
@@ -16,6 +16,7 @@ Updated 2 November 2026. Study all twelve plus the supporting original-motion, m
 | 10 | Kiwi Small Fruit Big Attitude | [Expanded source folder](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/) · [Setup](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/REFERENCE-SETUP.md) | [MP4](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/renders/Kiwi-Small-Fruit-Big-Attitude.mp4) |
 | 11 | Brainwave Besties | [Expanded source folder](17-Project-11-Brainwave-Besties/) · [Setup](17-Project-11-Brainwave-Besties/REFERENCE-SETUP.md) | [MP4](17-Project-11-Brainwave-Besties/renders/Brainwave-Besties.mp4) |
 | 12 | Leg Power Brain Insurance | [Expanded source folder](18-Project-12-Leg-Power-Brain-Insurance/) · [Setup](18-Project-12-Leg-Power-Brain-Insurance/REFERENCE-SETUP.md) | [MP4](18-Project-12-Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4) |
+| 13 | The Subtle Manipulator | [Expanded source folder](19-Project-13-The-Subtle-Manipulator/) · [Setup](19-Project-13-The-Subtle-Manipulator/REFERENCE-SETUP.md) | [MP4](19-Project-13-The-Subtle-Manipulator/renders/The-Subtle-Manipulator.mp4) |
 
 References 1–7 retain their original repository packaging. References 6/7 require their existing restore_assets.py step before source editing. References 8–12 contain every original file directly and need no restore step; follow each original project README/lockfile. All individual files are below 100 MiB. Their original ZIP container bytes are not tracked as oversized files; the import audit records container hashes and every unchanged member.
 
@@ -30,3 +31,7 @@ References 1–6 now expose their complete sources under source/ in their existi
 ## All twelve are now browsable — latest layout, 2 November 2026
 
 Reference 7 has also been expanded under source/ in its existing numbered folder. All twelve references now have directly browsable source. References 6 and 7 are already restored in those source/ folders; no restore command is needed there. Their optional original ZIP downloads keep their original restoration instructions. All seven original ZIPs and all final video bytes remain unchanged. This supersedes the earlier reference-7-ZIP-only statement.
+
+## Thirteen is the current total — 2 November 2026
+
+The Subtle Manipulator is reference 13. All thirteen have browsable source; no references 1–12 were renumbered. This supersedes earlier twelve-reference counts in the retained layout notes. Read the current canonical workflow and all project setup/source notes.

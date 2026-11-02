@@ -43,3 +43,10 @@ Use [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) to open the right source fold
 Reference 7 (**Iron, Oxygen and Real Energy**) is now browsable under [source/](12-Project-7-Iron-Oxygen-Real-Energy/source/), too. All twelve projects have ordinary source folders: references 1–7 under source/ in their existing numbered directories; references 8–12 directly in folders 14–18. See [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md).
 
 Reference 7 preserves all 174 ZIP members byte-for-byte and additionally includes its three byte-identical restored working WAVs and 70 pixel-identical original-resolution PNGs, including alpha. PNG encoding bytes can differ without visual loss. Both 6 and 7 are ready to use from source/ without restoration; their unchanged optional ZIPs retain their original helper requirement. Original archives and videos remain unchanged. BROWSABLE-REFERENCE-AUDIT.json now covers references 1–7. This supersedes previous reference-7-ZIP-only setup wording.
+
+
+## Thirteen references — The Subtle Manipulator added, 2 November 2026
+
+The complete **The Subtle Manipulator** project is now **reference 13**, in [19-Project-13-The-Subtle-Manipulator/](19-Project-13-The-Subtle-Manipulator/). All 99 original files, including the unchanged final video, artwork, narration, timings, source, design notes and provenance, are directly browsable. No restoration or recompression is needed. Existing references 1–12 keep their numbers and files; the workspace now has **13 finished reference projects, all with browsable source**. The original ZIP backups for 1–7 remain available.
+
+Study Subtle Manipulator for expressive acting and varied connected choreography; use current canonical workflow/style/anatomy/transcription/QA rules. A sample's source reuse history or lack of presenter/micro explanations does not override a new brief. Import/study all thirteen; supporting original-motion, micro and bouncy studies remain separate. See [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) and its source-folder REFERENCE-SETUP.md. This supersedes earlier twelve-reference counts without removing earlier projects or instructions.

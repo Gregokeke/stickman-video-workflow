@@ -125,5 +125,15 @@
     "sha256": "79a70770b026ebd4df851cb248500930158ff96a02d085cf86068cc2e5361d05",
     "source_archive": "Leg-Power-Brain-Insurance-Project.zip",
     "source_member": "Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4"
+  },
+  {
+    "reference": 13,
+    "layout": "expanded",
+    "source_directory": "19-Project-13-The-Subtle-Manipulator",
+    "render_path": "19-Project-13-The-Subtle-Manipulator/renders/The-Subtle-Manipulator.mp4",
+    "render_size": 19722499,
+    "sha256": "ec24ec225264fdc9b4c79fa956413e90523dce3f16a9869159af956cf7ea877b",
+    "source_archive": "The-Subtle-Manipulator-Editable-Project.zip",
+    "source_member": "The-Subtle-Manipulator/renders/The-Subtle-Manipulator.mp4"
   }
 ]

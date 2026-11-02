@@ -1,0 +1,13 @@
+{
+  "name": "the-subtle-manipulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Psychology animation with 35 expressive illustrations, connected motion and precise sound design.",
+  "scripts": {
+    "render": "hyperframes render --fps 30 --quality high --workers 2 --output renders/The-Subtle-Manipulator.mp4",
+    "review": "hyperframes check"
+  },
+  "dependencies": {
+    "hyperframes": "0.8.181"
+  }
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify current bytes, ZIPs, twelve renders and expanded-reference imports."""
+"""Verify current bytes, ZIPs, numbered renders and expanded-reference imports."""
 from pathlib import Path
 import hashlib,json,sys,zipfile
 R=Path(__file__).resolve().parents[1]

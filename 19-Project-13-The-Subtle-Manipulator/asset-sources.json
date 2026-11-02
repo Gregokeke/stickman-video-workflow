@@ -1,0 +1,187 @@
+{
+  "reused": [
+    {
+      "id": "talking",
+      "source": "Quiet-People-Loyal-Friends-1/assets/sincere.png",
+      "purpose": "An earnest protagonist speaks with an open palm: when you speak."
+    },
+    {
+      "id": "feel-seen",
+      "source": "Quiet-People-Loyal-Friends-1/assets/introvert.png",
+      "purpose": "Shy, warm and receptive acting: feel seen."
+    },
+    {
+      "id": "validated",
+      "source": "Quiet-People-Loyal-Friends-1/assets/loyal-heart.png",
+      "purpose": "Hand to chest, reassured sincere smile: validated."
+    },
+    {
+      "id": "choice-thought",
+      "source": "Quiet-People-Loyal-Friends-1/assets/selective.png",
+      "purpose": "Chin in hand evaluating choices: think you made the choice."
+    },
+    {
+      "id": "willing",
+      "source": "Quiet-People-Loyal-Friends-1/assets/trust.png",
+      "purpose": "Two people willingly shake hands: willingly."
+    },
+    {
+      "id": "conversation",
+      "source": "Quiet-People-Loyal-Friends-1/assets/hanging.png",
+      "purpose": "Relaxed exchange between two people: tells you the truth."
+    },
+    {
+      "id": "knowing",
+      "source": "Quiet-People-Loyal-Friends-1/assets/quiet.png",
+      "purpose": "A guarded knowing smile, arms folded: that is the entire point."
+    },
+    {
+      "id": "mind",
+      "source": "Behind-the-Perfect-Exterior/assets/truth.png",
+      "purpose": "Hand to temple and thoughtful expression: your mind"
+    },
+    {
+      "id": "choice-cards",
+      "source": "Quiet-People-Loyal-Friends-1/assets/friendcards.png",
+      "purpose": "A chosen person among alternatives: the choice"
+    },
+    {
+      "id": "realize",
+      "source": "Behind-the-Perfect-Exterior/assets/notnice.png",
+      "purpose": "Skeptical stop-palm rejection: You did not"
+    },
+    {
+      "id": "mastermind",
+      "source": "Behind-the-Perfect-Exterior/assets/hiding.png",
+      "purpose": "Calculated face concealed by a smiling mask: greatest manipulators"
+    },
+    {
+      "id": "megaphone",
+      "source": "When-He-Goes-Quiet/assets/unsaid.png",
+      "purpose": "Hand over closed mouth and unspoken bubbles: never convince you with direct persuasion"
+    },
+    {
+      "id": "conditions",
+      "source": "Protect-Their-Peace/assets/schemer.png",
+      "purpose": "Hands rubbed together and calculating thought: arranged conditions"
+    },
+    {
+      "id": "open-door",
+      "source": "Walking-Magic-Pill/assets/graphics/doorway-walk.png",
+      "purpose": "A person steps through the available doorway: conditions for a willing choice"
+    },
+    {
+      "id": "self-convinced",
+      "source": "Sugar-Two-Weeks/assets/graphics/satisfied-person.png",
+      "purpose": "Eyes shut and content, arms folded: self-assured conviction"
+    },
+    {
+      "id": "realization-eye",
+      "source": "Sugar-Two-Weeks/assets/graphics/panic-avatar.png",
+      "purpose": "Wide-eyed startled recognition: by the time you realize"
+    },
+    {
+      "id": "fulfilled",
+      "source": "Quiet-People-Loyal-Friends-1/assets/chosen.png",
+      "purpose": "The person voluntarily approaches the selected other: already did what was wanted"
+    }
+  ],
+  "new": [
+    [
+      "schemer",
+      "A waist-up bald RED man in red blazer and black shirt, palms steepled, one raised eyebrow, half-lidded sly smirk. Subtle manipulator, charming rather than evil.",
+      "most dangerous manipulator"
+    ],
+    [
+      "warning",
+      "One standalone red triangular caution sign, thick rounded black outline, black exclamation mark. No pole, hand, or words.",
+      "dangerous"
+    ],
+    [
+      "liar",
+      "Bald red man waist-up, red blazer black shirt, very exaggerated long Pinocchio red nose, open talking mouth and deceptive sideways eyes, one hand making a false promise behind his back. ONE man no other objects.",
+      "not the one that lies to your face"
+    ],
+    [
+      "truth-card",
+      "One standalone red speech bubble with thick black contour and a large BLACK check mark inside. No letters, no person, no other symbols.",
+      "the truth"
+    ],
+    [
+      "twisted-truth",
+      "One standalone bright red speech bubble twisted like a soft ribbon at its middle, black outline and a slightly warped black check mark clearly visible. A readable visual metaphor for a subtly twisted truth. No character or letters.",
+      "slightly twisted"
+    ],
+    [
+      "argue",
+      "Two waist-up rounded red figures angrily confronting each other across a deliberate gap, black brows lowered, open shouting mouths, pointed fingers, one short messy black hair and one bald red blazer. No speech bubbles, no text.",
+      "do not argue"
+    ],
+    [
+      "agree",
+      "One bald rounded red man in red blazer and black shirt, head gently bowed in a knowing nod, friendly closed smile that is just a little too calculated, one relaxed palm held toward viewer in agreement. Large waist-up expressive pose.",
+      "they agree with you"
+    ],
+    [
+      "nod-head",
+      "Close bust of bald red blazer man, chin tucked in mid-nod, raised brows, narrowed amused eyes, tiny closed smile. Hands relaxed and visible at lower chest. No motion lines.",
+      "slowly they nod"
+    ],
+    [
+      "mirror",
+      "Two waist-up rounded red men facing each other across a clear gap. Left messy black hair earnest smile with right palm raised, right bald blazer man imitates same raised-palm pose and tilted head with a subtle sly smile. Mirror body language, coherent matching hands, no actual mirror prop.",
+      "mirror your energy"
+    ],
+    [
+      "understood",
+      "Two waist-up red figures in close conversation but with clear silhouette gap: messy-haired speaker gestures toward chest, bald red blazer listener leans forward attentively with hand cupped beside ear and sympathetic brows. Neither touching.",
+      "understood"
+    ],
+    [
+      "shield",
+      "Standalone chunky red shield with thick black outline and a large simple black padlock emblem at center. No words, no hand, no person.",
+      "your guard"
+    ],
+    [
+      "unguarded",
+      "One waist-up messy-black-haired rounded red protagonist, relaxed shoulders, arms now open and palms turned outward, eyes softly closed with a trusting relieved smile. Red casual shirt. One figure only, no props.",
+      "your guard drops"
+    ],
+    [
+      "plant-hand",
+      "A single isolated RED hand and wrist in a red blazer cuff, fingers delicately pinching a tiny red lightbulb with black outline. Sneaky insertion gesture, bulb separated clearly from fingertips except coherent grip. No person/head, no text.",
+      "plant an idea"
+    ],
+    [
+      "idea",
+      "Standalone red lightbulb with bold black outline and a black filament, large simple readable silhouette. No rays, no stand, no face, no letters.",
+      "an idea"
+    ],
+    [
+      "sneaky",
+      "Bald rounded red man in blazer, waist-up, one fingertip lightly against closed lips, mischievous raised eyebrow and sideways smirk, other hand hidden casually behind back. Charming subtle not scary.",
+      "so subtly"
+    ],
+    [
+      "self-idea",
+      "Waist-up messy-haired red protagonist, bright convinced smile, one finger pointing toward his own chest, other finger raised in an aha pose. No bulb or bubble baked in, no labels.",
+      "you think it came from you"
+    ],
+    [
+      "fist",
+      "Standalone large RED clenched fist with black contour and a short wrist, force/control metaphor. No arm beyond wrist, no words or motion trails.",
+      "not with force"
+    ],
+    [
+      "guide",
+      "Bald red blazer man waist-up, smiling politely with one open hand gently suggesting a direction toward the right, other hand on chest. Raised sly eyebrow. No finger pointing, no cane, no arrows.",
+      "guide you with suggestion"
+    ]
+  ],
+  "generation_note": "Built-in ImageGen produced 18 new assets, then reported a Plus usage limit. 17 precise approved source images are reused. No replacement renderer or image generator was used.",
+  "source_project_library_ids": {
+    "Quiet-People-Loyal-Friends": "libfile_801a7490d9548191b232d832c0506c7d",
+    "Behind-the-Perfect-Exterior": "libfile_6c795d9d059c8191aa419b3830d1c395",
+    "Six-Reference-Workspace": "libfile_4e4bc02e6dec8191b11a408b47ee3048"
+  }
+}

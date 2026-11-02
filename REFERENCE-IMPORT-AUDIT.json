@@ -1,6 +1,6 @@
 {
   "imported_on": "2026-11-02",
-  "method": "Original ZIP member bytes extracted into individually browsable project folders. No media conversion, lossless restoration or new outer ZIP.",
+  "method": "Original ZIP member bytes extracted into individually browsable project folders. No media conversion, restoration or new outer ZIP for references 8-13.",
   "projects": [
     {
       "reference": 8,
@@ -5768,6 +5768,614 @@
           "repository_path": "18-Project-12-Leg-Power-Brain-Insurance/words.json",
           "bytes": 36935,
           "sha256": "7bf05cd1175026cba8f4e556c2fe959752c79deb9b386cbeb3af52c09a831cf1"
+        }
+      ]
+    },
+    {
+      "reference": 13,
+      "name": "The-Subtle-Manipulator",
+      "directory": "19-Project-13-The-Subtle-Manipulator",
+      "source_archive": "The-Subtle-Manipulator-Editable-Project.zip",
+      "source_zip_bytes": 74619889,
+      "source_zip_sha256": "4bd035ae93f835386d53ecc84a5db79c53d9e3b1a12992e95350e1f5b342b15a",
+      "source_library_file_id": "libfile_2ec9e8bb09e881918abaddad8af07edc",
+      "file_count": 99,
+      "total_original_bytes": 104013589,
+      "focus": "Expressive acting, connected lateral/diagonal choreography, early handoffs and behind-to-front arrivals.",
+      "files": [
+        {
+          "source_member": "The-Subtle-Manipulator/index.html",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/index.html",
+          "bytes": 36944,
+          "sha256": "62925dc11fa8678bf5abf05dd34516ac71ff0fe5b138ff6653bd21a396e061a0"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/DESIGN.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/DESIGN.md",
+          "bytes": 1444,
+          "sha256": "5c00aa390f34e2262ea6065d19da73c3d85d8fbc8f97e6ddd53812b64ba8f62f"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/README.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/README.md",
+          "bytes": 2642,
+          "sha256": "b481b02d395b07e47b68ac5696204e6557deb6e841a009c8e0e14549da1457c7"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/REFERENCE-STUDY.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/REFERENCE-STUDY.md",
+          "bytes": 1610,
+          "sha256": "d2dd5fd8f40e11f2df97323c173ef87fc1b6df4f30ca4dca166c2c9a83342167"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/REVIEW-NOTES.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/REVIEW-NOTES.md",
+          "bytes": 1180,
+          "sha256": "5c39a03f35b9bdf8ff71d647f340e5943a0d84f3c71b13f1d4bdf369acee84b1"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/SFX-CREDITS.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/SFX-CREDITS.md",
+          "bytes": 425,
+          "sha256": "7f824bedacb0dd829b789efa65ecb683efb644ecf2e7a412bb58bbe046f1b925"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/package.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/package.json",
+          "bytes": 421,
+          "sha256": "4c57b9afe4e79cc02f5842aac0d5fd93fc7c87ef2f106cdd19abbaa4c1f0b461"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/package-lock.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/package-lock.json",
+          "bytes": 64070,
+          "sha256": "e2d7dcd7fe3cfe1cb02ee53052bf84d1129521936ce8235bbd71582691802ff7"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/requirements.txt",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/requirements.txt",
+          "bytes": 82,
+          "sha256": "aa11ad629b0005c9fb860a516657577376a4b1305af01189d063814842d4cca7"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/build.py",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/build.py",
+          "bytes": 7775,
+          "sha256": "dfc2c5a99ad9917e56abf897d3a4fc74560faa034344cda6f41aa5c6933fe792"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/prepare_audio.py",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/prepare_audio.py",
+          "bytes": 1750,
+          "sha256": "931eb70b3ead010be3fb8780067df9596bddeb4c62e815baecbb5d183da6f20a"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/mix_audio.py",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/mix_audio.py",
+          "bytes": 4499,
+          "sha256": "5965469632477b77e679478914798df5960485469d70e94465c6a95ee5aa19b9"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/audit-motion.mjs",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/audit-motion.mjs",
+          "bytes": 1606,
+          "sha256": "4e5615ff64b2b9edbfdd95ce48af1964882876beca1971c9f9e7639c829f6e94"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/script.txt",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/script.txt",
+          "bytes": 781,
+          "sha256": "d5c30c872866719b53092414b65e1f1b02f85e56a5628c9a49667a1e9cd1428b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/words.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/words.json",
+          "bytes": 8791,
+          "sha256": "e9c3b09a03ef3c380c1532ced31ba3945413bf289badee59a5222e749ed65e09"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/audio-edits.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/audio-edits.json",
+          "bytes": 1158,
+          "sha256": "f6783bf55a01d4911ea1b36eb3d46d63f28643da0c1fc7c8f55adf0a1325fa52"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/captions.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/captions.json",
+          "bytes": 2834,
+          "sha256": "362bb6d143261d42b8be1d201d9c8c3615f21ebf665350f07c477268aa57212e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/storyboard.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/storyboard.json",
+          "bytes": 7257,
+          "sha256": "04dfebd125fce7ada5174002e8598a62355abac4de0c006c6c7482456e9363a1"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/storyboard.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/storyboard.md",
+          "bytes": 2366,
+          "sha256": "d954d753c026e0f27603679f078a7b1ab5ec21d0a48b8658937181e502c2dd2c"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/moves.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/moves.json",
+          "bytes": 3238,
+          "sha256": "55c6d27bc1d16f2ac96977457a8b77b58914c2d3454f8305dd80c8f8d18db161"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/asset-sources.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/asset-sources.json",
+          "bytes": 8276,
+          "sha256": "ca4c8ace370b2e78b28de1fea8fad9fbd4b35b46555085f1fa4ee8e5469e47b8"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/asset-geometry.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/asset-geometry.json",
+          "bytes": 8242,
+          "sha256": "5a5e9ce06c872c9dcaafc7dbf6bf44dd107e8a53e601caa757ebce5e0ecaa1db"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/asset-inventory.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/asset-inventory.json",
+          "bytes": 5171,
+          "sha256": "2afa20947e1049793b7e1bbf9ac514b3e67276693019eaf38efc79a4172bc3fc"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/production-notes.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/production-notes.json",
+          "bytes": 528,
+          "sha256": "241792138c567309c00a6679af21f2fabb962d01aeb444b044a224d2d24dfc0e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/sound-cues.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/sound-cues.json",
+          "bytes": 9892,
+          "sha256": "663597bb9ab8b8711c19b346d4cfdfb5d2c359e87731a4c0ed4035aeea571676"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/safe-area-report.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/safe-area-report.json",
+          "bytes": 809,
+          "sha256": "21410adfbf3f2a48c69239f35f84e09682d8bb40d68c3e52d32a95750c00010c"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/motion-audit.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/motion-audit.json",
+          "bytes": 47368,
+          "sha256": "30bae5f6e89270e787b927a889d9da13ef5057ff329c43fe61c6fbddb40211f8"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/layout-review.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/layout-review.json",
+          "bytes": 490,
+          "sha256": "9e882bf78eb915dd9d948734d3e343faf41943fd2881e72ef13d9f0ae23cdfbd"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/image-prompts.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/image-prompts.json",
+          "bytes": 4459,
+          "sha256": "8603fcc32973dc1734064d912fcbf9898073837d2925b85851a6c4a891059fe4"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/agree.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/agree.png",
+          "bytes": 876730,
+          "sha256": "44096faca2633654a42c616f644c10c043dd98c74a21460e4cd93fec758bb931"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/argue.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/argue.png",
+          "bytes": 1226308,
+          "sha256": "fc6131faa3bb6648833a7fff667d5965b340ae92268151ea967afbc66cb9a786"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/caption-bold.ttf",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/caption-bold.ttf",
+          "bytes": 147264,
+          "sha256": "27da758f4dcac9a65abe914c13b463b42982b9909bc65713424099f4810bd1e6"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/choice-cards.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/choice-cards.png",
+          "bytes": 593531,
+          "sha256": "4fc1e81942be7b8225408dc5cb2faeefd2147659433136997e6f67c92c75ce45"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/choice-thought.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/choice-thought.png",
+          "bytes": 720909,
+          "sha256": "30a80c3483e8998364cb70cdbc8be14f447a735bb7b9fa57ae6d739949048022"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/conditions.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/conditions.png",
+          "bytes": 1113864,
+          "sha256": "81b914bbea859e938f1aca02741e18f406bb4913416dd3c5c39c1f1e5f023c64"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/conversation.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/conversation.png",
+          "bytes": 811973,
+          "sha256": "82a629b38acfb466f6dc46a38a9397b06abbf683be716e52ebbb4d9c86ff6567"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/effects.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/effects.wav",
+          "bytes": 13461222,
+          "sha256": "8cec686c6e1e21514dc988d5c78a5db7655bb82db949bbee1b283306aa658e0e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/feel-seen.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/feel-seen.png",
+          "bytes": 683755,
+          "sha256": "137faaf2e7af9af493332c99525d90a56cdb5a0690742d3796e257776eba9fdd"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/fist.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/fist.png",
+          "bytes": 583619,
+          "sha256": "ecf0c528867954c016460415fa8847208fa02a14f4a306627257a8ee85d56218"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/fulfilled.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/fulfilled.png",
+          "bytes": 795878,
+          "sha256": "78a8bb135bac886f128f6724cca7fbe9898df46ef3f533e50b7962523c9d7014"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/gsap.min.js",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/gsap.min.js",
+          "bytes": 72927,
+          "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/guide.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/guide.png",
+          "bytes": 1149481,
+          "sha256": "4c6ec65c311fdc0d4b2af7b9a035c6739dd54663f4c4ee50464750701a6f6c73"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/idea.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/idea.png",
+          "bytes": 606241,
+          "sha256": "6f9a221f35d195f32d2be0a3abed77dd61912570ba761977ccce7a5bfaab8d3b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/knowing.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/knowing.png",
+          "bytes": 652805,
+          "sha256": "4da0b8a91156bce035582810d139b3229ddb7a7136327e6c1f9177c485dc1f7a"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/liar.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/liar.png",
+          "bytes": 784954,
+          "sha256": "97c8b605b1f63a4706fd1ba6fd7b64f257aa6ee1bb6b31a40d1b88187ef18cad"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/mastermind.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/mastermind.png",
+          "bytes": 640519,
+          "sha256": "c9093c63800d71495f6e543a66f3794202983968e2e7f477b8307f98ad862918"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/megaphone.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/megaphone.png",
+          "bytes": 734813,
+          "sha256": "0f95e1c820db4f2f17cf146432be68f06146ac3efd0c85e6906c9767fdd51d89"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/mind.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/mind.png",
+          "bytes": 710777,
+          "sha256": "1302137d064c14497a348719c1c4e41375a209354c3b8d9741f98055a51ed849"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/mirror.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/mirror.png",
+          "bytes": 1272870,
+          "sha256": "032f3e0cc2eb161aa80479d16b1a2a12aeeec7c56cc47953a15ce816d35cec71"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/mix.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/mix.wav",
+          "bytes": 13461222,
+          "sha256": "0001a3986818ea32fd1abf28d25830594cfea22349d8aa8625a834186c710ae3"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/narration.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/narration.wav",
+          "bytes": 4422410,
+          "sha256": "2483bbd04801c0d6cc9b5134ffdee61423921a604dfc9620ba365260acc88803"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/nod-head.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/nod-head.png",
+          "bytes": 828435,
+          "sha256": "14e078d93b8cab41be2d9b5b52165510d380ae96a5e7efaef464eca51eb1f86e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/open-door.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/open-door.png",
+          "bytes": 483858,
+          "sha256": "31accb6cb156c89427022f2d11336246c6cff9c3575305d43969ef8f04e800c1"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/plant-hand.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/plant-hand.png",
+          "bytes": 516341,
+          "sha256": "5281f9029d8cfc68405a15a892bbf6d046c2f33611b1d29045f73fb5d9525177"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/premaster.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/premaster.wav",
+          "bytes": 17948274,
+          "sha256": "341faad40bfaeac81e880c41571e1a7952142ad36604ce6669db87d2287730a4"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/realization-eye.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/realization-eye.png",
+          "bytes": 1061169,
+          "sha256": "bb3e7e9ab74c30ac51a4976e9390e6eedd586fca6869e675e1b43b06ff510f29"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/realize.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/realize.png",
+          "bytes": 798945,
+          "sha256": "f5785c049dc882b6bdd5a746573ac814305bd6ee6e2f3524c3e610d207e760a3"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/schemer.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/schemer.png",
+          "bytes": 763427,
+          "sha256": "acc7012e81b45713cd82d5c8549c4d717f9d36f76bc45d6ad4f946cf58589978"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/self-convinced.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/self-convinced.png",
+          "bytes": 1044224,
+          "sha256": "cc71ef7d5ee5400398b30a55097285c9e00f26a7959082c7f4a8bed84dc12ea2"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/self-idea.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/self-idea.png",
+          "bytes": 754814,
+          "sha256": "c3a265ecb31a39c865bb004e7a3e61a53ebbde2cf7239b353531d87311a59d8b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+          "bytes": 248934,
+          "sha256": "893dfa5e969ce42b282d1dca10c51111ad988a63a783c0428fe9d89977d0d948"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B02_Dry_Shutter_Click_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B02_Dry_Shutter_Click_01.wav",
+          "bytes": 89958,
+          "sha256": "181659ac2b54a24cd8763cef976f10c860e30d8ed54aca5bdcd4ff6abd0fade8"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B06_Soft_Air_Brush_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B06_Soft_Air_Brush_01.wav",
+          "bytes": 143814,
+          "sha256": "2ef83770d54b33aa4563c6d9074771ead42f319bf1c8b174af699638a5f51f26"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+          "bytes": 68934,
+          "sha256": "62f51515854826b0777871d1e3aae3c6c1e32f4d6341ca0323be4fc15c2ca193"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B15_Rounded_Plop_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B15_Rounded_Plop_01.wav",
+          "bytes": 98598,
+          "sha256": "201f78068cadbdb4e1586dff169b98903091a22a2e70d296e73497b17531e34e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B16_Rounded_Plop_02.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B16_Rounded_Plop_02.wav",
+          "bytes": 81318,
+          "sha256": "3a515a732379dcae0f6cd4657bdcae86964109324e9eca3014899ff35d50778c"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+          "bytes": 472710,
+          "sha256": "119e22822431b72e13a1e1f9576427e3fb037a9868054e01a07b35e85776c5e9"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+          "bytes": 155622,
+          "sha256": "02cdc66718e48e581c43fb2f1933215bc28a39f05f3f5a490321f1d7fa573040"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B27_Dry_Double_Tick_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B27_Dry_Double_Tick_01.wav",
+          "bytes": 87942,
+          "sha256": "39b9cf6688a9ba9d32348df709e0f55b30e03fba68118ef1bdf742459e9f2120"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B31_Swiping_Whoosh_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B31_Swiping_Whoosh_01.wav",
+          "bytes": 260742,
+          "sha256": "d652161774c8419aa204602637e4ec64fe653f40e6dba915320e825d4f36f70c"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/B35_Soft_Bubble_Plop_03.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/B35_Soft_Bubble_Plop_03.wav",
+          "bytes": 83622,
+          "sha256": "2a2b309ceecd2a2e821a9a1090649ba761cbbad329829dbaf3a6e5f4db4a23e5"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+          "bytes": 719814,
+          "sha256": "17b4a25a00c381415f27f7cbd43089857b072e52bbf8ed9f39873e2b3dc930fb"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+          "bytes": 219846,
+          "sha256": "950f3ba20f5851b62ac1eb7ad6881b0d3d0f2fa105adad67ff399449f54cee8a"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C08_Bubble_Plop_05.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C08_Bubble_Plop_05.wav",
+          "bytes": 66918,
+          "sha256": "08039b619c44d4f4d6b9551fb96c6670b1149fa3d1b3ed8ae20a63dce0dbfc30"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+          "bytes": 87078,
+          "sha256": "574663669d88ccb3360d2853cd613ca188dcc2320b2ecac170ea87eaab8cc52b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C14_Success_Notification_Blip_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C14_Success_Notification_Blip_01.wav",
+          "bytes": 267654,
+          "sha256": "4b160779a193fe9b0e2897cda9cc4dbb25018b8c98ae7f0ace0b03b3e482ca8b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+          "bytes": 385158,
+          "sha256": "5ae8fff924af70a7e30281a003a96a6876827576b5357e52b410e3e976400d65"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/C20_Dry_Crack_Snap_01.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/C20_Dry_Crack_Snap_01.wav",
+          "bytes": 172326,
+          "sha256": "b898ae98e91203488dba0d6620e3326c79b120a290193f0439e5c5e7eb74a0cb"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/Manifest.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/Manifest.json",
+          "bytes": 15283,
+          "sha256": "3c010bdf765a10c7d1ed0473dcfd5cbfc606219bad3038978cd466d812286b75"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+          "bytes": 123942,
+          "sha256": "0eda27faa3e38ec3d06e273013ca685fbfd32ecefc75be13587c5c38973a2968"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/shield.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/shield.png",
+          "bytes": 649379,
+          "sha256": "4e52b4f31b81f6db8a7cf58b2cdfcc368284251911bb3363f90d40e7752773b5"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/sneaky.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/sneaky.png",
+          "bytes": 719649,
+          "sha256": "d936f8dcf0318f449cf237e63917263d68346639efae031743ec24b6bde6e2b3"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/source-narration.mp3",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/source-narration.mp3",
+          "bytes": 853273,
+          "sha256": "a68525f5d21a7dffca44185f137d479f89719ae91777962a1613a381a4b6a1d2"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/talking.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/talking.png",
+          "bytes": 772990,
+          "sha256": "16ebe36eada8f301ee37f84223939a8a97d3d3bd69f498ba8e1c0519a1d305c9"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/truth-card.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/truth-card.png",
+          "bytes": 909147,
+          "sha256": "d07271a29e4e4c1972881dccb174033ed947852908bd66dda8523b1bb6b9e8be"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/twisted-truth.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/twisted-truth.png",
+          "bytes": 975188,
+          "sha256": "645f3ea2872910adfb3111953c45c985990aa93114e02c2d343d5997443458e6"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/understood.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/understood.png",
+          "bytes": 1285513,
+          "sha256": "87e2c52518a2c4a36693b8e8183d951e50553cffd784133092acc153ec98a92e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/unguarded.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/unguarded.png",
+          "bytes": 1142482,
+          "sha256": "678934ee676b16c59640682375199a5c6db0a24827829dc491540163c8a74e49"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/validated.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/validated.png",
+          "bytes": 776984,
+          "sha256": "ee72d45a530823a5bd7c3e7910d28499b5d5bcc225d9fb4ee2e77361d625cfbf"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/warning.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/warning.png",
+          "bytes": 654156,
+          "sha256": "252897566a332578d019bccc374f20f64bb3fa2c849454c6ffd870720ffe7f64"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/assets/willing.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/assets/willing.png",
+          "bytes": 850261,
+          "sha256": "6fe45df727ab267f71c8c0ac961dcdb304e91a8e14da6054b20095f5e2979c96"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/OG-MOTION-STUDY.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/OG-MOTION-STUDY.md",
+          "bytes": 2630,
+          "sha256": "0048e2678c2e3f47102247466d6c8fad56a1ff7917192a6ff8c75a197dcc2971"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/dope.jpg",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/dope.jpg",
+          "bytes": 90802,
+          "sha256": "75dec4793bac671f3efbff8a0680776722ccded15ead24e1ef1943b253c5b5fa"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/red-zone-canvas.png",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/red-zone-canvas.png",
+          "bytes": 537660,
+          "sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/shrug.jpg",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/shrug.jpg",
+          "bytes": 77365,
+          "sha256": "3494a773473f5a5a7a9ab0dcf8f5140029e5730d2f0d37a3fb04b55d4787a695"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/uninterested.jpg",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/uninterested.jpg",
+          "bytes": 108229,
+          "sha256": "b4df61e51c62cc4c46d5d89b5ecdbaf146c714ae7b461a69761ae219665e2928"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/references/workflow.md",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/references/workflow.md",
+          "bytes": 74952,
+          "sha256": "68a960cfdd79c34864442e460d59565b5e8eaa9d6516158d77168b5486e46a5e"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/renders/The-Subtle-Manipulator.mp4",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/renders/The-Subtle-Manipulator.mp4",
+          "bytes": 19722499,
+          "sha256": "ec24ec225264fdc9b4c79fa956413e90523dce3f16a9869159af956cf7ea877b"
+        },
+        {
+          "source_member": "The-Subtle-Manipulator/final-validation.json",
+          "repository_path": "19-Project-13-The-Subtle-Manipulator/final-validation.json",
+          "bytes": 550,
+          "sha256": "b5436f93b10100649a534d4867346f4835283a942ceb0be2feeb78bbc6673451"
         }
       ]
     }

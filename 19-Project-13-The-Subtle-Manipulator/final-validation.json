@@ -1,0 +1,26 @@
+{
+  "programs": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "width": 1080,
+      "height": 1920,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1"
+    },
+    {
+      "codec_name": "aac",
+      "r_frame_rate": "0/0"
+    }
+  ],
+  "format": {
+    "duration": "46.766667",
+    "size": "19722499"
+  },
+  "decode_passed": true,
+  "used_distinct_illustrations": 35,
+  "generated_new": 18,
+  "approved_reuses": 17,
+  "encoded_sample_UI_overlap_pixels": 0,
+  "sha256": "ec24ec225264fdc9b4c79fa956413e90523dce3f16a9869159af956cf7ea877b"
+}
