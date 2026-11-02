@@ -117,7 +117,7 @@ Thirteen finished projects, all with browsable source: references 1–7 under so
 | [03-Project-2-When-He-Goes-Quiet/source/storyboard.json](03-Project-2-When-He-Goes-Quiet/source/storyboard.json) | 4510 |
 | [03-Project-2-When-He-Goes-Quiet/source/storyboard.md](03-Project-2-When-He-Goes-Quiet/source/storyboard.md) | 3842 |
 | [03-Project-2-When-He-Goes-Quiet/source/words.json](03-Project-2-When-He-Goes-Quiet/source/words.json) | 14877 |
-| [04-Workflow-and-Animation/Animation-Sheet.md](04-Workflow-and-Animation/Animation-Sheet.md) | 7160 |
+| [04-Workflow-and-Animation/Animation-Sheet.md](04-Workflow-and-Animation/Animation-Sheet.md) | 8001 |
 | [04-Workflow-and-Animation/Five-Project-Motion-Study.md](04-Workflow-and-Animation/Five-Project-Motion-Study.md) | 10690 |
 | [04-Workflow-and-Animation/Instructor-Guide.md](04-Workflow-and-Animation/Instructor-Guide.md) | 4693 |
 | [04-Workflow-and-Animation/Micro-Explanation-Animation-Study.md](04-Workflow-and-Animation/Micro-Explanation-Animation-Study.md) | 12446 |
@@ -138,7 +138,7 @@ Thirteen finished projects, all with browsable source: references 1–7 under so
 | [04-Workflow-and-Animation/references/style/A-science-host.png](04-Workflow-and-Animation/references/style/A-science-host.png) | 1283307 |
 | [04-Workflow-and-Animation/references/style/D-casual-watcher.png](04-Workflow-and-Animation/references/style/D-casual-watcher.png) | 1352171 |
 | [04-Workflow-and-Animation/references/style/PROVENANCE.json](04-Workflow-and-Animation/references/style/PROVENANCE.json) | 992 |
-| [04-Workflow-and-Animation/workflow.md](04-Workflow-and-Animation/workflow.md) | 103175 |
+| [04-Workflow-and-Animation/workflow.md](04-Workflow-and-Animation/workflow.md) | 108443 |
 | [05-Visual-References.zip](05-Visual-References.zip) | 283532 |
 | [06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip](06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3-Complete-Project.zip) | 36584529 |
 | [06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4](06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4) | 4964727 |
@@ -2030,14 +2030,14 @@ Thirteen finished projects, all with browsable source: references 1–7 under so
 | [19-Project-13-The-Subtle-Manipulator/storyboard.json](19-Project-13-The-Subtle-Manipulator/storyboard.json) | 7257 |
 | [19-Project-13-The-Subtle-Manipulator/storyboard.md](19-Project-13-The-Subtle-Manipulator/storyboard.md) | 2366 |
 | [19-Project-13-The-Subtle-Manipulator/words.json](19-Project-13-The-Subtle-Manipulator/words.json) | 8791 |
-| [AGENTS.md](AGENTS.md) | 8375 |
+| [AGENTS.md](AGENTS.md) | 9216 |
 | [ARCHIVE-CONTENTS.json](ARCHIVE-CONTENTS.json) | 158177 |
 | [BROWSABLE-REFERENCE-AUDIT.json](BROWSABLE-REFERENCE-AUDIT.json) | 309820 |
 | [DOWNLOADS.md](DOWNLOADS.md) | 6989 |
 | [LOSSLESS-PACKAGING.json](LOSSLESS-PACKAGING.json) | 1392 |
 | [ORIGINAL-CONTENT-AUDIT.json](ORIGINAL-CONTENT-AUDIT.json) | 19204 |
 | [PROJECT-RENDERS-INDEX.json](PROJECT-RENDERS-INDEX.json) | 7078 |
-| [README.md](README.md) | 19049 |
+| [README.md](README.md) | 19597 |
 | [REFERENCE-IMPORT-AUDIT.json](REFERENCE-IMPORT-AUDIT.json) | 338383 |
 | [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) | 6945 |
 | [REORGANIZATION.json](REORGANIZATION.json) | 1399 |

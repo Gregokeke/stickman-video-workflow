@@ -908,3 +908,45 @@ Study its expressive acting, coherent body/hand language, deliberate hairless/ha
 Read its REFERENCE-SETUP.md and every original document/source/asset/timing/audio record, and review the complete final video with sound as required. A file-level import check is not a new full audiovisual study or fresh creative QA. Historical workflow copies inside the project are records; the current canonical workflow and approved A/D body-family variations, hairless/unclothed anatomy exception, 3D explanatory props, local transcription, TTS-only ElevenLabs, purposeful line drawing, emergence, functional micro animations and final-render checks continue to govern.
 
 Current setup and catalogs must import/study all thirteen. PACKAGE-MANIFEST.json, FILE-INDEX.md and PROJECT-RENDERS-INDEX.json include reference 13. The verifier checks all thirteen renders, the preserved original ZIP/video pairs, original-seven browse/restoration audit and all six newer expanded project imports. Preserve all earlier documents, projects, studies, sound library and instruction history.
+
+
+## 36. Minimum 20 illustrations per 30 seconds; complete phrase coverage — 2 November 2026
+
+The user's new global density rule is **at least 20 distinct meaningful illustrations for every 30 seconds of tightened narration**. This supersedes the older visual-count bands, interpolation table and lower planning baselines in the quick-spec table, sections 6.2 and 15/checklists, Animation-Sheet.md and any older reference/workflow snapshots. All earlier instructions are retained as history; their lower counts must not be selected for new production.
+
+### 36.1 Exact duration and proportional rounding
+
+First tighten genuine silence carefully without cutting words/expressions, then measure the actual working narration duration `T` in seconds, as required by section 5.4. Do not use the untrimmed recording, estimated reading time, padded intro/outro or a sound-only ending to select the illustration count. Compute:
+
+`minimum_distinct_illustrations = ceil(20 * T / 30)`
+
+Here `ceil` rounds up to a whole illustration, **not** up to an entire extra 30-second block. Each full 30 seconds contributes 20; prorate the remaining seconds at the same rate and round that remainder upward. Use the exact measured duration, not a rounded-down display time. Recalculate if the narration is edited again. A higher explicit project minimum still applies; use the largest of this duration floor, the current brief's minimum and the count required by accurate phrase/context coverage.
+
+| Tightened narration | Required minimum | Explanation |
+| --- | --- | --- |
+| 30 s | 20 | One full block. |
+| 35 s | 24 | 20 plus ceil(20 × 5/30). |
+| 45 s | 30 | 20 plus 10 for the remaining 15 s. |
+| 50 s | 34 | Proportional floor; 45 or more is appropriate if the phrase map needs it. |
+| 60 s / 1 min | 40 | Two full blocks. |
+| 75 s / 1 min 15 s | 50 | Two blocks plus 10. |
+| 90 s / 1 min 30 s | 60 | Three full blocks. |
+| 105 s / 1 min 45 s | 70 | Three blocks plus 10. |
+| 120 s / 2 min | 80 | Four full blocks; 75 does not meet this new strict floor. |
+| 150 s / 2 min 30 s | 100 | Five full blocks. |
+
+The spoken examples of roughly 21–22 at 35 s, 45 at 50 s and 75–80 at two minutes were approximate; the user's emphasized **at least 20 per 30 seconds** establishes the consistent minimum above. Higher counts are encouraged when meaningful, never a ceiling.
+
+### 36.2 Segment by meaning and distribute the illustrations
+
+Create the phrase/context map before locking artwork. Mark the time range, actual words, subject/action/consequence or reversal, intended illustration/prop/acting state, retained context, micro explanation and transition. Every necessary phrase or context change must receive an accurate visual response; hitting a numerical count does not excuse a generic or mismatched illustration.
+
+Break the tightened narration into full 30-second planning segments plus the remainder. Allocate at least 20 meaningful distinct illustrations across each full segment and the proportionally rounded amount to the remainder. Distribute them through the script rather than meeting the total by overloading one section. If a segment is sparse, revisit its specific actions, details, contrasts, causes and consequences for relevant artwork; do not invent filler or change narration merely to fill a quota. Record each counted asset's ID and first relevant time so reuse across segments cannot inflate the total.
+
+Twenty per 30 seconds averages 1.5 seconds per illustration, but is **not a mandatory cut every 1.5 seconds**. Use connected entrances, purposeful emergence, supporting independent props, expressive acting and meaningful layered mechanisms to cover phrases while preserving readable context. Some illustrations need longer holds and others can enter as a thought develops. Plan this pacing deliberately. The older three-second-beat guidance is no longer a reason to hold one generic visual across multiple different phrases or miss the new count.
+
+### 36.3 Count genuine used artwork; keep existing quality rules
+
+Keep the established definition: count distinct final illustrations or principal standalone props actually used for a specific narrative purpose. A coherent combined interaction is one illustration, not one per embedded person/object. Zooming, panning, scaling, fading, reusing/copying a file, changing captions, dividing one image into clipped parts, drawing a line, or animating the same graph/energy bar does not produce additional counted illustrations. Functional parts and micro animations still add explanation but do not artificially inflate the original-art count. Do not count unused/discarded artwork, redundant near-identical filler or rapid unreadable flashes. Existing originality/reuse permissions still follow the current brief.
+
+Record tightened duration, the formula-derived minimum, any higher brief requirement, planned and actually used distinct counts, the per-segment allocation and phrase-to-asset coverage. Final checks must confirm both the count and complete context coverage. Maintain all existing spacing, bounded intentional-overlap, clean handoff, accurate path/line, emergence, moving-part, presenter and final-render checks; the higher illustration density must not create clutter or sacrifice comprehension.

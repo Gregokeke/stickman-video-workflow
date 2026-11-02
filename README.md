@@ -132,3 +132,8 @@ Read [workflow sections 27–31](04-Workflow-and-Animation/workflow.md#27-local-
 ElevenLabs is for TTS only, never transcription or effect generation. Use local transcription/alignment/duration tools and the existing sound pack. The new rules cover related-object emergence, functional moving parts, spacing, coordinated handoffs and accurate snappy instructors. Existing content remains preserved. The five Library source projects are supporting study sources, not five newly uploaded or renumbered repository projects.
 
 Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.
+
+
+## Illustration density — current rule, 2 November 2026
+
+[Workflow section 36](04-Workflow-and-Animation/workflow.md) sets a minimum of **20 distinct meaningful illustrations per 30 seconds of tightened narration**, prorating extra seconds and rounding up to whole illustrations. One minute → at least 40; 90 seconds → 60; 105 seconds → 70; two minutes → 80. Accurate phrase/context coverage can require more. The new rule supersedes older lower duration bands while preserving all spacing, motion, originality and final-render checks.

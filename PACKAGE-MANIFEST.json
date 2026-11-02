@@ -561,8 +561,8 @@
     },
     {
       "path": "04-Workflow-and-Animation/Animation-Sheet.md",
-      "bytes": 7160,
-      "sha256": "45d4e75503883be6292b5c046b24bfa3bbcacf9b7cc9c3bb346cee4ac28d5e87"
+      "bytes": 8001,
+      "sha256": "5caa9c1dfbc7c26905276cd3df5d9093ef4bbd9bae663e5fa4366d4a04ad538a"
     },
     {
       "path": "04-Workflow-and-Animation/Five-Project-Motion-Study.md",
@@ -666,8 +666,8 @@
     },
     {
       "path": "04-Workflow-and-Animation/workflow.md",
-      "bytes": 103175,
-      "sha256": "56386df3eaaa14de4ae15a657a78349d6b1804b3f150752d45dd02a058bc67c3"
+      "bytes": 108443,
+      "sha256": "6015640e34cd56def38e91c8c64a909e363c23d8d7f77bea91bf2be480f50f1e"
     },
     {
       "path": "05-Visual-References.zip",
@@ -10126,8 +10126,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 8375,
-      "sha256": "3ba74a39d6323a87704d3f896e8708a2af1a5160db1270ad9f29e297d1107d96"
+      "bytes": 9216,
+      "sha256": "2564f60bbd25167d73c6046533b8e52ba52894f0ce7b32277afaaeab6ddca9a2"
     },
     {
       "path": "ARCHIVE-CONTENTS.json",
@@ -10147,7 +10147,7 @@
     {
       "path": "FILE-INDEX.md",
       "bytes": 376076,
-      "sha256": "df912fa374352604bfc99945db4a2274d930d64f08730cbdf9fd83f7f58fa6b9"
+      "sha256": "a5c7a093b2f9e8512c19d41ba68276bed6354e3ac6297235e10a768cf988eaad"
     },
     {
       "path": "LOSSLESS-PACKAGING.json",
@@ -10166,8 +10166,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 19049,
-      "sha256": "2cc7c506f12b0e841b1cdacd856a96fb182509410934b32ff544fa081a33201c"
+      "bytes": 19597,
+      "sha256": "9229d3b438f06c94b6d35ddbc1f3f113042faedd64dd999256f2a707cd97d24b"
     },
     {
       "path": "REFERENCE-IMPORT-AUDIT.json",
