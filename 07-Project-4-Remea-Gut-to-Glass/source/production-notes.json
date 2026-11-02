@@ -1,0 +1,19 @@
+{
+  "original_audio_duration": 67.631021,
+  "tightened_audio_duration": 63.95214583333333,
+  "render_duration": 64.23333333333333,
+  "minimum_visual_count": 22,
+  "planned_distinct_visual_count": 38,
+  "used_distinct_visual_count": 38,
+  "caption_groups": 55,
+  "sound_cues": 53,
+  "voice_id": "t1yzxMpe9zK42bXmI1T2",
+  "voice": "Supplied K. V. Hagen; no new take",
+  "audio": "Genuine-silence-only cuts at-42dB with70ms retained at both edges; no estimated word-gap cuts.",
+  "motion": "Original project lateral glides, center-to-side support, hero returns, travelling early fades, focused pushes and meaningful depth emergence.",
+  "placements": "Illustrationsy410, portraitsy490, phonesy460; approved fixed caption geometry.",
+  "phone_branding": "Scan has one Remea label; analysis, results and plan have no repeated brand.",
+  "red_zone_review": "Mandatory supplied references/red-zone-canvas.png overlay and alpha-aware whole-timeline check. Important ink constrained to conservative clear area; captions and audio unchanged. One user-authorized exception: lower tensteps at6.0\u20138.65s may extend left/bottom, with a visible gap below the centred SCAM stamp.",
+  "line_behavior": "Actual stroke lengths, progressive trace, annotations clear before their subjects travel; scanbeam is a child of phone and travels with it.",
+  "character_prominence_revision": "Tensteps lowered and reduced to .94; stamp centered with visible gap. Guide support .62, share .75; final reset .83 upper hero, friend pair .82 lower support. Asset-specific actual ink bounds reviewed at phone size. Audio/captions unchanged."
+}

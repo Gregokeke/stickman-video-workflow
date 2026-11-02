@@ -1,0 +1,4 @@
+numpy
+Pillow
+soundfile
+# Optional, only for a new source recording: faster-whisper

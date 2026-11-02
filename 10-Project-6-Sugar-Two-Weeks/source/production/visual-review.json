@@ -1,0 +1,1657 @@
+{
+  "errors": [],
+  "samples": [
+    {
+      "t": 1.5,
+      "visible": [
+        {
+          "id": "a0",
+          "asset": "sugar-refusal",
+          "box": [
+            40,
+            699.15625,
+            600,
+            831.65625
+          ],
+          "text": null
+        },
+        {
+          "id": "a1",
+          "asset": "sugar-bowl",
+          "box": [
+            606.484375,
+            810,
+            297.015625,
+            320
+          ],
+          "text": null
+        },
+        {
+          "id": "c0",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "If you stopped eating sugar for"
+        }
+      ]
+    },
+    {
+      "t": 2.7,
+      "visible": [
+        {
+          "id": "a0",
+          "asset": "sugar-refusal",
+          "box": [
+            40,
+            699.15625,
+            600,
+            831.65625
+          ],
+          "text": null
+        },
+        {
+          "id": "a1",
+          "asset": "sugar-bowl",
+          "box": [
+            606.484375,
+            810,
+            297.015625,
+            320
+          ],
+          "text": null
+        },
+        {
+          "id": "a2",
+          "asset": "calendar",
+          "box": [
+            667.421875,
+            1300,
+            235.140625,
+            220
+          ],
+          "text": null
+        },
+        {
+          "id": "c1",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "two weeks, which may sound like"
+        }
+      ]
+    },
+    {
+      "t": 4.6,
+      "visible": [
+        {
+          "id": "a3",
+          "asset": "torture-drama",
+          "box": [
+            72.44270324707031,
+            685.715087890625,
+            784.8374633789062,
+            837.6787109375
+          ],
+          "text": null
+        },
+        {
+          "id": "c2",
+          "box": [
+            115,
+            285,
+            740,
+            140.78125
+          ],
+          "text": "torture for most sugar-addicted ghouls,"
+        }
+      ]
+    },
+    {
+      "t": 6.5,
+      "visible": [
+        {
+          "id": "a4",
+          "asset": "sugar-ghoul",
+          "box": [
+            46.463592529296875,
+            765.906982421875,
+            595.6600341796875,
+            748.15478515625
+          ],
+          "text": null
+        },
+        {
+          "id": "a5",
+          "asset": "candy-jar",
+          "box": [
+            560,
+            1098.28125,
+            300,
+            283.421875
+          ],
+          "text": null
+        },
+        {
+          "id": "c2",
+          "box": [
+            115,
+            285,
+            740,
+            140.78125
+          ],
+          "text": "torture for most sugar-addicted ghouls,"
+        }
+      ]
+    },
+    {
+      "t": 8.7,
+      "visible": [
+        {
+          "id": "a6",
+          "asset": "sarcastic-presenter",
+          "box": [
+            199.609375,
+            600,
+            560.75,
+            1040
+          ],
+          "text": null
+        },
+        {
+          "id": "c4",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "this is what would actually happen."
+        }
+      ]
+    },
+    {
+      "t": 12.8,
+      "visible": [
+        {
+          "id": "a8",
+          "asset": "craving-reach",
+          "box": [
+            60,
+            777.171875,
+            650,
+            665.640625
+          ],
+          "text": null
+        },
+        {
+          "id": "a9",
+          "asset": "candy-jar",
+          "box": [
+            548.8400268554688,
+            891.3187255859375,
+            279.99993896484375,
+            264.53125
+          ],
+          "text": null
+        },
+        {
+          "id": "c6",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "pathetic cravings for sugar,"
+        }
+      ]
+    },
+    {
+      "t": 15.6,
+      "visible": [
+        {
+          "id": "a10",
+          "asset": "satisfied-person",
+          "box": [
+            168.57554626464844,
+            623.300048828125,
+            302.833251953125,
+            813.39990234375
+          ],
+          "text": null
+        },
+        {
+          "id": "c8",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "go longer than two hours without"
+        }
+      ]
+    },
+    {
+      "t": 16.5,
+      "visible": [
+        {
+          "id": "a12",
+          "asset": "meal-plate",
+          "box": [
+            145,
+            764.28125,
+            720,
+            811.421875
+          ],
+          "text": null
+        },
+        {
+          "id": "c9",
+          "box": [
+            115,
+            285,
+            740,
+            162.78125
+          ],
+          "text": "food. Why? Because eating sugar spikes"
+        }
+      ]
+    },
+    {
+      "t": 20.4,
+      "visible": [
+        {
+          "id": "a15",
+          "asset": "insulin",
+          "box": [
+            517.796875,
+            550,
+            454.375,
+            560
+          ],
+          "text": null
+        },
+        {
+          "id": "a72",
+          "asset": "cane-presenter",
+          "box": [
+            -14.734375,
+            847.15625,
+            758.28125,
+            820
+          ],
+          "text": null
+        },
+        {
+          "id": "c10",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "a hormone called insulin to clear"
+        }
+      ]
+    },
+    {
+      "t": 22.3,
+      "visible": [
+        {
+          "id": "a16",
+          "asset": "glucose",
+          "box": [
+            200.20001220703125,
+            1245.5244140625,
+            369.60003662109375,
+            348.919921875
+          ],
+          "text": null
+        },
+        {
+          "id": "a17",
+          "asset": "blood-vessel",
+          "box": [
+            70,
+            875.5625,
+            620,
+            308.859375
+          ],
+          "text": null
+        },
+        {
+          "id": "a81",
+          "asset": "cane-up",
+          "box": [
+            410.75,
+            1012.671875,
+            660.140625,
+            1200
+          ],
+          "text": null
+        },
+        {
+          "id": "c11",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "that sugar out of your blood,"
+        }
+      ]
+    },
+    {
+      "t": 24.8,
+      "visible": [
+        {
+          "id": "a82",
+          "asset": "cane-up",
+          "box": [
+            704.7547607421875,
+            1306.2841796875,
+            522.6038818359375,
+            950
+          ],
+          "text": null
+        }
+      ]
+    },
+    {
+      "t": 27.9,
+      "visible": [
+        {
+          "id": "a18",
+          "asset": "brain",
+          "box": [
+            169.46646118164062,
+            641.797607421875,
+            355.6386413574219,
+            356.94000244140625
+          ],
+          "text": null
+        },
+        {
+          "id": "a19",
+          "asset": "starving-person",
+          "box": [
+            300.2336120605469,
+            889.9984741210938,
+            479.5625305175781,
+            740.0000610351562
+          ],
+          "text": null
+        },
+        {
+          "id": "c14",
+          "box": [
+            115,
+            285,
+            740,
+            162.78125
+          ],
+          "text": "into thinking you're starving to death"
+        }
+      ]
+    },
+    {
+      "t": 29.6,
+      "visible": [
+        {
+          "id": "a20",
+          "asset": "just-ate",
+          "box": [
+            85,
+            777.296875,
+            790,
+            705.375
+          ],
+          "text": null
+        },
+        {
+          "id": "c15",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "when you literally just ate."
+        }
+      ]
+    },
+    {
+      "t": 31.9,
+      "visible": [
+        {
+          "id": "a21",
+          "asset": "crossed-sugar",
+          "box": [
+            673,
+            562.1867065429688,
+            234,
+            275.61090087890625
+          ],
+          "text": null
+        },
+        {
+          "id": "a73",
+          "asset": "cane-straight",
+          "box": [
+            529.8125,
+            1162.9375,
+            424.703125,
+            1060
+          ],
+          "text": null
+        },
+        {
+          "id": "c17",
+          "box": [
+            115,
+            285,
+            740,
+            145.1875
+          ],
+          "text": "sugar stabilizes, while also starving out"
+        }
+      ]
+    },
+    {
+      "t": 35.9,
+      "visible": [
+        {
+          "id": "a22",
+          "asset": "intestines",
+          "box": [
+            94.60000610351562,
+            1173.2744140625,
+            300.79998779296875,
+            453.419921875
+          ],
+          "text": null
+        },
+        {
+          "id": "a23",
+          "asset": "gut-bacteria",
+          "box": [
+            123.75,
+            610,
+            482.46875,
+            480
+          ],
+          "text": null
+        },
+        {
+          "id": "a74",
+          "asset": "cane-presenter",
+          "box": [
+            347.1875,
+            847.75,
+            601.078125,
+            650
+          ],
+          "text": null
+        },
+        {
+          "id": "c18",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "the freeloading gut bacteria in your"
+        }
+      ]
+    },
+    {
+      "t": 37.7,
+      "visible": [
+        {
+          "id": "a24",
+          "asset": "nervous-system",
+          "box": [
+            104.46875,
+            615,
+            471.03125,
+            850
+          ],
+          "text": null
+        },
+        {
+          "id": "a74",
+          "asset": "cane-presenter",
+          "box": [
+            341.7868347167969,
+            1057.4261474609375,
+            684.327392578125,
+            740.0250244140625
+          ],
+          "text": null
+        },
+        {
+          "id": "c19",
+          "box": [
+            115,
+            285,
+            740,
+            154
+          ],
+          "text": "stomach that hijack your nervous system"
+        }
+      ]
+    },
+    {
+      "t": 39.8,
+      "visible": [
+        {
+          "id": "a25",
+          "asset": "bacteria-beg",
+          "box": [
+            160.53125,
+            745,
+            418.921875,
+            780
+          ],
+          "text": null
+        },
+        {
+          "id": "a26",
+          "asset": "junk-meal",
+          "box": [
+            580.1436767578125,
+            944.9932250976562,
+            280,
+            349.99993896484375
+          ],
+          "text": null
+        },
+        {
+          "id": "c20",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "to beg for junk food."
+        }
+      ]
+    },
+    {
+      "t": 43.7,
+      "visible": [
+        {
+          "id": "a27",
+          "asset": "energetic-person",
+          "box": [
+            73.18266296386719,
+            768.1522216796875,
+            449.4786376953125,
+            842.7239990234375
+          ],
+          "text": null
+        },
+        {
+          "id": "a28",
+          "asset": "battery",
+          "box": [
+            571.231201171875,
+            1033.6976318359375,
+            259.9739990234375,
+            112.45751953125
+          ],
+          "text": null
+        },
+        {
+          "id": "c23",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "Actual energy, not a 20-minute"
+        }
+      ]
+    },
+    {
+      "t": 47.4,
+      "visible": [
+        {
+          "id": "a30",
+          "asset": "sloth",
+          "box": [
+            102.54110717773438,
+            850.4544677734375,
+            736.9659423828125,
+            517.510009765625
+          ],
+          "text": null
+        },
+        {
+          "id": "c25",
+          "box": [
+            115,
+            285,
+            740,
+            83.59375
+          ],
+          "text": "a sedated sloth."
+        }
+      ]
+    },
+    {
+      "t": 49.5,
+      "visible": [
+        {
+          "id": "a31",
+          "asset": "insulin",
+          "box": [
+            149.3125,
+            665,
+            381.34375,
+            470
+          ],
+          "text": null
+        },
+        {
+          "id": "a75",
+          "asset": "cane-up",
+          "box": [
+            323.953125,
+            875.5625,
+            550.109375,
+            1000
+          ],
+          "text": null
+        },
+        {
+          "id": "c26",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "Because once your insulin stays low,"
+        }
+      ]
+    },
+    {
+      "t": 51.5,
+      "visible": [
+        {
+          "id": "a32",
+          "asset": "fat-cell",
+          "box": [
+            65,
+            735.9375,
+            490,
+            548.109375
+          ],
+          "text": null
+        },
+        {
+          "id": "a33",
+          "asset": "padlock",
+          "box": [
+            682.265625,
+            540.74072265625,
+            215.453125,
+            280
+          ],
+          "text": null
+        },
+        {
+          "id": "a75",
+          "asset": "cane-up",
+          "box": [
+            312.349853515625,
+            1014.1190185546875,
+            605.1203002929688,
+            1100.0001220703125
+          ],
+          "text": null
+        },
+        {
+          "id": "c27",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "it unlocks your fat cells,"
+        }
+      ]
+    },
+    {
+      "t": 53.5,
+      "visible": [
+        {
+          "id": "a34",
+          "asset": "fat-tank",
+          "box": [
+            65,
+            557.96875,
+            570,
+            724.046875
+          ],
+          "text": null
+        },
+        {
+          "id": "a35",
+          "asset": "fat-cluster",
+          "box": [
+            120,
+            1368.921875,
+            300,
+            242.125
+          ],
+          "text": null
+        },
+        {
+          "id": "a75",
+          "asset": "cane-up",
+          "box": [
+            332.349853515625,
+            954.1190185546875,
+            605.1203002929688,
+            1100.0001220703125
+          ],
+          "text": null
+        },
+        {
+          "id": "c29",
+          "box": [
+            115,
+            285,
+            740,
+            162.78125
+          ],
+          "text": "your own fat reserves to produce"
+        }
+      ]
+    },
+    {
+      "t": 55.8,
+      "visible": [
+        {
+          "id": "a36",
+          "asset": "mitochondrion",
+          "box": [
+            67.5,
+            570.1640625,
+            585,
+            409.640625
+          ],
+          "text": null
+        },
+        {
+          "id": "a37",
+          "asset": "atp",
+          "box": [
+            95,
+            1239.1875,
+            510,
+            301.609375
+          ],
+          "text": null
+        },
+        {
+          "id": "a75",
+          "asset": "cane-up",
+          "box": [
+            348.953125,
+            1335.5625,
+            550.109375,
+            1000
+          ],
+          "text": null
+        },
+        {
+          "id": "c30",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "steady energy. Naturally,"
+        }
+      ]
+    },
+    {
+      "t": 58.4,
+      "visible": [
+        {
+          "id": "a38",
+          "asset": "weight-person",
+          "box": [
+            130.05258178710938,
+            600.1546630859375,
+            441.5758361816406,
+            917.904052734375
+          ],
+          "text": null
+        },
+        {
+          "id": "a39",
+          "asset": "weight-scale",
+          "box": [
+            598.0128784179688,
+            1332.1041259765625,
+            237.7919921875,
+            180.0623779296875
+          ],
+          "text": null
+        },
+        {
+          "id": "c32",
+          "box": [
+            115,
+            286.0841979980469,
+            740,
+            145.1875
+          ],
+          "text": "once your body finally starts cannibalizing"
+        }
+      ]
+    },
+    {
+      "t": 60.8,
+      "visible": [
+        {
+          "id": "a40",
+          "asset": "waist-tape",
+          "box": [
+            143.72250366210938,
+            880,
+            312.52374267578125,
+            680
+          ],
+          "text": null
+        },
+        {
+          "id": "a41",
+          "asset": "fat-burn",
+          "box": [
+            475,
+            807.046875,
+            350,
+            405.875
+          ],
+          "text": null
+        },
+        {
+          "id": "c33",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "the fat you've been storing since"
+        }
+      ]
+    },
+    {
+      "t": 62.4,
+      "visible": [
+        {
+          "id": "a42",
+          "asset": "storage-2021",
+          "box": [
+            130,
+            867.828125,
+            720,
+            504.328125
+          ],
+          "text": null
+        },
+        {
+          "id": "c34",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "2021. If you've been depressed or"
+        }
+      ]
+    },
+    {
+      "t": 65.5,
+      "visible": [
+        {
+          "id": "a44",
+          "asset": "panic-avatar",
+          "box": [
+            377.5792236328125,
+            799.9085083007812,
+            284.7913818359375,
+            740.1480102539062
+          ],
+          "text": null
+        },
+        {
+          "id": "c35",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "crippled with anxiety,"
+        }
+      ]
+    },
+    {
+      "t": 67.8,
+      "visible": [
+        {
+          "id": "a45",
+          "asset": "relieved-person",
+          "box": [
+            213.05218505859375,
+            517.0947265625,
+            533.8643798828125,
+            1086.7999267578125
+          ],
+          "text": null
+        }
+      ]
+    },
+    {
+      "t": 70,
+      "visible": []
+    },
+    {
+      "t": 72.6,
+      "visible": [
+        {
+          "id": "a46",
+          "asset": "stress-body",
+          "box": [
+            50,
+            705.84375,
+            470,
+            848.296875
+          ],
+          "text": null
+        },
+        {
+          "id": "a47",
+          "asset": "cortisol",
+          "box": [
+            515,
+            636.1875,
+            480,
+            327.59375
+          ],
+          "text": null
+        },
+        {
+          "id": "a76",
+          "asset": "cane-straight",
+          "box": [
+            584.34375,
+            883.34375,
+            400.65625,
+            1000
+          ],
+          "text": null
+        }
+      ]
+    },
+    {
+      "t": 75.8,
+      "visible": [
+        {
+          "id": "a48",
+          "asset": "existential-person",
+          "box": [
+            80,
+            811.296875,
+            680,
+            657.390625
+          ],
+          "text": null
+        },
+        {
+          "id": "c40",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "meaning half your existential dread is"
+        }
+      ]
+    },
+    {
+      "t": 78,
+      "visible": [
+        {
+          "id": "a48",
+          "asset": "existential-person",
+          "box": [
+            65.19999694824219,
+            1033.33154296875,
+            489.5999755859375,
+            473.3212890625
+          ],
+          "text": null
+        },
+        {
+          "id": "a49",
+          "asset": "diet-plate",
+          "box": [
+            560,
+            880.25,
+            300,
+            299.46875
+          ],
+          "text": null
+        },
+        {
+          "id": "c41",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "really just a diet problem."
+        }
+      ]
+    },
+    {
+      "t": 81.4,
+      "visible": [
+        {
+          "id": "a50",
+          "asset": "inflamed-brain",
+          "box": [
+            45,
+            610.609375,
+            600,
+            418.765625
+          ],
+          "text": null
+        },
+        {
+          "id": "a51",
+          "asset": "neural-tissue",
+          "box": [
+            92.875,
+            1130,
+            494.21875,
+            340
+          ],
+          "text": null
+        },
+        {
+          "id": "a77",
+          "asset": "cane-up",
+          "box": [
+            333.15924072265625,
+            1264.85595703125,
+            577.591796875,
+            1049.9501953125
+          ],
+          "text": null
+        },
+        {
+          "id": "c43",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "tissue. Cut it out and you'll"
+        }
+      ]
+    },
+    {
+      "t": 84.8,
+      "visible": [
+        {
+          "id": "a53",
+          "asset": "focus-person",
+          "box": [
+            111.8155746459961,
+            629.9871826171875,
+            636.875,
+            960
+          ],
+          "text": null
+        }
+      ]
+    },
+    {
+      "t": 88.7,
+      "visible": [
+        {
+          "id": "a54",
+          "asset": "blank-screen",
+          "box": [
+            81.58547973632812,
+            888.2059326171875,
+            656.0640869140625,
+            578.5694580078125
+          ],
+          "text": null
+        },
+        {
+          "id": "a55",
+          "asset": "timer-40",
+          "box": [
+            656.0792846679688,
+            779.9942016601562,
+            248.45001220703125,
+            293.77655029296875
+          ],
+          "text": null
+        },
+        {
+          "id": "c46",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "at your screen for 40 minutes."
+        }
+      ]
+    },
+    {
+      "t": 91.7,
+      "visible": [
+        {
+          "id": "a56",
+          "asset": "healthy-face",
+          "box": [
+            116.140625,
+            665,
+            667.703125,
+            890
+          ],
+          "text": null
+        },
+        {
+          "id": "c48",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "skin is a lot better and"
+        }
+      ]
+    },
+    {
+      "t": 93.7,
+      "visible": [
+        {
+          "id": "a57",
+          "asset": "skin-glow",
+          "box": [
+            203.546875,
+            640,
+            592.875,
+            920
+          ],
+          "text": null
+        },
+        {
+          "id": "c49",
+          "box": [
+            115,
+            285,
+            740,
+            154
+          ],
+          "text": "actually has a healthy glow instead"
+        }
+      ]
+    },
+    {
+      "t": 95.9,
+      "visible": [
+        {
+          "id": "a58",
+          "asset": "embalmed-corpse",
+          "box": [
+            131.078125,
+            635,
+            697.828125,
+            950
+          ],
+          "text": null
+        },
+        {
+          "id": "c50",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "of looking like an embalmed corpse."
+        }
+      ]
+    },
+    {
+      "t": 98.7,
+      "visible": [
+        {
+          "id": "a59",
+          "asset": "glycation-bridge",
+          "box": [
+            130,
+            865.859375,
+            510,
+            408.265625
+          ],
+          "text": null
+        },
+        {
+          "id": "a78",
+          "asset": "cane-presenter",
+          "box": [
+            347.390625,
+            997.921875,
+            554.84375,
+            600
+          ],
+          "text": null
+        },
+        {
+          "id": "c52",
+          "box": [
+            115,
+            285.02978515625,
+            740,
+            154
+          ],
+          "text": "a process where sugar molecules glue"
+        }
+      ]
+    },
+    {
+      "t": 100.9,
+      "visible": [
+        {
+          "id": "a60",
+          "asset": "glucose",
+          "box": [
+            115,
+            778.125,
+            470,
+            443.71875
+          ],
+          "text": null
+        },
+        {
+          "id": "a78",
+          "asset": "cane-presenter",
+          "box": [
+            347.5204162597656,
+            948.025634765625,
+            527.1015625,
+            570
+          ],
+          "text": null
+        },
+        {
+          "id": "c53",
+          "box": [
+            115,
+            285,
+            740,
+            127.59375
+          ],
+          "text": "themselves to the collagen proteins holding"
+        }
+      ]
+    },
+    {
+      "t": 102.9,
+      "visible": [
+        {
+          "id": "a60",
+          "asset": "glucose",
+          "box": [
+            400.75,
+            737.9617309570312,
+            258.5,
+            244.0452880859375
+          ],
+          "text": null
+        },
+        {
+          "id": "a61",
+          "asset": "collagen",
+          "box": [
+            247.36676025390625,
+            653.9733276367188,
+            205.2508544921875,
+            554.7379760742188
+          ],
+          "text": null
+        },
+        {
+          "id": "a62",
+          "asset": "skin-section",
+          "box": [
+            157.17495727539062,
+            1314.9871826171875,
+            316.171875,
+            290
+          ],
+          "text": null
+        },
+        {
+          "id": "a78",
+          "asset": "cane-presenter",
+          "box": [
+            347.390625,
+            927.921875,
+            554.84375,
+            600
+          ],
+          "text": null
+        },
+        {
+          "id": "c54",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "your face together and literally rot"
+        }
+      ]
+    },
+    {
+      "t": 105.5,
+      "visible": [
+        {
+          "id": "a63",
+          "asset": "stiff-collagen",
+          "box": [
+            115,
+            856.859375,
+            570,
+            446.265625
+          ],
+          "text": null
+        },
+        {
+          "id": "a78",
+          "asset": "cane-presenter",
+          "box": [
+            357.59765625,
+            1108.0848388671875,
+            508.625244140625,
+            550.02001953125
+          ],
+          "text": null
+        },
+        {
+          "id": "c55",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "them from the inside."
+        }
+      ]
+    },
+    {
+      "t": 108.6,
+      "visible": [
+        {
+          "id": "a64",
+          "asset": "body-relief",
+          "box": [
+            133.90625,
+            600,
+            532.15625,
+            1000
+          ],
+          "text": null
+        },
+        {
+          "id": "c56",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "Finally, throughout your entire body,"
+        }
+      ]
+    },
+    {
+      "t": 111.5,
+      "visible": [
+        {
+          "id": "a65",
+          "asset": "joint-section",
+          "box": [
+            214.67050170898438,
+            752.2189331054688,
+            618.158935546875,
+            823.9683227539062
+          ],
+          "text": null
+        },
+        {
+          "id": "c58",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "inflammation and pain."
+        }
+      ]
+    },
+    {
+      "t": 114.6,
+      "visible": [
+        {
+          "id": "a66",
+          "asset": "immune-cell",
+          "box": [
+            150.296875,
+            665,
+            429.390625,
+            470
+          ],
+          "text": null
+        },
+        {
+          "id": "a67",
+          "asset": "cytokine-receptor",
+          "box": [
+            89.79351806640625,
+            1072.2266845703125,
+            534.5999755859375,
+            304.084716796875
+          ],
+          "text": null
+        },
+        {
+          "id": "a79",
+          "asset": "cane-up",
+          "box": [
+            362.66815185546875,
+            1199.947265625,
+            577.625,
+            1050
+          ],
+          "text": null
+        },
+        {
+          "id": "c60",
+          "box": [
+            115,
+            285,
+            740,
+            132
+          ],
+          "text": "system to pump out inflammatory chemicals"
+        }
+      ]
+    },
+    {
+      "t": 116.9,
+      "visible": [
+        {
+          "id": "a68",
+          "asset": "cytokine",
+          "box": [
+            70,
+            572.609375,
+            560,
+            654.765625
+          ],
+          "text": null
+        },
+        {
+          "id": "a79",
+          "asset": "cane-up",
+          "box": [
+            347.35986328125,
+            904.116455078125,
+            605.1199951171875,
+            1099.97998046875
+          ],
+          "text": null
+        },
+        {
+          "id": "c61",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "called cytokines. So your knees might"
+        }
+      ]
+    },
+    {
+      "t": 119.7,
+      "visible": [
+        {
+          "id": "a69",
+          "asset": "knee-person",
+          "box": [
+            141.09375,
+            625,
+            517.796875,
+            1010
+          ],
+          "text": null
+        },
+        {
+          "id": "c62",
+          "box": [
+            115,
+            285,
+            740,
+            154
+          ],
+          "text": "finally stop sounding like bubble wrap"
+        }
+      ]
+    },
+    {
+      "t": 121,
+      "visible": [
+        {
+          "id": "a69",
+          "asset": "knee-person",
+          "box": [
+            85.818359375,
+            851.25,
+            388.34765625,
+            757.5
+          ],
+          "text": null
+        },
+        {
+          "id": "a70",
+          "asset": "bubble-wrap",
+          "box": [
+            560,
+            992.5625,
+            280,
+            254.84375
+          ],
+          "text": null
+        },
+        {
+          "id": "c62",
+          "box": [
+            115,
+            285,
+            740,
+            154
+          ],
+          "text": "finally stop sounding like bubble wrap"
+        }
+      ]
+    },
+    {
+      "t": 122.6,
+      "visible": [
+        {
+          "id": "a71",
+          "asset": "standing-person",
+          "box": [
+            155.828125,
+            670,
+            628.328125,
+            980
+          ],
+          "text": null
+        },
+        {
+          "id": "c63",
+          "box": [
+            115,
+            285,
+            740,
+            167.1875
+          ],
+          "text": "every time you stand up."
+        }
+      ]
+    }
+  ]
+}

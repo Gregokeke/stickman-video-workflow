@@ -1,0 +1,1538 @@
+[
+  {
+    "asset": "sugar-refusal",
+    "start": 0.12,
+    "end": 4.15,
+    "layout": [
+      340,
+      1115,
+      600,
+      1070
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "sugar-bowl",
+    "start": 0.72,
+    "end": 4.15,
+    "layout": [
+      755,
+      970,
+      300,
+      320
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "calendar",
+    "start": 1.78,
+    "end": 3.96,
+    "layout": [
+      785,
+      1410,
+      240,
+      220
+    ],
+    "route": "rise",
+    "moves": []
+  },
+  {
+    "asset": "torture-drama",
+    "start": 3.86,
+    "end": 5.37,
+    "layout": [
+      465,
+      1110,
+      780,
+      1000
+    ],
+    "route": "down",
+    "moves": [
+      {
+        "t": 4.45,
+        "x": 0,
+        "y": -25,
+        "scale": 1.04,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "sugar-ghoul",
+    "start": 5.04,
+    "end": 8.17,
+    "layout": [
+      400,
+      1140,
+      650,
+      1000
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 6.02,
+        "x": -60,
+        "y": 0,
+        "scale": 0.91,
+        "d": 0.65,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "candy-jar",
+    "start": 5.45,
+    "end": 8.17,
+    "layout": [
+      710,
+      1240,
+      300,
+      360
+    ],
+    "route": "rise",
+    "moves": []
+  },
+  {
+    "asset": "sarcastic-presenter",
+    "start": 7.84,
+    "end": 11.27,
+    "layout": [
+      480,
+      1120,
+      730,
+      1040
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 9.28,
+        "x": -205,
+        "y": 150,
+        "scale": 0.65,
+        "d": 0.8,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "smug-finale",
+    "start": 9.26,
+    "end": 11.27,
+    "layout": [
+      640,
+      1050,
+      360,
+      690
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "craving-reach",
+    "start": 10.94,
+    "end": 13.6,
+    "layout": [
+      385,
+      1110,
+      650,
+      1010
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "candy-jar",
+    "start": 11.9,
+    "end": 13.6,
+    "layout": [
+      685,
+      1030,
+      280,
+      360
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 12.58,
+        "x": 15,
+        "y": -25,
+        "scale": 1,
+        "d": 0.55,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "satisfied-person",
+    "start": 13.34,
+    "end": 15.98,
+    "layout": [
+      400,
+      1120,
+      560,
+      980
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 14.7,
+        "x": -80,
+        "y": -90,
+        "scale": 0.83,
+        "d": 0.8,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "stopwatch",
+    "start": 14.9,
+    "end": 15.65,
+    "layout": [
+      700,
+      900,
+      290,
+      330
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "meal-plate",
+    "start": 15.65,
+    "end": 17.39,
+    "layout": [
+      505,
+      1170,
+      720,
+      990
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "sarcastic-presenter",
+    "start": 17.06,
+    "end": 18.4,
+    "layout": [
+      500,
+      1105,
+      710,
+      990
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "sugar-spoon",
+    "start": 18.07,
+    "end": 19.54,
+    "layout": [
+      430,
+      1070,
+      650,
+      700
+    ],
+    "route": "diagonal",
+    "moves": [
+      {
+        "t": 18.88,
+        "x": -100,
+        "y": -210,
+        "scale": 0.65,
+        "d": 0.55,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "insulin",
+    "start": 19.21,
+    "end": 21.56,
+    "layout": [
+      745,
+      830,
+      470,
+      560
+    ],
+    "route": "left",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "glucose",
+    "start": 20.99,
+    "end": 22.85,
+    "layout": [
+      720,
+      1330,
+      420,
+      440
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 21.51,
+        "x": -335,
+        "y": 90,
+        "scale": 0.88,
+        "d": 0.32,
+        "rotation": 0
+      }
+    ],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "blood-vessel",
+    "start": 21.51,
+    "end": 22.95,
+    "layout": [
+      380,
+      1030,
+      620,
+      410
+    ],
+    "route": "left",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "brain",
+    "start": 25.99,
+    "end": 28.8,
+    "layout": [
+      430,
+      880,
+      550,
+      450
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 27.55,
+        "x": -180,
+        "y": -130,
+        "scale": 0.55,
+        "d": 0.72,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "starving-person",
+    "start": 27.27,
+    "end": 29.14,
+    "layout": [
+      540,
+      1260,
+      530,
+      740
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "just-ate",
+    "start": 28.71,
+    "end": 30.65,
+    "layout": [
+      480,
+      1130,
+      790,
+      1000
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "crossed-sugar",
+    "start": 30.27,
+    "end": 33.38,
+    "layout": [
+      790,
+      1250,
+      260,
+      340
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 31.12,
+        "x": 0,
+        "y": -550,
+        "scale": 0.9,
+        "d": 0.32,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "intestines",
+    "start": 33.03,
+    "end": 36.95,
+    "layout": [
+      310,
+      1150,
+      470,
+      790
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 34.59,
+        "x": -65,
+        "y": 250,
+        "scale": 0.64,
+        "d": 0.32,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "gut-bacteria",
+    "start": 34.59,
+    "end": 37.3,
+    "layout": [
+      365,
+      850,
+      540,
+      480
+    ],
+    "route": "diagonal",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "nervous-system",
+    "start": 36.99,
+    "end": 38.9,
+    "layout": [
+      340,
+      1040,
+      520,
+      850
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "bacteria-beg",
+    "start": 38.43,
+    "end": 40.75,
+    "layout": [
+      370,
+      1135,
+      550,
+      780
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "junk-meal",
+    "start": 39.21,
+    "end": 40.75,
+    "layout": [
+      720,
+      1120,
+      280,
+      380
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "energetic-person",
+    "start": 40.48,
+    "end": 44.6,
+    "layout": [
+      450,
+      1120,
+      670,
+      1020
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 43.19,
+        "x": -175,
+        "y": 80,
+        "scale": 0.8,
+        "d": 0.75,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "battery",
+    "start": 43.19,
+    "end": 44.72,
+    "layout": [
+      700,
+      1090,
+      260,
+      420
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "sugar-high",
+    "start": 44.23,
+    "end": 46.92,
+    "layout": [
+      470,
+      1080,
+      720,
+      980
+    ],
+    "route": "down",
+    "moves": [
+      {
+        "t": 45.41,
+        "x": 0,
+        "y": -70,
+        "scale": 1.03,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "sloth",
+    "start": 46.55,
+    "end": 48.45,
+    "layout": [
+      470,
+      1100,
+      740,
+      870
+    ],
+    "route": "down",
+    "moves": [
+      {
+        "t": 47.12,
+        "x": 10,
+        "y": 90,
+        "scale": 0.96,
+        "d": 0.95,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "insulin",
+    "start": 48.12,
+    "end": 50.43,
+    "layout": [
+      340,
+      900,
+      400,
+      470
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "fat-cell",
+    "start": 50.1,
+    "end": 51.97,
+    "layout": [
+      310,
+      1010,
+      490,
+      590
+    ],
+    "route": "rise",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "padlock",
+    "start": 50.74,
+    "end": 52.1,
+    "layout": [
+      790,
+      720,
+      250,
+      280
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 51.25,
+        "x": 0,
+        "y": -40,
+        "scale": 1,
+        "d": 0.3,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "fat-tank",
+    "start": 51.64,
+    "end": 54.35,
+    "layout": [
+      350,
+      920,
+      570,
+      790
+    ],
+    "route": "left",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "fat-cluster",
+    "start": 52.94,
+    "end": 54.45,
+    "layout": [
+      270,
+      1490,
+      300,
+      300
+    ],
+    "route": "nozzle",
+    "moves": [],
+    "origin": [
+      610,
+      1180
+    ]
+  },
+  {
+    "asset": "mitochondrion",
+    "start": 53.85,
+    "end": 56.7,
+    "layout": [
+      360,
+      855,
+      650,
+      490
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 54.65,
+        "x": 0,
+        "y": -80,
+        "scale": 0.9,
+        "d": 0.35,
+        "rotation": 0
+      }
+    ],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "atp",
+    "start": 54.45,
+    "end": 56.7,
+    "layout": [
+      350,
+      1390,
+      510,
+      420
+    ],
+    "route": "right",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "weight-person",
+    "start": 56.48,
+    "end": 59.15,
+    "layout": [
+      425,
+      1090,
+      640,
+      1040
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 58.02,
+        "x": -120,
+        "y": -50,
+        "scale": 0.81,
+        "d": 0.7,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "weight-scale",
+    "start": 58.02,
+    "end": 59.15,
+    "layout": [
+      715,
+      1400,
+      240,
+      230
+    ],
+    "route": "rise",
+    "moves": []
+  },
+  {
+    "asset": "waist-tape",
+    "start": 58.8,
+    "end": 61.79,
+    "layout": [
+      440,
+      1110,
+      650,
+      1000
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 59.9,
+        "x": -140,
+        "y": 110,
+        "scale": 0.68,
+        "d": 0.8,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "fat-burn",
+    "start": 59.9,
+    "end": 61.79,
+    "layout": [
+      650,
+      1010,
+      350,
+      440
+    ],
+    "route": "rise",
+    "moves": []
+  },
+  {
+    "asset": "storage-2021",
+    "start": 61.46,
+    "end": 64.0,
+    "layout": [
+      490,
+      1120,
+      720,
+      750
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "stressed-head",
+    "start": 63.6,
+    "end": 65.1,
+    "layout": [
+      365,
+      1030,
+      570,
+      770
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "panic-avatar",
+    "start": 64.8,
+    "end": 66.65,
+    "layout": [
+      520,
+      1170,
+      460,
+      740
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 65.48,
+        "x": -30,
+        "y": -30,
+        "scale": 1.35,
+        "d": 0.38,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "relieved-person",
+    "start": 66.22,
+    "end": 68.88,
+    "layout": [
+      480,
+      1110,
+      700,
+      1040
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 67.34,
+        "x": 0,
+        "y": -55,
+        "scale": 1.05,
+        "d": 0.65,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "stress-body",
+    "start": 70.38,
+    "end": 73.95,
+    "layout": [
+      285,
+      1130,
+      470,
+      1130
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "cortisol",
+    "start": 71.6,
+    "end": 74.3,
+    "layout": [
+      755,
+      800,
+      480,
+      470
+    ],
+    "route": "right",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "existential-person",
+    "start": 73.78,
+    "end": 79.54,
+    "layout": [
+      420,
+      1140,
+      680,
+      900
+    ],
+    "route": "down",
+    "moves": [
+      {
+        "t": 77.08,
+        "x": -110,
+        "y": 130,
+        "scale": 0.72,
+        "d": 0.8,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "diet-plate",
+    "start": 77.08,
+    "end": 79.54,
+    "layout": [
+      710,
+      1030,
+      300,
+      330
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "inflamed-brain",
+    "start": 79.21,
+    "end": 82.92,
+    "layout": [
+      345,
+      820,
+      600,
+      550
+    ],
+    "route": "left",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "neural-tissue",
+    "start": 80.79,
+    "end": 82.92,
+    "layout": [
+      340,
+      1300,
+      550,
+      340
+    ],
+    "route": "rise",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "logic-thinker",
+    "start": 82.59,
+    "end": 84.56,
+    "layout": [
+      400,
+      1080,
+      600,
+      860
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "focus-person",
+    "start": 84.23,
+    "end": 86.88,
+    "layout": [
+      430,
+      1110,
+      700,
+      960
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "blank-screen",
+    "start": 86.61,
+    "end": 90.24,
+    "layout": [
+      420,
+      1170,
+      670,
+      860
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 88.47,
+        "x": -90,
+        "y": 65,
+        "scale": 0.82,
+        "d": 0.75,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "timer-40",
+    "start": 88.47,
+    "end": 90.24,
+    "layout": [
+      715,
+      930,
+      250,
+      300
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "healthy-face",
+    "start": 89.91,
+    "end": 93.08,
+    "layout": [
+      450,
+      1110,
+      730,
+      890
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 91.73,
+        "x": -110,
+        "y": 80,
+        "scale": 0.88,
+        "d": 0.8,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "skin-glow",
+    "start": 92.75,
+    "end": 95.04,
+    "layout": [
+      500,
+      1100,
+      760,
+      920
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "embalmed-corpse",
+    "start": 94.71,
+    "end": 97.36,
+    "layout": [
+      480,
+      1110,
+      770,
+      950
+    ],
+    "route": "down",
+    "moves": []
+  },
+  {
+    "asset": "glycation-bridge",
+    "start": 97.03,
+    "end": 99.74,
+    "layout": [
+      385,
+      1070,
+      510,
+      630
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "glucose",
+    "start": 99.41,
+    "end": 103.85,
+    "layout": [
+      350,
+      1000,
+      470,
+      500
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 101.15,
+        "x": 180,
+        "y": -140,
+        "scale": 0.55,
+        "d": 0.85,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "collagen",
+    "start": 101.49,
+    "end": 104.44,
+    "layout": [
+      350,
+      1110,
+      430,
+      790
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 102.33,
+        "x": 0,
+        "y": -180,
+        "scale": 0.7,
+        "d": 0.65,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "skin-section",
+    "start": 102.33,
+    "end": 104.65,
+    "layout": [
+      315,
+      1460,
+      430,
+      290
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "stiff-collagen",
+    "start": 104.11,
+    "end": 107.33,
+    "layout": [
+      400,
+      1080,
+      570,
+      690
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "body-relief",
+    "start": 107.0,
+    "end": 111.2,
+    "layout": [
+      400,
+      1100,
+      580,
+      1000
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 110.07,
+        "x": -160,
+        "y": -50,
+        "scale": 0.75,
+        "d": 0.75,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "joint-section",
+    "start": 110.07,
+    "end": 113.69,
+    "layout": [
+      650,
+      1180,
+      370,
+      590
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 111.05,
+        "x": -160,
+        "y": -20,
+        "scale": 1.85,
+        "d": 0.72,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "immune-cell",
+    "start": 113.36,
+    "end": 115.3,
+    "layout": [
+      365,
+      900,
+      430,
+      470
+    ],
+    "route": "left",
+    "moves": []
+  },
+  {
+    "asset": "cytokine-receptor",
+    "start": 114.42,
+    "end": 116.81,
+    "layout": [
+      355,
+      1200,
+      540,
+      390
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 115.05,
+        "x": 20,
+        "y": -260,
+        "scale": 1.28,
+        "d": 0.38,
+        "rotation": 0
+      }
+    ],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "cytokine",
+    "start": 116.48,
+    "end": 118.45,
+    "layout": [
+      350,
+      900,
+      560,
+      660
+    ],
+    "route": "left",
+    "moves": [],
+    "entry_duration": 0.32
+  },
+  {
+    "asset": "knee-person",
+    "start": 118.12,
+    "end": 121.6,
+    "layout": [
+      400,
+      1130,
+      630,
+      1010
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 120.22,
+        "x": -120,
+        "y": 100,
+        "scale": 0.75,
+        "d": 0.7,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "asset": "bubble-wrap",
+    "start": 120.22,
+    "end": 122.2,
+    "layout": [
+      700,
+      1120,
+      280,
+      350
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "standing-person",
+    "start": 121.4,
+    "end": 123.16666666666667,
+    "layout": [
+      470,
+      1160,
+      750,
+      980
+    ],
+    "route": "rise",
+    "moves": []
+  },
+  {
+    "asset": "cane-presenter",
+    "start": 19.7,
+    "end": 21.66,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        19.7,
+        740,
+        850,
+        820
+      ],
+      [
+        20.99,
+        720,
+        1300,
+        790
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-straight",
+    "start": 30.63,
+    "end": 33.05,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        30.63,
+        610,
+        1170,
+        1060
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-presenter",
+    "start": 34.8,
+    "end": 38.3,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        34.8,
+        350,
+        850,
+        650
+      ],
+      [
+        36.99,
+        345,
+        1060,
+        740
+      ]
+    ],
+    "z": 55,
+    "moves": []
+  },
+  {
+    "asset": "cane-up",
+    "start": 48.55,
+    "end": 56.6,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        48.55,
+        340,
+        890,
+        1000
+      ],
+      [
+        50.1,
+        330,
+        1030,
+        1100
+      ],
+      [
+        51.64,
+        350,
+        970,
+        1100
+      ],
+      [
+        53.85,
+        370,
+        850,
+        1100
+      ],
+      [
+        54.55,
+        365,
+        1350,
+        1000
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-straight",
+    "start": 71.92,
+    "end": 73.9,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        71.92,
+        660,
+        890,
+        1000
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-up",
+    "start": 79.5,
+    "end": 82.6,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        79.5,
+        365,
+        800,
+        1100
+      ],
+      [
+        80.79,
+        350,
+        1280,
+        1050
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-presenter",
+    "start": 97.7,
+    "end": 106.7,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        97.7,
+        350,
+        1000,
+        600
+      ],
+      [
+        100.05,
+        350,
+        950,
+        570
+      ],
+      [
+        102.0,
+        350,
+        930,
+        600
+      ],
+      [
+        102.95,
+        330,
+        1340,
+        580
+      ],
+      [
+        104.45,
+        360,
+        1110,
+        550
+      ]
+    ],
+    "z": 55,
+    "moves": []
+  },
+  {
+    "asset": "cane-up",
+    "start": 113.95,
+    "end": 118.3,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        113.95,
+        350,
+        920,
+        1050
+      ],
+      [
+        114.42,
+        380,
+        1220,
+        1050
+      ],
+      [
+        115.05,
+        385,
+        940,
+        1100
+      ],
+      [
+        116.48,
+        365,
+        920,
+        1100
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "timer-20",
+    "start": 44.57,
+    "end": 46.85,
+    "layout": [
+      720,
+      1420,
+      250,
+      300
+    ],
+    "route": "right",
+    "moves": []
+  },
+  {
+    "asset": "cane-up",
+    "start": 21.56,
+    "end": 22.95,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        21.56,
+        430,
+        1030,
+        1200
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  },
+  {
+    "asset": "cane-up",
+    "start": 22.93,
+    "end": 25.95,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "targets": [
+      [
+        22.93,
+        420,
+        850,
+        1000
+      ],
+      [
+        24.45,
+        720,
+        1320,
+        950
+      ]
+    ],
+    "z": 55,
+    "moves": [],
+    "flip": false
+  }
+]

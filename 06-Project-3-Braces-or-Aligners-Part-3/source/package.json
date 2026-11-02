@@ -1,0 +1,12 @@
+{
+  "name": "braces-or-aligners-part-3",
+  "private": true,
+  "scripts": {
+    "build": "python3 build.py",
+    "render": "node render.mjs",
+    "preview": "hyperframes preview"
+  },
+  "devDependencies": {
+    "hyperframes": "0.8.181"
+  }
+}

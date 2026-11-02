@@ -1,0 +1,25 @@
+{
+  "removed_redundant_assets": [
+    "monitor-4k",
+    "learning-avatar"
+  ],
+  "oversize_exceptions": [
+    {
+      "asset": "cane-presenter",
+      "time": [
+        81.3,
+        82.25
+      ],
+      "reason": "Deliberate lower-target move with larger presenter; face, grip and cane tip stay above bottom UI; legs may crop."
+    },
+    {
+      "asset": "cane-presenter",
+      "time": [
+        115.1,
+        117.0
+      ],
+      "reason": "Enlarged lower-target move; only lower legs extend into bottom UI."
+    }
+  ],
+  "pointer_targets": "Foreground, delayed, measured source cane tip. Targets moved inward to preserve presenter face and grip from right action rail."
+}

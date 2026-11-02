@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "apathy",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/apathy.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "e5798ba985c43801e3e60c255b8225dc89553188f69f40be25680f9f2092cd12",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "average-american",
+    "prompt": "Ordinary red rounded stickman full body with black plain baseball-cap outline, slightly sheepish face and shrug, both hands out at waist height. No national flag, no stereotypes beyond casual everyday dress, no text. For average daily steps.",
+    "status": "available",
+    "path": "assets/graphics/average-american.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "a5fd5617e507c5037e1a99a80d9724d302909c4a1dd2be50e22f2d4806240cd7",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "average-slow",
+    "prompt": "Ordinary rounded red stickman taking a tiny slow walking step while looking sheepishly at their wristwatch, slack shoulders, full body and clear wrist contact. No digits, no text, no props beyond worn watch. For barely scraping together daily steps.",
+    "status": "available",
+    "path": "assets/graphics/average-slow.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "58a1eabc5bfca685130a461431979379463be14d6a6bed8067018fe70f5b9f90",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "bed-deadpan-face",
+    "prompt": "Close-up rounded red stickman head on a red pillow, eyes wide open in a flat deadpan stare, small crooked mouth, one forearm partly visible at pillow edge. Clearly awake and alive, no decay, no text. For the absurd bed-risk punchline.",
+    "status": "available",
+    "path": "assets/graphics/bed-deadpan-face.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "ff423f64d73b162c87749b9f12ae047e5d98e76d6fe729726fadb90ee622f709",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "bottom-marinate",
+    "prompt": "Absurd non-graphic metaphor: sleepy red rounded stickman lounging comfortably in a large red cooking pot like a bathtub, head and bent arms resting on rim and two rounded feet visible, black contour separations. No stove, fire, liquid, cooking, injury or gore. Clearly comic laziness illustration for 'marinating at the bottom'.",
+    "status": "available",
+    "path": "assets/graphics/bottom-marinate.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "242cef9e8d996609240a56e23a40fe218b219962d3a4d9cc9eee8f70dadfdd80",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "brain",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/brain.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "2653c1680e167eec8150de82936a707db8db98f3db2b003457b53fe1200e9c14",
+    "size": [
+      1332,
+      1181
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "breathing-person",
+    "prompt": "Rounded red stickman full body standing relaxed, one palm on upper chest and other hand loosely at side, calm neutral expression, shoulders open. No cigarette, breath symbols, medical claims, or text. For nonsmoker contrast.",
+    "status": "available",
+    "path": "assets/graphics/breathing-person.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "0af91b84b00c429b8583cf4586feda1b2f0458803cdb9261e0551043e663680c",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "bribe-coins",
+    "prompt": "Only a stack of exactly three red coins with black rims and one separate upright red coin. NO symbols, NO person, NO hand, NO face, NO body, NO mascot.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/bribe-coins-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "80454a85ac8bb2ac1b6c9804086d5e255910285546064e27240805477c0250db",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "bribe-handoff",
+    "prompt": "Two rounded red stickman figures in a coherent comic transaction: a walking figure discreetly offers one red coin with extended hand to a bored red-hooded grim reaper with simple black skull facial marks; reaper's hand receives it. Full bodies, no threatening weapon, no gore, no text.",
+    "status": "available",
+    "path": "assets/graphics/bribe-handoff.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "156abfe364e8427099f7f7dbf91f0a166c8b65fad77903f0882e1d65b2381796",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "calendar",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/calendar.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "4a1c0040ce4402f7a7f7f26904a6df6bf86f1d85878e874f792055aad9538d50",
+    "size": [
+      1214,
+      1295
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "cane-presenter",
+    "prompt": "One rounded red stickman professor full body on the left, serious raised eyebrow, one hand on hip, other hand firmly gripping a straight thin BLACK pointer. The held pointer extends DIAGONALLY UPWARD to the RIGHT at about 40 degrees, from hand at chest height toward an empty target above and to the right. Both hand and cane are visibly connected. Full body and entire cane tip, generous margins, no chart or board or lettering. Match red/black rounded character.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/cane-presenter-v2.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990",
+    "size": [
+      1206,
+      1305
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "capsule",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/capsule.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "631ce5ae29e431e0836fd3d274c76fc5c10320f3cf2fd2069fb252d68adabbb5",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "cigarette",
+    "prompt": "ONLY ONE standalone unbranded cigarette, horizontal slight diagonal, illustrated in flat red with black filter line and one small black smoke curl. Neutral educational object, not promotional. NO person, NO hand, NO arm, NO face, NO body, NO clothing, NO mascot, no lettering.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/cigarette-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "a5cbc28175e76ab14c519e7acf406d7524e82208c1dde78f957277cd922d3c36",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "cigarette-pack",
+    "prompt": "Only a plain open unbranded red cigarette packet with several slim red-and-black cigarettes visible, blank front. Neutral educational illustration, no lettering or promotional decoration. NO person, NO hand, NO arm, NO face, NO body.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/cigarette-pack-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "94836ad9aceea483d34e73349bb18f8bf60342d23ec3d1867e111c2403e739cc",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "clipboard-study",
+    "prompt": "Standalone red clipboard held at bottom by a small red hand, blank form with three simple black horizontal entry lines and three red check boxes, no words or numbers. Pencil clipped along side. For researchers tracking movement.",
+    "status": "available",
+    "path": "assets/graphics/clipboard-study.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "fe3de66650e35dcb63f70efd0d6df5c31153d06813d99d8f27e7f7ca5d002465",
+    "size": [
+      1221,
+      1289
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "closed-coffin",
+    "prompt": "Standalone simple CLOSED red coffin, black beveled edge contours, three-quarter side view, unadorned without cross, flowers, names or inscriptions. No person, no body, no gore. Symbolic for mortality discussion.",
+    "status": "available",
+    "path": "assets/graphics/closed-coffin.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "7a0eafd7c35b113afa58ce96a51d314ff5a5a5a1b70002bb4ff0423ace47839b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "coffee-mug",
+    "prompt": "Standalone large red ceramic coffee mug with black rim and handle, dark black coffee visible inside, two restrained black steam curls. No saucer or text. For washing a pill down with nice coffee.",
+    "status": "available",
+    "path": "assets/graphics/coffee-mug.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "2b35209ba5b0cd34664b5a6d0a93a4559bc8fb0718d08d63f6bf93fbe25877ef",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "coffee-sip",
+    "prompt": "Rounded red stickman bust taking a small sip from a red coffee mug held naturally at mouth, half-lidded complacent expression, black coffee surface and clear hand grip. No pill visible, no table or text. For imagined easy pill-taking with coffee.",
+    "status": "available",
+    "path": "assets/graphics/coffee-sip.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "8bf0efbef812f70aa0094834ecd8268a631b0bb61a0cc7cd1e0141121f06f07b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "confused",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/confused.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "65a23c1f6be33b614978008403bc24d658ac18320875fd307ad829de9191f71a",
+    "size": [
+      1181,
+      1332
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "couch-grip",
+    "prompt": "One rounded red stickman full body reluctantly rising from a compact red couch, hands pressing down on its arms, one foot planted forward and exhausted eyebrows. Alive and intact. No decay, lettering or extra props. For dragging yourself from inactivity.",
+    "status": "available",
+    "path": "assets/graphics/couch-grip.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "29a270efe9e6eb5a534b632eff3916831a9aca61351ae2f2050e701943f68efa",
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "couch-slouch",
+    "prompt": "Red rounded stickman slumped deep into a simple red couch, black separation lines, head tilted back, bored half-closed eyes, feet extended, one arm draped over side. Fully visible couch, coherent interaction, no phone or food. For 'rotting on the couch'.",
+    "status": "available",
+    "path": "assets/graphics/couch-slouch.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "acaca415033d954178fc08a227e50b46875acb5dbc8eaad40d0fea152451ddf2",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "crime-scene-tape",
+    "prompt": "Standalone short stretch of red barrier tape between two small black posts, black diagonal stripe markings only, no letters, no police insignia, no person. For joking 'fleeing a crime scene', no violence or victims.",
+    "status": "available",
+    "path": "assets/graphics/crime-scene-tape.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "a553cc32fc3e6cd5708f859cf51c06aeb7ecbfb04d12c10cf8fb16a6f7e5b0c1",
+    "size": [
+      1774,
+      887
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "death-hourglass",
+    "prompt": "Standalone red hourglass with black frame contours and a small simple black skull mark on its base, upper red sand chamber partly full. No words or numbers, no gore. Clear symbolic mortality prop for 'risk of dying'.",
+    "status": "available",
+    "path": "assets/graphics/death-hourglass.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "f3e054bdf3664c22329e057e46529cd85cc0eef592ad0a5d01e5176618db8f3b",
+    "size": [
+      1243,
+      1266
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "delivery-bag",
+    "prompt": "Standalone red folded paper takeout bag with two short handles, black fold seams and a simple black fork-and-spoon symbol. No letters, no brand, no other objects. For Uber Eats mention without copying a logo.",
+    "status": "available",
+    "path": "assets/graphics/delivery-bag.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "45e73e66342941112499d8cd0470f9258db03b376bec701555fb8cbab410e1b5",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "doctor-warning",
+    "prompt": "Red rounded stickman doctor full body, stern deadpan expression, black stethoscope, one open palm facing viewer in a clear stop gesture and other arm pointing down gently. No clipboard or props, no labels. For 'not saying you should pick up smoking'.",
+    "status": "available",
+    "path": "assets/graphics/doctor-warning.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "80c3c707e84094798296788872f47429babd9780a3b80255f45ed901bacc0054",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "door-handle",
+    "prompt": "Standalone rounded red hand in red sleeve gently gripping and turning a simple red lever door handle on a small red mounting plate, black contour separation. Complete wrist, correct natural grip, no full door or person, no text. For opening the front door.",
+    "status": "available",
+    "path": "assets/graphics/door-handle.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "39add7549b97fcfff6a61674a27f7e6d05bc0c68ec6a5c4b65a616912619e9ae",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "doorstep-handoff",
+    "prompt": "Two red rounded stickmen at a minimal open door: tired bathrobe figure on left receives one small red takeout bag from an upright delivery person on right. Their hands meet at the handles coherently, full bodies, black separation lines. No text, no logo, no scenery beyond doorframe.",
+    "status": "available",
+    "path": "assets/graphics/doorstep-handoff.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "b52d36ca0d22a653fca7f15aff390e7a6555e7ce518edd1efea658254b8546a1",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "doorstep-shuffle",
+    "prompt": "Red rounded stickman in a loose red bathrobe and slippers, hunched tired posture, taking a tiny reluctant step with one foot barely lifting, half-closed eyes and slack shoulders. Full body, no doorway or food yet. For least-active crowd.",
+    "status": "available",
+    "path": "assets/graphics/doorstep-shuffle.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "2b5a5015f846bc1d3dad926a9f1cb9ed76bdf0240033390bcebb65c69105b01a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "doorway-walk",
+    "prompt": "Red rounded stickman stepping through one minimal red open doorframe into empty clear space, back three-quarter view, natural relaxed walking posture and complete body. No scenery, no path arrows, no lettering. For take a walk from wherever you're at.",
+    "status": "available",
+    "path": "assets/graphics/doorway-walk.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "31accb6cb156c89427022f2d11336246c6cff9c3575305d43969ef8f04e800c1",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "dread-portrait",
+    "prompt": "Rounded red stickman bust staring blankly off to one side, chin supported in one palm, other arm folded, deeply deadpan existential expression with lowered brows. No thought bubbles or symbols, no text. For existential dread.",
+    "status": "available",
+    "path": "assets/graphics/dread-portrait.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "5c79bdf92b1b08dc9cf25300f07f82ec16476ea3bf80c607583a6dac723c06bf",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "eager-buyer",
+    "prompt": "Red rounded stickman leaning forward eagerly with a delighted wide-eyed face and both cupped hands reaching to receive something, full body, feet planted, no props or floating symbols. For 'how many would you snag?'",
+    "status": "available",
+    "path": "assets/graphics/eager-buyer.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "9c894f084f7caa1e62971ee1c82bf71975fafe0f61c0304f90fbb51eacc86f50",
+    "size": [
+      1156,
+      1361
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "empty-chair",
+    "prompt": "One standalone simple red chair with black seat/back separation, empty and facing slightly left, no person, no text. For 'nowhere to sit'.",
+    "status": "available",
+    "path": "assets/graphics/empty-chair.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "0cb4ec70ee136f31fd05a2c07e232dc4f87f244a66b92be6c37034fee90f79fd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "exhausted-drag",
+    "prompt": "Red rounded stickman reluctantly dragging one foot forward, torso bent, arms drooping, heavy half-closed eyes, full body, humorous low-energy action but alive and intact. No dirt, gore or trails. For 'drag your carcass'.",
+    "status": "available",
+    "path": "assets/graphics/exhausted-drag.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "43fd65bf90ec985313c45894f2b3e3c074319285fafc752c0f444a4d33ce4ccc",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "extra-pill-stack",
+    "prompt": "Standalone three separate oblong red tablets arranged in a neat increasing small stack with black dividing contours, no hand or bottle, no symbols or lettering. For stacking an extra hypothetical pill.",
+    "status": "available",
+    "path": "assets/graphics/extra-pill-stack.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "5fb25dfe05b8b02f6c10ed678432d4036671ce4b54ad2d16e06194bb80b44c94",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "extra-step-foot",
+    "prompt": "Standalone close-up of a red shoe/rounded stickman foot planting forward with the other red foot behind at heel lift, cropped lower legs, broad black sole contours, clear action pose. No arrows, no dust, no letters. For extra 1000 steps.",
+    "status": "available",
+    "path": "assets/graphics/extra-step-foot.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "8b150b2659b376ccc26d5b2606f58520e4d72222a34060aee3b3d7ab93411e8b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "first-step",
+    "prompt": "Close-up red rounded stickman foot stepping decisively over a simple red doorway threshold, other leg behind with heel lifted. Exactly two legs, black sole and threshold separation. No trail, text, scenery. For the first deliberate action of taking a walk.",
+    "status": "available",
+    "path": "assets/graphics/first-step.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "394b569d19a1fbd03d816bfef62947153f5daa3c5aee79339b4ffc5fc0366b6a",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "functional-walker",
+    "prompt": "Red rounded stickman taking a comfortable ordinary walking step toward right, upright shoulders, small satisfied smile, hands relaxed, full body. Clearly moderate everyday walking, different from the exaggerated power walker. No trails or scenery.",
+    "status": "available",
+    "path": "assets/graphics/functional-walker.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "efa53188e73ee1908f56bc6811f2de6274f7b3856c1b13ed1f3f186027baae48",
+    "size": [
+      1142,
+      1377
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "grim-reaper",
+    "prompt": "Friendly dark-comic red-and-black grim reaper stylized in same rounded stickman family, red hood and robe, simple black skull facial marks, holds a red scythe with black blade contour upright beside body. Full body, no victim, no gore, no text. Mildly bored expression, not threatening.",
+    "status": "available",
+    "path": "assets/graphics/grim-reaper.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "8cbff61b7ef02c959d8efe53f0b114431fd64d060b0f1f521aac395b19b59d55",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "horizontal-dread",
+    "prompt": "Red rounded stickman lying flat and rigid on a simple red sofa, staring blankly upward with small black eyes, arms straight along sides, legs horizontal, comic existential deadpan. Complete sofa silhouette. No thought cloud, no text.",
+    "status": "available",
+    "path": "assets/graphics/horizontal-dread.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "a097f4a972fe4e2d6cd490a81885aece1ce2c58d89218645cc6db666169dfaaf",
+    "size": [
+      1774,
+      887
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "lab-scientist",
+    "prompt": "Red rounded stickman researcher with black glasses and simple black lab-coat contour lines, holding a blank clipboard and pencil naturally, attentive gaze. Full body, different from a doctor pose. No text, no equations.",
+    "status": "available",
+    "path": "assets/graphics/lab-scientist.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "cb8ddb7ae75c06e5aec87912980565401625da971859812867909de5239f2b3f",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "least-active-chair",
+    "prompt": "Rounded red stickman sunk low in a compact red armchair, legs extended, chin tucked and eyelids heavy, one hand rests idly on belly. Entire scene visible and non-graphic. For least-active group comparison.",
+    "status": "available",
+    "path": "assets/graphics/least-active-chair.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "4b57942ba9e36523559dffbcf55261c9cbd8182b7088f046d33373dc551ac1ae",
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "leaving-home",
+    "prompt": "Rounded red stickman in rear three-quarter view reaching naturally for a red open door lever with one hand while the other arm swings into a first walking step. Minimal red doorframe, complete body, black separations. Different action from an already walking-through doorway. For forcing yourself to start from wherever you are.",
+    "status": "available",
+    "path": "assets/graphics/leaving-home.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "bf6303f53f81d488860ce375e44a32d2d817bf724c0a661ea11f0616d6bdf427",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "legs-close",
+    "prompt": "Close-up of two rounded red lower legs and feet beneath simple red shorts, standing ready to walk, one foot lifted slightly at heel, clear black knee/ankle contour accents, crop above knees with generous margins. No extra body, no text.",
+    "status": "available",
+    "path": "assets/graphics/legs-close.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "bb390385af8d770ce0e89b45db0f33d3ebc49362cf1ceddc21c985bf51ae7360",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "legs-exasperated",
+    "prompt": "Rounded red stickman seated upright, looking down at their own two legs with one eyebrow raised, both palms open toward knees as if rediscovering what legs do. Full figure on a compact simple red stool, feet clearly visible. No symbols or text.",
+    "status": "available",
+    "path": "assets/graphics/legs-exasperated.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "34cd5d7a2175b1076a847258e12a7889407ecf2495115d44e54f53fc40a2bdc6",
+    "size": [
+      1144,
+      1375
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "long-distance-walker",
+    "prompt": "Red rounded stickman briskly power-walking, energetic stride and determined slightly overenthusiastic expression, arms bent, one long step forward, entire body visible. No running flight phase, no speed trails, no props. For 16000-step crowd.",
+    "status": "available",
+    "path": "assets/graphics/long-distance-walker.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "4854e9b5b3895576eaa1c7b28dbe20fa38295ab5f46ce37ed4512b0bc26d5413",
+    "size": [
+      1229,
+      1280
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "lungs",
+    "prompt": "Scientific educational illustration of human lungs in flat red and black, two distinct lobed lungs connected to trachea and branching bronchi, right lung three lobes and left lung two lobes with cardiac notch. Generate the identity label 'LUNGS' together beneath them in SAME image. No face, no fake organism, no disease markings, no gore, no extra text.",
+    "status": "available",
+    "path": "assets/graphics/lungs.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "d0bc393c60410de390d24049c3befb0ebb11fbc5d71c91d5c837aaee8db73469",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "magic-pill-reveal",
+    "prompt": "Red rounded stickman presenter bust with knowing sarcastic smirk, one palm up holding a single red oblong tablet, other hand pointing down toward unseen feet. Clear fingertip direction and believable tablet contact. No text, no sparkles. Callback to opening magic pill.",
+    "status": "available",
+    "path": "assets/graphics/magic-pill-reveal.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "a2be8f013484feeaecc1b6adcd04b061815435a69752034d8840223cdd826487",
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "marching-person",
+    "prompt": "Rounded red stickman marching in exaggerated but readable high-knee step, arms bent, determined comically serious face, full body with both feet intact. No uniform, weapon, scenery, trail or text. For don't need to march 16000 steps.",
+    "status": "available",
+    "path": "assets/graphics/marching-person.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "1e494f9a131a559a7c993f7fc69d4e8993e25d1618cd68dec0c3a1ce2cc83378",
+    "size": [
+      1145,
+      1374
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "mattress",
+    "prompt": "One large standalone red mattress with black rounded edge seams and minimal black tuft marks, three-quarter view, no bedframe or person, clear red-and-black silhouette. For mattress punchline.",
+    "status": "available",
+    "path": "assets/graphics/mattress.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "853c300af4e16b0db1a349bac39972b99c10d8ba22e51394c07e3f2c60d92c0c",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "mattress-winner",
+    "prompt": "Absurd comic illustration of a simple red mattress standing vertically beside a small red trophy with black contour divisions, mattress has a very simple smug black face and two tiny red arms resting on hips. Clear cartoon metaphor, no text or additional podium. For 'mattress outperforming' punchline.",
+    "status": "available",
+    "path": "assets/graphics/mattress-winner.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "c45863dcce3eeeb3e9a423b476ef9ad0d06619ef08fb79ffcb2f7a61e8cd5dea",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "non-smoker",
+    "prompt": "Red rounded stickman full body in relaxed upright neutral stance, hands loosely at sides, attentive face, no cigarette, no props, no halo or health badge. Match proportions to smoker comparison, distinguish upright posture. No text.",
+    "status": "available",
+    "path": "assets/graphics/non-smoker.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "27b68bce84ae703f2bebd7e59dc459bf8ed4c491b05a75d3449a892dc15c1f58",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "nowhere-to-sit",
+    "prompt": "Rounded red stickman standing with knees slightly bent and palms spread, looking around to one side as if searching for a place to sit, puzzled but energetic face. Full body, no chair or scenery, no text. For nowhere to sit joke.",
+    "status": "available",
+    "path": "assets/graphics/nowhere-to-sit.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "06a526eba03a53113b9d605148203a6d6ece3414fe90b6c92f5067a8ed86a85c",
+    "size": [
+      1145,
+      1374
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "offended-professor",
+    "prompt": "Red rounded stickman scientist bust with simple black glasses, offended incredulous eyebrows, leaning backward slightly with one palm raised as if saying excuse me. Other hand lightly on chest. No props, no text. For most offensive part of the study.",
+    "status": "available",
+    "path": "assets/graphics/offended-professor.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "5d8910e7143ad646a1619d67ce1a16044aa73a6f169fba8fb7e2d4533ee95f30",
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "own-two-feet",
+    "prompt": "ONLY exactly two rounded red feet and lower legs cropped just below the knees. One heel lifted, opposite foot planted, walking away rear three-quarter view. Black sole contours. NO torso, NO arms, NO upper body, NO head, NO full person, NO face, NO text.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/own-two-feet-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "39d28a14a557019938a29ad8e2176e5d02df4b39a8b394f7aa04db4201ece923",
+    "size": [
+      1271,
+      1238
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pack-hand",
+    "prompt": "Standalone rounded red hand holding an OPEN unbranded red cigarette packet at waist-like angle, black contours and several red cigarette tips visible. Blank packet, no logo or text, no glamorized smoke. For a pack-a-day habit.",
+    "status": "available",
+    "path": "assets/graphics/pack-hand.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "d1ee9f51b04240335d9fe34b1fef4cbb62893fb8c124d64981d1451408103263",
+    "size": [
+      1267,
+      1241
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pallbearers-six",
+    "prompt": "Exactly SIX distinct red rounded stickman pallbearers carrying one simple closed red coffin together: three people on the near side, three clearly visible offset on far side, all six heads separated and countable, each complete figure with legs visible, natural cooperative carrying grip at shoulder or waist. Side three-quarter view so all six can be counted. Black contours separate figures and coffin. Darkly humorous but respectful, no body visible, no gore, no mourning crowd, no extra seventh person, no text.",
+    "status": "available",
+    "path": "assets/graphics/pallbearers-six.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "258256804407949532203bfdee7ae6434aa0ab0fb5824f16cdf991ab326e2c03",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pedometer5000",
+    "prompt": "One standalone fitness wristwatch with complete strap, large exact screen text '5,000' and smaller 'STEPS'. Frontal view. NO person, NO hand, NO arm, NO human figure, NO face.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/pedometer5000-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "f401810c8af5df54ac9578f726d1601e125f70bdb6300eb6e9ca4855c78715d6",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pharma-building",
+    "prompt": "Standalone symbolic pharmaceutical laboratory building, simple red three-storey frontage with black windows, one black medical cross above entrance. No company name, no letters, no flags. Rounded confident red-and-black flat graphic, no scenery. For hypothetical Big Pharma opening.",
+    "status": "available",
+    "path": "assets/graphics/pharma-building.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "d908e548cb099c1a113d7dfa5cb46611ce42d8ba21aabab81837663057aac11b",
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pharma-salesman",
+    "prompt": "Sarcastic pharmaceutical salesman red rounded stickman in a simple black tie, theatrical smirk and raised eyebrow, presenting one small blank red pill between finger and thumb at shoulder height. Full body, readable hand and face, no logo or text. For hypothetical Big Pharma magic-pill hook.",
+    "status": "available",
+    "path": "assets/graphics/pharma-salesman.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "5915d8400e8fafab54c016c754a42d3b1982e48bacbf82a44cf190e80cf0ff80",
+    "size": [
+      1135,
+      1386
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "phone-order",
+    "prompt": "Standalone red smartphone held in a rounded red hand, screen shows a simple black takeout-bag icon and one red rounded button with black outline, no letters, no numbers, no brand. Full phone and hand visible. For food-delivery order.",
+    "status": "available",
+    "path": "assets/graphics/phone-order.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "13a39ec95074830d3ff536a15bedb6e85ff8c29eaa8ceb88ba39dd1f0ed377d1",
+    "size": [
+      1263,
+      1245
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pill-bottle",
+    "prompt": "One standalone red prescription-style pill bottle with black cap tilted open and three red oblong tablets next to its base. Blank front, no labels or logos, no hand. For imaginary drug and later 'doesn't come in a bottle'.",
+    "status": "available",
+    "path": "assets/graphics/pill-bottle.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "23eaea591bdaa553e41e1d0478a1d7bcaa95661f2c294f80d28db53e562b87af",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pill-hand",
+    "prompt": "Standalone large rounded red hand holding one small oblong red tablet between thumb and index finger, black contour separates fingers and pill. Complete wrist cutout, no person, no labels. For each extra pill.",
+    "status": "available",
+    "path": "assets/graphics/pill-hand.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "6fa79106d475f8a8b162719704b7432bfa388a4172813513d94b4c7724e90697",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "pill-refusal",
+    "prompt": "A rounded red stickman bust raising one empty palm in a clear no gesture toward a small red pill bottle in the other hand, incredulous raised eyebrow. Coherent interaction, no letters, no icons. For the reveal that walking does not come in a bottle.",
+    "status": "available",
+    "path": "assets/graphics/pill-refusal.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "b877fdf40202f77a1608491485295f49b1548f62da937098f2831e2507bd50f3",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "reaper-coin-hand",
+    "prompt": "Close-up of one rounded red hand offering a small red coin to a second rounded hand emerging from a red robe cuff, black contours separate contact. One coherent exchange asset, no body or weapon, no text. For 'bribing'.",
+    "status": "available",
+    "path": "assets/graphics/reaper-coin-hand.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "8999707c4e5ce74c7833bc1b30b62ac8d5dc3c36493f82a355d2865b72bcfac3",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "reaper-look-away",
+    "prompt": "A RED HOODED GRIM REAPER, matching the existing supplied reaper illustration: rounded red hood and long red robe, BLACK skull facial details. Turning head and shoulders to the RIGHT with exaggerated innocent whistling expression; hands clasped behind back. Must retain hood, robe and skull identity. Full body. No weapon, no coins, no lettering.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/reaper-look-away-v2.png",
+    "style_references": [
+      "assets/graphics/grim-reaper.png",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "81d13ecfeeb52a9f4dbad6f08c0264c71b9597944b2d0eea99bafbab348ead06",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "research-participants",
+    "prompt": "A coherent group of three rounded red stickman adults standing in a small staggered row, one relaxed, one slightly slouched, one energetic, distinct separated heads and complete bodies. Red/black only, no props, no numbers, no text. For research participants grouped by movement.",
+    "status": "available",
+    "path": "assets/graphics/research-participants.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "674bebd07f951642ec34120b0ad43f64837f22bdd2569163cc2d48e9c4153a63",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "risk-shield",
+    "prompt": "Only one standalone red rounded shield with a small black hourglass motif, no lettering. NO hand, NO person, NO arm, NO face, NO body.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/risk-shield-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "9a1fb6c2c898740a2cc0775ca3f7e750a8f963427c215274416e4e608e9bbded",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "rotting-bed",
+    "prompt": "Red rounded stickman sprawled lazily across a simple red mattress and pillow, one hand dangling over bed edge, eyes half closed and slack posture. Clearly alive and bored; no decay, skeleton, wounds, insects or gore. Full bed and body visible. For 'rotting in your bed all day' as figurative expression.",
+    "status": "available",
+    "path": "assets/graphics/rotting-bed.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "bd4c7e25f6721c2c2bb7c06f6085994ddb55e95a1bd4d3fd485f627831233a53",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "sarcastic-presenter",
+    "prompt": "Red rounded stickman full body, deadpan sarcastic eyebrow and crooked small smile, arms folded with one hand raised palm-up as if delivering a ridiculous fact. Relaxed stance leaning slightly to one side, no props, no text. For punchline reaction and returns to hero.",
+    "status": "available",
+    "path": "assets/graphics/sarcastic-presenter.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "ba1a144d94d75a3989463d39d08e3bc6013acd3f03870586cf8a2ff785d05bc9",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "scientist-compare",
+    "prompt": "Rounded red scientist with black glasses and simple red lab coat, looking back and forth between two small blank red specimen cards held apart, one in each hand. Full body, no numbers or letters. For scientists comparing low and high groups.",
+    "status": "available",
+    "path": "assets/graphics/scientist-compare.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "77c13be53aa09b4b9c341cb2e5ea369cf88b508dabb4fd21aab29ad762d029ab",
+    "size": [
+      1086,
+      1448
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "shocked-comparison",
+    "prompt": "Red rounded stickman bust with wide eyes and one eyebrow high, both palms opened outward in a sarcastic 'seriously?' reaction. Mouth small and astonished. No symbols or text. For threefold risk revelation.",
+    "status": "available",
+    "path": "assets/graphics/shocked-comparison.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "154763e62e21c9005aa8270f13c470b9f6270f4367f2406175d6f07f308465ad",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "side-effects-checklist",
+    "prompt": "Standalone red medical clipboard with exactly three outlined boxes and empty black horizontal rule lines, one red pen beside it, no lettering and no checks. Clear blank checklist for the hypothetical zero-side-effects claim.",
+    "status": "available",
+    "path": "assets/graphics/side-effects-checklist.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "e5cac32d5734d0f22ca2d649976c550e2c46d62cc783619214662d78d30f8815",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "sink",
+    "prompt": "One standalone red bathroom sink with black faucet and black drain ring, three-quarter view, no water or person, bold rounded shape, no text. Literal humorous visual for 'let that sink in'.",
+    "status": "available",
+    "path": "assets/graphics/sink.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "77ab1eef1af4cf4668ed695749699e21425cc0319e5a4999fe23898ea8e77f5c",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "slipper-feet",
+    "prompt": "Close-up of exactly two red rounded lower legs in loose slippers making a tiny shuffling step. One slipper barely lifts, the other is planted. Bold black contour separation, no trail or text. For only daily cardio being a shuffle.",
+    "status": "available",
+    "path": "assets/graphics/slipper-feet.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "409503a744632a5b37b9e9ef53b54c2d02267657f7439c3000ba1c27ffd13eb6",
+    "size": [
+      1347,
+      1167
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "smoker",
+    "prompt": "Red rounded stickman shown full body in side profile, holding a small unbranded cigarette low in one hand away from mouth, shoulders slightly hunched, neutral unhappy face, no glamorization, no smoke cloud, no labels. For the narrated smoker comparison.",
+    "status": "available",
+    "path": "assets/graphics/smoker.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "e72c67be939371290e238ddcaa92432509da773aa4766f453df21cb2006af3b7",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "smoking-reject",
+    "prompt": "Rounded red stickman full body, firmly turning face away from a small cigarette offered at the end of a red hand entering from right; figure raises an open palm in refusal. Coherent interaction, no smoking action, no text. For explicit rejection of smoking advice.",
+    "status": "available",
+    "path": "assets/graphics/smoking-reject.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "b4a83aac7a079525567134e2f514211fc5c0104a80b7c75d9ca01f3efd81c2d3",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "sprint",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/sprint.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "0538b3abdfbde76bbc76fae7a03fb9da1e5649ea9aa2f666a1d7411ca8ba008a",
+    "size": [
+      1375,
+      1144
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "step-counter",
+    "prompt": "Standalone red fitness watch with a large clear black-outlined display showing ONLY 'STEPS', small footprints underneath, no numbers. Thick strap, clean frontal three-quarter view. For daily movement tracking; numeric data will remain editable separately.",
+    "status": "available",
+    "path": "assets/graphics/step-counter.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "2b8bf5c775fe864b1b87cae9a5c943b02c20d8b7126301a3b5b04354e7a9f05d",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "stop",
+    "prompt": "",
+    "status": "available",
+    "path": "assets/graphics/stop.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "ce93d2d45a0067ec669d66006b2f974c4b2bb0ff454d83228dce3f4f8ade1de7",
+    "size": [
+      1201,
+      1310
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "takeout-meal",
+    "prompt": "Only one open red takeout carton with black-separated red fries and one simple red burger partly visible inside. No logos or lettering. NO person, NO hand, NO arm, NO face, NO body.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/takeout-meal-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "754d8a992b3301d638818182087d92d90c6dfd7b67bb34eda586af56b1dd9fc4",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "top-energetic",
+    "prompt": "Red rounded stickman upright at end of a brisk walk, hands on hips, chin raised, alert relaxed smile, one heel lifted, full body. No pedestal, no crown, no arrows. For active group at top of comparison.",
+    "status": "available",
+    "path": "assets/graphics/top-energetic.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "27a07ee008cd5923db31c6a62978b3c3294aa828268b933b6142e83da690c7cf",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "top-walker-check",
+    "prompt": "Rounded red stickman standing upright after a walk, checking a red fitness watch worn on wrist with the other hand pointing naturally at display, alert satisfied face. Full body, blank screen, no text. For high-activity comparison.",
+    "status": "available",
+    "path": "assets/graphics/top-walker-check.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "f41aeb6b26465052ea3e96edcea5c4353844cbc2ef60c5a4641ce03cae4c5207",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "tying-shoes",
+    "prompt": "Red rounded stickman crouching to tie shoelaces on a rounded red shoe, both hands realistically meeting at laces, focused small face, other foot planted. Full body and both shoes fully visible, black separating contours, no text or other props.",
+    "status": "available",
+    "path": "assets/graphics/tying-shoes.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "1a0d9a3ba415265637b0f46e489227d1677e0c1aea02ae8594f1dbd196bf7c2f",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "walking-hero",
+    "prompt": "One red rounded stickman mid-step walking purposefully toward the right, relaxed slight smile, opposing arms and legs, heel raised and front foot planted. Complete full body, no motion trails or scenery. For reveal 'walking'.",
+    "status": "available",
+    "path": "assets/graphics/walking-hero.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "604f2f40099d0fe273c78ea30012616392cc24482282e7c947b47525192fd227",
+    "size": [
+      1163,
+      1352
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "wallet",
+    "prompt": "Standalone open red wallet with black fold contours and two simple blank red banknotes partly sticking out. No currency symbols, numbers, cards or text. For eager purchase question.",
+    "status": "available",
+    "path": "assets/graphics/wallet.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "de5714c27d662bc0196a81a699ec914201b6906ff529e6967705c82498363487",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "watch16000",
+    "prompt": "One standalone fitness wristwatch with complete strap, large exact screen text '16,000' and smaller 'STEPS'. Frontal view. NO person, NO hand, NO arm, NO human figure, NO face.",
+    "status": "generated-corrected",
+    "path": "assets/graphics/watch16000-v2.png",
+    "style_references": [
+      "assets/graphics/step-counter.png",
+      "assets/graphics/pill-bottle.png",
+      "assets/graphics/delivery-bag.png"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "333a39f36c6a4a78a67f6847c53b2b4d1fb43106f28983589e6fb9128e578e4c",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "id": "zero-effects",
+    "prompt": "Skeptical red stickman doctor bust with black stethoscope, raised eyebrow and one hand raised with thumb and forefinger making a tiny precision pinch. Other hand holds a blank clipboard. Deadpan rather than cheerful. No text. For the exaggerated 'zero side effects' premise.",
+    "status": "available",
+    "path": "assets/graphics/zero-effects.png",
+    "style_references": [
+      "references/01-IMG-20261023-WA0029.jpg",
+      "references/03-IMG-20261023-WA0027.jpg",
+      "references/04-IMG-20261023-WA0026.jpg"
+    ],
+    "generation_method": "Built-in ImageGen; approved cutout",
+    "sha256": "30a6480202798f4d75d822646cebf7bc20bc33f132d00b9e2ef5a08f293271f3",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  }
+]

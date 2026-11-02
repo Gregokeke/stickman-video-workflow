@@ -1,0 +1,699 @@
+[
+  {
+    "id": "sugar-refusal",
+    "phrase": "stopped eating sugar",
+    "subject": "One adult stickman leaning away with hilariously offended raised eyebrow, one arm extended with a natural open stop palm, other hand resting cleanly on his hip. Both arms and hands anatomically coherent. Full body. No bowl or sugar or other props.",
+    "start": 0,
+    "status": "generated",
+    "path": "assets/graphics/sugar-refusal-v2.png",
+    "generation_method": "built-in ImageGen"
+  },
+  {
+    "id": "torture-drama",
+    "phrase": "sound like torture",
+    "subject": "One adult stickman kneeling in theatrical despair, both palms raised toward the heavens, mouth open in a melodramatic silent complaint. No restraints or torture devices.",
+    "start": 4.04,
+    "status": "generated",
+    "path": "assets/graphics/torture-drama.png"
+  },
+  {
+    "id": "sugar-ghoul",
+    "phrase": "sugar-addicted ghouls",
+    "subject": "One fully clothed adult rounded stickman with sleepy dark eye rings, hunched shoulders, greedy side-eye and both hands held forward in a comically grasping greedy gesture, clearly separated fingers and wrists. Funny sugar goblin, NO candy, bag, bowl, horror or gore. Independent prop will be added later.",
+    "start": 5.04,
+    "status": "generated",
+    "path": "assets/graphics/sugar-ghoul.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-72838004-3fd0-4798-8ab1-18714cd68a52.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One fully clothed adult rounded stickman with sleepy dark eye rings, hunched shoulders, greedy side-eye and both hands held forward in a comically grasping greedy gesture, clearly separated fingers and wrists. Funny sugar goblin, NO candy, bag, bowl, horror or gore. Independent prop will be added later. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "craving-reach",
+    "phrase": "pathetic cravings for sugar",
+    "subject": "One adult stickman reaching desperately toward an ABSENT candy jar beyond his fingertips, exaggerated pleading eyebrows, knees bent and shoulders forward. Full body, both hands empty and coherent, NO cookie, food, jars or any other prop. A separate candy jar will be composited later.",
+    "start": 11.56,
+    "status": "generated",
+    "path": "assets/graphics/craving-reach.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-1820446d-a3f5-4339-9701-1975dbb6a069.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One adult stickman reaching desperately toward an ABSENT candy jar beyond his fingertips, exaggerated pleading eyebrows, knees bent and shoulders forward. Full body, both hands empty and coherent, NO cookie, food, jars or any other prop. A separate candy jar will be composited later. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "candy-jar",
+    "phrase": "cravings for sugar",
+    "subject": "One squat red candy jar with black-outlined wrapped sweets visible through white negative-space glass, black lid. No person.",
+    "start": 12.76,
+    "status": "generated",
+    "path": "assets/graphics/candy-jar.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-04b98395-c7f1-4563-a726-bf9590acb6ba.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One squat red candy jar with black-outlined wrapped sweets visible through white negative-space glass, black lid. No person. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "satisfied-person",
+    "phrase": "longer than two hours without food",
+    "subject": "One calmly satisfied adult stickman standing upright with arms folded over a comfortable belly, smug eyebrow and closed relaxed smile. Full body, no extra objects.",
+    "start": 13.34,
+    "status": "generated",
+    "path": "assets/graphics/satisfied-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-0710adac-1ab7-4aad-818b-120d6f4dfa07.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One calmly satisfied adult stickman standing upright with arms folded over a comfortable belly, smug eyebrow and closed relaxed smile. Full body, no extra objects. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "meal-plate",
+    "phrase": "without food",
+    "subject": "Exact user-approved man holding an empty plate, coherent held-prop illustration.",
+    "start": 16.08,
+    "status": "generated",
+    "path": "assets/graphics/meal-plate-approved.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-5a68d05b-9fff-4654-9801-b19bf05cb367.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One red plate with an eaten meal: fork resting across rim and just a few crumbs. Large simple recognizable silhouette, no other tableware. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text.",
+    "user_approved": true
+  },
+  {
+    "id": "sugar-spoon",
+    "phrase": "eating sugar spikes",
+    "subject": "One rounded red teaspoon heaped with granular sugar represented as red black-edged small cubes. No bowl, no hand or person.",
+    "start": 18.07,
+    "status": "generated",
+    "path": "assets/graphics/sugar-spoon.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-81b39280-736e-4dd5-a9ab-8051525713fe.png",
+    "prompt": "Use case: illustration-story. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One rounded red teaspoon heaped with granular sugar represented as red black-edged small cubes. No bowl, no hand or person. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "insulin",
+    "phrase": "hormone called insulin",
+    "subject": "Scientific cutout of INSULIN as two compact folded peptide ribbon chains linked by three small disulfide bridges, 21-residue A and 30-residue B chain concept, red ribbons black contour. Integrated bold correct label INSULIN with smaller PROTEIN HORMONE. Not a bacterium, no face, no mascot, no invented chemical formula.",
+    "start": 19.21,
+    "status": "generated",
+    "path": "assets/graphics/insulin.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-e0e65fe7-1ce3-4d56-a9bd-2a02703e6da1.png",
+    "prompt": "Use case: scientific-educational. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. Scientific cutout of INSULIN as two compact folded peptide ribbon chains linked by three small disulfide bridges, 21-residue A and 30-residue B chain concept, red ribbons black contour. Integrated bold correct label INSULIN with smaller PROTEIN HORMONE. Not a bacterium, no face, no mascot, no invented chemical formula. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "blood-vessel",
+    "phrase": "out of your blood",
+    "subject": "One short cutaway blood-vessel segment with a clean tubular wall, open ends and a handful of biconcave red blood cells inside, no arrows or floating glucose yet. Scientific schematic, no gore, integrated label BLOODSTREAM.",
+    "start": 21.51,
+    "status": "generated",
+    "path": "assets/graphics/blood-vessel-v2.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-b6f8b71a-91aa-4d56-bba2-12b5e0eab118.png",
+    "prompt": "Use case: scientific-educational. ONE standalone usable cutout. Reference1 rounded body proportions, reference2 expressive acting, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One short cutaway blood-vessel segment with a clean tubular wall, open ends and a handful of biconcave red blood cells inside, no arrows or floating glucose yet. Scientific schematic, no gore, integrated label BLOODSTREAM. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "glucose",
+    "phrase": "that sugar",
+    "subject": "Scientific cutout of a single glucose molecular model: one six-membered glucopyranose ring with one oxygen in the ring, branching hydroxyl groups, correct formula C6H12O6 and integrated bold label GLUCOSE. Clear simplified black bonds red atom markers, white negative space. Not an organism, no face.",
+    "start": 21.21,
+    "status": "generated",
+    "path": "assets/graphics/glucose.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-52d0c395-92d8-46f7-8dc2-2dc3354d5f18.png",
+    "prompt": "STRICT NONHUMAN ASSET: ONLY the specified object, molecule, organ or structure. NO stickman, person, head, hand, face, mascot, pointer, presenter or body fragments. References guide ONLY palette, contour and graphic treatment, never their subjects. Use case: scientific-educational. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. Scientific cutout of a single glucose molecular model: one six-membered glucopyranose ring with one oxygen in the ring, branching hydroxyl groups, correct formula C6H12O6 and integrated bold label GLUCOSE. Clear simplified black bonds red atom markers, white negative space. Not an organism, no face. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "starving-person",
+    "phrase": "starving to death",
+    "subject": "One adult stickman dramatically clutching his stomach with one hand and holding the other weakly outward, knees wobbling, raised panicked eyebrows and absurdly tragic expression. Fully clothed, not emaciated, no food or skull.",
+    "start": 27.55,
+    "status": "generated",
+    "path": "assets/graphics/starving-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-7414f228-ee9d-406f-b56e-5c1497cae316.png",
+    "prompt": "Keep ONLY specified acting subject and explicitly requested coherent held objects. Use case: illustration-story. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One adult stickman dramatically clutching his stomach with one hand and holding the other weakly outward, knees wobbling, raised panicked eyebrows and absurdly tragic expression. Fully clothed, not emaciated, no food or skull. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "just-ate",
+    "phrase": "literally just ate",
+    "subject": "One adult red stickman seated before a single empty plate, leaning back with a comically over-satisfied belly and one hand on stomach, eyebrow cocked as if caught exaggerating. One coherent dining action, no extra food.",
+    "start": 28.45,
+    "status": "generated",
+    "path": "assets/graphics/just-ate.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-5e6cd013-bf15-483b-b18c-0a6a48dc82d7.png",
+    "prompt": "Keep ONLY specified acting subject and explicitly requested coherent held objects. Use case: illustration-story. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One adult red stickman seated before a single empty plate, leaning back with a comically over-satisfied belly and one hand on stomach, eyebrow cocked as if caught exaggerating. One coherent dining action, no extra food. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "crossed-sugar",
+    "phrase": "Cut the sugar",
+    "subject": "One sugar bag marked SUGAR with a single bold black diagonal slash across it, all one compact coherent icon. No person, other props or text.",
+    "start": 30.27,
+    "status": "generated",
+    "path": "assets/graphics/crossed-sugar.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-5502cbd6-c0de-48db-a433-994e50375586.png",
+    "prompt": "STRICT NONHUMAN ASSET: ONLY the specified object, molecule, organ or structure. NO stickman, person, head, hand, face, mascot, pointer, presenter or body fragments. References guide ONLY palette, contour and graphic treatment, never their subjects. Use case: illustration-story. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One sugar bag marked SUGAR with a single bold black diagonal slash across it, all one compact coherent icon. No person, other props or text. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "gut-bacteria",
+    "phrase": "freeloading gut bacteria",
+    "subject": "Scientific schematic group of three gut bacteria: red rod-shaped cells with black cell outlines, short pili and one visible wavy flagellum, plausible microorganisms without faces. Integrated bold label GUT BACTERIA. No intestine, no symbols, no extraneous labels.",
+    "start": 34.59,
+    "status": "generated",
+    "path": "assets/graphics/gut-bacteria.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-ee0d2274-9e3d-4168-9c1d-f87606f2a1bb.png",
+    "prompt": "STRICT NONHUMAN ASSET: ONLY the specified object, molecule, organ or structure. NO stickman, person, head, hand, face, mascot, pointer, presenter or body fragments. References guide ONLY palette, contour and graphic treatment, never their subjects. Use case: scientific-educational. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. Scientific schematic group of three gut bacteria: red rod-shaped cells with black cell outlines, short pili and one visible wavy flagellum, plausible microorganisms without faces. Integrated bold label GUT BACTERIA. No intestine, no symbols, no extraneous labels. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "intestines",
+    "phrase": "in your stomach",
+    "subject": "One anatomically recognizable digestive tract schematic: stomach entering small intestine coils inside a thick large intestine frame, red black white, isolated, integrated label GUT. Do not show brain, people or bacteria.",
+    "start": 35.87,
+    "status": "generated",
+    "path": "assets/graphics/intestines.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-69de5f3b-a7b3-4c12-87a7-15641cb8e8d7.png",
+    "prompt": "STRICT NONHUMAN ASSET: ONLY the specified object, molecule, organ or structure. NO stickman, person, head, hand, face, mascot, pointer, presenter or body fragments. References guide ONLY palette, contour and graphic treatment, never their subjects. Use case: illustration-story. ONE standalone usable cutout. Reference1 proportions only IF a human is explicitly requested, reference2 acting only IF a human requested, reference3 bold black contours. Black JPG backing is NOT background. True transparent background. Saturated red #ED0B10 foreground, thick clean black contours, white only intentional negative space. Rounded confident shapes, sparse expressions. One anatomically recognizable digestive tract schematic: stomach entering small intestine coils inside a thick large intestine frame, red black white, isolated, integrated label GUT. Do not show brain, people or bacteria. Large readable silhouette and generous margin, no scenery, gradients, 3D shading, glow, cast shadow, baked captions, watermark or unrelated objects. Named scientific identity labels only when specified; no other text."
+  },
+  {
+    "id": "bacteria-beg",
+    "phrase": "beg for junk food",
+    "subject": "ONE clearly comedic bacterium metaphor with an oval rod body, tiny expressive begging hands and pitiful raised eyebrows, leaning forward toward ABSENT junk food. Integrated small label METAPHOR. NO food, french fry or extra objects. Not a scientific cell morphology panel.",
+    "start": 38.43,
+    "status": "generated",
+    "path": "assets/graphics/bacteria-beg.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-25a83db7-3f1c-47cd-b13c-59ca04bab3bb.png"
+  },
+  {
+    "id": "junk-meal",
+    "phrase": "junk food",
+    "subject": "One compact takeout meal bag with red fries and a burger peeking out; black contours, one coherent food prop, no logos.",
+    "start": 39.21,
+    "status": "generated",
+    "path": "assets/graphics/junk-meal.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-6d8635c0-5d0d-47cc-8d96-c7848e5ed1d0.png"
+  },
+  {
+    "id": "energetic-person",
+    "phrase": "a lot more energy",
+    "subject": "One red adult stickman standing confidently upright, chest open, one fist raised enthusiastically, other hand on hip, bright cheeky grin and lifted eyebrow. Full body, no lightning icons.",
+    "start": 40.48,
+    "status": "generated",
+    "path": "assets/graphics/energetic-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-929642ea-98dd-49a4-bc14-d6e1924de382.png"
+  },
+  {
+    "id": "battery",
+    "phrase": "Actual energy",
+    "subject": "One large red battery with bold black rim and three simple internal red charge cells separated by white negative space. Single independent prop, no percent or claim.",
+    "start": 43.19,
+    "status": "generated",
+    "path": "assets/graphics/battery.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-b574a8ad-c501-4695-a1d2-2186a142b190.png"
+  },
+  {
+    "id": "sugar-high",
+    "phrase": "20-minute sugar high",
+    "subject": "One adult red stickman on tiptoe with excessively wide eyes and goofy overconfident grin, both EMPTY hands raised as if wildly energized. Full body, no candy, food, props or symbols.",
+    "start": 44.23,
+    "status": "generated",
+    "path": "assets/graphics/sugar-high.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-42b6c81e-3fe7-4c3c-b5fe-cf7cdc9e2cce.png"
+  },
+  {
+    "id": "sloth",
+    "phrase": "sedated sloth",
+    "subject": "One sleepy red cartoon sloth draped limply over one simple black branch, long arms hanging down, droopy eyelids and deadpan expression. Recognizable sloth face mask as black detail. Humorous sleepy animal, no syringe or sedative.",
+    "start": 46.55,
+    "status": "generated",
+    "path": "assets/graphics/sloth.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-44cbf83b-174b-47ce-9cb1-db73c90ce13c.png"
+  },
+  {
+    "id": "fat-cell",
+    "phrase": "fat cells",
+    "subject": "Scientific schematic of one ADIPOCYTE, a large round fat cell with a single dominant red lipid droplet, thin cytoplasmic rim and small nucleus pushed to one side. Integrated label FAT CELL. Clean red black white, not generic virus, no face.",
+    "start": 50.74,
+    "status": "generated",
+    "path": "assets/graphics/fat-cell.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-72a27c97-2e4f-4074-aba0-257263729332.png"
+  },
+  {
+    "id": "fat-cluster",
+    "phrase": "your own fat reserves",
+    "subject": "Scientific cutout of a compact honeycomb group of five adipose cells with large lipid droplets and peripheral nuclei. Integrated label FAT RESERVES. No body, no arrow, no face.",
+    "start": 53.18,
+    "status": "generated",
+    "path": "assets/graphics/fat-cluster-v3.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-6d9796ab-d7fa-41d4-a1c8-3bcc7bf21ddb.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific cutout of a compact honeycomb group of five adipose cells with large lipid droplets and peripheral nuclei. Integrated label FAT RESERVES. No body, no arrow, no face. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "padlock",
+    "phrase": "unlocks",
+    "subject": "One substantial rounded red padlock with black outline, open shackle leaning slightly to the right, clear open gap. No key, text or person.",
+    "start": 50.04,
+    "status": "generated",
+    "path": "assets/graphics/padlock.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-421051a8-3258-41ba-b918-284180e3f955.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One substantial rounded red padlock with black outline, open shackle leaning slightly to the right, clear open gap. No key, text or person. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "fat-tank",
+    "phrase": "tap into your own fat reserves",
+    "subject": "One clear metaphorical red fuel tank with a simple black tap on its lower side, integrated bold label FAT RESERVES and small METAPHOR. Tank has a white negative-space level window. No liquid stream yet, no person or battery.",
+    "start": 51.64,
+    "status": "generated",
+    "path": "assets/graphics/fat-tank.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-7233f843-e108-4cc2-b402-cbe4eabef686.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One clear metaphorical red fuel tank with a simple black tap on its lower side, integrated bold label FAT RESERVES and small METAPHOR. Tank has a white negative-space level window. No liquid stream yet, no person or battery. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "mitochondrion",
+    "phrase": "produce steady energy",
+    "subject": "Scientific cutout of one red mitochondrion in cutaway, oval outer membrane and folded inner cristae clearly separated by white negative space, integrated label MITOCHONDRION. No face or unrelated molecule.",
+    "start": 54.22,
+    "status": "generated",
+    "path": "assets/graphics/mitochondrion.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-9a20c745-d95f-4116-9456-fd1e9a0adff3.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific cutout of one red mitochondrion in cutaway, oval outer membrane and folded inner cristae clearly separated by white negative space, integrated label MITOCHONDRION. No face or unrelated molecule. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "atp",
+    "phrase": "steady energy",
+    "subject": "Scientific identity illustration ATP: adenine double-ring head attached to ribose pentagon and a chain of three distinct phosphate groups. Red black bold schematic, integrated label ATP and smaller ENERGY CARRIER. Not a bacterium or lightning bolt.",
+    "start": 54.86,
+    "status": "generated",
+    "path": "assets/graphics/atp.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-208351da-36ec-4e37-90cd-9536d51d68ab.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific identity illustration ATP: adenine double-ring head attached to ribose pentagon and a chain of three distinct phosphate groups. Red black bold schematic, integrated label ATP and smaller ENERGY CARRIER. Not a bacterium or lightning bolt. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "weight-person",
+    "phrase": "lose more weight",
+    "subject": "One adult red stickman looking down with delighted disbelief at an oversized waistband held away from his belly with both hands, proud raised eyebrow. Fully clothed, believable adult proportions, full body.",
+    "start": 57.56,
+    "status": "generated",
+    "path": "assets/graphics/weight-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-28a88b5a-71ad-41f8-8de4-761e96d93acc.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One adult red stickman looking down with delighted disbelief at an oversized waistband held away from his belly with both hands, proud raised eyebrow. Fully clothed, believable adult proportions, full body. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "weight-scale",
+    "phrase": "lose more weight",
+    "subject": "One red bathroom scale in three-quarter view, bold black outline, large blank white display, no numbers, logo or person.",
+    "start": 58.02,
+    "status": "generated",
+    "path": "assets/graphics/weight-scale.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-521a62ce-0f8b-4c84-862b-6801f3c6144c.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One red bathroom scale in three-quarter view, bold black outline, large blank white display, no numbers, logo or person. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "waist-tape",
+    "phrase": "your body finally starts",
+    "subject": "One fully clothed red adult stickman measuring his waist with a clearly visible simple black measuring tape and smiling with a knowing sassy sideways glance. No numeric results printed. Full body.",
+    "start": 58.32,
+    "status": "generated",
+    "path": "assets/graphics/waist-tape.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-664e127c-fc63-4425-93da-3af4818c09ca.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One fully clothed red adult stickman measuring his waist with a clearly visible simple black measuring tape and smiling with a knowing sassy sideways glance. No numeric results printed. Full body. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "fat-burn",
+    "phrase": "cannibalizing the fat",
+    "subject": "One stylized adipose fat droplet being consumed from the edge by a clean black scalloped reduction shape, red remaining center, small integrated label FUEL USE. Clearly schematic, no flames, mouths, gore or person.",
+    "start": 59.9,
+    "status": "generated",
+    "path": "assets/graphics/fat-burn.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-5b4c87ec-a4a7-4845-b982-5900af0789cb.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One stylized adipose fat droplet being consumed from the edge by a clean black scalloped reduction shape, red remaining center, small integrated label FUEL USE. Clearly schematic, no flames, mouths, gore or person. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "storage-2021",
+    "phrase": "storing since 2021",
+    "subject": "One red dusty storage trunk with a large integrated tag reading 2021, black corner edges and a tiny cobweb on one corner. Single compact funny metaphor for old reserves, no food, fat blobs or other props.",
+    "start": 61.46,
+    "status": "generated",
+    "path": "assets/graphics/storage-2021.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-02efdb43-66ba-4bd1-838a-baebbbb24088.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One red dusty storage trunk with a large integrated tag reading 2021, black corner edges and a tiny cobweb on one corner. Single compact funny metaphor for old reserves, no food, fat blobs or other props. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "relieved-person",
+    "phrase": "noticeably more up",
+    "subject": "One adult red stickman standing with shoulders relaxed, hands open at his sides, one eyebrow raised in pleasantly surprised relief, chin lifted, gentle smile. Full body.",
+    "start": 66.22,
+    "status": "generated",
+    "path": "assets/graphics/relieved-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-93822f40-b12c-4126-8678-29ca0b96eff6.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One adult red stickman standing with shoulders relaxed, hands open at his sides, one eyebrow raised in pleasantly surprised relief, chin lifted, gentle smile. Full body. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "cortisol",
+    "phrase": "cortisol",
+    "subject": "Scientific identity schematic of CORTISOL, the steroid four-fused-ring skeleton of hydrocortisone with three six-membered rings and one five-membered ring, appropriate hydroxyl and ketone substituents; integrated label CORTISOL and correct formula C21H30O5. Red black structural drawing, no face, no capsules.",
+    "start": 71.42,
+    "status": "generated",
+    "path": "assets/graphics/cortisol.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-197b8699-9dc0-4471-8ee4-5d460d5ef06e.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific identity schematic of CORTISOL, the steroid four-fused-ring skeleton of hydrocortisone with three six-membered rings and one five-membered ring, appropriate hydroxyl and ketone substituents; integrated label CORTISOL and correct formula C21H30O5. Red black structural drawing, no face, no capsules. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "stress-body",
+    "phrase": "flood your system",
+    "subject": "One full-body red human anatomical silhouette with small simplified adrenal glands sitting atop kidney outlines in the torso; black internal contour and red outer body, integrated label STRESS RESPONSE. No numerical values or frightening injury.",
+    "start": 70.38,
+    "status": "generated",
+    "path": "assets/graphics/stress-body.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-a9024115-abbe-4928-928f-e3df7848113a.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One full-body red human anatomical silhouette with small simplified adrenal glands sitting atop kidney outlines in the torso; black internal contour and red outer body, integrated label STRESS RESPONSE. No numerical values or frightening injury. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "existential-person",
+    "phrase": "existential dread",
+    "subject": "One adult stickman sitting slumped on the floor with chin in one hand and the other palm turned upward in an exaggerated what-is-my-life gesture, skeptical raised eyebrow and weary mouth. Fully clothed. No props, text or clouds.",
+    "start": 73.78,
+    "status": "generated",
+    "path": "assets/graphics/existential-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-05f01af3-e267-4037-9c8e-c8839329f934.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One adult stickman sitting slumped on the floor with chin in one hand and the other palm turned upward in an exaggerated what-is-my-life gesture, skeptical raised eyebrow and weary mouth. Fully clothed. No props, text or clouds. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "diet-plate",
+    "phrase": "diet problem",
+    "subject": "One large balanced meal plate seen from above with divided portions of simple vegetables, beans and protein, red black white illustration. No precise portions, claims, labels or utensils.",
+    "start": 77.08,
+    "status": "generated",
+    "path": "assets/graphics/diet-plate-v2.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-036612fa-b843-48a4-800f-cb6bb21993ed.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One large balanced meal plate seen from above with divided portions of simple vegetables, beans and protein, red black white illustration. No precise portions, claims, labels or utensils. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "inflamed-brain",
+    "phrase": "inflames your brain tissue",
+    "subject": "One clean lateral red brain anatomical schematic with black gyri and a few small red emphasis rays separated from its contour, integrated label BRAIN TISSUE and smaller SCHEMATIC. No flames, decay, gore or diagnosis.",
+    "start": 79.45,
+    "status": "generated",
+    "path": "assets/graphics/inflamed-brain.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-9fdb88b7-53e6-4ee8-8c6a-186b5382aea3.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One clean lateral red brain anatomical schematic with black gyri and a few small red emphasis rays separated from its contour, integrated label BRAIN TISSUE and smaller SCHEMATIC. No flames, decay, gore or diagnosis. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "focus-person",
+    "phrase": "real concentration and focus",
+    "subject": "One red adult stickman leaning attentively over a single open book, eyebrows focused but calm, index finger following a line and other hand supporting book. Seated coherent reading action, no desk clutter.",
+    "start": 84,
+    "status": "generated",
+    "path": "assets/graphics/focus-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-1e789862-cfe3-43e0-88df-a68df5b8bb7d.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One red adult stickman leaning attentively over a single open book, eyebrows focused but calm, index finger following a line and other hand supporting book. Seated coherent reading action, no desk clutter. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "blank-screen",
+    "phrase": "staring blankly at your screen",
+    "subject": "One red adult stickman seated before a blank laptop, chin on palm and utterly vacant eyes, other hand hovering uselessly over keyboard. Humor through expression. No tabs, chains or extra gadgets.",
+    "start": 86.61,
+    "status": "generated",
+    "path": "assets/graphics/blank-screen.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-c450f673-e15a-4cae-b276-7abe09d44d4a.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One red adult stickman seated before a blank laptop, chin on palm and utterly vacant eyes, other hand hovering uselessly over keyboard. Humor through expression. No tabs, chains or extra gadgets. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "timer-40",
+    "phrase": "40 minutes",
+    "subject": "One simple chunky red stopwatch with clear integrated display 40 MIN, black rim, one top button and no other text. No person.",
+    "start": 88.47,
+    "status": "generated",
+    "path": "assets/graphics/timer-40.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-1db0d951-6c21-41ec-b553-a2bcf2e35815.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One simple chunky red stopwatch with clear integrated display 40 MIN, black rim, one top button and no other text. No person. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "healthy-face",
+    "phrase": "your skin is a lot better",
+    "subject": "One adult rounded red stickman chest-up with a fresh rested face, gentle confident smile and fingers lightly touching cheek, smooth clean contour, sparse black facial features. No cosmetic bottles or sparkles.",
+    "start": 90.51,
+    "status": "generated",
+    "path": "assets/graphics/healthy-face.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-b0027409-4ef0-4599-8230-c4479867b201.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One adult rounded red stickman chest-up with a fresh rested face, gentle confident smile and fingers lightly touching cheek, smooth clean contour, sparse black facial features. No cosmetic bottles or sparkles. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "skin-glow",
+    "phrase": "healthy glow",
+    "subject": "One red stickman bust posing with one hand below chin, knowing raised eyebrow and smug little smile, a few deliberate black glint marks near one cheek. Strong clear cheek silhouette, no skin whitening, no product, no text.",
+    "start": 92.75,
+    "status": "generated",
+    "path": "assets/graphics/skin-glow.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-39f91c13-d5ef-4c09-9ba0-fc98dd157a05.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One red stickman bust posing with one hand below chin, knowing raised eyebrow and smug little smile, a few deliberate black glint marks near one cheek. Strong clear cheek silhouette, no skin whitening, no product, no text. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "embalmed-corpse",
+    "phrase": "embalmed corpse",
+    "subject": "One non-graphic comically exhausted red adult stickman bust with half-lidded eyes, dark eye rings and slumped head, hands crossed theatrically over chest like a dramatic pretend corpse. NO coffin, injuries, gore, actual death or horror.",
+    "start": 94.71,
+    "status": "generated",
+    "path": "assets/graphics/embalmed-corpse.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-5b4fe6c2-c772-4247-a23a-54faf14d4052.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One non-graphic comically exhausted red adult stickman bust with half-lidded eyes, dark eye rings and slumped head, hands crossed theatrically over chest like a dramatic pretend corpse. NO coffin, injuries, gore, actual death or horror. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "glycation-bridge",
+    "phrase": "glycation",
+    "subject": "Scientific schematic of a simplified red sugar moiety bridging TWO black-red protein strands, visibly cross-linked with small connecting bonds, integrated label GLYCATION and smaller SCHEMATIC. No organism, glue bottle or rot. Distinguish protein strands from small sugar units.",
+    "start": 97.47,
+    "status": "generated",
+    "path": "assets/graphics/glycation-bridge.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-07562c19-5a41-49eb-8f35-e66e57d84fbb.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific schematic of a simplified red sugar moiety bridging TWO black-red protein strands, visibly cross-linked with small connecting bonds, integrated label GLYCATION and smaller SCHEMATIC. No organism, glue bottle or rot. Distinguish protein strands from small sugar units. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "collagen",
+    "phrase": "collagen proteins",
+    "subject": "Scientific identity cutout of a collagen triple helix, exactly three intertwined red ribbon-like chains separated by black contours and white negative space, integrated bold label COLLAGEN. Tall vertical gently twisted fiber, no double helix, no DNA base pairs, no face.",
+    "start": 101.49,
+    "status": "generated",
+    "path": "assets/graphics/collagen.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-f7cfb35e-699f-46b4-9ac7-adbf5e11aa42.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific identity cutout of a collagen triple helix, exactly three intertwined red ribbon-like chains separated by black contours and white negative space, integrated bold label COLLAGEN. Tall vertical gently twisted fiber, no double helix, no DNA base pairs, no face. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "skin-section",
+    "phrase": "holding your face together",
+    "subject": "Scientific skin cross-section tile with a thin epidermal top, deeper dermal red collagen fibers and a curved outer surface, black outlines, integrated label SKIN STRUCTURE. No pores enlarged as holes, gore or medical injury.",
+    "start": 102.33,
+    "status": "generated",
+    "path": "assets/graphics/skin-section.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-f55555b5-ef5f-40b2-b6d8-38db447264e2.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific skin cross-section tile with a thin epidermal top, deeper dermal red collagen fibers and a curved outer surface, black outlines, integrated label SKIN STRUCTURE. No pores enlarged as holes, gore or medical injury. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "stiff-collagen",
+    "phrase": "rot them from the inside",
+    "subject": "Scientific conceptual close-up of three collagen fiber bundles with small dark cross-link bridges restricting flexibility, integrated label CROSS-LINKS and smaller SCHEMATIC. No rotting flesh, wounds, teeth, gore, cartoon bacteria or literal decay.",
+    "start": 104.11,
+    "status": "generated",
+    "path": "assets/graphics/stiff-collagen.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-13d0b46e-7889-4b67-ac10-6d06110de858.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific conceptual close-up of three collagen fiber bundles with small dark cross-link bridges restricting flexibility, integrated label CROSS-LINKS and smaller SCHEMATIC. No rotting flesh, wounds, teeth, gore, cartoon bacteria or literal decay. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "body-relief",
+    "phrase": "throughout your entire body",
+    "subject": "One full-body adult red stickman standing relaxed with arms slightly away from torso, relieved confident face. Small white negative-space circles at shoulder, elbow and knee joints linked by thin black internal contour, coherent body schematic, no rays or icons.",
+    "start": 107.33,
+    "status": "generated",
+    "path": "assets/graphics/body-relief.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-dad1843a-1888-43be-87f0-19c337ccb777.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One full-body adult red stickman standing relaxed with arms slightly away from torso, relieved confident face. Small white negative-space circles at shoulder, elbow and knee joints linked by thin black internal contour, coherent body schematic, no rays or icons. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "joint-section",
+    "phrase": "less inflammation and pain",
+    "subject": "One scientific knee joint cutaway with femur, tibia and patella simplified in red and black, white space at cartilage surfaces, integrated label KNEE JOINT. No injury, arrows or pain starburst.",
+    "start": 110.07,
+    "status": "generated",
+    "path": "assets/graphics/joint-section.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-ef8cb1df-89b1-4079-8aba-bc1e55b6850b.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One scientific knee joint cutaway with femur, tibia and patella simplified in red and black, white space at cartilage surfaces, integrated label KNEE JOINT. No injury, arrows or pain starburst. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "immune-cell",
+    "phrase": "immune system",
+    "subject": "Scientific immune cell schematic, one round cell with an irregular lobed nucleus and small cytoplasmic granules in red black white, integrated label IMMUNE CELL. No eyes, armor, weapons or mascot.",
+    "start": 113.36,
+    "status": "generated",
+    "path": "assets/graphics/immune-cell.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-1088d6b2-da49-47bf-a4b7-13ae12d4a8a3.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific immune cell schematic, one round cell with an irregular lobed nucleus and small cytoplasmic granules in red black white, integrated label IMMUNE CELL. No eyes, armor, weapons or mascot. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "cytokine",
+    "phrase": "cytokines",
+    "subject": "Scientific ribbon cartoon of cytokine IL-6 as a compact FOUR-HELIX bundle with connecting loops and one small extra mini helix, black contours red ribbons, integrated bold label CYTOKINE and smaller IL-6 \u00b7 EXAMPLE. It is a protein messenger, not a bacterium or simple molecule.",
+    "start": 116.48,
+    "status": "generated",
+    "path": "assets/graphics/cytokine.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-a4b80b19-0430-43d6-8ae8-0bf8ef9d939e.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific ribbon cartoon of cytokine IL-6 as a compact FOUR-HELIX bundle with connecting loops and one small extra mini helix, black contours red ribbons, integrated bold label CYTOKINE and smaller IL-6 \u00b7 EXAMPLE. It is a protein messenger, not a bacterium or simple molecule. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "cytokine-receptor",
+    "phrase": "pump out inflammatory chemicals",
+    "subject": "Scientific schematic of a red cell membrane strip with one black outlined receptor receiving a compact red protein ligand, integrated small label SIGNALING \u00b7 SCHEMATIC. Clear extracellular ligand above membrane. No faces or arrows.",
+    "start": 114.42,
+    "status": "generated",
+    "path": "assets/graphics/cytokine-receptor.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-81562886-be53-4e76-9989-1f6106050a95.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: scientific-educational. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. Scientific schematic of a red cell membrane strip with one black outlined receptor receiving a compact red protein ligand, integrated small label SIGNALING \u00b7 SCHEMATIC. Clear extracellular ligand above membrane. No faces or arrows. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "knee-person",
+    "phrase": "your knees",
+    "subject": "One fully clothed adult red stickman bent slightly forward looking skeptically down at one knee, one palm touching knee, other hand on hip, raised irritated eyebrow. Full body, no chair or duplicate knee prop.",
+    "start": 118.7,
+    "status": "generated",
+    "path": "assets/graphics/knee-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-d2c93634-e917-4ac4-9cb0-65ce912d43c3.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One fully clothed adult red stickman bent slightly forward looking skeptically down at one knee, one palm touching knee, other hand on hip, raised irritated eyebrow. Full body, no chair or duplicate knee prop. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "bubble-wrap",
+    "phrase": "bubble wrap",
+    "subject": "One compact square of red bubble wrap in perspective with a hand pressing ONE bubble inward, clear large rounded cells, black contours and white highlights as negative space. Single coherent sound metaphor, no text or burst symbols.",
+    "start": 120.22,
+    "status": "generated",
+    "path": "assets/graphics/bubble-wrap.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-c8f587e4-ce49-4e59-b643-23191aaf73df.png",
+    "prompt": "NONHUMAN ASSET ONLY. No person, stickman, face, hand, arm, presenter, mascot or body parts. References guide only palette and contour, NEVER their subjects. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One compact square of red bubble wrap in perspective with a hand pressing ONE bubble inward, clear large rounded cells, black contours and white highlights as negative space. Single coherent sound metaphor, no text or burst symbols. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "standing-person",
+    "phrase": "every time you stand up",
+    "subject": "One full-body adult red stickman rising from a single simple low stool, knees partially extended, hands no longer on seat, face making a cheeky pleasantly surprised grin. One coherent action, no extra chair or joint icons.",
+    "start": 121.4,
+    "status": "generated",
+    "path": "assets/graphics/standing-person.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-6eb5b750-630d-417e-a5e6-21d008e0911d.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One full-body adult red stickman rising from a single simple low stool, knees partially extended, hands no longer on seat, face making a cheeky pleasantly surprised grin. One coherent action, no extra chair or joint icons. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "smug-finale",
+    "phrase": "stand up",
+    "subject": "One full-body adult red stickman standing tall with hands on hips, one eyebrow raised and smug closed-mouth smile, slight confident torso lean. No props.",
+    "start": 122.06,
+    "status": "generated",
+    "path": "assets/graphics/smug-finale.png",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-73145835-06ad-498e-b6c5-08b690949b9f.png",
+    "prompt": "Only the specified acting subject; held/body-contact props may remain coherent when explicitly requested. Use case: illustration-story. Generate ONE independent cutout. True transparent background, generous padding. Rounded saturated RED #ED0B10 foreground, clean BLACK contours, WHITE only deliberate internal negative space. Flat clean graphic, no shadows, halo, glow, gradients, 3D texture, scenery or unrelated items. Reference1 proportions IF human requested, reference2 acting IF human requested, reference3 stroke weight. Black reference backing must NOT be copied. One full-body adult red stickman standing tall with hands on hips, one eyebrow raised and smug closed-mouth smile, slight confident torso lean. No props. Integrated scientific identity wording only if specified. No narration captions, watermark or extra lettering."
+  },
+  {
+    "id": "calendar",
+    "phrase": "two weeks",
+    "start": 1.78,
+    "end": 7.7,
+    "status": "reused",
+    "path": "assets/graphics/calendar.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "sarcastic-presenter",
+    "phrase": "this is what would actually happen",
+    "start": 7.84,
+    "end": 10.4,
+    "status": "reused",
+    "path": "assets/graphics/sarcastic-presenter.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "stopwatch",
+    "phrase": "longer than two hours",
+    "start": 14.9,
+    "end": 17,
+    "status": "reused",
+    "path": "assets/graphics/stopwatch.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "brain",
+    "phrase": "tricks your brain",
+    "start": 25.99,
+    "end": 29.9,
+    "status": "reused",
+    "path": "assets/graphics/brain.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "nervous-system",
+    "phrase": "hijack your nervous system",
+    "start": 36.99,
+    "end": 39.8,
+    "status": "reused",
+    "path": "assets/graphics/nervous-system.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "cane-presenter",
+    "phrase": "scientific explanations",
+    "start": 19.8,
+    "end": 118,
+    "status": "reused",
+    "path": "assets/graphics/cane-presenter.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "stressed-head",
+    "phrase": "depressed",
+    "start": 63.6,
+    "end": 65,
+    "status": "reused",
+    "path": "assets/graphics/stressed-head.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "panic-avatar",
+    "phrase": "anxiety",
+    "start": 64.8,
+    "end": 66.6,
+    "status": "reused",
+    "path": "assets/graphics/panic-avatar.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "neural-tissue",
+    "phrase": "brain tissue",
+    "start": 80.79,
+    "end": 82.2,
+    "status": "reused",
+    "path": "assets/graphics/neural-tissue.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "logic-thinker",
+    "phrase": "thinking better",
+    "start": 82.59,
+    "end": 84.5,
+    "status": "reused",
+    "path": "assets/graphics/logic-thinker.png",
+    "source_project": "Brain-Overstimulation-Interactive"
+  },
+  {
+    "id": "sugar-bowl",
+    "phrase": "stopped eating sugar",
+    "subject": "One red sugar bowl with black contours and lid tilted open, white sugar visible and integrated bold label SUGAR. No character, hands or other objects.",
+    "start": 1.02,
+    "path": "assets/graphics/sugar-bowl.png",
+    "status": "generated"
+  },
+  {
+    "id": "timer-20",
+    "phrase": "20-minute sugar high",
+    "subject": "Independent 20-minute stopwatch from the approved timer family.",
+    "path": "assets/graphics/timer-20.png",
+    "status": "generated",
+    "source": "/workspace/scratch/5981a1508cf7/generated_images/exec-327178c2-ac98-4df3-957c-7d53b21c3f00.png",
+    "start": 44.57
+  },
+  {
+    "id": "cane-up",
+    "path": "assets/graphics/cane-up.png",
+    "phrase": "upward explanation presenter",
+    "cane_tip": [
+      449,
+      43
+    ],
+    "provenance": "ImageGen revision: direct-camera smirking upward pointing pose"
+  },
+  {
+    "id": "cane-straight",
+    "path": "assets/graphics/cane-up-straight-tilt.png",
+    "phrase": "straight upward pointer hand beside face",
+    "cane_tip": [
+      525,
+      52
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "revision": "19 fixes + straight cane + head tilt",
+  "review_frames": 49,
+  "javascript_errors": [],
+  "animation_conflicts": 0,
+  "cane_targets": 25,
+  "maximum_cane_tip_error_px": 0.04169822530880797,
+  "intentional_presenter_crops": "User authorized large presenters at bottom corners with faces/grips visible",
+  "narration": "Original snapped voice preserved",
+  "render_verification": "Full FFmpeg decode passed; H264 1080x1920 30fps, AAC, 3695 frames"
+}

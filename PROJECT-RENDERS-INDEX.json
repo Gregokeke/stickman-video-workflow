@@ -6,7 +6,9 @@
     "external_render": "02-Project-1-Protect-Their-Peace/Protect-Their-Peace.mp4",
     "render_size": 5015961,
     "sha256": "6c18a864645ccc0893a439d651df2bca14a204a45f4863b24cb4be224ff96e0d",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "02-Project-1-Protect-Their-Peace/source",
+    "browsable_render": "02-Project-1-Protect-Their-Peace/source/renders/Protect-Their-Peace.mp4"
   },
   {
     "reference": 2,
@@ -15,7 +17,9 @@
     "external_render": "03-Project-2-When-He-Goes-Quiet/When-He-Goes-Quiet-Clean-Fades.mp4",
     "render_size": 4960579,
     "sha256": "a69a9baafde112230b0a4ee911f52e34261bd7d0b2aec180d1633ac9aef76ca4",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "03-Project-2-When-He-Goes-Quiet/source",
+    "browsable_render": "03-Project-2-When-He-Goes-Quiet/source/renders/When-He-Goes-Quiet-Clean-Fades.mp4"
   },
   {
     "reference": 3,
@@ -24,7 +28,9 @@
     "external_render": "06-Project-3-Braces-or-Aligners-Part-3/Braces-or-Aligners-Part-3.mp4",
     "render_size": 4964727,
     "sha256": "d338583a6d7a9963d6259c4dffe09feff60fe974f07fbfe4a39496770f7979e3",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "06-Project-3-Braces-or-Aligners-Part-3/source",
+    "browsable_render": "06-Project-3-Braces-or-Aligners-Part-3/source/renders/Braces-or-Aligners-Part-3.mp4"
   },
   {
     "reference": 4,
@@ -33,7 +39,9 @@
     "external_render": "07-Project-4-Remea-Gut-to-Glass/Remea-Gut-to-Glass.mp4",
     "render_size": 4916820,
     "sha256": "6c3ac3a22dda8bff643fbb2361f48e86f31366a07b5fc82f643761e4dd599ad7",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "07-Project-4-Remea-Gut-to-Glass/source",
+    "browsable_render": "07-Project-4-Remea-Gut-to-Glass/source/renders/Remea-Gut-to-Glass.mp4"
   },
   {
     "reference": 5,
@@ -42,7 +50,9 @@
     "external_render": "08-Project-5-Walking-The-Magic-Pill/Walking-The-Magic-Pill.mp4",
     "render_size": 4978702,
     "sha256": "b5a2ebf153a17f097e4aae518e839bc6924341358d5cadbebabfaddfb9dd2fb3",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "08-Project-5-Walking-The-Magic-Pill/source",
+    "browsable_render": "08-Project-5-Walking-The-Magic-Pill/source/renders/Walking-The-Magic-Pill.mp4"
   },
   {
     "reference": 6,
@@ -51,7 +61,9 @@
     "external_render": "10-Project-6-Sugar-Two-Weeks/Sugar-Two-Weeks.mp4",
     "render_size": 4960225,
     "sha256": "d0cabfe4284e3ee9ea7244834f1824f5e0e4e6a222e7c8ab993daeacaa6d018a",
-    "same_as_external": true
+    "same_as_external": true,
+    "browsable_source_directory": "10-Project-6-Sugar-Two-Weeks/source",
+    "browsable_render": "10-Project-6-Sugar-Two-Weeks/source/renders/Sugar-Two-Weeks.mp4"
   },
   {
     "reference": 7,

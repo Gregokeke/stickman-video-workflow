@@ -1,0 +1,192 @@
+[
+  [
+    "clearportrait",
+    0,
+    "Attractive natural skin; matched fictional adult portrait"
+  ],
+  [
+    "calendar7",
+    5,
+    "One-week hook"
+  ],
+  [
+    "tensteps",
+    8,
+    "Expensive ten-step skincare receipt"
+  ],
+  [
+    "scam",
+    17,
+    "Officially a scam, stamp punctuation"
+  ],
+  [
+    "badportrait",
+    18,
+    "Prominent acne/puffiness/dark undereye portrait, same woman"
+  ],
+  [
+    "filter",
+    31,
+    "Social-media beauty filter"
+  ],
+  [
+    "acnefocus",
+    37,
+    "Battling acne"
+  ],
+  [
+    "bloathead",
+    41,
+    "Bloated face"
+  ],
+  [
+    "outsidepimple",
+    43,
+    "Outside-only skincare approach explicitly negated"
+  ],
+  [
+    "insidegut",
+    49,
+    "Symbolic internal gut problem"
+  ],
+  [
+    "gutglow",
+    55,
+    "Real glowing skin starts within"
+  ],
+  [
+    "microbiome",
+    61,
+    "Magnified gut-microbe community, newly generated"
+  ],
+  [
+    "cloggedgut",
+    67,
+    "Clogged intestinal passage"
+  ],
+  [
+    "weakbacteria",
+    69,
+    "Exhausted weak gut bacteria"
+  ],
+  [
+    "faceprice",
+    72,
+    "Face pays the price in breakouts, visual price-tag gag"
+  ],
+  [
+    "guide",
+    79,
+    "Ultimate fix, later returns for simple solution"
+  ],
+  [
+    "apple",
+    84,
+    "One of three explicitly named ingredients"
+  ],
+  [
+    "ginger",
+    84,
+    "Ingredient trio, later shown alone before bloating illustration"
+  ],
+  [
+    "acerola",
+    84,
+    "Recognizable acerola in trio and individual close-up"
+  ],
+  [
+    "pectin",
+    87,
+    "Apple pectin fibers"
+  ],
+  [
+    "colon",
+    89,
+    "Clean-out colon context"
+  ],
+  [
+    "eatingbloat",
+    97,
+    "Bloating after eating"
+  ],
+  [
+    "vitaminc",
+    104,
+    "Vitamin C"
+  ],
+  [
+    "enzymeboost",
+    107,
+    "Boosted lock-and-key enzyme activity; no alarm clock"
+  ],
+  [
+    "rawroots",
+    111,
+    "Raw ginger chewing, a rejected behavior"
+  ],
+  [
+    "stoproots",
+    112,
+    "Stop gesture makes negation clear"
+  ],
+  [
+    "scan",
+    123,
+    "Clean branded scan phone; one Remea label"
+  ],
+  [
+    "analysis",
+    131,
+    "Matching analyzing screen, no repeated branding"
+  ],
+  [
+    "overview",
+    135,
+    "Exact issues: acne, puffiness, under-eyes"
+  ],
+  [
+    "plan",
+    142,
+    "Custom tailored-juice routine, matching phone"
+  ],
+  [
+    "recipe",
+    147,
+    "Juice with the three named ingredients"
+  ],
+  [
+    "drinking",
+    149,
+    "Actively drinking the juice"
+  ],
+  [
+    "period",
+    151,
+    "Generic routine calendar, no invented duration"
+  ],
+  [
+    "paintproblem",
+    155,
+    "Painting over the problem"
+  ],
+  [
+    "gutcare",
+    163,
+    "Gut-care payoff"
+  ],
+  [
+    "share",
+    171,
+    "Send to a friend"
+  ],
+  [
+    "friend",
+    175,
+    "Friend receives the message"
+  ],
+  [
+    "reset",
+    180,
+    "A total reset"
+  ]
+]

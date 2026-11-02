@@ -1,0 +1,4556 @@
+{
+  "tweens": 508,
+  "conflicts": [],
+  "map": [
+    {
+      "target": "c0",
+      "start": 0,
+      "end": 0.13,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a0",
+      "start": 0.12,
+      "end": 0.27,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a0 travel",
+      "start": 0.12,
+      "end": 0.84,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a1",
+      "start": 0.72,
+      "end": 0.87,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a1 travel",
+      "start": 0.72,
+      "end": 1.46,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c0",
+      "start": 1.705,
+      "end": 1.78,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a2",
+      "start": 1.78,
+      "end": 1.93,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a2 travel",
+      "start": 1.78,
+      "end": 2.44,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c1",
+      "start": 1.78,
+      "end": 1.9100000000000001,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a2 pose",
+      "start": 3.62,
+      "end": 3.96,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a2",
+      "start": 3.67,
+      "end": 3.96,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a0 pose",
+      "start": 3.81,
+      "end": 4.15,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a1 pose",
+      "start": 3.81,
+      "end": 4.15,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a0",
+      "start": 3.86,
+      "end": 4.1499999999999995,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a1",
+      "start": 3.86,
+      "end": 4.1499999999999995,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a3",
+      "start": 3.86,
+      "end": 4.01,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a3 travel",
+      "start": 3.86,
+      "end": 4.66,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c1",
+      "start": 3.965,
+      "end": 4.04,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c2",
+      "start": 4.04,
+      "end": 4.17,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a3 pose",
+      "start": 4.45,
+      "end": 4.9,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a3 pose",
+      "start": 5.03,
+      "end": 5.37,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a4",
+      "start": 5.04,
+      "end": 5.19,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a4 travel",
+      "start": 5.04,
+      "end": 5.78,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a3",
+      "start": 5.08,
+      "end": 5.37,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a5",
+      "start": 5.45,
+      "end": 5.6000000000000005,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a5 travel",
+      "start": 5.45,
+      "end": 6.11,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a4 pose",
+      "start": 6.02,
+      "end": 6.67,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c2",
+      "start": 6.645,
+      "end": 6.72,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c3",
+      "start": 6.72,
+      "end": 6.85,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "c3",
+      "start": 7.766,
+      "end": 7.841,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a4 pose",
+      "start": 7.83,
+      "end": 8.17,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a5 pose",
+      "start": 7.83,
+      "end": 8.17,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a6",
+      "start": 7.84,
+      "end": 7.99,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a6 travel",
+      "start": 7.84,
+      "end": 8.56,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c4",
+      "start": 7.841,
+      "end": 7.971,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a4",
+      "start": 7.88,
+      "end": 8.17,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a5",
+      "start": 7.88,
+      "end": 8.17,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a7",
+      "start": 9.26,
+      "end": 9.41,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a7 travel",
+      "start": 9.26,
+      "end": 10,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a6 pose",
+      "start": 9.28,
+      "end": 10.08,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c4",
+      "start": 9.948,
+      "end": 10.023,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c5",
+      "start": 10.023,
+      "end": 10.153,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a6 pose",
+      "start": 10.93,
+      "end": 11.27,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a7 pose",
+      "start": 10.93,
+      "end": 11.27,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a8",
+      "start": 10.94,
+      "end": 11.09,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a8 travel",
+      "start": 10.94,
+      "end": 11.66,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a6",
+      "start": 10.98,
+      "end": 11.27,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a7",
+      "start": 10.98,
+      "end": 11.27,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c5",
+      "start": 11.488,
+      "end": 11.562999999999999,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c6",
+      "start": 11.563,
+      "end": 11.693000000000001,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a9",
+      "start": 11.9,
+      "end": 12.05,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a9 travel",
+      "start": 11.9,
+      "end": 12.64,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a9 pose",
+      "start": 12.58,
+      "end": 13.13,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a8 pose",
+      "start": 13.26,
+      "end": 13.6,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a9 pose",
+      "start": 13.26,
+      "end": 13.6,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c6",
+      "start": 13.268,
+      "end": 13.343,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a8",
+      "start": 13.31,
+      "end": 13.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a9",
+      "start": 13.31,
+      "end": 13.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a10",
+      "start": 13.34,
+      "end": 13.49,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a10 travel",
+      "start": 13.34,
+      "end": 14,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c7",
+      "start": 13.343,
+      "end": 13.473,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "c7",
+      "start": 14.688,
+      "end": 14.763,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a10 pose",
+      "start": 14.7,
+      "end": 15.5,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c8",
+      "start": 14.763,
+      "end": 14.893,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a11",
+      "start": 14.9,
+      "end": 15.05,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a11 travel",
+      "start": 14.9,
+      "end": 15.64,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a11",
+      "start": 15.4,
+      "end": 15.69,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a11 pose",
+      "start": 15.4,
+      "end": 15.74,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a10 pose",
+      "start": 15.64,
+      "end": 15.98,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a12",
+      "start": 15.65,
+      "end": 15.8,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a12 travel",
+      "start": 15.65,
+      "end": 16.37,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a10",
+      "start": 15.69,
+      "end": 15.979999999999999,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c8",
+      "start": 16.248,
+      "end": 16.323,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c9",
+      "start": 16.323,
+      "end": 16.453,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a12 pose",
+      "start": 17.05,
+      "end": 17.39,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a13",
+      "start": 17.06,
+      "end": 17.209999999999997,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a13 travel",
+      "start": 17.06,
+      "end": 17.799999999999997,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a12",
+      "start": 17.1,
+      "end": 17.39,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a13 pose",
+      "start": 18.06,
+      "end": 18.4,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a14",
+      "start": 18.07,
+      "end": 18.22,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a14 travel",
+      "start": 18.07,
+      "end": 18.85,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a13",
+      "start": 18.11,
+      "end": 18.4,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c9",
+      "start": 18.837,
+      "end": 18.912,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a14 pose",
+      "start": 18.88,
+      "end": 19.43,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c10",
+      "start": 18.912,
+      "end": 19.041999999999998,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a15",
+      "start": 19.21,
+      "end": 19.36,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a15 travel",
+      "start": 19.21,
+      "end": 19.53,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a14",
+      "start": 19.25,
+      "end": 19.54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a72",
+      "start": 19.7,
+      "end": 19.849999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a72 travel",
+      "start": 19.7,
+      "end": 19.98,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c10",
+      "start": 20.917,
+      "end": 20.992,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a16",
+      "start": 20.99,
+      "end": 21.139999999999997,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a16 travel",
+      "start": 20.99,
+      "end": 21.31,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a72 travel",
+      "start": 20.99,
+      "end": 21.27,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c11",
+      "start": 20.992,
+      "end": 21.122,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a15 pose",
+      "start": 21.22,
+      "end": 21.56,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a15",
+      "start": 21.27,
+      "end": 21.56,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a72",
+      "start": 21.37,
+      "end": 21.66,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a16 pose",
+      "start": 21.51,
+      "end": 21.830000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a17",
+      "start": 21.51,
+      "end": 21.66,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a17 travel",
+      "start": 21.51,
+      "end": 21.830000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a81",
+      "start": 21.56,
+      "end": 21.709999999999997,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a81 travel",
+      "start": 21.56,
+      "end": 21.84,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a16 pose",
+      "start": 22.51,
+      "end": 22.85,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c11",
+      "start": 22.517,
+      "end": 22.592,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a16",
+      "start": 22.56,
+      "end": 22.849999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "crash",
+      "start": 22.59,
+      "end": 22.79,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c12",
+      "start": 22.592,
+      "end": 22.721999999999998,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a17 pose",
+      "start": 22.61,
+      "end": 22.95,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a17",
+      "start": 22.66,
+      "end": 22.95,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a81",
+      "start": 22.66,
+      "end": 22.95,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "crash axis trace",
+      "start": 22.74,
+      "end": 23.29,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "a82",
+      "start": 22.93,
+      "end": 23.08,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a82 travel",
+      "start": 22.93,
+      "end": 23.21,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "crash curve trace",
+      "start": 23.14,
+      "end": 24.94,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "a82 travel",
+      "start": 24.45,
+      "end": 24.73,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c12",
+      "start": 24.737,
+      "end": 24.811999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c13",
+      "start": 24.812,
+      "end": 24.942,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a82",
+      "start": 25.66,
+      "end": 25.95,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "crash",
+      "start": 25.85,
+      "end": 26.1,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a18",
+      "start": 25.99,
+      "end": 26.139999999999997,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a18 travel",
+      "start": 25.99,
+      "end": 26.65,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c13",
+      "start": 26.637,
+      "end": 26.712,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c14",
+      "start": 26.712,
+      "end": 26.842,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a19",
+      "start": 27.27,
+      "end": 27.419999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a19 travel",
+      "start": 27.27,
+      "end": 28.009999999999998,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a18 pose",
+      "start": 27.55,
+      "end": 28.27,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c14",
+      "start": 28.377,
+      "end": 28.451999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c15",
+      "start": 28.452,
+      "end": 28.582,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a18 pose",
+      "start": 28.46,
+      "end": 28.8,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a18",
+      "start": 28.51,
+      "end": 28.8,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a20",
+      "start": 28.71,
+      "end": 28.86,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a20 travel",
+      "start": 28.71,
+      "end": 29.43,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a19 pose",
+      "start": 28.8,
+      "end": 29.14,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a19",
+      "start": 28.85,
+      "end": 29.14,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c15",
+      "start": 30.197,
+      "end": 30.272,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a21",
+      "start": 30.27,
+      "end": 30.419999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a21 travel",
+      "start": 30.27,
+      "end": 31.009999999999998,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "stable",
+      "start": 30.27,
+      "end": 30.47,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c16",
+      "start": 30.272,
+      "end": 30.401999999999997,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a20 pose",
+      "start": 30.31,
+      "end": 30.65,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a20",
+      "start": 30.36,
+      "end": 30.65,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "stable axis trace",
+      "start": 30.42,
+      "end": 30.970000000000002,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "a73",
+      "start": 30.63,
+      "end": 30.779999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a73 travel",
+      "start": 30.63,
+      "end": 30.91,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "stable curve trace",
+      "start": 30.82,
+      "end": 31.92,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "a21 pose",
+      "start": 31.12,
+      "end": 31.44,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c16",
+      "start": 31.477,
+      "end": 31.552,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c17",
+      "start": 31.552,
+      "end": 31.682,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a73",
+      "start": 32.76,
+      "end": 33.05,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "stable",
+      "start": 32.9,
+      "end": 33.15,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a22",
+      "start": 33.03,
+      "end": 33.18,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a22 travel",
+      "start": 33.03,
+      "end": 33.69,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a21 pose",
+      "start": 33.04,
+      "end": 33.38,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a21",
+      "start": 33.09,
+      "end": 33.38,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c17",
+      "start": 34.357,
+      "end": 34.432,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c18",
+      "start": 34.432,
+      "end": 34.562000000000005,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a22 pose",
+      "start": 34.59,
+      "end": 34.910000000000004,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a23",
+      "start": 34.59,
+      "end": 34.74,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a23 travel",
+      "start": 34.59,
+      "end": 34.910000000000004,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a74",
+      "start": 34.8,
+      "end": 34.949999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a74 travel",
+      "start": 34.8,
+      "end": 35.08,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c18",
+      "start": 36.237,
+      "end": 36.312000000000005,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c19",
+      "start": 36.312,
+      "end": 36.442,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a22 pose",
+      "start": 36.61,
+      "end": 36.95,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a22",
+      "start": 36.66,
+      "end": 36.949999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a23 pose",
+      "start": 36.96,
+      "end": 37.300000000000004,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a24",
+      "start": 36.99,
+      "end": 37.14,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a24 travel",
+      "start": 36.99,
+      "end": 37.71,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a74 travel",
+      "start": 36.99,
+      "end": 37.27,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a23",
+      "start": 37.01,
+      "end": 37.3,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a74",
+      "start": 38.01,
+      "end": 38.3,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c19",
+      "start": 38.357,
+      "end": 38.432,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a25",
+      "start": 38.43,
+      "end": 38.58,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a25 travel",
+      "start": 38.43,
+      "end": 39.15,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c20",
+      "start": 38.432,
+      "end": 38.562000000000005,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a24 pose",
+      "start": 38.56,
+      "end": 38.900000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a24",
+      "start": 38.61,
+      "end": 38.9,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a26",
+      "start": 39.21,
+      "end": 39.36,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a26 travel",
+      "start": 39.21,
+      "end": 39.95,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a25 pose",
+      "start": 40.41,
+      "end": 40.75,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a26 pose",
+      "start": 40.41,
+      "end": 40.75,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c20",
+      "start": 40.41,
+      "end": 40.485,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a25",
+      "start": 40.46,
+      "end": 40.75,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a26",
+      "start": 40.46,
+      "end": 40.75,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a27",
+      "start": 40.48,
+      "end": 40.629999999999995,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a27 travel",
+      "start": 40.48,
+      "end": 41.13999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c21",
+      "start": 40.485,
+      "end": 40.615,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "c21",
+      "start": 41.87,
+      "end": 41.945,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c22",
+      "start": 41.945,
+      "end": 42.075,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "c22",
+      "start": 43.114,
+      "end": 43.189,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c23",
+      "start": 43.189,
+      "end": 43.319,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a27 pose",
+      "start": 43.19,
+      "end": 43.94,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a28",
+      "start": 43.19,
+      "end": 43.339999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a28 travel",
+      "start": 43.19,
+      "end": 43.93,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a29",
+      "start": 44.23,
+      "end": 44.379999999999995,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a29 travel",
+      "start": 44.23,
+      "end": 45.029999999999994,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a27 pose",
+      "start": 44.26,
+      "end": 44.6,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a27",
+      "start": 44.31,
+      "end": 44.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a28 pose",
+      "start": 44.38,
+      "end": 44.720000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a28",
+      "start": 44.43,
+      "end": 44.72,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a80",
+      "start": 44.57,
+      "end": 44.72,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a80 travel",
+      "start": 44.57,
+      "end": 45.31,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c23",
+      "start": 45.014,
+      "end": 45.089000000000006,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c24",
+      "start": 45.089,
+      "end": 45.219,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a29 pose",
+      "start": 45.41,
+      "end": 45.809999999999995,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c24",
+      "start": 46.474,
+      "end": 46.549,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a80 pose",
+      "start": 46.51,
+      "end": 46.85,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c25",
+      "start": 46.549,
+      "end": 46.679,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a30",
+      "start": 46.55,
+      "end": 46.699999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a30 travel",
+      "start": 46.55,
+      "end": 47.349999999999994,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a80",
+      "start": 46.56,
+      "end": 46.85,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a29 pose",
+      "start": 46.58,
+      "end": 46.92,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a29",
+      "start": 46.63,
+      "end": 46.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a30 pose",
+      "start": 47.12,
+      "end": 48.07,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c25",
+      "start": 47.857,
+      "end": 47.932,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c26",
+      "start": 47.932,
+      "end": 48.062000000000005,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a30 pose",
+      "start": 48.11,
+      "end": 48.45,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a31",
+      "start": 48.12,
+      "end": 48.269999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a31 travel",
+      "start": 48.12,
+      "end": 48.839999999999996,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a30",
+      "start": 48.16,
+      "end": 48.449999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "insulin-low",
+      "start": 48.4,
+      "end": 48.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a75",
+      "start": 48.55,
+      "end": 48.699999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a75 travel",
+      "start": 48.55,
+      "end": 48.83,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "low-fill",
+      "start": 48.75,
+      "end": 49.85,
+      "props": []
+    },
+    {
+      "target": "c26",
+      "start": 49.969,
+      "end": 50.044000000000004,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "insulin-low",
+      "start": 49.97,
+      "end": 50.22,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c27",
+      "start": 50.044,
+      "end": 50.174,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a31 pose",
+      "start": 50.09,
+      "end": 50.43000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a32",
+      "start": 50.1,
+      "end": 50.25,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a32 travel",
+      "start": 50.1,
+      "end": 50.42,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a75 travel",
+      "start": 50.1,
+      "end": 50.38,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a31",
+      "start": 50.14,
+      "end": 50.43,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a33",
+      "start": 50.74,
+      "end": 50.89,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a33 travel",
+      "start": 50.74,
+      "end": 51.480000000000004,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a33 pose",
+      "start": 51.25,
+      "end": 51.55,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c27",
+      "start": 51.569,
+      "end": 51.644000000000005,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a32 pose",
+      "start": 51.63,
+      "end": 51.970000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a34",
+      "start": 51.64,
+      "end": 51.79,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a34 travel",
+      "start": 51.64,
+      "end": 51.96,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a75 travel",
+      "start": 51.64,
+      "end": 51.92,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c28",
+      "start": 51.644,
+      "end": 51.774,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a32",
+      "start": 51.68,
+      "end": 51.97,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a33 pose",
+      "start": 51.76,
+      "end": 52.1,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a33",
+      "start": 51.81,
+      "end": 52.1,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a35",
+      "start": 52.94,
+      "end": 53.089999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a35 travel",
+      "start": 52.94,
+      "end": 53.489999999999995,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c28",
+      "start": 53.109,
+      "end": 53.184000000000005,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c29",
+      "start": 53.184,
+      "end": 53.314,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a36",
+      "start": 53.85,
+      "end": 54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a36 travel",
+      "start": 53.85,
+      "end": 54.17,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a75 travel",
+      "start": 53.85,
+      "end": 54.13,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a34 pose",
+      "start": 54.01,
+      "end": 54.35,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a34",
+      "start": 54.06,
+      "end": 54.35,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a35 pose",
+      "start": 54.11,
+      "end": 54.45,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a35",
+      "start": 54.16,
+      "end": 54.449999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a37",
+      "start": 54.45,
+      "end": 54.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a37 travel",
+      "start": 54.45,
+      "end": 54.77,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a75 travel",
+      "start": 54.55,
+      "end": 54.83,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a36 pose",
+      "start": 54.65,
+      "end": 55,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c29",
+      "start": 54.789,
+      "end": 54.864000000000004,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c30",
+      "start": 54.864,
+      "end": 54.994,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a75",
+      "start": 56.31,
+      "end": 56.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a36 pose",
+      "start": 56.36,
+      "end": 56.7,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a37 pose",
+      "start": 56.36,
+      "end": 56.7,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a36",
+      "start": 56.41,
+      "end": 56.699999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a37",
+      "start": 56.41,
+      "end": 56.699999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a38",
+      "start": 56.48,
+      "end": 56.629999999999995,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a38 travel",
+      "start": 56.48,
+      "end": 57.199999999999996,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c30",
+      "start": 57.128,
+      "end": 57.203,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c31",
+      "start": 57.203,
+      "end": 57.333000000000006,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a38 pose",
+      "start": 58.02,
+      "end": 58.720000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a39",
+      "start": 58.02,
+      "end": 58.17,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a39 travel",
+      "start": 58.02,
+      "end": 58.68,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c31",
+      "start": 58.248,
+      "end": 58.323,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c32",
+      "start": 58.323,
+      "end": 58.453,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a40",
+      "start": 58.8,
+      "end": 58.949999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a40 travel",
+      "start": 58.8,
+      "end": 59.54,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a38 pose",
+      "start": 58.81,
+      "end": 59.150000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a39 pose",
+      "start": 58.81,
+      "end": 59.150000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a38",
+      "start": 58.86,
+      "end": 59.15,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a39",
+      "start": 58.86,
+      "end": 59.15,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a40 pose",
+      "start": 59.9,
+      "end": 60.699999999999996,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a41",
+      "start": 59.9,
+      "end": 60.05,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a41 travel",
+      "start": 59.9,
+      "end": 60.559999999999995,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c32",
+      "start": 60.588,
+      "end": 60.663000000000004,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c33",
+      "start": 60.663,
+      "end": 60.793,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a40 pose",
+      "start": 61.45,
+      "end": 61.790000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a41 pose",
+      "start": 61.45,
+      "end": 61.790000000000006,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a42",
+      "start": 61.46,
+      "end": 61.61,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a42 travel",
+      "start": 61.46,
+      "end": 62.18,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a40",
+      "start": 61.5,
+      "end": 61.79,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a41",
+      "start": 61.5,
+      "end": 61.79,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c33",
+      "start": 61.928,
+      "end": 62.003,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c34",
+      "start": 62.003,
+      "end": 62.133,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a43",
+      "start": 63.6,
+      "end": 63.75,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a43 travel",
+      "start": 63.6,
+      "end": 64.32000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a42 pose",
+      "start": 63.66,
+      "end": 64,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a42",
+      "start": 63.71,
+      "end": 64,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c34",
+      "start": 64.726,
+      "end": 64.801,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a43 pose",
+      "start": 64.76,
+      "end": 65.10000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a44",
+      "start": 64.8,
+      "end": 64.95,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a44 travel",
+      "start": 64.8,
+      "end": 65.53999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c35",
+      "start": 64.801,
+      "end": 64.931,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a43",
+      "start": 64.81,
+      "end": 65.10000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a44 pose",
+      "start": 65.48,
+      "end": 65.86,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c35",
+      "start": 66.146,
+      "end": 66.221,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a45",
+      "start": 66.22,
+      "end": 66.37,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a45 travel",
+      "start": 66.22,
+      "end": 66.88,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c36",
+      "start": 66.221,
+      "end": 66.351,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a44 pose",
+      "start": 66.31,
+      "end": 66.65,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a44",
+      "start": 66.36,
+      "end": 66.65,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a45 pose",
+      "start": 67.34,
+      "end": 67.99000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c36",
+      "start": 67.726,
+      "end": 67.801,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c37",
+      "start": 67.801,
+      "end": 67.931,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a45 pose",
+      "start": 68.54,
+      "end": 68.88000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "stress-crash",
+      "start": 68.54,
+      "end": 68.74000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a45",
+      "start": 68.59,
+      "end": 68.88000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "stress-crash axis trace",
+      "start": 68.69,
+      "end": 69.24,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "stress-crash curve trace",
+      "start": 69.09,
+      "end": 70.89,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "c37",
+      "start": 69.886,
+      "end": 69.961,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c38",
+      "start": 69.961,
+      "end": 70.091,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a46",
+      "start": 70.38,
+      "end": 70.53,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a46 travel",
+      "start": 70.38,
+      "end": 71.1,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "stress-crash",
+      "start": 70.75,
+      "end": 71,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a47",
+      "start": 71.6,
+      "end": 71.75,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a47 travel",
+      "start": 71.6,
+      "end": 71.91999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a76",
+      "start": 71.92,
+      "end": 72.07000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a76 travel",
+      "start": 71.92,
+      "end": 72.2,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c38",
+      "start": 72.466,
+      "end": 72.541,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c39",
+      "start": 72.541,
+      "end": 72.67099999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a46 pose",
+      "start": 73.61,
+      "end": 73.95,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a76",
+      "start": 73.61,
+      "end": 73.9,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a46",
+      "start": 73.66,
+      "end": 73.95,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c39",
+      "start": 73.707,
+      "end": 73.782,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a48",
+      "start": 73.78,
+      "end": 73.93,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a48 travel",
+      "start": 73.78,
+      "end": 74.58,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c40",
+      "start": 73.782,
+      "end": 73.91199999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a47 pose",
+      "start": 73.96,
+      "end": 74.3,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a47",
+      "start": 74.01,
+      "end": 74.30000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c40",
+      "start": 76.38,
+      "end": 76.455,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c41",
+      "start": 76.455,
+      "end": 76.585,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a48 pose",
+      "start": 77.08,
+      "end": 77.88,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a49",
+      "start": 77.08,
+      "end": 77.23,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a49 travel",
+      "start": 77.08,
+      "end": 77.82,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c41",
+      "start": 78.465,
+      "end": 78.54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c42",
+      "start": 78.54,
+      "end": 78.67,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a48 pose",
+      "start": 79.2,
+      "end": 79.54,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a49 pose",
+      "start": 79.2,
+      "end": 79.54,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a50",
+      "start": 79.21,
+      "end": 79.36,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a50 travel",
+      "start": 79.21,
+      "end": 79.52999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a48",
+      "start": 79.25,
+      "end": 79.54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a49",
+      "start": 79.25,
+      "end": 79.54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a77",
+      "start": 79.5,
+      "end": 79.65,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a77 travel",
+      "start": 79.5,
+      "end": 79.78,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a51",
+      "start": 80.79,
+      "end": 80.94000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a51 travel",
+      "start": 80.79,
+      "end": 81.11,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a77 travel",
+      "start": 80.79,
+      "end": 81.07000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c42",
+      "start": 81.099,
+      "end": 81.174,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c43",
+      "start": 81.174,
+      "end": 81.304,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a77",
+      "start": 82.31,
+      "end": 82.60000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a50 pose",
+      "start": 82.58,
+      "end": 82.92,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a51 pose",
+      "start": 82.58,
+      "end": 82.92,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a52",
+      "start": 82.59,
+      "end": 82.74000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a52 travel",
+      "start": 82.59,
+      "end": 83.31,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a50",
+      "start": 82.63,
+      "end": 82.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a51",
+      "start": 82.63,
+      "end": 82.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c43",
+      "start": 82.64,
+      "end": 82.715,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c44",
+      "start": 82.715,
+      "end": 82.845,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a52 pose",
+      "start": 84.22,
+      "end": 84.56,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a53",
+      "start": 84.23,
+      "end": 84.38000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a53 travel",
+      "start": 84.23,
+      "end": 84.97,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a52",
+      "start": 84.27,
+      "end": 84.56,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c44",
+      "start": 84.74,
+      "end": 84.815,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c45",
+      "start": 84.815,
+      "end": 84.945,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a53 pose",
+      "start": 86.54,
+      "end": 86.88000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a53",
+      "start": 86.59,
+      "end": 86.88000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a54",
+      "start": 86.61,
+      "end": 86.76,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a54 travel",
+      "start": 86.61,
+      "end": 87.33,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c45",
+      "start": 87.54,
+      "end": 87.61500000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c46",
+      "start": 87.615,
+      "end": 87.74499999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a54 pose",
+      "start": 88.47,
+      "end": 89.22,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a55",
+      "start": 88.47,
+      "end": 88.62,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a55 travel",
+      "start": 88.47,
+      "end": 89.21,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c46",
+      "start": 89.493,
+      "end": 89.568,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c47",
+      "start": 89.568,
+      "end": 89.698,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a54 pose",
+      "start": 89.9,
+      "end": 90.24000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a55 pose",
+      "start": 89.9,
+      "end": 90.24000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a56",
+      "start": 89.91,
+      "end": 90.06,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a56 travel",
+      "start": 89.91,
+      "end": 90.63,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a54",
+      "start": 89.95,
+      "end": 90.24000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a55",
+      "start": 89.95,
+      "end": 90.24000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c47",
+      "start": 90.613,
+      "end": 90.688,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c48",
+      "start": 90.688,
+      "end": 90.818,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a56 pose",
+      "start": 91.73,
+      "end": 92.53,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c48",
+      "start": 92.033,
+      "end": 92.108,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c49",
+      "start": 92.108,
+      "end": 92.238,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a56 pose",
+      "start": 92.74,
+      "end": 93.08,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a57",
+      "start": 92.75,
+      "end": 92.9,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a57 travel",
+      "start": 92.75,
+      "end": 93.49,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a56",
+      "start": 92.79,
+      "end": 93.08000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c49",
+      "start": 94.033,
+      "end": 94.108,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c50",
+      "start": 94.108,
+      "end": 94.238,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a57 pose",
+      "start": 94.7,
+      "end": 95.04,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a58",
+      "start": 94.71,
+      "end": 94.86,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a58 travel",
+      "start": 94.71,
+      "end": 95.50999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a57",
+      "start": 94.75,
+      "end": 95.04,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c50",
+      "start": 96.431,
+      "end": 96.506,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c51",
+      "start": 96.506,
+      "end": 96.636,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a58 pose",
+      "start": 97.02,
+      "end": 97.36,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a59",
+      "start": 97.03,
+      "end": 97.18,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a59 travel",
+      "start": 97.03,
+      "end": 97.75,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a58",
+      "start": 97.07,
+      "end": 97.36,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a78",
+      "start": 97.7,
+      "end": 97.85000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a78 travel",
+      "start": 97.7,
+      "end": 97.98,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c51",
+      "start": 98.511,
+      "end": 98.586,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c52",
+      "start": 98.586,
+      "end": 98.716,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a59 pose",
+      "start": 99.4,
+      "end": 99.74000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a60",
+      "start": 99.41,
+      "end": 99.56,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a60 travel",
+      "start": 99.41,
+      "end": 100.14999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a59",
+      "start": 99.45,
+      "end": 99.74000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a78 travel",
+      "start": 100.05,
+      "end": 100.33,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c52",
+      "start": 100.551,
+      "end": 100.626,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c53",
+      "start": 100.626,
+      "end": 100.756,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a60 pose",
+      "start": 101.15,
+      "end": 102,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a61",
+      "start": 101.49,
+      "end": 101.64,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a61 travel",
+      "start": 101.49,
+      "end": 102.14999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "glycation-links",
+      "start": 101.95,
+      "end": 102.15,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a78 travel",
+      "start": 102,
+      "end": 102.28,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "glycation-links trace",
+      "start": 102.2,
+      "end": 103.05,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "a61 pose",
+      "start": 102.33,
+      "end": 102.98,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a62",
+      "start": 102.33,
+      "end": 102.48,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a62 travel",
+      "start": 102.33,
+      "end": 103.07,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c53",
+      "start": 102.671,
+      "end": 102.74600000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c54",
+      "start": 102.746,
+      "end": 102.87599999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a78 travel",
+      "start": 102.95,
+      "end": 103.23,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a60 pose",
+      "start": 103.51,
+      "end": 103.85000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "glycation-links",
+      "start": 103.55,
+      "end": 103.8,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a60",
+      "start": 103.56,
+      "end": 103.85000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a61 pose",
+      "start": 104.1,
+      "end": 104.44,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a63",
+      "start": 104.11,
+      "end": 104.26,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a63 travel",
+      "start": 104.11,
+      "end": 104.83,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a61",
+      "start": 104.15,
+      "end": 104.44000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a62 pose",
+      "start": 104.31,
+      "end": 104.65,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a62",
+      "start": 104.36,
+      "end": 104.65,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a78 travel",
+      "start": 104.45,
+      "end": 104.73,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c54",
+      "start": 104.931,
+      "end": 105.006,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c55",
+      "start": 105.006,
+      "end": 105.136,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "c55",
+      "start": 106.329,
+      "end": 106.404,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c56",
+      "start": 106.404,
+      "end": 106.53399999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a78",
+      "start": 106.41,
+      "end": 106.7,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a63 pose",
+      "start": 106.99,
+      "end": 107.33,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a64",
+      "start": 107,
+      "end": 107.15,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a64 travel",
+      "start": 107,
+      "end": 107.66,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a63",
+      "start": 107.04,
+      "end": 107.33000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c56",
+      "start": 108.996,
+      "end": 109.071,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c57",
+      "start": 109.071,
+      "end": 109.201,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a64 pose",
+      "start": 110.07,
+      "end": 110.82,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a65",
+      "start": 110.07,
+      "end": 110.22,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a65 travel",
+      "start": 110.07,
+      "end": 110.80999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c57",
+      "start": 110.656,
+      "end": 110.73100000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c58",
+      "start": 110.731,
+      "end": 110.86099999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a64 pose",
+      "start": 110.86,
+      "end": 111.2,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a64",
+      "start": 110.91,
+      "end": 111.2,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a65 pose",
+      "start": 111.05,
+      "end": 111.77,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "c58",
+      "start": 112.369,
+      "end": 112.444,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c59",
+      "start": 112.444,
+      "end": 112.574,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a65 pose",
+      "start": 113.35,
+      "end": 113.69,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a66",
+      "start": 113.36,
+      "end": 113.51,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a66 travel",
+      "start": 113.36,
+      "end": 114.08,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a65",
+      "start": 113.4,
+      "end": 113.69000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c59",
+      "start": 113.889,
+      "end": 113.964,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a79",
+      "start": 113.95,
+      "end": 114.10000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a79 travel",
+      "start": 113.95,
+      "end": 114.23,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c60",
+      "start": 113.964,
+      "end": 114.094,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a67",
+      "start": 114.42,
+      "end": 114.57000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a67 travel",
+      "start": 114.42,
+      "end": 114.74,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a79 travel",
+      "start": 114.42,
+      "end": 114.7,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a66 pose",
+      "start": 114.96,
+      "end": 115.3,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a66",
+      "start": 115.01,
+      "end": 115.30000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a67 pose",
+      "start": 115.05,
+      "end": 115.42999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a79 travel",
+      "start": 115.05,
+      "end": 115.33,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c60",
+      "start": 116.409,
+      "end": 116.48400000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a67 pose",
+      "start": 116.47,
+      "end": 116.81,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a68",
+      "start": 116.48,
+      "end": 116.63000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a68 travel",
+      "start": 116.48,
+      "end": 116.8,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a79 travel",
+      "start": 116.48,
+      "end": 116.76,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c61",
+      "start": 116.484,
+      "end": 116.61399999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a67",
+      "start": 116.52,
+      "end": 116.81,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a79",
+      "start": 118.01,
+      "end": 118.30000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a68 pose",
+      "start": 118.11,
+      "end": 118.45,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a69",
+      "start": 118.12,
+      "end": 118.27000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a69 travel",
+      "start": 118.12,
+      "end": 118.86,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a68",
+      "start": 118.16,
+      "end": 118.45,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c61",
+      "start": 119.369,
+      "end": 119.444,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c62",
+      "start": 119.444,
+      "end": 119.574,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a69 pose",
+      "start": 120.22,
+      "end": 120.92,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "rotation"
+      ]
+    },
+    {
+      "target": "a70",
+      "start": 120.22,
+      "end": 120.37,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a70 travel",
+      "start": 120.22,
+      "end": 120.96,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a69 pose",
+      "start": 121.26,
+      "end": 121.60000000000001,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a69",
+      "start": 121.31,
+      "end": 121.60000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c62",
+      "start": 121.329,
+      "end": 121.404,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a71",
+      "start": 121.4,
+      "end": 121.55000000000001,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "a71 travel",
+      "start": 121.4,
+      "end": 122.06,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "c63",
+      "start": 121.404,
+      "end": 121.53399999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "a70 pose",
+      "start": 121.86,
+      "end": 122.2,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "a70",
+      "start": 121.91,
+      "end": 122.2,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "c63",
+      "start": 123.0916667,
+      "end": 123.16666670000001,
+      "props": [
+        "opacity"
+      ]
+    }
+  ]
+}

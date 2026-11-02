@@ -1,0 +1,1062 @@
+{
+  "format_version": 1,
+  "original_archive_sha256": "a18c143f88ce9651d136a70102f022d9bf0aa51f37793276f1bbad2d3721e2d2",
+  "original_archive_bytes": 114025650,
+  "method": "Lossless FLAC for three working WAVs and lossless WebP for selected PNGs. Restore before editing. Original video, resolution, pixels and audio samples are preserved.",
+  "audio": [
+    {
+      "original_path": "assets/audio/effects.wav",
+      "flac_path": "lossless-audio/effects.flac",
+      "original_sha256": "c32011064983ed4eb11541426e3149ee2ed2a9aeb93c17a7ca1db10adccabd1d",
+      "flac_sha256": "b1070ae73dd95a7da4a11b8774ea13ebbf502b49c456749f9e1fd905586afbdc",
+      "pcm_format": "s24le",
+      "pcm_bytes": 35472000,
+      "wav_prefix_base64": "UklGRqRCHQJXQVZFZm10IBAAAAABAAIAgLsAAABlBAAGABgAZGF0YYBCHQI=",
+      "wav_suffix_base64": ""
+    },
+    {
+      "original_path": "assets/audio/mix.wav",
+      "flac_path": "lossless-audio/mix.flac",
+      "original_sha256": "2c251c44b3e97597c9073d301b692341909a0b493c7b773c4228a5437c29977d",
+      "flac_sha256": "3181bb25aed6dafb328c9db720cb87a03a968f3dfa53f836eadfc06ca1ff837f",
+      "pcm_format": "s24le",
+      "pcm_bytes": 35472000,
+      "wav_prefix_base64": "UklGRt5CHQJXQVZFZm10ICgAAAD+/wIAgLsAAABlBAAGABgAFgAYAAMAAAABAAAAAAAQAIAAAKoAOJtxTElTVBoAAABJTkZPSVNGVA4AAABMYXZmNjAuMTYuMTAwAGRhdGGAQh0C",
+      "wav_suffix_base64": ""
+    },
+    {
+      "original_path": "assets/audio/narration.wav",
+      "flac_path": "lossless-audio/narration.flac",
+      "original_sha256": "5bad18aa67e2c790387ef4d4227a0d20b440b2983f5c57e7cc3178cfd190546e",
+      "flac_sha256": "925203c13fcd797c4736d08804a1f885b7e50af4e5fa5e7852bec92e8a3a3a4a",
+      "pcm_format": "s16le",
+      "pcm_bytes": 11797438,
+      "wav_prefix_base64": "UklGRuIDtABXQVZFZm10IBAAAAABAAEAgLsAAAB3AQACABAAZGF0Yb4DtAA=",
+      "wav_suffix_base64": ""
+    }
+  ],
+  "images": [
+    {
+      "original_path": "assets/graphics/atp.png",
+      "encoded_path": "lossless-images/assets/graphics/atp.png.webp",
+      "original_sha256": "32f0430e67e123b9bcc2279e2e56452fc7e56e188161bd99e923443e6dd862a7",
+      "encoded_sha256": "1c3baff1f08238f5a44b7654ee946a0e0431ec666d72311f86c9158be29035e9",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "db0a2b8279a4273879a7e5cd5a729e38a57c23174cd2002cfd38c5687e1b6c57",
+      "original_bytes": 1230242,
+      "encoded_bytes": 823830
+    },
+    {
+      "original_path": "assets/graphics/bacteria-beg.png",
+      "encoded_path": "lossless-images/assets/graphics/bacteria-beg.png.webp",
+      "original_sha256": "a08a0c10a5d8a4cfaa607c4b684591cc197bbec4805a44cad4d7ab0920db0c17",
+      "encoded_sha256": "539c2e866ab5db5b42ee5e1de370e051bc1672b003b03b1dedf267cc5ce87417",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "da01757db1d7b7379873d2f6ddfbfc5578fb53e1cdc6bcbf172856cb60c5a72e",
+      "original_bytes": 528357,
+      "encoded_bytes": 302614
+    },
+    {
+      "original_path": "assets/graphics/battery.png",
+      "encoded_path": "lossless-images/assets/graphics/battery.png.webp",
+      "original_sha256": "bb153fbf99603d8f711bb3186e515aaed9b1f99361b4e66f98bc339ba4d87378",
+      "encoded_sha256": "66ce4c64ae83a892ec1e0a62c3f1768efde43b304d92ff75e1f06ee33829c877",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "6033a13d1a7cd4f926e0b0d396ef88689a3d4ad4a38d7fdbadde47fff7d7a3fa",
+      "original_bytes": 829546,
+      "encoded_bytes": 548954
+    },
+    {
+      "original_path": "assets/graphics/blank-screen.png",
+      "encoded_path": "lossless-images/assets/graphics/blank-screen.png.webp",
+      "original_sha256": "0c5dc704ade88dc5add59c224018a8c223dd6d74ecb06c50a07ec037fecb8c0b",
+      "encoded_sha256": "d65bdcfbb641be00bd1054fb868ff5a1f1dda93b43683ded8c414ead7718a3d7",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "482c73fdba135537c395d7995763ba145c4cc76d0c3243f38253d0cfec566175",
+      "original_bytes": 511809,
+      "encoded_bytes": 291754
+    },
+    {
+      "original_path": "assets/graphics/blood-vessel-v2.png",
+      "encoded_path": "lossless-images/assets/graphics/blood-vessel-v2.png.webp",
+      "original_sha256": "d4d6212caa4d7c4804a7a572a19c28420045638f0d1718f934b9e103e4e4644c",
+      "encoded_sha256": "17ec053c63290baf1dba1f85ab4bd0251d40906780dc976e923a5afc1dd275a9",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "f89453a38e5efc653b1a35fda7ea7c5bccc20edd8bbeedb4268c78734d6bf7ad",
+      "original_bytes": 1234174,
+      "encoded_bytes": 836982
+    },
+    {
+      "original_path": "assets/graphics/body-relief.png",
+      "encoded_path": "lossless-images/assets/graphics/body-relief.png.webp",
+      "original_sha256": "dfb5069741c0747496da93752db79d2c2f0d43d34ba4504c814b50237f3532e8",
+      "encoded_sha256": "25b5dab578620d7e8bccaaba25a32924a9b15131c9d103e45768fec013847656",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "57223d40d4f6db8ccf14f83b08ff0746a91263050bae9b1b6b9ea5c1c188ed4f",
+      "original_bytes": 1119986,
+      "encoded_bytes": 729160
+    },
+    {
+      "original_path": "assets/graphics/brain.png",
+      "encoded_path": "lossless-images/assets/graphics/brain.png.webp",
+      "original_sha256": "8793aca8e75209747484216c388e0c21e4e2ecf189e02401aebafd5852875c27",
+      "encoded_sha256": "ba9539f66dbcadeeadca81a3ec6d75f874213eb50e92003462fabae077f6efdb",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "86a4e99ab645549d811065f8340e4b4437fd4afde3075c9a0934d33b3701f1b7",
+      "original_bytes": 905370,
+      "encoded_bytes": 584546
+    },
+    {
+      "original_path": "assets/graphics/bubble-wrap.png",
+      "encoded_path": "lossless-images/assets/graphics/bubble-wrap.png.webp",
+      "original_sha256": "b847107bab1e5c18f5829f06667585c146d7b51eb55a1846ec3e2bb11468a231",
+      "encoded_sha256": "389cc8758c248a7fe8a506c3533619ebde75980b90491ac082fc5e3e5939eee1",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "b0df9f5e0a0d3595827d8ec7c3a4dab850673f9858891ca65f2b0d6bce20faba",
+      "original_bytes": 890006,
+      "encoded_bytes": 572158
+    },
+    {
+      "original_path": "assets/graphics/calendar.png",
+      "encoded_path": "lossless-images/assets/graphics/calendar.png.webp",
+      "original_sha256": "4a1c0040ce4402f7a7f7f26904a6df6bf86f1d85878e874f792055aad9538d50",
+      "encoded_sha256": "42b31c55e971d22d5d5dc63ed562afc9450750e78ec98e97a55ad20f0f2c9cd9",
+      "mode": "RGBA",
+      "size": [
+        1214,
+        1295
+      ],
+      "rgba_sha256": "d440f4c925a4bf4a461611f8205424f9e628b810e625b5596f5f287b2327de50",
+      "original_bytes": 904977,
+      "encoded_bytes": 519162
+    },
+    {
+      "original_path": "assets/graphics/candy-jar.png",
+      "encoded_path": "lossless-images/assets/graphics/candy-jar.png.webp",
+      "original_sha256": "8dba656a6528101f6567ee9056d93ccb023f56d45e25623190ea66abd872bccd",
+      "encoded_sha256": "dc348c0e3ccbede3cdbe3ce1d8aff4667543ebf6ae145c20576a20d9077b8b00",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "d8c53504cae6c553fb0f199ad57b594655a6425c56d46db055229990f6fde91e",
+      "original_bytes": 1008641,
+      "encoded_bytes": 624456
+    },
+    {
+      "original_path": "assets/graphics/cane-presenter.png",
+      "encoded_path": "lossless-images/assets/graphics/cane-presenter.png.webp",
+      "original_sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990",
+      "encoded_sha256": "a362162a27de9c32502184f0ccd6865e8a924690bc0fa3a5538ed23bf4d3bfb1",
+      "mode": "RGBA",
+      "size": [
+        1206,
+        1305
+      ],
+      "rgba_sha256": "8f53d5b93a3b5dc5ba73e0ea9e23aa09286a135a46f868f051a0c3b0bc7d5184",
+      "original_bytes": 368290,
+      "encoded_bytes": 204774
+    },
+    {
+      "original_path": "assets/graphics/cane-up-straight-tilt.png",
+      "encoded_path": "lossless-images/assets/graphics/cane-up-straight-tilt.png.webp",
+      "original_sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62",
+      "encoded_sha256": "6a08f51eb61e1a8cabd94dc7da18d542eb3adcf7c1ad233151bc5aab892f3947",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1306
+      ],
+      "rgba_sha256": "90bbaf625e0d80691a584aab9f4a686e310da34c82a0f8cc2371241c572c4f94",
+      "original_bytes": 362040,
+      "encoded_bytes": 205130
+    },
+    {
+      "original_path": "assets/graphics/cane-up.png",
+      "encoded_path": "lossless-images/assets/graphics/cane-up.png.webp",
+      "original_sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7",
+      "encoded_sha256": "b40f14ffb6d693f7faf17d047d7dc8336c5c899e7553b2e241ffa76f5ce6c366",
+      "mode": "RGBA",
+      "size": [
+        1205,
+        1305
+      ],
+      "rgba_sha256": "c4af7b97c29f61903d057e0dd4dbc355364c2772eb207b19fc11bfaa61a1ed48",
+      "original_bytes": 392757,
+      "encoded_bytes": 224964
+    },
+    {
+      "original_path": "assets/graphics/collagen.png",
+      "encoded_path": "lossless-images/assets/graphics/collagen.png.webp",
+      "original_sha256": "fecc57100cafbc258dd4f8be8d6461fdd747a28823fd9a6b6dacd3ff95f2b7ea",
+      "encoded_sha256": "3b29217285f9484593d622a27ffbf150cee70c4cb46729f0a111fe88e1731982",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "cfca0dd6f5b159fff5b6ddd0843d6456b5ed391e14518f35254e9b0af6c500b7",
+      "original_bytes": 1121738,
+      "encoded_bytes": 732588
+    },
+    {
+      "original_path": "assets/graphics/cortisol.png",
+      "encoded_path": "lossless-images/assets/graphics/cortisol.png.webp",
+      "original_sha256": "43212b900f60cc856228550aa909286523476618913c7b0122c21c39128fd48e",
+      "encoded_sha256": "5bc240ab5aa4ced6ef1f1b56d22754fcf9390c275fd816ab0b2cc47c0ed4489d",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5dc1589817012c39a3d8b3b41121604ddb9ac84fa9b83eb2197fba589911809a",
+      "original_bytes": 1197948,
+      "encoded_bytes": 782464
+    },
+    {
+      "original_path": "assets/graphics/craving-reach.png",
+      "encoded_path": "lossless-images/assets/graphics/craving-reach.png.webp",
+      "original_sha256": "63eb267bde830174c65ecddbe460dd6391cba50c0a4a72934f27fde281362234",
+      "encoded_sha256": "7f60ca5d42bc566f9354ef59c6255628a4550c6a2dc486657cdaaf2749860ede",
+      "mode": "RGBA",
+      "size": [
+        1199,
+        1312
+      ],
+      "rgba_sha256": "f3ed3fc97b6da1f5a9ed1b1b3b475155707990b0f22f12dd4da25314683c575d",
+      "original_bytes": 573926,
+      "encoded_bytes": 329352
+    },
+    {
+      "original_path": "assets/graphics/crossed-sugar.png",
+      "encoded_path": "lossless-images/assets/graphics/crossed-sugar.png.webp",
+      "original_sha256": "70499c375d839b1c6e0016d2d5c8c1918c0826c2d0bb04c2502e7007a2af9bfb",
+      "encoded_sha256": "fe9c22bc81e1397aaaa2745885487eed1e94f8f7db196a9089cacc150b319a86",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "b988d940aefa7fda2cc842fd5138b2ec32941459b80319577ef8ee34a7f800cc",
+      "original_bytes": 667356,
+      "encoded_bytes": 365158
+    },
+    {
+      "original_path": "assets/graphics/cytokine-receptor.png",
+      "encoded_path": "lossless-images/assets/graphics/cytokine-receptor.png.webp",
+      "original_sha256": "06f1f49ea3a814a486f5fc99ba15e5d86ebcadf188e233d6be222574c4382915",
+      "encoded_sha256": "d4505f250afcda955ef0e8c1636a412bcab1c19fe06b0e3f3db2e98b27f38d43",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "332078bd141403f539e955139b5229e5b6c737f268911e2c5cb34625b1dd5205",
+      "original_bytes": 1206228,
+      "encoded_bytes": 837664
+    },
+    {
+      "original_path": "assets/graphics/cytokine.png",
+      "encoded_path": "lossless-images/assets/graphics/cytokine.png.webp",
+      "original_sha256": "fc5150e82c136e145fb5a5f8a9f2d581bc3b98a27b7808f13d0fe871c3f3d2c0",
+      "encoded_sha256": "ed130551c8806370483bbee8a52684dbebec7f483e8fa27fcfea28108b4fcb16",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "2ce046e93550f57b47f60a1ea97956f9304ffa8855dbfc2c8474a5c063b9d863",
+      "original_bytes": 838256,
+      "encoded_bytes": 600322
+    },
+    {
+      "original_path": "assets/graphics/diet-plate-v2.png",
+      "encoded_path": "lossless-images/assets/graphics/diet-plate-v2.png.webp",
+      "original_sha256": "8e5aa720a079a32ae20da04c2a4dde68a74ccc95b826ccae6327b01c8b926e8b",
+      "encoded_sha256": "a6ca00d491e385e36aff48f6d6fef9f373902efa60ad110184acef5e064f0cee",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "04508989609923b5742cd5288dbc8e99b91a307058d6e6133f699553be133bee",
+      "original_bytes": 1453323,
+      "encoded_bytes": 924786
+    },
+    {
+      "original_path": "assets/graphics/embalmed-corpse.png",
+      "encoded_path": "lossless-images/assets/graphics/embalmed-corpse.png.webp",
+      "original_sha256": "415a1cf1d64ca2aa8588213c2517db90610a4f56c483aa9c400442ff7fb332a6",
+      "encoded_sha256": "716a08fd90ec560b08f7f84c1b906d48bc42dd50d6bb9f4bce042392206608ef",
+      "mode": "RGBA",
+      "size": [
+        1199,
+        1312
+      ],
+      "rgba_sha256": "ec7750590629d0a15a7d152fbd96a0e31fc4bad44b377abbdaf8dafcf56f730c",
+      "original_bytes": 684841,
+      "encoded_bytes": 383784
+    },
+    {
+      "original_path": "assets/graphics/energetic-person.png",
+      "encoded_path": "lossless-images/assets/graphics/energetic-person.png.webp",
+      "original_sha256": "dc208fda61004eece0ee39a9cd84a94f807830b09a8c6cc40563cc49a3979c78",
+      "encoded_sha256": "1daf0ba992b05312100ec94f3c5428795a37c199e5065f7fe8da1f4e88f11d31",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "1c60d1548310d447ec19584d8bd01fdefd99f2a3306d2911ef648aa9895c745e",
+      "original_bytes": 1096729,
+      "encoded_bytes": 714098
+    },
+    {
+      "original_path": "assets/graphics/existential-person.png",
+      "encoded_path": "lossless-images/assets/graphics/existential-person.png.webp",
+      "original_sha256": "6eb47ee94c32e165631e21109f0070b8d1c8585e3b4058d63d09045452806f3e",
+      "encoded_sha256": "c4d06b6904bd0988b63430071ee1ff019da60f6593a46e9c7609814c9e7335d6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "a70b7405e1f40676e4c15055f5f6102c97ff488b5637c31545c93303dc99d598",
+      "original_bytes": 630870,
+      "encoded_bytes": 364212
+    },
+    {
+      "original_path": "assets/graphics/fat-burn.png",
+      "encoded_path": "lossless-images/assets/graphics/fat-burn.png.webp",
+      "original_sha256": "8ae53c3c548a8ff2c364fdb7247403de5f1e5d0d43b30034939eeb5df8310101",
+      "encoded_sha256": "aef496e35d5d55116f739b7ea31af12533306517b928b4595ffa07028370da3b",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "02898aa849d054dd38883ac60a9396e4dc0461a69e7f6edfc3bcbd460917be4c",
+      "original_bytes": 636039,
+      "encoded_bytes": 362838
+    },
+    {
+      "original_path": "assets/graphics/fat-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/fat-cell.png.webp",
+      "original_sha256": "01fb2896f1536ac32283139899307c3182f2ccf9dc0cfd391a3ea4994f10f558",
+      "encoded_sha256": "8b525d13b7935c23d58f6711d089f8d1559f71cd58bf264bf072b1814ee662f7",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "187750bbef20457f7fccb68b5be1aed4d109c89919510ce9c4aaf8255904b15b",
+      "original_bytes": 969199,
+      "encoded_bytes": 573038
+    },
+    {
+      "original_path": "assets/graphics/fat-cluster-v3.png",
+      "encoded_path": "lossless-images/assets/graphics/fat-cluster-v3.png.webp",
+      "original_sha256": "6d158664e865b6f25b69f8f52d630f772cb65d5a3d2c0f0316f53df555ad8d33",
+      "encoded_sha256": "cf01c92f0f2cff5a1a6c24f04bb05aa25ea0d859e878a83ece105ab75138b008",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "abb812c3621830399b17990f5272bf75db353fde32fdfe4e124bb5a6d12e087d",
+      "original_bytes": 1015224,
+      "encoded_bytes": 605458
+    },
+    {
+      "original_path": "assets/graphics/fat-tank.png",
+      "encoded_path": "lossless-images/assets/graphics/fat-tank.png.webp",
+      "original_sha256": "7972400b3f9dc80b132844e9cfde3ee0ffac71c557ab5101ecb1a3a0c722943b",
+      "encoded_sha256": "449c43912c7ed6dbe1d8e3c92982d0deca41b8913ff1a020d1cc73b26c35353d",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "4b2d8447366760ff8a0fc4b780d89f6cd44b9ff604cd541176fbc783fd9e6639",
+      "original_bytes": 623405,
+      "encoded_bytes": 364470
+    },
+    {
+      "original_path": "assets/graphics/focus-person.png",
+      "encoded_path": "lossless-images/assets/graphics/focus-person.png.webp",
+      "original_sha256": "d5c70b8e651dbcfdc08780a25ae6dd69dda57c3a88d794a4e6d6d3f5fb360a96",
+      "encoded_sha256": "9aba78429d830df9f59e7f0d7a8b6e02081374a541cc0e816bce793b3e23827d",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "c97a1fd5da9c50c439ba599a5f2dd6f2a891c148f58717e7c3fb8f5c9cf4359a",
+      "original_bytes": 619734,
+      "encoded_bytes": 365108
+    },
+    {
+      "original_path": "assets/graphics/glucose.png",
+      "encoded_path": "lossless-images/assets/graphics/glucose.png.webp",
+      "original_sha256": "fd4222d74e73b2b1ed67f1f3666c7b8078329659e6f4e6b71bc53ae88ab537b4",
+      "encoded_sha256": "4341e426ea75981d16b22786d8012f421eef3a5dfa9d79cac7f54d6a1520e2f5",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "cecfae047ceaa1e9185d90dd207966b0693a36bfaf353f1ecedb28a88215febf",
+      "original_bytes": 488962,
+      "encoded_bytes": 298286
+    },
+    {
+      "original_path": "assets/graphics/glycation-bridge.png",
+      "encoded_path": "lossless-images/assets/graphics/glycation-bridge.png.webp",
+      "original_sha256": "58c32d9967c20aa44e0a45f7f3acf455e4f64c5d3f602f6496c1cd7597c0bcda",
+      "encoded_sha256": "5c7e04cec3df1e02397b58bcb8d09366fe3a98b0cf2a924b30161e84214f62cd",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "ece50633fce44bf336266565085fc8eac959ed588ca69e6dc8eef65aa8b3876b",
+      "original_bytes": 661959,
+      "encoded_bytes": 408820
+    },
+    {
+      "original_path": "assets/graphics/gut-bacteria.png",
+      "encoded_path": "lossless-images/assets/graphics/gut-bacteria.png.webp",
+      "original_sha256": "cfb4751e72ecc09efbc612094643359f970528895ff58a478a2c6264251952c7",
+      "encoded_sha256": "cb178192649c9c24274a8f462de07b486619e2abb7fdcb7a79dff674f18312ea",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "5bbdcae3ef07fccf7d88c7f223d43c3b900205e336983a0c58698ae06f9063cb",
+      "original_bytes": 791503,
+      "encoded_bytes": 473422
+    },
+    {
+      "original_path": "assets/graphics/healthy-face.png",
+      "encoded_path": "lossless-images/assets/graphics/healthy-face.png.webp",
+      "original_sha256": "80b8e93757a0ed8066f962e07e7da5ecdbc57eac015f4179ca979402a76d39aa",
+      "encoded_sha256": "71f70abe9826b2182b1f70ddc5872cb423050c96dd543e88fc56ca170813ec92",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "288069d89fbc2f67632635c74a62f24e71a4b97ea6292a99a921bc240313f1bb",
+      "original_bytes": 623552,
+      "encoded_bytes": 339096
+    },
+    {
+      "original_path": "assets/graphics/immune-cell.png",
+      "encoded_path": "lossless-images/assets/graphics/immune-cell.png.webp",
+      "original_sha256": "d50a22f1de1d409748fb3a2cab82ebb4cc95a2f7def69aeff7127358e00d7ba8",
+      "encoded_sha256": "cd240de95cb91490f75131684c984797d0a7b83e7d8e8971f2f33e4a6101a3cd",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "06ceb20993000b037e350c3ce383ef566616b67e93d2829d0d1c99737defc314",
+      "original_bytes": 889582,
+      "encoded_bytes": 548080
+    },
+    {
+      "original_path": "assets/graphics/inflamed-brain.png",
+      "encoded_path": "lossless-images/assets/graphics/inflamed-brain.png.webp",
+      "original_sha256": "5dc6cd998ca00fcdc428d7de79735218eb2a47315f2d61d009706c470f2e2eaa",
+      "encoded_sha256": "f5e5cb9efe839fb0022f4845ed4820ef37a1464adc5b3320a7e7af892d98987a",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "baf3af5f20da04e66efce02320b5f6e9e7affa876ccb3bb98356ef835ac20527",
+      "original_bytes": 1312451,
+      "encoded_bytes": 882664
+    },
+    {
+      "original_path": "assets/graphics/insulin.png",
+      "encoded_path": "lossless-images/assets/graphics/insulin.png.webp",
+      "original_sha256": "797e4276531058132e40489e2fbd9aa5fecd3bbde75a6c66d6cd4a6c1822430d",
+      "encoded_sha256": "4e4d1ec0d7437369f040cc5279c7f61d34770033e9d5bba85de43fed70ec903e",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "681994a4608cb3849e70db4611fd270db39a4dbf25cc836f1b78a1dee75075e0",
+      "original_bytes": 755496,
+      "encoded_bytes": 473194
+    },
+    {
+      "original_path": "assets/graphics/intestines.png",
+      "encoded_path": "lossless-images/assets/graphics/intestines.png.webp",
+      "original_sha256": "f7f9446ce57288c906bb7260c0596ee75e19e9c02b716e39adf6443db1e4a460",
+      "encoded_sha256": "5b5d0de70dfc9bb487797946eb048da1b9046d620bbcf58e8349b07308ac3f70",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "0c5b068290f6f755bcd27970c3f3f831455df8562602cd7475d90dbd3e96b5dc",
+      "original_bytes": 733990,
+      "encoded_bytes": 454856
+    },
+    {
+      "original_path": "assets/graphics/joint-section.png",
+      "encoded_path": "lossless-images/assets/graphics/joint-section.png.webp",
+      "original_sha256": "a8344aadd289b6756d352a7441b645dfb3b8c73b0c4868f2f68250d135320e63",
+      "encoded_sha256": "354aa14246ac5beaf99d436da795047b59ef75525cfef4fa58d052a74bea61f6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "ef949f86877872e6274f3e2cd8f20650edac37c4c59edd776172e4ba87ff7413",
+      "original_bytes": 565665,
+      "encoded_bytes": 327974
+    },
+    {
+      "original_path": "assets/graphics/junk-meal.png",
+      "encoded_path": "lossless-images/assets/graphics/junk-meal.png.webp",
+      "original_sha256": "4ca6b005c092d223db78155759435899c82eddd98e09d1421faf2247a87ba605",
+      "encoded_sha256": "292c646a053d0ff7df4f1892e0e459293d1b059b0c95604a282397f576d5a086",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "9b1ae8f931779afac18fcbe521c62f31bde00a08b3bf68f60ed1bd411f5c0675",
+      "original_bytes": 863127,
+      "encoded_bytes": 493900
+    },
+    {
+      "original_path": "assets/graphics/just-ate.png",
+      "encoded_path": "lossless-images/assets/graphics/just-ate.png.webp",
+      "original_sha256": "41bef0cefca1378f475ac40032ae8e124ac67adafa5e062b28e1b4a3ea21a8cf",
+      "encoded_sha256": "07025fdfe036740309745546554c9c5d46effdd80eac3da46dfd127c493bbb3f",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "fa70e39241c1bbb2643246eb8dce5c62b660c93bdad846c8ebd861652f8aba17",
+      "original_bytes": 612105,
+      "encoded_bytes": 368142
+    },
+    {
+      "original_path": "assets/graphics/knee-person.png",
+      "encoded_path": "lossless-images/assets/graphics/knee-person.png.webp",
+      "original_sha256": "1ce4961e72b4e0e2a6c39a839635e17de8fba976d5b52d4641b16915a2c902ca",
+      "encoded_sha256": "db16de0be9b40d7cb972be2c868824fa2567cb6a3a5a0516cdb4162895a0af59",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "0f30495449c6b7c931a99485f532f351685cc48b06bd124c95007bb94c293181",
+      "original_bytes": 1057064,
+      "encoded_bytes": 682920
+    },
+    {
+      "original_path": "assets/graphics/logic-thinker.png",
+      "encoded_path": "lossless-images/assets/graphics/logic-thinker.png.webp",
+      "original_sha256": "6cc9c1f9dc6ecab037b5723a110d58720a0481391786eaa73ff4deb77f051bda",
+      "encoded_sha256": "309263e39b5b454aa79bef8a6754c4658044775d80b73c900f86687742e0c050",
+      "mode": "RGBA",
+      "size": [
+        1145,
+        1374
+      ],
+      "rgba_sha256": "4e4494de34efea1b73c829923fd820cab8cccff78adec0217e37d5b569ec8c13",
+      "original_bytes": 544895,
+      "encoded_bytes": 314100
+    },
+    {
+      "original_path": "assets/graphics/meal-plate-approved.png",
+      "encoded_path": "lossless-images/assets/graphics/meal-plate-approved.png.webp",
+      "original_sha256": "07b999b0bbe43b27bf2d1c8299af8ef85ecd6b7fd2460cc14b92b136723a8ac8",
+      "encoded_sha256": "8347745d720ed1803d6b36353a7f5de0482fcce35df0a0b4f26b152967f65ff6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "f88c04e65ef80960033b72c7f475c8a0f582d4715f35dd5ded30327b88bda8ef",
+      "original_bytes": 609550,
+      "encoded_bytes": 355240
+    },
+    {
+      "original_path": "assets/graphics/mitochondrion.png",
+      "encoded_path": "lossless-images/assets/graphics/mitochondrion.png.webp",
+      "original_sha256": "421aa2a90ca10cd2026b269ce4271129690adc8828c8a7d6d63a601e9fcff816",
+      "encoded_sha256": "2e4b5fa4d08adb0eaa6fe95f3d444a38d4d9815172235d1e569e7b92d4e435d0",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5185025622d4b5a7fbc69c2647d8816f49a34a679feb5a750309628a9ab8fef4",
+      "original_bytes": 1266061,
+      "encoded_bytes": 837514
+    },
+    {
+      "original_path": "assets/graphics/nervous-system.png",
+      "encoded_path": "lossless-images/assets/graphics/nervous-system.png.webp",
+      "original_sha256": "f1633cae4a6ffb9a3e2ad221943db6ff174653842e8d5809e5d52fc17db16f29",
+      "encoded_sha256": "1fdb2b64d4c8611c4c04818292d1baaec2b93a5e9ee7fb44ec6de4ecddd1c92e",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "daec1ecd474f6693c496bdfccb14aa1bcfd5362f556b167d3fcdb4b17bc8cc2f",
+      "original_bytes": 1507431,
+      "encoded_bytes": 1001010
+    },
+    {
+      "original_path": "assets/graphics/neural-tissue.png",
+      "encoded_path": "lossless-images/assets/graphics/neural-tissue.png.webp",
+      "original_sha256": "ca0f626f50870b116f5329bd58c2337e9187136e4d4fe61627e6944bb61b7204",
+      "encoded_sha256": "3dfffbafbe4390581ccaf15146f853d4c6bf3482bcfedb855e0c0fce28151dd2",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "13f93001ba62146325465d6aa8ec67df2b45d9066b48ed587d9879f71ba859d1",
+      "original_bytes": 1600693,
+      "encoded_bytes": 1093582
+    },
+    {
+      "original_path": "assets/graphics/padlock.png",
+      "encoded_path": "lossless-images/assets/graphics/padlock.png.webp",
+      "original_sha256": "2d5d41615ca5bb3bec8c4a0efe71ac0843c146101c5a006e24e17ed4bcb739d4",
+      "encoded_sha256": "b5e385b4176fb115a96768876e2815862a60a49d8b2d40bee242de3751d7a236",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "001ae160e76cd13fdd53113fe95fd89aae889565c608effda5de10418813fbc3",
+      "original_bytes": 603790,
+      "encoded_bytes": 306696
+    },
+    {
+      "original_path": "assets/graphics/panic-avatar.png",
+      "encoded_path": "lossless-images/assets/graphics/panic-avatar.png.webp",
+      "original_sha256": "bb3e7e9ab74c30ac51a4976e9390e6eedd586fca6869e675e1b43b06ff510f29",
+      "encoded_sha256": "20dad0071950bf14ecb313e42f99739b3b2e66c2d420ebc7ea5f85cb36deab57",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "02705176ca84e92a10b27d9d8f07190be933286ccc20763dbf16e94c16063c69",
+      "original_bytes": 1061169,
+      "encoded_bytes": 692614
+    },
+    {
+      "original_path": "assets/graphics/relieved-person.png",
+      "encoded_path": "lossless-images/assets/graphics/relieved-person.png.webp",
+      "original_sha256": "8acb7c33ab1b18bc3f0d4e154473f7df79c8d298c09cbd0653129cef32e3e4a6",
+      "encoded_sha256": "9a9d4f059f656a40ce5d3fe354251483bb7fbae96239e888cda6e5657e01a948",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "513c76c9f85ff4cbeeb18b6477b8b51ca13e4d9cd447ff4a45d6740b14e578fd",
+      "original_bytes": 1044537,
+      "encoded_bytes": 679076
+    },
+    {
+      "original_path": "assets/graphics/sarcastic-presenter.png",
+      "encoded_path": "lossless-images/assets/graphics/sarcastic-presenter.png.webp",
+      "original_sha256": "ba1a144d94d75a3989463d39d08e3bc6013acd3f03870586cf8a2ff785d05bc9",
+      "encoded_sha256": "6d2dc51f05a570dfddc5531c01f27189a60d53dcde429c4c5961340bc4290435",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "058c50147f5dd42f2d34153d3a12ad38f10a7e78f2e682bc149fba56f6e1ac83",
+      "original_bytes": 1043986,
+      "encoded_bytes": 686538
+    },
+    {
+      "original_path": "assets/graphics/satisfied-person.png",
+      "encoded_path": "lossless-images/assets/graphics/satisfied-person.png.webp",
+      "original_sha256": "cc71ef7d5ee5400398b30a55097285c9e00f26a7959082c7f4a8bed84dc12ea2",
+      "encoded_sha256": "232cef0954f451759c59568631c025132545d1aec98ad04c05419d5bd84daf2c",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "3a1b53a50610bb5df725dd5f6d615fb1195864e01b5785ce94c2db513972d2be",
+      "original_bytes": 1044224,
+      "encoded_bytes": 678168
+    },
+    {
+      "original_path": "assets/graphics/skin-glow.png",
+      "encoded_path": "lossless-images/assets/graphics/skin-glow.png.webp",
+      "original_sha256": "dabc90678909ae9ec6c242f03191c4f6135e2184a8c5a97bd26cd62b092619e3",
+      "encoded_sha256": "5d0562a170af4d69fa03467273cdd32e6ee67432d0d5997f0b5764ef255f7a9c",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "35d7de2f99aa52e9e6e90e1ed08432cddc8bf0ccb2920a0e1ccdbeb3f5b8ff91",
+      "original_bytes": 654199,
+      "encoded_bytes": 361940
+    },
+    {
+      "original_path": "assets/graphics/skin-section.png",
+      "encoded_path": "lossless-images/assets/graphics/skin-section.png.webp",
+      "original_sha256": "693a53924f7e7a88248e1814a463a651d04e57ccfeedc455e3fe9b67e22feb3f",
+      "encoded_sha256": "c899c87d209d70bd240ac751808f9c56d5ed92cc0ae51cc6e689d73473501953",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "6547dbfb305e37498bc57524cc09fc3938f72c72a26f1480fdeb7d870e22c112",
+      "original_bytes": 1404768,
+      "encoded_bytes": 958228
+    },
+    {
+      "original_path": "assets/graphics/sloth.png",
+      "encoded_path": "lossless-images/assets/graphics/sloth.png.webp",
+      "original_sha256": "838c5a994c7542d3c1862f4cd706c40a5068ea3c9ccb2b9dd521cbc4e5655cb1",
+      "encoded_sha256": "bc544e5a6492335bb80b2b1e8f865face816d37964beb58bb06ef779d7bfe927",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "536ad718509abfdbec8754e2f0f3187a3f748c22a8274feaf4e2fea0ce1d44df",
+      "original_bytes": 492381,
+      "encoded_bytes": 276308
+    },
+    {
+      "original_path": "assets/graphics/smug-finale.png",
+      "encoded_path": "lossless-images/assets/graphics/smug-finale.png.webp",
+      "original_sha256": "31f90bfd8fd5299bd4b74595859afd0045af3d5a940205a73cca7b06890155cb",
+      "encoded_sha256": "541e73403ab0acb8c6ff937f426c9ab5499a8c0f55ec28da5ffa0573d53ec2dc",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "1639f111ea36191f929b780fc946d324d19ca6d5fff689b9482816248af58e53",
+      "original_bytes": 1062585,
+      "encoded_bytes": 687046
+    },
+    {
+      "original_path": "assets/graphics/standing-person.png",
+      "encoded_path": "lossless-images/assets/graphics/standing-person.png.webp",
+      "original_sha256": "606441f379be540e084798c87375c96e3e49ede2712cdfe735e28fe820f1fee4",
+      "encoded_sha256": "0d859a8a692d3c7a0065fa1230bae1f00a631d60991b49e6d4124a468df0cfef",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "742b387f28114258ca42391db59a7998bf2f11dfee97f3a4a836e7e5eef9bcd9",
+      "original_bytes": 1013210,
+      "encoded_bytes": 660088
+    },
+    {
+      "original_path": "assets/graphics/starving-person.png",
+      "encoded_path": "lossless-images/assets/graphics/starving-person.png.webp",
+      "original_sha256": "98315f707bb45b44880c4faff64351f87cb0d781f17ed5d2e6d255084d53c5d1",
+      "encoded_sha256": "ebd9a3426854074cc0076be0f15c624f6e3f0be9a9bcbd19fb8914e327bc53bb",
+      "mode": "RGBA",
+      "size": [
+        1145,
+        1374
+      ],
+      "rgba_sha256": "7cfb0184c82409cf42cbfd7cbefb9e92fcf92fdcc21b6108a50b18f474b1644e",
+      "original_bytes": 603423,
+      "encoded_bytes": 366026
+    },
+    {
+      "original_path": "assets/graphics/stiff-collagen.png",
+      "encoded_path": "lossless-images/assets/graphics/stiff-collagen.png.webp",
+      "original_sha256": "2e8db7486485c13c0c410289ba17470491113b9635446cbf45d9ecc80e6e87a9",
+      "encoded_sha256": "36c147b2438a5f1b6aa3c174d978bd7c19a5382cf51f8aaeb6678c9f357215c7",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "b0749620be76769569a9875d85da6e733fa2cadd7f1e275c675939581957e872",
+      "original_bytes": 921849,
+      "encoded_bytes": 606796
+    },
+    {
+      "original_path": "assets/graphics/stopwatch.png",
+      "encoded_path": "lossless-images/assets/graphics/stopwatch.png.webp",
+      "original_sha256": "b16b3fc805e750b321b6eeb91cba184f91b1ed3a7faeb412a0d338fc71027297",
+      "encoded_sha256": "232bdfe7bd31f9b6e4d50e1865a02a9c2f2f98d3ca68b96b3f980d25ede7a3b9",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "bf5cec65064ae79de989465596d0dcef5b06335db5fea6724118915fc64cb8ce",
+      "original_bytes": 763285,
+      "encoded_bytes": 432686
+    },
+    {
+      "original_path": "assets/graphics/storage-2021.png",
+      "encoded_path": "lossless-images/assets/graphics/storage-2021.png.webp",
+      "original_sha256": "fe1b590522be64761109bfd60f8735765ed15dfd674fbe429149ad13042308cf",
+      "encoded_sha256": "b1249363b7c3ec3ab831450bddf13bf0ee95f84386d1b6fdab577948853e644c",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "3dddd6b249a271b15c370c6a57f80f37cf41d6eee134c6eea0caca0345bed6e9",
+      "original_bytes": 808656,
+      "encoded_bytes": 491958
+    },
+    {
+      "original_path": "assets/graphics/stress-body.png",
+      "encoded_path": "lossless-images/assets/graphics/stress-body.png.webp",
+      "original_sha256": "b7e037662d5b0b2d54cf80c906ca91132fcb2751c901f8a90f3fb9cefcafbea2",
+      "encoded_sha256": "3823a9fe401d3333f293ecbf845f665d753d65c7d6ae1eb2f22c23b497a035c9",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "9cfca533d0f36ea9a64d6314054f9812d16b6d0135455702939ef68a71db2c70",
+      "original_bytes": 1135869,
+      "encoded_bytes": 750304
+    },
+    {
+      "original_path": "assets/graphics/stressed-head.png",
+      "encoded_path": "lossless-images/assets/graphics/stressed-head.png.webp",
+      "original_sha256": "d8282d6518f747919995973f376facc55c61d6f8ed58a8b8e08efb3e55baaac4",
+      "encoded_sha256": "6e0a4d9daee8abc76b7f2133a8c1260c16fd9f63d4a8e7387475f93ffe0255ea",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "763e82aa5a78ff4b1db9d880675a87c6608206fd433f8464955c4383472e121d",
+      "original_bytes": 830701,
+      "encoded_bytes": 453758
+    },
+    {
+      "original_path": "assets/graphics/sugar-bowl.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-bowl.png.webp",
+      "original_sha256": "01450e47a749eb1d3c2449c6ff20f805fa1bd51672de20552bbe6794f13cf749",
+      "encoded_sha256": "8976bdf2aab387c3fd94377da288a9544c31c1323fd1ece940da86df16e49e23",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "e48cca4976603e527ad555cdb6f8f27968a686569743347865cbd634978c60a3",
+      "original_bytes": 748117,
+      "encoded_bytes": 436910
+    },
+    {
+      "original_path": "assets/graphics/sugar-ghoul.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-ghoul.png.webp",
+      "original_sha256": "3a78152cb5a77eaf1ee142dc84427b39864125e0e09f15c471b72b53d1c763dd",
+      "encoded_sha256": "fbb776bbe207d7f8601389a3d440da50576a0d73eaf7d254a235193bd093e865",
+      "mode": "RGBA",
+      "size": [
+        1145,
+        1374
+      ],
+      "rgba_sha256": "42c377678246cbd12bf7a31537f65615bd12f8d50ff69cd5c88185c02defc79e",
+      "original_bytes": 751996,
+      "encoded_bytes": 433472
+    },
+    {
+      "original_path": "assets/graphics/sugar-high.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-high.png.webp",
+      "original_sha256": "faf72fba1777c3313846b87caefcc98b2f5210af8b296553f2baf15db3b0f40f",
+      "encoded_sha256": "b0b73ee5d5a6adae26dcee73d67ea436b01951b39c383db4d64f955360ff267e",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "2ea4e7e678766d1fd81cb03a52c5d0db14fb32b37e46ecff6067aa3fb9488f5e",
+      "original_bytes": 1102128,
+      "encoded_bytes": 721044
+    },
+    {
+      "original_path": "assets/graphics/sugar-refusal-v2.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-refusal-v2.png.webp",
+      "original_sha256": "1db0a0c5b3d45768bce62814f9fbe08e1fc6c0f7dceaafbf149c38244a83c245",
+      "encoded_sha256": "9cd3d331e24febf6da4dc5e93a3923eae999e16311d0764f59095e49c120b6aa",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "a83df18f105f211bf836c32fa35693a47788342bb1aaea31552ce65a3ea654be",
+      "original_bytes": 547637,
+      "encoded_bytes": 324560
+    },
+    {
+      "original_path": "assets/graphics/sugar-spoon.png",
+      "encoded_path": "lossless-images/assets/graphics/sugar-spoon.png.webp",
+      "original_sha256": "44910ca238bca81a606d4a241541fb33fd4512c3a870703695b38cba1637f1f0",
+      "encoded_sha256": "c8882b0a3b39faf623031e5afbdeb57b895f20a148439a72e6817881c347cd2f",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "rgba_sha256": "5659cd418b9464caff3544f7a52df75e3d54cab95676d685acc05b41bd902a6e",
+      "original_bytes": 924351,
+      "encoded_bytes": 608726
+    },
+    {
+      "original_path": "assets/graphics/timer-20.png",
+      "encoded_path": "lossless-images/assets/graphics/timer-20.png.webp",
+      "original_sha256": "50ead562e14eaf308c62813c7e8d556b6b3a5e96f22247c175c4f5bb36edd23d",
+      "encoded_sha256": "835182cc143799ef7bbf677bf5a1c47f0c1df3c5f3d62c2a2cb263ba84c8e88a",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "86de12abbdaafd7d3f311ba588e11130469654a6478b2660a4bdd515638d755f",
+      "original_bytes": 682770,
+      "encoded_bytes": 372358
+    },
+    {
+      "original_path": "assets/graphics/timer-40.png",
+      "encoded_path": "lossless-images/assets/graphics/timer-40.png.webp",
+      "original_sha256": "09a2e49fb4c866e586d6b12ea402bb9435817516029e98e3d47cf003684441f4",
+      "encoded_sha256": "3c972e6abf4615449254a8ac2787b8fe17ef279a4e5ae41171c84b1e5402cba9",
+      "mode": "RGBA",
+      "size": [
+        1312,
+        1199
+      ],
+      "rgba_sha256": "afb6df6d185c2888f59c72c1ff780f2b2c4a9692806de2e8882e4fcb7777c92b",
+      "original_bytes": 703923,
+      "encoded_bytes": 381002
+    },
+    {
+      "original_path": "assets/graphics/torture-drama.png",
+      "encoded_path": "lossless-images/assets/graphics/torture-drama.png.webp",
+      "original_sha256": "5be37ca8fc73e27c2999946b567e9276f5ad01e3d9443e7695bc31298f06c634",
+      "encoded_sha256": "004c03540b01ca82d7dd13e7e218e32560c290519c3629cddcbe5fd4d747f018",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "80fcc85f7fed2a88a9b07f1360ca1704643eb8b75953f9ddecd02ebe715cf75a",
+      "original_bytes": 548158,
+      "encoded_bytes": 311958
+    },
+    {
+      "original_path": "assets/graphics/waist-tape.png",
+      "encoded_path": "lossless-images/assets/graphics/waist-tape.png.webp",
+      "original_sha256": "48cf803954d8df8ca0d19c7ef81e2cda0414caf3e597dea747d8679bd8d0da0c",
+      "encoded_sha256": "b3dfbec6ab5c3974a40e726216f5047b1ec02bb5b1109da1cbb1e8a5354d6e06",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "1a1e192acde3ca5b1a2b2826afb3e5a4a0496febf34b7276a674bd1c78625023",
+      "original_bytes": 1085047,
+      "encoded_bytes": 705284
+    },
+    {
+      "original_path": "assets/graphics/weight-person.png",
+      "encoded_path": "lossless-images/assets/graphics/weight-person.png.webp",
+      "original_sha256": "0188e50507a8479cef7a99289a928fb836c5a7b0758d40e150030b39bad44db8",
+      "encoded_sha256": "14e3667a6b3490e586fa23eb52533fe148ae404310337103726f186f74c4442a",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "rgba_sha256": "f6f4bb086b2e8b7db0659a11e17aafdb126952946fe0793e0f003966366df6a2",
+      "original_bytes": 1064819,
+      "encoded_bytes": 693924
+    },
+    {
+      "original_path": "assets/graphics/weight-scale.png",
+      "encoded_path": "lossless-images/assets/graphics/weight-scale.png.webp",
+      "original_sha256": "078ae306e0e294d6488304c386ca2589823257646b58175fcef9b3bef0aaf026",
+      "encoded_sha256": "b9c8efc3494e224ed0ddc9aba0c21a40520b3126b363125631c81a48bc44a0b6",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "rgba_sha256": "2a25cd0adcf3cb4164c93bdd06b2e2faaa209d899506ab5130faa3f71e4423f7",
+      "original_bytes": 790039,
+      "encoded_bytes": 414806
+    },
+    {
+      "original_path": "references/red-zone-canvas.png",
+      "encoded_path": "lossless-images/references/red-zone-canvas.png.webp",
+      "original_sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b",
+      "encoded_sha256": "906d73c0de38ccef8f4a628743862cdc95283b691fbede37816126418be0be8a",
+      "mode": "RGBA",
+      "size": [
+        941,
+        1672
+      ],
+      "rgba_sha256": "ce744e9377a5cf6f3538a5434183bb0af04170215116aeefaa267cf5fb047ee4",
+      "original_bytes": 537660,
+      "encoded_bytes": 310278
+    }
+  ]
+}

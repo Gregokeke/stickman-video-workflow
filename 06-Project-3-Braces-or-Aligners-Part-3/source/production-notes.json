@@ -1,0 +1,19 @@
+{
+  "title": "Braces or Aligners \u2014 Part 3",
+  "source_duration": 44.930625,
+  "tightened_duration": 42.3353125,
+  "render_duration": 42.63333333333333,
+  "minimum_visuals": 14,
+  "distinct_used_visuals": 23,
+  "new_visuals": 21,
+  "reused_visuals": 2,
+  "caption_groups": 62,
+  "sound_cues": 44,
+  "voice": "Supplied K. V. Hagen; no new generation",
+  "voice_id": "t1yzxMpe9zK42bXmI1T2",
+  "filter_reference": "braces wialiska from source frame8s",
+  "audio_method": "Only genuine silence >.26s at-42dB,70ms retained on both edges. No word-gap cuts.",
+  "art": "Flat red/black ImageGen cutouts, alpha-bound silhouette fitting, large readable people, separate faint directional shadows.",
+  "guide": "references/red-zone-canvas.png; no exceptions; guide absent from clean export.",
+  "inspection_note": "CLI inspect:0 errors,0 warnings; one connector-orphan info at27.001s. Both endpoints are visible regions of the same generated tray/teeth PNG; no separate DOM endpoint elements exist. Visual review confirms correct anchored fitting arrow."
+}

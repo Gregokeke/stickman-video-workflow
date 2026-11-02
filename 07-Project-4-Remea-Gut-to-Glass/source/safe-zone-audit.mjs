@@ -1,0 +1,9 @@
+import puppeteer from 'puppeteer-core';
+import {writeFile} from 'node:fs/promises';
+import path from 'node:path';
+import {execFileSync} from 'node:child_process';
+const chrome=execFileSync('npx',['hyperframes','browser','path'],{encoding:'utf8',env:{...process.env,HYPERFRAMES_NO_TELEMETRY:'1',DO_NOT_TRACK:'1'}}).trim();
+const b=await puppeteer.launch({executablePath:chrome,headless:true,pipe:true,args:['--no-sandbox','--disable-dev-shm-usage']});
+try{const page=await b.newPage();await page.setViewport({width:1080,height:1920});await page.goto('file://'+path.resolve('index.html'),{waitUntil:'domcontentloaded'});await page.evaluate(async()=>{await Promise.all([...document.images].map(i=>i.decode().catch(()=>{})));return true;});
+const r=await page.evaluate(()=>{const frames=[];const d=+document.querySelector('#root').dataset.duration;for(let t=0;t<d;t+=.10){window.__timelines.main.seek(t);const items=[];for(const el of document.querySelectorAll('.asset')){const s=getComputedStyle(el);if(+s.opacity<.1)continue;const im=el.querySelector('img'),cs=getComputedStyle(im),m=new DOMMatrix(s.transform),o=s.transformOrigin.split(' ').map(parseFloat);items.push({id:el.id,opacity:+s.opacity,left:el.offsetLeft,top:el.offsetTop,origin:o,matrix:[m.a,m.b,m.c,m.d,m.e,m.f],iw:parseFloat(cs.width),ih:parseFloat(cs.height),photo:el.classList.contains('photo')});}const captions=[...document.querySelectorAll('.caption')].filter(e=>+getComputedStyle(e).opacity>.1).map(e=>{const r=e.querySelector('span').getBoundingClientRect();return [r.x,r.y,r.width,r.height];});frames.push({time:Math.round(t*100)/100,items,captions});}window.__timelines.main.seek(0);return{duration:d,frames};});await writeFile(process.argv[2]||'safe-zone-states.json',JSON.stringify(r));console.log('Sampled',r.frames.length,'frames');
+}finally{await b.close();}

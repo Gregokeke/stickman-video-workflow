@@ -1,0 +1,17 @@
+{
+  "input": {
+    "input_i": "-16.52",
+    "input_tp": "-0.02",
+    "input_lra": "3.60",
+    "input_thresh": "-26.68",
+    "output_i": "-16.48",
+    "output_tp": "-1.80",
+    "output_lra": "3.30",
+    "output_thresh": "-26.62",
+    "normalization_type": "dynamic",
+    "target_offset": "0.48"
+  },
+  "output": "{\n\t\"input_i\" : \"-16.52\",\n\t\"input_tp\" : \"-0.02\",\n\t\"input_lra\" : \"3.60\",\n\t\"input_thresh\" : \"-26.68\",\n\t\"output_i\" : \"-16.02\",\n\t\"output_tp\" : \"-1.80\",\n\t\"output_lra\" : \"3.20\",\n\t\"output_thresh\" : \"-26.16\",\n\t\"normalization_type\" : \"dynamic\",\n\t\"target_offset\" : \"0.02\"\n}\n",
+  "cues": 77,
+  "unique_sounds": 28
+}

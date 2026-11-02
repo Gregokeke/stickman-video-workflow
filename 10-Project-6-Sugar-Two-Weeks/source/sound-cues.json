@@ -1,0 +1,695 @@
+[
+  {
+    "time": 44.57,
+    "start": 44.51165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "twenty-minute time cue",
+    "duration": 0.305
+  },
+  {
+    "time": 0.12,
+    "start": 0.05515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "hook arrival",
+    "duration": 0.43
+  },
+  {
+    "time": 0.72,
+    "start": 0.66396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "independent sugar bowl entrance",
+    "duration": 0.54
+  },
+  {
+    "time": 1.78,
+    "start": 1.72165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "two-week calendar",
+    "duration": 0.305
+  },
+  {
+    "time": 3.86,
+    "start": 3.79942,
+    "source": "C12",
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "theatrical torture reaction",
+    "duration": 1.114
+  },
+  {
+    "time": 5.04,
+    "start": 4.97802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "sugar ghoul reveal",
+    "duration": 0.905
+  },
+  {
+    "time": 5.45,
+    "start": 5.39738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "candy jar settlement",
+    "duration": 0.342
+  },
+  {
+    "time": 7.84,
+    "start": 7.78396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -7,
+    "reason": "presenter arrival",
+    "duration": 0.54
+  },
+  {
+    "time": 9.26,
+    "start": 9.22033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "confident result tease",
+    "duration": 0.929
+  },
+  {
+    "time": 10.94,
+    "start": 10.90919,
+    "source": "A05b",
+    "path": "assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "craving reach",
+    "duration": 0.864
+  },
+  {
+    "time": 11.9,
+    "start": 11.83931,
+    "source": "C19",
+    "path": "assets/sfx/C19_Cartoon_Pitch_Rise_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "candy just out of reach",
+    "duration": 0.507
+  },
+  {
+    "time": 13.34,
+    "start": 13.29769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "satisfied state",
+    "duration": 0.499
+  },
+  {
+    "time": 14.9,
+    "start": 14.84165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "two-hour time cue",
+    "duration": 0.305
+  },
+  {
+    "time": 15.65,
+    "start": 15.59738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "held plate acting state",
+    "duration": 0.342
+  },
+  {
+    "time": 18.07,
+    "start": 18.00515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -7,
+    "reason": "sugar spoon arrival",
+    "duration": 0.43
+  },
+  {
+    "time": 19.21,
+    "start": 19.2001,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "insulin identity reveal",
+    "duration": 1.641
+  },
+  {
+    "time": 20.99,
+    "start": 20.93885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "glucose identity",
+    "duration": 0.285
+  },
+  {
+    "time": 21.51,
+    "start": 21.44802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "bloodstream reveal",
+    "duration": 0.905
+  },
+  {
+    "time": 22.59,
+    "start": 22.50635,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "chart frame entrance",
+    "duration": 1.163
+  },
+  {
+    "time": 24.53,
+    "start": 24.48502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "blood sugar crash punchline",
+    "duration": 1.337
+  },
+  {
+    "time": 25.99,
+    "start": 25.89504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -8,
+    "reason": "brain takes focus",
+    "duration": 1.5968541666666667
+  },
+  {
+    "time": 27.55,
+    "start": 27.48942,
+    "source": "C12",
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "starvation exaggeration",
+    "duration": 1.114
+  },
+  {
+    "time": 28.71,
+    "start": 28.66746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -9,
+    "reason": "just ate reversal",
+    "duration": 0.763
+  },
+  {
+    "time": 30.27,
+    "start": 30.22654,
+    "source": "C20",
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "cut sugar",
+    "duration": 0.598
+  },
+  {
+    "time": 31.81,
+    "start": 31.77033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "stable pattern resolves",
+    "duration": 0.929
+  },
+  {
+    "time": 33.03,
+    "start": 32.9801,
+    "source": "B09",
+    "path": "assets/sfx/B09_Deep_Passing_Whoosh_02.wav",
+    "target_peak_dbfs": -9,
+    "reason": "gut context",
+    "duration": 2.042
+  },
+  {
+    "time": 34.59,
+    "start": 34.53967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -8,
+    "reason": "bacteria detail emerges",
+    "duration": 0.206
+  },
+  {
+    "time": 36.99,
+    "start": 36.93396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "nervous system handoff",
+    "duration": 0.54
+  },
+  {
+    "time": 38.43,
+    "start": 38.38321,
+    "source": "C09",
+    "path": "assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "begging bacterium joke",
+    "duration": 1.276
+  },
+  {
+    "time": 39.21,
+    "start": 39.15738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "junk-food lure",
+    "duration": 0.342
+  },
+  {
+    "time": 40.48,
+    "start": 40.41802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -7,
+    "reason": "energy chapter entrance",
+    "duration": 0.905
+  },
+  {
+    "time": 43.19,
+    "start": 43.15033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "steady charge reveal",
+    "duration": 0.929
+  },
+  {
+    "time": 44.23,
+    "start": 44.16931,
+    "source": "C19",
+    "path": "assets/sfx/C19_Cartoon_Pitch_Rise_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "sugar high rise",
+    "duration": 0.507
+  },
+  {
+    "time": 46.55,
+    "start": 46.50502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "sloth reversal",
+    "duration": 1.337
+  },
+  {
+    "time": 48.12,
+    "start": 48.07769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "mechanism resets",
+    "duration": 0.499
+  },
+  {
+    "time": 50.1,
+    "start": 50.04396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "fat cell emerges",
+    "duration": 0.54
+  },
+  {
+    "time": 50.74,
+    "start": 50.69821,
+    "source": "C01",
+    "path": "assets/sfx/C01_Gear_Ratchet_Crank_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "unlock mechanism metaphor",
+    "duration": 2.429
+  },
+  {
+    "time": 51.64,
+    "start": 51.60919,
+    "source": "A05b",
+    "path": "assets/sfx/A05b_Short_Swipe_Tail_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "reserve tank reveal",
+    "duration": 0.864
+  },
+  {
+    "time": 53.85,
+    "start": 53.76635,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "mitochondrion handoff",
+    "duration": 1.163
+  },
+  {
+    "time": 54.45,
+    "start": 54.40565,
+    "source": "C02",
+    "path": "assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+    "target_peak_dbfs": -16,
+    "reason": "steady energy takeaway",
+    "duration": 2.499
+  },
+  {
+    "time": 56.48,
+    "start": 56.41802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -7,
+    "reason": "weight chapter entrance",
+    "duration": 0.905
+  },
+  {
+    "time": 58.02,
+    "start": 57.96738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "scale settles",
+    "duration": 0.342
+  },
+  {
+    "time": 59.9,
+    "start": 59.85746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "fat reserve reduction",
+    "duration": 0.763
+  },
+  {
+    "time": 61.46,
+    "start": 61.37504,
+    "source": "C21",
+    "path": "assets/sfx/C21_Heavy_Whack_Impact_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "old reserve trunk lands",
+    "duration": 1.627
+  },
+  {
+    "time": 63.6,
+    "start": 63.53696,
+    "source": "B03",
+    "path": "assets/sfx/B03_Low_Tapered_Sweep_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "dread tonal space",
+    "duration": 3.185
+  },
+  {
+    "time": 64.8,
+    "start": 64.75535,
+    "source": "C15",
+    "path": "assets/sfx/C15_Digital_Glitch_Buzz_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "anxiety stutter",
+    "duration": 0.769
+  },
+  {
+    "time": 66.22,
+    "start": 66.17769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "relief movement",
+    "duration": 0.499
+  },
+  {
+    "time": 67.8,
+    "start": 67.76033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "upward mood resolve",
+    "duration": 0.929
+  },
+  {
+    "time": 68.54,
+    "start": 68.45635,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "crash explanation",
+    "duration": 1.163
+  },
+  {
+    "time": 71.6,
+    "start": 71.5901,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "cortisol identity reveal",
+    "duration": 1.641
+  },
+  {
+    "time": 73.78,
+    "start": 73.73769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "existential slump",
+    "duration": 0.499
+  },
+  {
+    "time": 77.08,
+    "start": 77.02738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "diet plate entrance",
+    "duration": 0.342
+  },
+  {
+    "time": 79.21,
+    "start": 79.15396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -7,
+    "reason": "brain tissue reveal",
+    "duration": 0.54
+  },
+  {
+    "time": 80.79,
+    "start": 80.73967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -9,
+    "reason": "tissue detail",
+    "duration": 0.206
+  },
+  {
+    "time": 82.59,
+    "start": 82.52802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "clear-thinking handoff",
+    "duration": 0.905
+  },
+  {
+    "time": 84.23,
+    "start": 84.17165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "focused reading contact",
+    "duration": 0.305
+  },
+  {
+    "time": 86.61,
+    "start": 86.56746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -10,
+    "reason": "blank-screen reversal",
+    "duration": 0.763
+  },
+  {
+    "time": 87.81,
+    "start": 87.7686,
+    "source": "B10",
+    "path": "assets/sfx/B10_Camera_Shutter_Short_02.wav",
+    "target_peak_dbfs": -12,
+    "reason": "screen detail",
+    "duration": 0.269
+  },
+  {
+    "time": 88.47,
+    "start": 88.41165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "40-minute timer",
+    "duration": 0.305
+  },
+  {
+    "time": 89.91,
+    "start": 89.81504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -8,
+    "reason": "skin chapter",
+    "duration": 1.5968541666666667
+  },
+  {
+    "time": 92.75,
+    "start": 92.70565,
+    "source": "C02",
+    "path": "assets/sfx/C02_Bright_Ting_Long_Decay_02.wav",
+    "target_peak_dbfs": -16,
+    "reason": "cheek glint",
+    "duration": 2.499
+  },
+  {
+    "time": 94.71,
+    "start": 94.64942,
+    "source": "C12",
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "pretend corpse reaction",
+    "duration": 1.114
+  },
+  {
+    "time": 97.03,
+    "start": 96.97396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "glycation schematic entrance",
+    "duration": 0.54
+  },
+  {
+    "time": 99.41,
+    "start": 99.35967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -9,
+    "reason": "glucose binding detail",
+    "duration": 0.206
+  },
+  {
+    "time": 100.11,
+    "start": 100.05165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "first molecular link contact",
+    "duration": 0.305
+  },
+  {
+    "time": 101.49,
+    "start": 101.42802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "collagen identity",
+    "duration": 0.905
+  },
+  {
+    "time": 104.11,
+    "start": 104.06654,
+    "source": "C20",
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "cross-link restriction",
+    "duration": 0.598
+  },
+  {
+    "time": 107.0,
+    "start": 106.90504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -8,
+    "reason": "whole-body chapter",
+    "duration": 1.5968541666666667
+  },
+  {
+    "time": 110.07,
+    "start": 110.02769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -9,
+    "reason": "joint explanation",
+    "duration": 0.499
+  },
+  {
+    "time": 113.36,
+    "start": 113.30396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "immune cell reveal",
+    "duration": 0.54
+  },
+  {
+    "time": 115.05,
+    "start": 114.99165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "signaling contact",
+    "duration": 0.305
+  },
+  {
+    "time": 116.48,
+    "start": 116.4701,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "cytokine identity",
+    "duration": 1.641
+  },
+  {
+    "time": 118.12,
+    "start": 118.05802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "knee reaction",
+    "duration": 0.905
+  },
+  {
+    "time": 120.22,
+    "start": 120.16738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "bubble-wrap pop",
+    "duration": 0.342
+  },
+  {
+    "time": 120.48,
+    "start": 120.43531,
+    "source": "B17",
+    "path": "assets/sfx/B17_Bouncy_Plop_03.wav",
+    "target_peak_dbfs": -10,
+    "reason": "second bubble pop",
+    "duration": 0.215
+  },
+  {
+    "time": 120.79,
+    "start": 120.73465,
+    "source": "C08",
+    "path": "assets/sfx/C08_Bubble_Plop_05.wav",
+    "target_peak_dbfs": -9,
+    "reason": "last bubble pop",
+    "duration": 0.232
+  },
+  {
+    "time": 121.4,
+    "start": 121.35769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -8,
+    "reason": "standing movement",
+    "duration": 0.499
+  }
+]

@@ -1,0 +1,393 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="assets/gsap.min.js"></script><style>@font-face{font-family:Caption;src:url('assets/caption-bold.ttf')}*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#fff}#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:#fff;color:#101010;font-family:Caption,sans-serif}.shade{position:absolute;inset:-20px;z-index:20;pointer-events:none;box-shadow:inset 95px 0 120px -40px #0009,inset -95px 0 120px -40px #0009,inset 0 65px 95px -40px #0006,inset 0 -65px 95px -40px #0006}.asset{position:absolute;left:110px;top:410px;width:860px;height:1090px;opacity:0;transform-origin:50% 58%;will-change:transform,opacity}.asset img{width:100%;height:100%;object-fit:contain;display:block}.caption{position:absolute;left:115px;top:220px;width:850px;height:260px;z-index:25;display:flex;align-items:center;justify-content:center;text-align:center;font-size:62px;font-weight:700;font-style:italic;text-transform:uppercase;line-height:1.12;letter-spacing:-1.8px;opacity:0}.caption span{max-width:850px;display:block;transform:scaleX(.90)}b{color:#de0b13}.minor{position:absolute;opacity:0;z-index:9}.bubble{border:8px solid #101010;border-radius:35px;background:#fff;width:175px;height:88px;display:flex;align-items:center;justify-content:center;gap:13px}.bubble i{width:15px;height:15px;border-radius:50%;background:#e20c15}.bubble:after{content:'';position:absolute;bottom:-20px;left:28px;width:24px;height:28px;background:white;border-left:7px solid #111;transform:skewY(-37deg)}.week{width:140px;height:150px;background:white;border:8px solid #111;border-radius:13px;top:1300px;left:720px;display:flex;align-items:center;justify-content:center;font-size:62px;color:#e20c15;box-shadow:0 8px 0 #111}.week:before{content:'';position:absolute;top:0;left:0;right:0;height:24px;background:#e20c15}.draw{position:absolute;inset:0;z-index:10;pointer-events:none}.draw path{fill:none;stroke:#111;stroke-width:12;stroke-linecap:round}.draw .red{stroke:#de0b13}
+#root{perspective:1400px}.asset{backface-visibility:hidden}.panel-note{position:absolute;opacity:0;font-size:42px;font-weight:700;text-align:center;z-index:9}.flow-path{fill:none;stroke:#101010;stroke-width:10;stroke-linecap:round}
+
+.asset img{filter:drop-shadow(-13px 18px 12px rgba(0,0,0,.30))}
+.asset.photo{width:800px;height:960px;left:140px;top:490px;transform-origin:50% 50%}
+.asset.photo img{width:100%;height:auto;aspect-ratio:1;object-fit:cover;border-radius:24px;border:5px solid #151515;filter:drop-shadow(-10px 16px 12px rgba(0,0,0,.22))}
+.asset#scan,.asset#analysis,.asset#overview,.asset#plan{top:460px}
+.phone-overlay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+.phone-overlay path{fill:none;stroke:#de0b13;stroke-width:9;stroke-linecap:round}
+.phone-overlay #outside-slash{stroke:#101010;stroke-width:13.33}
+.phone-overlay #analysisfill{stroke-width:26}
+.draw{z-index:8}.draw path{stroke-width:12;stroke-linejoin:round}.draw .red{stroke:#de0b13}
+b{white-space:nowrap}
+</style></head><body><div id="root" data-composition-id="main" data-start="0" data-duration="64.23333333333333" data-width="1080" data-height="1920">
+<div class="asset photo" id="clearportrait" data-layout-allow-overflow><img src="assets/clearportrait.png" alt="clearportrait"></div>
+<div class="asset" id="calendar7" data-layout-allow-overflow><img src="assets/calendar7.png" alt="calendar7"></div>
+<div class="asset" id="tensteps" data-layout-allow-overflow><img src="assets/tensteps.png" alt="tensteps"></div>
+<div class="asset" id="scam" data-layout-allow-overflow><img src="assets/scam.png" alt="scam"></div>
+<div class="asset photo" id="badportrait" data-layout-allow-overflow><img src="assets/badportrait.png" alt="badportrait"></div>
+<div class="asset" id="filter" data-layout-allow-overflow><img src="assets/filter.png" alt="filter"></div>
+<div class="asset" id="acnefocus" data-layout-allow-overflow><img src="assets/acnefocus.png" alt="acnefocus"></div>
+<div class="asset" id="bloathead" data-layout-allow-overflow><img src="assets/bloathead.png" alt="bloathead"></div>
+<div class="asset" id="outsidepimple" data-layout-allow-overflow><img src="assets/outsidepimple.png" alt="outsidepimple"><svg class="phone-overlay" viewBox="0 0 860 1090"><path id="outside-slash" d="M274 674 L708 252" opacity="0"/></svg></div>
+<div class="asset" id="insidegut" data-layout-allow-overflow><img src="assets/insidegut.png" alt="insidegut"></div>
+<div class="asset" id="gutglow" data-layout-allow-overflow><img src="assets/gutglow.png" alt="gutglow"></div>
+<div class="asset" id="microbiome" data-layout-allow-overflow><img src="assets/microbiome.png" alt="microbiome"></div>
+<div class="asset" id="cloggedgut" data-layout-allow-overflow><img src="assets/cloggedgut.png" alt="cloggedgut"></div>
+<div class="asset" id="weakbacteria" data-layout-allow-overflow><img src="assets/weakbacteria.png" alt="weakbacteria"></div>
+<div class="asset" id="faceprice" data-layout-allow-overflow><img src="assets/faceprice.png" alt="faceprice"></div>
+<div class="asset" id="guide" data-layout-allow-overflow><img src="assets/guide.png" alt="guide"></div>
+<div class="asset" id="apple" data-layout-allow-overflow><img src="assets/apple.png" alt="apple"></div>
+<div class="asset" id="ginger" data-layout-allow-overflow><img src="assets/ginger.png" alt="ginger"></div>
+<div class="asset" id="acerola" data-layout-allow-overflow><img src="assets/acerola.png" alt="acerola"></div>
+<div class="asset" id="pectin" data-layout-allow-overflow><img src="assets/pectin.png" alt="pectin"></div>
+<div class="asset" id="colon" data-layout-allow-overflow><img src="assets/colon.png" alt="colon"></div>
+<div class="asset" id="eatingbloat" data-layout-allow-overflow><img src="assets/eatingbloat.png" alt="eatingbloat"></div>
+<div class="asset" id="vitaminc" data-layout-allow-overflow><img src="assets/vitaminc.png" alt="vitaminc"></div>
+<div class="asset" id="enzymeboost" data-layout-allow-overflow><img src="assets/enzymeboost.png" alt="enzymeboost"></div>
+<div class="asset" id="rawroots" data-layout-allow-overflow><img src="assets/rawroots.png" alt="rawroots"></div>
+<div class="asset" id="stoproots" data-layout-allow-overflow><img src="assets/stoproots.png" alt="stoproots"></div>
+<div class="asset" id="scan" data-layout-allow-overflow><img src="assets/scan.png" alt="scan"><svg class="phone-overlay" viewBox="0 0 860 1090"><path id="scanbeam" d="M285 650 L575 650" opacity="0"/></svg></div>
+<div class="asset" id="analysis" data-layout-allow-overflow><img src="assets/analysis.png" alt="analysis"><svg class="phone-overlay" viewBox="0 0 860 1090"><path id="analysisfill" d="M264 768 L596 768" opacity="0"/></svg></div>
+<div class="asset" id="overview" data-layout-allow-overflow><img src="assets/overview.png" alt="overview"></div>
+<div class="asset" id="plan" data-layout-allow-overflow><img src="assets/plan.png" alt="plan"></div>
+<div class="asset" id="recipe" data-layout-allow-overflow><img src="assets/recipe.png" alt="recipe"></div>
+<div class="asset" id="drinking" data-layout-allow-overflow><img src="assets/drinking.png" alt="drinking"></div>
+<div class="asset" id="period" data-layout-allow-overflow><img src="assets/period.png" alt="period"></div>
+<div class="asset" id="paintproblem" data-layout-allow-overflow><img src="assets/paintproblem.png" alt="paintproblem"></div>
+<div class="asset" id="gutcare" data-layout-allow-overflow><img src="assets/gutcare.png" alt="gutcare"></div>
+<div class="asset" id="share" data-layout-allow-overflow><img src="assets/share.png" alt="share"></div>
+<div class="asset" id="friend" data-layout-allow-overflow><img src="assets/friend.png" alt="friend"></div>
+<div class="asset" id="reset" data-layout-allow-overflow><img src="assets/reset.png" alt="reset"></div>
+<div class="caption" id="cap0"><span>How to get</span></div>
+<div class="caption" id="cap1"><span><b>glowing</b> <b>skin</b></span></div>
+<div class="caption" id="cap2"><span>in one <b>week?</b></span></div>
+<div class="caption" id="cap3"><span>Your <b>expensive</b></span></div>
+<div class="caption" id="cap4"><span><b>10-step</b> <b>skincare</b> routine</span></div>
+<div class="caption" id="cap5"><span>is officially a <b>scam.</b></span></div>
+<div class="caption" id="cap6"><span>Just look at this.</span></div>
+<div class="caption" id="cap7"><span>This is how</span></div>
+<div class="caption" id="cap8"><span>your <b>skin</b> could look</span></div>
+<div class="caption" id="cap9"><span>without that <b>TikTok</b> <b>filter.</b></span></div>
+<div class="caption" id="cap10"><span>If you are still</span></div>
+<div class="caption" id="cap11"><span>battling <b>acne</b></span></div>
+<div class="caption" id="cap12"><span>in a <b>bloated</b> <b>face,</b></span></div>
+<div class="caption" id="cap13"><span>the <b>problem</b> isn&#x27;t</span></div>
+<div class="caption" id="cap14"><span>on your <b>skin.</b></span></div>
+<div class="caption" id="cap15"><span>It&#x27;s literally <b>rotting</b></span></div>
+<div class="caption" id="cap16"><span>in your <b>gut.</b></span></div>
+<div class="caption" id="cap17"><span>Real <b>glowing</b> <b>skin</b></span></div>
+<div class="caption" id="cap18"><span>starts in your</span></div>
+<div class="caption" id="cap19"><span><b>gut</b> <b>microbiome.</b></span></div>
+<div class="caption" id="cap20"><span>If your system</span></div>
+<div class="caption" id="cap21"><span>is <b>clogged</b> with</span></div>
+<div class="caption" id="cap22"><span><b>weak</b> <b>gut</b> <b>bacteria,</b></span></div>
+<div class="caption" id="cap23"><span>your <b>face</b> pays</span></div>
+<div class="caption" id="cap24"><span>the <b>price</b> in <b>breakouts.</b></span></div>
+<div class="caption" id="cap25"><span>The <b>ultimate</b> fix</span></div>
+<div class="caption" id="cap26"><span>is the <b>glow</b> <b>trinity.</b></span></div>
+<div class="caption" id="cap27"><span><b>Apple</b> <b>pectin</b></span></div>
+<div class="caption" id="cap28"><span>to clean out</span></div>
+<div class="caption" id="cap29"><span>your <b>colon,</b></span></div>
+<div class="caption" id="cap30"><span><b>ginger</b> to stop</span></div>
+<div class="caption" id="cap31"><span><b>toxic</b> <b>bloating</b> after eating,</span></div>
+<div class="caption" id="cap32"><span>and <b>acerola</b></span></div>
+<div class="caption" id="cap33"><span>packed with <b>vitamin</b> <b>C</b></span></div>
+<div class="caption" id="cap34"><span>to <b>boost</b> your</span></div>
+<div class="caption" id="cap35"><span><b>digestive</b> <b>enzymes.</b></span></div>
+<div class="caption" id="cap36"><span>But don&#x27;t go</span></div>
+<div class="caption" id="cap37"><span><b>blindly</b> chewing on <b>raw</b> <b>roots.</b></span></div>
+<div class="caption" id="cap38"><span>The solution is <b>simple.</b></span></div>
+<div class="caption" id="cap39"><span>Just use this <b>app</b></span></div>
+<div class="caption" id="cap40"><span>to <b>scan</b> your <b>face.</b></span></div>
+<div class="caption" id="cap41"><span>Its <b>AI</b> <b>instantly</b> analyzes</span></div>
+<div class="caption" id="cap42"><span>your <b>exact</b> <b>issues</b></span></div>
+<div class="caption" id="cap43"><span>and gives you a</span></div>
+<div class="caption" id="cap44"><span><b>custom</b> <b>remedy</b> <b>plan</b></span></div>
+<div class="caption" id="cap45"><span>filled with <b>tailored</b> <b>juices</b></span></div>
+<div class="caption" id="cap46"><span>to <b>drink</b> over</span></div>
+<div class="caption" id="cap47"><span>a set <b>period.</b></span></div>
+<div class="caption" id="cap48"><span>Stop <b>painting</b> over the <b>problem.</b></span></div>
+<div class="caption" id="cap49"><span><b>Scan</b> your <b>face,</b></span></div>
+<div class="caption" id="cap50"><span><b>heal</b> your <b>gut,</b></span></div>
+<div class="caption" id="cap51"><span>and get actual</span></div>
+<div class="caption" id="cap52"><span><b>glass</b> <b>skin.</b></span></div>
+<div class="caption" id="cap53"><span>Send this to a <b>friend</b></span></div>
+<div class="caption" id="cap54"><span>who needs a total <b>reset.</b></span></div>
+<svg class="draw" viewBox="0 0 1080 1920"><g transform="translate(0,-140)"><path id="microbe-link" d="M368.77 1122.88 Q402.92 1097.88 437.08 1131.05 L417.08 1111.05 M437.08 1131.05 L408.08 1139.05" opacity="0"/><path id="pectinflow" d="M437.69 1172.27 Q505.81 1057.08 573.93 1082.08 L553.93 1062.08 M573.93 1082.08 L544.93 1090.08" opacity="0"/></g></svg>
+<div class="shade"></div><audio id="audio" src="assets/mix.wav" data-start="0" data-duration="64.23333333333333" data-track-index="1"></audio></div>
+<script>window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});window.__timelines.main=tl;
+tl.fromTo("#clearportrait",{"opacity": 0, "x": -154.0, "y": 25, "scale": 0.765, "rotation": 0},{"opacity": 1, "x": -40.0, "y": 0, "scale": 0.85, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},0.1);
+tl.to("#clearportrait",{"x": -170, "y": -20, "scale": 0.68, "duration": 0.62, "ease": "power2.inOut", "rotation": 0},1.3);
+tl.fromTo("#calendar7",{"opacity": 0, "x": 199.45407, "y": 20, "scale": 0.27, "rotation": 0},{"opacity": 1, "x": 180, "y": 20, "scale": 0.3, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},1.5);
+tl.fromTo("#tensteps",{"opacity": 0, "x": -38.93053, "y": 15, "scale": 0.864, "rotation": 0},{"opacity": 1, "x": -76.58947, "y": 0, "scale": 0.96, "rotation": 0, "duration": 0.66, "ease": "power3.out", "immediateRender": false},3.16);
+tl.to("#clearportrait",{"x": -260.0, "y": -30, "scale": 0.5, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},3.16);
+tl.to("#clearportrait",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},3.2);
+tl.to("#calendar7",{"x": 206.90191, "y": 60, "scale": 0.25, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},3.16);
+tl.to("#calendar7",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},3.2);
+tl.to("#tensteps",{"x": -170, "y": 720, "scale": 0.94, "duration": 0.7, "ease": "power2.inOut"},6.0);
+tl.fromTo("#scam",{"opacity": 0, "x": -70, "y": -260, "scale": 0.756, "rotation": -10},{"opacity": 1, "x": -70, "y": -120, "scale": 0.84, "rotation": 0, "duration": 0.3, "ease": "power4.out", "immediateRender": false},7.28);
+tl.fromTo("#badportrait",{"opacity": 0, "x": 12.0, "y": 150, "scale": 0.72, "rotation": 0},{"opacity": 1, "x": -20.0, "y": 0, "scale": 0.8, "rotation": 0, "duration": 0.56, "ease": "power3.out", "immediateRender": false},8.02);
+tl.to("#tensteps",{"x": -220, "y": 820, "scale": 0.94, "duration": 0.6, "ease": "power2.inOut"},8.02);
+tl.to("#tensteps",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},8.059999999999999);
+tl.to("#scam",{"x": 183.24848, "y": 170, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},8.02);
+tl.to("#scam",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},8.059999999999999);
+tl.to("#badportrait",{"x": -270, "y": -20, "scale": 0.44, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},8.92);
+tl.fromTo("#clearportrait",{"opacity": 0, "x": 141.6, "y": -20, "scale": 0.396, "rotation": 0},{"opacity": 1, "x": 110, "y": -20, "scale": 0.44, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},9.1);
+tl.to("#badportrait",{"x": -312.0, "y": -50, "scale": 0.37, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},10.56);
+tl.to("#badportrait",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},10.6);
+tl.to("#clearportrait",{"x": -28.0, "y": -15, "scale": 0.82, "duration": 0.58, "ease": "power2.inOut", "rotation": 0},10.56);
+tl.to("#clearportrait",{"x": 110, "y": -20, "scale": 0.44, "duration": 0.52, "ease": "power2.inOut", "rotation": 0},11.38);
+tl.fromTo("#filter",{"opacity": 0, "x": -348.12127, "y": 20, "scale": 0.441, "rotation": 0},{"opacity": 1, "x": -250, "y": 0, "scale": 0.49, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},11.6);
+tl.to("#filter",{"x": -373.74429, "y": 30, "scale": 0.34, "duration": 0.45, "ease": "power2.inOut", "rotation": 0},12.3);
+tl.to("#filter",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},12.34);
+tl.to("#clearportrait",{"x": -28.0, "y": -15, "scale": 0.82, "duration": 0.55, "ease": "power2.inOut", "rotation": 0},12.3);
+tl.fromTo("#acnefocus",{"opacity": 0, "x": 71.87368, "y": 20, "scale": 0.792, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.88, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},13.4);
+tl.to("#clearportrait",{"x": -260.0, "y": -20, "scale": 0.5, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},13.4);
+tl.to("#clearportrait",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},13.44);
+tl.to("#acnefocus",{"x": -255, "y": -10, "scale": 0.5, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},14.58);
+tl.fromTo("#bloathead",{"opacity": 0, "x": 120.68213, "y": -10, "scale": 0.459, "rotation": 0},{"opacity": 1, "x": 100.75793, "y": -10, "scale": 0.51, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},14.8);
+tl.fromTo("#outsidepimple",{"opacity": 0, "x": -206.13541, "y": 0, "scale": 0.81, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.9, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},16.0);
+tl.to("#acnefocus",{"x": -365.19426, "y": 20, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},16.0);
+tl.to("#acnefocus",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},16.04);
+tl.to("#bloathead",{"x": 174.98537, "y": 30, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},16.0);
+tl.to("#bloathead",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},16.04);
+tl.set("#outside-slash",{opacity:1,strokeDasharray:document.querySelector("#outside-slash").getTotalLength(),strokeDashoffset:document.querySelector("#outside-slash").getTotalLength()},16.56);
+tl.to("#outside-slash",{"strokeDashoffset": 0, "duration": 0.34, "ease": "sine.inOut"},16.56);
+tl.to("#outside-slash",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},17.84);
+tl.fromTo("#insidegut",{"opacity": 0, "x": -70, "y": 300, "scale": 0.873, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.97, "rotation": 0, "duration": 0.66, "ease": "power3.out", "immediateRender": false},18.04);
+tl.to("#outsidepimple",{"x": 125.73684, "y": -15, "scale": 0.55, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},18.04);
+tl.to("#outsidepimple",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},18.08);
+tl.to("#insidegut",{"y": -30, "scale": 1.05, "duration": 0.55, "ease": "power2.inOut", "x": 0, "rotation": 0},19.76);
+tl.fromTo("#gutglow",{"opacity": 0, "x": -287.65731, "y": 15, "scale": 0.837, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.93, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},20.42);
+tl.to("#insidegut",{"x": 165.43158, "y": 45, "scale": 0.57, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},20.42);
+tl.to("#insidegut",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},20.46);
+tl.to("#gutglow",{"x": -280, "y": -10, "scale": 0.5, "duration": 0.64, "ease": "power2.inOut", "rotation": 0},22.22);
+tl.fromTo("#microbiome",{"opacity": 0, "x": -175, "y": 95, "scale": 0.12, "rotation": 0},{"opacity": 0.85, "x": 130, "y": 45, "scale": 0.38, "duration": 0.4, "ease": "power3.out", "rotation": 0, "immediateRender": false},22.22);
+tl.to("#microbiome",{"opacity": 1, "x": 103.70191, "y": -10, "scale": 0.47, "duration": 0.34, "ease": "sine.out", "rotation": 0},22.62);
+tl.set("#microbe-link",{opacity:1,strokeDasharray:document.querySelector("#microbe-link").getTotalLength(),strokeDashoffset:document.querySelector("#microbe-link").getTotalLength()},23.0);
+tl.to("#microbe-link",{"strokeDashoffset": 0, "duration": 0.3, "ease": "sine.inOut"},23.0);
+tl.to("#microbe-link",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},23.5);
+tl.to("#gutglow",{"x": -387.93316, "y": 30, "scale": 0.35, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},23.68);
+tl.to("#gutglow",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},23.72);
+tl.to("#microbiome",{"x": -67.53684, "y": -25, "scale": 0.88, "duration": 0.56, "ease": "power2.inOut", "rotation": 0},23.68);
+tl.fromTo("#cloggedgut",{"opacity": 0, "x": 13.80517, "y": 0, "scale": 0.828, "rotation": 0},{"opacity": 1, "x": -17.99426, "y": 0, "scale": 0.92, "rotation": 0, "duration": 0.4, "ease": "power3.out", "immediateRender": false},24.48);
+tl.to("#microbiome",{"x": -259.19617, "y": -15, "scale": 0.48, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},24.48);
+tl.to("#microbiome",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},24.52);
+tl.to("#cloggedgut",{"x": -250, "y": -10, "scale": 0.54, "duration": 0.52, "ease": "power2.inOut", "rotation": 0},24.9);
+tl.fromTo("#weakbacteria",{"opacity": 0, "x": 146.36038, "y": 90, "scale": 0.441, "rotation": 0},{"opacity": 1, "x": 129.28931, "y": 20, "scale": 0.49, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},25.1);
+tl.fromTo("#faceprice",{"opacity": 0, "x": -209.45704, "y": 35, "scale": 0.819, "rotation": 0},{"opacity": 1, "x": -82.16205, "y": 0, "scale": 0.91, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},26.58);
+tl.to("#cloggedgut",{"x": -350.27113, "y": 35, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},26.58);
+tl.to("#cloggedgut",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},26.619999999999997);
+tl.to("#weakbacteria",{"x": 188.51547, "y": 65, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},26.58);
+tl.to("#weakbacteria",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},26.619999999999997);
+tl.to("#faceprice",{"y": -25, "scale": 0.98, "duration": 0.42, "ease": "power2.inOut", "x": -111.55913, "rotation": 0},28.2);
+tl.fromTo("#guide",{"opacity": 0, "x": 29.13149, "y": 0, "scale": 0.828, "rotation": 0},{"opacity": 1, "x": -0.96501, "y": 0, "scale": 0.92, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},28.8);
+tl.to("#faceprice",{"x": -294.80684, "y": 20, "scale": 0.54, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},28.8);
+tl.to("#faceprice",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},28.84);
+tl.fromTo("#apple",{"opacity": 0, "x": -362.40502, "y": -10, "scale": 0.315, "rotation": 0},{"opacity": 1, "x": -310, "y": -10, "scale": 0.35, "rotation": 0, "duration": 0.5, "ease": "power3.out", "immediateRender": false},30.5);
+tl.fromTo("#ginger",{"opacity": 0, "x": -95, "y": 220, "scale": 0.315, "rotation": 0},{"opacity": 1, "x": -95, "y": 60, "scale": 0.35, "rotation": 0, "duration": 0.54, "ease": "power3.out", "immediateRender": false},30.58);
+tl.fromTo("#acerola",{"opacity": 0, "x": 185.50478, "y": -10, "scale": 0.315, "rotation": 0},{"opacity": 1, "x": 150, "y": -10, "scale": 0.35, "rotation": 0, "duration": 0.5, "ease": "power3.out", "immediateRender": false},30.66);
+tl.to("#guide",{"x": -340.62164, "y": 70, "scale": 0.4, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},30.5);
+tl.to("#guide",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},30.54);
+tl.to("#apple",{"x": -130, "y": -20, "scale": 0.6, "duration": 0.42, "ease": "power2.inOut", "rotation": 0},31.62);
+tl.to("#ginger",{"opacity": 0, "duration": 0.25, "ease": "power1.out"},31.66);
+tl.to("#acerola",{"opacity": 0, "duration": 0.25, "ease": "power1.out"},31.66);
+tl.fromTo("#pectin",{"opacity": 0, "x": 32.7927, "y": 45, "scale": 0.738, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.82, "rotation": 0, "duration": 0.34, "ease": "power3.out", "immediateRender": false},31.82);
+tl.to("#apple",{"opacity": 0, "duration": 0.22, "ease": "power1.out"},31.8);
+tl.to("#pectin",{"x": -270, "y": 0, "scale": 0.43, "duration": 0.48, "ease": "power2.inOut", "rotation": 0},32.2);
+tl.fromTo("#colon",{"opacity": 0, "x": 184.35104, "y": 0, "scale": 0.387, "rotation": 0},{"opacity": 1, "x": 171.50115, "y": 0, "scale": 0.43, "rotation": 0, "duration": 0.48, "ease": "power3.out", "immediateRender": false},32.42);
+tl.set("#pectinflow",{opacity:1,strokeDasharray:document.querySelector("#pectinflow").getTotalLength(),strokeDashoffset:document.querySelector("#pectinflow").getTotalLength()},33.05);
+tl.to("#pectinflow",{"strokeDashoffset": 0, "duration": 0.3, "ease": "sine.inOut"},33.05);
+tl.to("#pectinflow",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},33.72);
+tl.fromTo("#ginger",{"opacity": 0, "x": -180.63437, "y": 20, "scale": 0.792, "rotation": 0},{"opacity": 1, "x": -33.07083, "y": 0, "scale": 0.88, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},33.9);
+tl.to("#pectin",{"x": -363.19905, "y": 30, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},33.9);
+tl.to("#pectin",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},33.94);
+tl.to("#colon",{"x": 210.34964, "y": 25, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},33.9);
+tl.to("#colon",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},33.94);
+tl.to("#ginger",{"x": -280, "y": -25, "scale": 0.43, "duration": 0.55, "ease": "power2.inOut", "rotation": 0},34.7);
+tl.fromTo("#eatingbloat",{"opacity": 0, "x": 127.38689, "y": 140, "scale": 0.531, "rotation": 0},{"opacity": 1, "x": 108.20766, "y": 0, "scale": 0.59, "rotation": 0, "duration": 0.5, "ease": "power3.out", "immediateRender": false},35.14);
+tl.to("#eatingbloat",{"y": -20, "scale": 0.62, "duration": 0.38, "ease": "power2.inOut", "x": 98.4555, "rotation": 0},35.82);
+tl.fromTo("#acerola",{"opacity": 0, "x": 0, "y": 210, "scale": 0.81, "rotation": 0},{"opacity": 1, "x": -27.12919, "y": 0, "scale": 0.9, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},36.56);
+tl.to("#ginger",{"x": -340.07031, "y": 35, "scale": 0.34, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},36.56);
+tl.to("#ginger",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},36.6);
+tl.to("#eatingbloat",{"x": 176.47273, "y": 45, "scale": 0.38, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},36.56);
+tl.to("#eatingbloat",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},36.6);
+tl.to("#acerola",{"x": -245, "y": -20, "scale": 0.5, "duration": 0.52, "ease": "power2.inOut", "rotation": 0},37.35);
+tl.fromTo("#vitaminc",{"opacity": 0, "x": 151.56976, "y": 0, "scale": 0.432, "rotation": 0},{"opacity": 1, "x": 135.07751, "y": 0, "scale": 0.48, "rotation": 0, "duration": 0.52, "ease": "power3.out", "immediateRender": false},37.86);
+tl.fromTo("#enzymeboost",{"opacity": 0, "x": -70, "y": 260, "scale": 0.837, "rotation": 0},{"opacity": 1, "x": -64.18325, "y": 0, "scale": 0.93, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},38.76);
+tl.to("#acerola",{"x": -346.10144, "y": 40, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},38.76);
+tl.to("#acerola",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},38.8);
+tl.to("#vitaminc",{"x": 196.92344, "y": 55, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},38.76);
+tl.to("#vitaminc",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},38.8);
+tl.fromTo("#rawroots",{"opacity": 0, "x": -334.99962, "y": 100, "scale": 0.549, "rotation": 0},{"opacity": 1, "x": -230, "y": 0, "scale": 0.61, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},40.7);
+tl.to("#enzymeboost",{"x": 104.20255, "y": 80, "scale": 0.5, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},40.7);
+tl.to("#enzymeboost",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},40.74);
+tl.fromTo("#stoproots",{"opacity": 0, "x": 144.84555, "y": 0, "scale": 0.45, "rotation": 0},{"opacity": 1, "x": 127.60616, "y": 0, "scale": 0.5, "rotation": 0, "duration": 0.4, "ease": "expo.out", "immediateRender": false},40.8);
+tl.to("#rawroots",{"x": -210, "y": -20, "scale": 0.67, "duration": 0.5, "ease": "power2.inOut", "rotation": 0},41.78);
+tl.fromTo("#guide",{"opacity": 0, "x": -212.8868, "y": 0, "scale": 0.828, "rotation": 0},{"opacity": 1, "x": -0.96501, "y": 0, "scale": 0.92, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},43.34);
+tl.to("#rawroots",{"x": -373.47879, "y": 35, "scale": 0.38, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},43.34);
+tl.to("#rawroots",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},43.38);
+tl.to("#stoproots",{"x": 193.11582, "y": 30, "scale": 0.31, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},43.34);
+tl.to("#stoproots",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},43.38);
+tl.to("#guide",{"x": -245, "y": 240, "scale": 0.62, "duration": 0.62, "ease": "power2.inOut", "rotation": 0},44.9);
+tl.fromTo("#scan",{"opacity": 0, "x": 103.72336, "y": 30, "scale": 0.702, "rotation": 0},{"opacity": 1, "x": 81.91484, "y": 0, "scale": 0.78, "rotation": 0, "duration": 0.62, "ease": "power3.out", "immediateRender": false},44.9);
+tl.to("#scan",{"x": 0, "y": 0, "scale": 0.9, "duration": 0.55, "ease": "power2.inOut", "rotation": 0},46.1);
+tl.to("#guide",{"x": -370.46623, "y": 25, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},46.1);
+tl.to("#guide",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},46.14);
+tl.set("#scanbeam",{opacity:1,strokeDasharray:document.querySelector("#scanbeam").getTotalLength(),strokeDashoffset:document.querySelector("#scanbeam").getTotalLength(),y:0},46.1);
+tl.to("#scanbeam",{"strokeDashoffset": 0, "duration": 0.18, "ease": "sine.inOut"},46.1);
+tl.to("#scanbeam",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},47.0);
+tl.to("#scanbeam",{"y": -220, "duration": 0.65, "ease": "sine.inOut"},46.28);
+tl.fromTo("#analysis",{"opacity": 0, "x": 72.95215, "y": 0, "scale": 0.81, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.9, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},47.2);
+tl.to("#scan",{"x": -312.19004, "y": 0, "scale": 0.53, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},47.2);
+tl.to("#scan",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},47.24);
+tl.set("#analysisfill",{opacity:1,strokeDasharray:document.querySelector("#analysisfill").getTotalLength(),strokeDashoffset:document.querySelector("#analysisfill").getTotalLength()},47.82);
+tl.to("#analysisfill",{"strokeDashoffset": 0, "duration": 0.8, "ease": "sine.inOut"},47.82);
+tl.to("#analysisfill",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},49.0);
+tl.fromTo("#overview",{"opacity": 0, "x": 0, "y": 150.20251, "scale": 0.81, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.9, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},49.04);
+tl.to("#analysis",{"x": -314.6099, "y": 15, "scale": 0.52, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},49.04);
+tl.to("#analysis",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},49.08);
+tl.fromTo("#plan",{"opacity": 0, "x": -235.25137, "y": 10, "scale": 0.81, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.9, "rotation": 0, "duration": 0.6, "ease": "power3.out", "immediateRender": false},50.94);
+tl.to("#overview",{"x": 153.50286, "y": 25, "scale": 0.52, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},50.94);
+tl.to("#overview",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},50.98);
+tl.to("#plan",{"x": -270, "y": -35, "scale": 0.52, "duration": 0.64, "ease": "power2.inOut", "rotation": 0},52.5);
+tl.fromTo("#recipe",{"opacity": 0, "x": 118.8445, "y": 35, "scale": 0.45, "rotation": 0},{"opacity": 1, "x": 98.71611, "y": 0, "scale": 0.5, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},52.74);
+tl.fromTo("#drinking",{"opacity": 0, "x": -285.06139, "y": 0, "scale": 0.819, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.91, "rotation": 0, "duration": 0.5, "ease": "power3.out", "immediateRender": false},53.46);
+tl.to("#plan",{"x": -365.66107, "y": 20, "scale": 0.34, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},53.46);
+tl.to("#plan",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},53.5);
+tl.to("#recipe",{"x": 171.17831, "y": 35, "scale": 0.32, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},53.46);
+tl.to("#recipe",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},53.5);
+tl.to("#drinking",{"x": -245, "y": -10, "scale": 0.59, "duration": 0.55, "ease": "power2.inOut", "rotation": 0},54.02);
+tl.fromTo("#period",{"opacity": 0, "x": 126.70177, "y": 185, "scale": 0.441, "rotation": 0},{"opacity": 1, "x": 107.44641, "y": 15, "scale": 0.49, "rotation": 0, "duration": 0.4, "ease": "power3.out", "immediateRender": false},54.0);
+tl.to("#period",{"rotation": -5, "duration": 0.24, "ease": "power2.inOut", "x": 96.38037, "y": 15, "scale": 0.49},54.48);
+tl.to("#period",{"rotation": 0, "duration": 0.24, "ease": "power2.inOut", "x": 96.38037, "y": 15, "scale": 0.49},54.8);
+tl.fromTo("#paintproblem",{"opacity": 0, "x": -153.93053, "y": 0, "scale": 0.828, "rotation": 0},{"opacity": 1, "x": -39.44625, "y": 0, "scale": 0.92, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},55.16);
+tl.to("#drinking",{"x": -387.37591, "y": 20, "scale": 0.34, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},55.16);
+tl.to("#drinking",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},55.199999999999996);
+tl.to("#period",{"x": 182.11005, "y": 45, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},55.16);
+tl.to("#period",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},55.199999999999996);
+tl.fromTo("#scan",{"opacity": 0, "x": 78.55969, "y": 0, "scale": 0.792, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.88, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},57.26);
+tl.to("#paintproblem",{"x": -264.08596, "y": 25, "scale": 0.53, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},57.26);
+tl.to("#paintproblem",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},57.3);
+tl.set("#scanbeam",{opacity:1,strokeDasharray:document.querySelector("#scanbeam").getTotalLength(),strokeDashoffset:document.querySelector("#scanbeam").getTotalLength(),y:0},57.82);
+tl.to("#scanbeam",{"strokeDashoffset": 0, "duration": 0.12, "ease": "sine.inOut"},57.82);
+tl.to("#scanbeam",{"opacity": 0, "duration": 0.18, "ease": "power1.out"},58.24);
+tl.to("#scanbeam",{"y": -180, "duration": 0.22, "ease": "sine.inOut"},57.94);
+tl.fromTo("#gutcare",{"opacity": 0, "x": -140, "y": 180, "scale": 0.792, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.88, "rotation": 0, "duration": 0.5, "ease": "power3.out", "immediateRender": false},58.44);
+tl.to("#scan",{"x": 154.6099, "y": -30, "scale": 0.52, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},58.44);
+tl.to("#scan",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},58.48);
+tl.fromTo("#clearportrait",{"opacity": 0, "x": -143.2, "y": 0, "scale": 0.792, "rotation": 0},{"opacity": 1, "x": -52.0, "y": 0, "scale": 0.88, "rotation": 0, "duration": 0.58, "ease": "power3.out", "immediateRender": false},59.62);
+tl.to("#gutcare",{"x": 171.0, "y": 40, "scale": 0.48, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},59.62);
+tl.to("#gutcare",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},59.66);
+tl.to("#clearportrait",{"x": 108.0, "y": -220, "scale": 0.48, "duration": 0.58, "ease": "power2.inOut", "rotation": 0},61.2);
+tl.fromTo("#share",{"opacity": 0, "x": -207.51324, "y": 260, "scale": 0.675, "rotation": 0},{"opacity": 1, "x": -179.45915, "y": 260, "scale": 0.75, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},61.2);
+tl.to("#clearportrait",{"x": 180.0, "y": -60, "scale": 0.3, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},61.82);
+tl.to("#clearportrait",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},61.86);
+tl.fromTo("#friend",{"opacity": 0, "x": 68.96402, "y": 20, "scale": 0.783, "rotation": 0},{"opacity": 1, "x": 0, "y": 0, "scale": 0.87, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},61.82);
+tl.to("#share",{"x": -329.08094, "y": 30, "scale": 0.35, "duration": 0.6, "ease": "power2.inOut", "rotation": 0},61.82);
+tl.to("#share",{"opacity": 0, "duration": 0.3, "ease": "power1.out"},61.86);
+tl.to("#friend",{"x": -130, "y": 365, "scale": 0.82, "duration": 0.55, "ease": "power2.inOut", "rotation": 0},62.85);
+tl.fromTo("#reset",{"opacity": 0, "x": 0, "y": -330, "scale": 0.747, "rotation": 0},{"opacity": 1, "x": 0, "y": -200, "scale": 0.83, "rotation": 0, "duration": 0.55, "ease": "power3.out", "immediateRender": false},63.08);
+tl.fromTo("#cap0",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},0.0);
+tl.set("#cap0",{opacity:0},0.64);
+tl.fromTo("#cap1",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},0.64);
+tl.set("#cap1",{opacity:0},1.5);
+tl.fromTo("#cap2",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},1.5);
+tl.set("#cap2",{opacity:0},3.16);
+tl.fromTo("#cap3",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},3.16);
+tl.set("#cap3",{opacity:0},4.36);
+tl.fromTo("#cap4",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},4.36);
+tl.set("#cap4",{opacity:0},6.0);
+tl.fromTo("#cap5",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},6.0);
+tl.set("#cap5",{opacity:0},8.02);
+tl.fromTo("#cap6",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},8.02);
+tl.set("#cap6",{opacity:0},9.1);
+tl.fromTo("#cap7",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},9.1);
+tl.set("#cap7",{opacity:0},9.76);
+tl.fromTo("#cap8",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},9.76);
+tl.set("#cap8",{opacity:0},10.82);
+tl.fromTo("#cap9",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},10.82);
+tl.set("#cap9",{opacity:0},12.72);
+tl.fromTo("#cap10",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},12.72);
+tl.set("#cap10",{opacity:0},13.4);
+tl.fromTo("#cap11",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},13.4);
+tl.set("#cap11",{opacity:0},14.4);
+tl.fromTo("#cap12",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},14.4);
+tl.set("#cap12",{opacity:0},16.0);
+tl.fromTo("#cap13",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},16.0);
+tl.set("#cap13",{opacity:0},17.1);
+tl.fromTo("#cap14",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},17.1);
+tl.set("#cap14",{opacity:0},18.04);
+tl.fromTo("#cap15",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},18.04);
+tl.set("#cap15",{opacity:0},19.42);
+tl.fromTo("#cap16",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},19.42);
+tl.set("#cap16",{opacity:0},20.42);
+tl.fromTo("#cap17",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},20.42);
+tl.set("#cap17",{opacity:0},21.5);
+tl.fromTo("#cap18",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},21.5);
+tl.set("#cap18",{opacity:0},22.38);
+tl.fromTo("#cap19",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},22.38);
+tl.set("#cap19",{opacity:0},23.68);
+tl.fromTo("#cap20",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},23.68);
+tl.set("#cap20",{opacity:0},24.3);
+tl.fromTo("#cap21",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},24.3);
+tl.set("#cap21",{opacity:0},25.1);
+tl.fromTo("#cap22",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},25.1);
+tl.set("#cap22",{opacity:0},26.58);
+tl.fromTo("#cap23",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},26.58);
+tl.set("#cap23",{opacity:0},27.44);
+tl.fromTo("#cap24",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},27.44);
+tl.set("#cap24",{opacity:0},28.8);
+tl.fromTo("#cap25",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},28.8);
+tl.set("#cap25",{opacity:0},30.02);
+tl.fromTo("#cap26",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},30.02);
+tl.set("#cap26",{opacity:0},31.62);
+tl.fromTo("#cap27",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},31.62);
+tl.set("#cap27",{opacity:0},32.3);
+tl.fromTo("#cap28",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},32.3);
+tl.set("#cap28",{opacity:0},32.82);
+tl.fromTo("#cap29",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},32.82);
+tl.set("#cap29",{opacity:0},33.9);
+tl.fromTo("#cap30",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},33.9);
+tl.set("#cap30",{opacity:0},34.7);
+tl.fromTo("#cap31",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},34.7);
+tl.set("#cap31",{opacity:0},36.44);
+tl.fromTo("#cap32",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},36.44);
+tl.set("#cap32",{opacity:0},37.18);
+tl.fromTo("#cap33",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},37.18);
+tl.set("#cap33",{opacity:0},38.5);
+tl.fromTo("#cap34",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},38.5);
+tl.set("#cap34",{opacity:0},39.3);
+tl.fromTo("#cap35",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},39.3);
+tl.set("#cap35",{opacity:0},40.7);
+tl.fromTo("#cap36",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},40.7);
+tl.set("#cap36",{opacity:0},41.32);
+tl.fromTo("#cap37",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},41.32);
+tl.set("#cap37",{opacity:0},43.34);
+tl.fromTo("#cap38",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},43.34);
+tl.set("#cap38",{opacity:0},44.9);
+tl.fromTo("#cap39",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},44.9);
+tl.set("#cap39",{opacity:0},45.9);
+tl.fromTo("#cap40",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},45.9);
+tl.set("#cap40",{opacity:0},47.2);
+tl.fromTo("#cap41",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},47.2);
+tl.set("#cap41",{opacity:0},49.04);
+tl.fromTo("#cap42",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},49.04);
+tl.set("#cap42",{opacity:0},50.12);
+tl.fromTo("#cap43",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},50.12);
+tl.set("#cap43",{opacity:0},50.94);
+tl.fromTo("#cap44",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},50.94);
+tl.set("#cap44",{opacity:0},52.06);
+tl.fromTo("#cap45",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},52.06);
+tl.set("#cap45",{opacity:0},53.46);
+tl.fromTo("#cap46",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},53.46);
+tl.set("#cap46",{opacity:0},54.34);
+tl.fromTo("#cap47",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},54.34);
+tl.set("#cap47",{opacity:0},55.16);
+tl.fromTo("#cap48",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},55.16);
+tl.set("#cap48",{opacity:0},57.26);
+tl.fromTo("#cap49",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},57.26);
+tl.set("#cap49",{opacity:0},58.44);
+tl.fromTo("#cap50",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},58.44);
+tl.set("#cap50",{opacity:0},59.38);
+tl.fromTo("#cap51",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},59.38);
+tl.set("#cap51",{opacity:0},60.22);
+tl.fromTo("#cap52",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},60.22);
+tl.set("#cap52",{opacity:0},61.2);
+tl.fromTo("#cap53",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},61.2);
+tl.set("#cap53",{opacity:0},62.12);
+tl.fromTo("#cap54",{"opacity": 0, "y": 14},{"opacity": 1, "y": 0, "duration": 0.11, "ease": "power2.out", "immediateRender": false},62.12);
+tl.set("#cap54",{opacity:0},64.23333333333333);
+tl.seek(0);</script></body></html>

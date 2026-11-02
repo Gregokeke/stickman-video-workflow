@@ -1,0 +1,25 @@
+{
+  "guide": "references/red-zone-canvas.png",
+  "canvas": [
+    1080,
+    1920
+  ],
+  "conservative_illustration_bounds": [
+    80,
+    220,
+    840,
+    1600
+  ],
+  "exceptions": [
+    {
+      "asset": "tensteps",
+      "start": 6.0,
+      "end": 8.65,
+      "allowed_sides": [
+        "left",
+        "bottom"
+      ],
+      "reason": "User explicitly requested a lower, moderately reduced ten-step illustration at bottom left, deliberately extending below the safe area, with a visible gap beneath the centred SCAM stamp."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Red emotional illustration video
+User-supplied deep male narration, silence-trimmed. Original main artwork made by image_gen with three supplied visual references for every asset. Dominant saturated red with black details. White canvas, broad inward dark gray edge shadows; bold italic black phrase captions near top with red emphasis. 1080x1920 at 30fps. Smooth glides and deliberate still holds; elements move aside to preserve relationships. No bounce and no ambient hover. Purposeful prominent impacts and swishes, voice always clear.

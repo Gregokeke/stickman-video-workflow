@@ -1,0 +1,324 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="assets/gsap.min.js"></script><style>@font-face{font-family:Caption;src:url('assets/caption-bold.ttf')}*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#fff}#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:#fff;color:#101010;font-family:Caption,sans-serif}.shade{position:absolute;inset:-20px;z-index:20;pointer-events:none;box-shadow:inset 95px 0 120px -40px #0009,inset -95px 0 120px -40px #0009,inset 0 65px 95px -40px #0006,inset 0 -65px 95px -40px #0006}.asset{position:absolute;left:110px;top:410px;width:860px;height:1090px;opacity:0;transform-origin:50% 58%;will-change:transform,opacity}.asset img{width:100%;height:100%;object-fit:contain;display:block}.caption{position:absolute;left:115px;top:220px;width:850px;height:260px;z-index:25;display:flex;align-items:center;justify-content:center;text-align:center;font-size:62px;font-weight:700;font-style:italic;text-transform:uppercase;line-height:1.12;letter-spacing:-1.8px;opacity:0}.caption span{max-width:850px;display:block;transform:scaleX(.90)}b{color:#de0b13}.minor{position:absolute;opacity:0;z-index:9}.bubble{border:8px solid #101010;border-radius:35px;background:#fff;width:175px;height:88px;display:flex;align-items:center;justify-content:center;gap:13px}.bubble i{width:15px;height:15px;border-radius:50%;background:#e20c15}.bubble:after{content:'';position:absolute;bottom:-20px;left:28px;width:24px;height:28px;background:white;border-left:7px solid #111;transform:skewY(-37deg)}.week{width:140px;height:150px;background:white;border:8px solid #111;border-radius:13px;top:1300px;left:720px;display:flex;align-items:center;justify-content:center;font-size:62px;color:#e20c15;box-shadow:0 8px 0 #111}.week:before{content:'';position:absolute;top:0;left:0;right:0;height:24px;background:#e20c15}.draw{position:absolute;inset:0;z-index:10;pointer-events:none}.draw path{fill:none;stroke:#111;stroke-width:12;stroke-linecap:round}.draw .red{stroke:#de0b13}
+#root{perspective:1400px}.asset{backface-visibility:hidden}.panel-note{position:absolute;opacity:0;font-size:42px;font-weight:700;text-align:center;z-index:9}.flow-path{fill:none;stroke:#101010;stroke-width:10;stroke-linecap:round}
+
+.asset{left:0;top:0;width:1000px;height:1000px;transform-origin:0 0;z-index:3}
+.asset img{position:absolute;object-fit:fill;max-width:none;filter:drop-shadow(-13px 18px 12px rgba(0,0,0,.28))}
+.annotation{position:absolute;inset:0;width:1000px;height:1000px;overflow:visible;pointer-events:none;z-index:5}
+.annotation path{fill:none;stroke:#101010;stroke-width:16;stroke-linecap:round;stroke-linejoin:round}
+.annotation .light{stroke:white;stroke-width:11}
+.label{position:absolute;font:700 46px Caption,sans-serif;text-align:center;opacity:0;color:#101010;z-index:10;white-space:nowrap}
+.part{left:110px;top:500px;font-size:42px;letter-spacing:1px;text-transform:uppercase;color:#de0b13}
+.qualifier{left:550px;top:520px;font-size:42px;color:#de0b13}
+</style></head><body><div id="root" data-composition-id="main" data-start="0" data-duration="42.63333333333333" data-width="1080" data-height="1920">
+<div class="asset" id="bracehero" data-layout-allow-overflow><img src="assets/bracehero.png" alt="Large braced smile hook; wearing braces" style="left:124.73647224174277px;top:-49.191848208011244px;width:719.6064652143359px;height:1079.4096978215039px"></div>
+<div class="asset" id="bracesmouth" data-layout-allow-overflow><img src="assets/bracesmouth.png" alt="Exact metal-bracket/wire close-up" style="left:-31.85595567867042px;top:145.4293628808864px;width:1063.7119113573408px;height:709.1412742382272px"></div>
+<div class="asset" id="adultlife" data-layout-allow-overflow><img src="assets/adultlife.png" alt="Preparation for adult life series" style="left:109.6556886227545px;top:-89.07185628742515px;width:766.4670658682635px;height:1149.7005988023952px"></div>
+<div class="asset" id="uncertain" data-layout-allow-overflow><img src="assets/uncertain.png" alt="Considering whether braces are right" style="left:56.14567526555385px;top:-88.77086494688929px;width:776.9347496206374px;height:1165.402124430956px"></div>
+<div class="asset" id="filtercard" data-layout-allow-overflow><img src="assets/filtercard.png" alt="braces wialiska TikTok mask identified from supplied reference" style="left:-30.791788856304986px;top:323.069403714565px;width:1061.58357771261px;height:353.86119257087px"></div>
+<div class="asset" id="yearone" data-layout-allow-overflow><img src="assets/yearone.png" alt="One-year commitment" style="left:-178.79417879417883px;top:-141.37214137214139px;width:1328.4823284823285px;height:1278.5862785862787px"></div>
+<div class="asset" id="yearthree" data-layout-allow-overflow><img src="assets/yearthree.png" alt="Sometimes up to three years, not a personal prediction" style="left:-110.58601134215502px;top:-112.00378071833651px;width:1185.2551984877127px;height:1185.2551984877127px"></div>
+<div class="asset" id="speech" data-layout-allow-overflow><img src="assets/speech.png" alt="Changes in speech with braces" style="left:-55.603448275862064px;top:-53.448275862068904px;width:1063.7931034482758px;height:1099.1379310344828px"></div>
+<div class="asset" id="jawpain" data-layout-allow-overflow><img src="assets/jawpain.png" alt="Soreness/discomfort gesture" style="left:98.52216748768473px;top:-40.11259676284307px;width:720.6192821956369px;height:1080.9289232934552px"></div>
+<div class="asset" id="soretooth" data-layout-allow-overflow><img src="assets/soretooth.png" alt="Tooth discomfort close-up" style="left:-156.24999999999997px;top:-118.85245901639338px;width:1315.573770491803px;height:1255.122950819672px"><svg class="annotation" viewBox="0 0 1000 1000"><path id="pain-left" d="M860 485 A105 105 0 1 1 650 485 A105 105 0 1 1 860 485" opacity="0"/></svg></div>
+<div class="asset" id="smilehero" data-layout-allow-overflow><img src="assets/smilehero.png" alt="Result and confident straight-smile payoff" style="left:92.44604316546766px;top:-63.30935251798561px;width:736.6906474820144px;height:1105.0359712230215px"></div>
+<div class="asset" id="straightmouth" data-layout-allow-overflow><img src="assets/straightmouth.png" alt="Even straight white teeth close-up" style="left:-51.649928263988585px;top:121.95121951219511px;width:1101.865136298422px;height:734.5767575322812px"></div>
+<div class="asset" id="guide" data-layout-allow-overflow><img src="assets/guide.png" alt="Another option, presenter" style="left:-49.7835497835498px;top:-64.06926406926407px;width:1064.0692640692641px;height:1108.2251082251082px"></div>
+<div class="asset" id="aligner" data-layout-allow-overflow><img src="assets/aligner.png" alt="Empty clear removable aligner shell" style="left:-26.86817800167926px;top:-27.28799328295551px;width:1052.896725440806px;height:1052.896725440806px"><svg class="annotation" viewBox="0 0 1000 1000"><path id="not-left" d="M220 220 L780 780" opacity="0"/><path id="not-right" d="M780 220 L220 780" opacity="0"/></svg></div>
+<div class="asset" id="alignerfit" data-layout-allow-overflow><img src="assets/alignerfit.png" alt="Matched tray above teeth and fitting arrow" style="left:-132.05645161290323px;top:-136.08870967741936px;width:1264.1129032258063px;height:1264.1129032258063px"><svg class="annotation" viewBox="0 0 1000 1000"><path id="fit-arrow" d="M500 535 L500 715 L472 680 M500 715 L528 680" opacity="0"/></svg></div>
+<div class="asset" id="alignerwear" data-layout-allow-overflow><img src="assets/alignerwear.png" alt="Thin clear shell over teeth, close-up" style="left:-40.30226700251889px;top:-22.250209907640645px;width:1052.896725440806px;height:1052.896725440806px"></div>
+<div class="asset" id="daily" data-layout-allow-overflow><img src="assets/daily.png" alt="Almost invisible in daily life" style="left:83.57879234167893px;top:-74.37407952871877px;width:754.0500736377026px;height:1131.0751104565538px"></div>
+<div class="asset" id="crookedmouth" data-layout-allow-overflow><img src="assets/crookedmouth.png" alt="Severe crowding illustration; limitation phrase" style="left:-49.35622317596567px;top:132.68955650929902px;width:1098.7124463519312px;height:732.4749642346209px"></div>
+<div class="asset" id="consult" data-layout-allow-overflow><img src="assets/consult.png" alt="Actual clinician/patient consultation" style="left:-190.94138543516874px;top:45.73712255772648px;width:1364.120781527531px;height:909.4138543516874px"></div>
+<div class="asset" id="dentist" data-layout-allow-overflow><img src="assets/dentist.png" alt="Professional dental care" style="left:46.34721131186177px;top:-80.91123330714846px;width:853.1029065200314px;height:1137.4705420267085px"></div>
+<div class="asset" id="earlycare" data-layout-allow-overflow><img src="assets/earlycare.png" alt="Earlier tooth-care action" style="left:130.28439661798618px;top:-98.3858570330515px;width:787.086856264412px;height:1180.630284396618px"></div>
+<div class="asset" id="tagphone" data-layout-allow-overflow><img src="assets/tagphone.png" alt="Tag friend, readable @FRIEND send UI" style="left:126.02535421327366px;top:-90.23117076808352px;width:763.6092468307234px;height:1145.413870246085px"></div>
+<div class="asset" id="friendbraces" data-layout-allow-overflow><img src="assets/friendbraces.png" alt="Friendly crooked-smile friend, relevant closing joke" style="left:97.05882352941174px;top:-72.79411764705888px;width:752.9411764705883px;height:1129.4117647058824px"></div>
+<div class="caption" id="cap0"><span>How to know if</span></div>
+<div class="caption" id="cap1"><span><b>braces</b> are</span></div>
+<div class="caption" id="cap2"><span><b>right</b> for you.</span></div>
+<div class="caption" id="cap3"><span>This is</span></div>
+<div class="caption" id="cap4"><span>preparation for <b>adult</b> life.</span></div>
+<div class="caption" id="cap5"><span>Part <b>three.</b></span></div>
+<div class="caption" id="cap6"><span>If you think</span></div>
+<div class="caption" id="cap7"><span><b>braces</b> might</span></div>
+<div class="caption" id="cap8"><span>not be</span></div>
+<div class="caption" id="cap9"><span><b>right</b> for you,</span></div>
+<div class="caption" id="cap10"><span>try this</span></div>
+<div class="caption" id="cap11"><span><b>TikTok</b> <b>mask.</b></span></div>
+<div class="caption" id="cap12"><span>You have to</span></div>
+<div class="caption" id="cap13"><span>wear <b>braces</b></span></div>
+<div class="caption" id="cap14"><span>from</span></div>
+<div class="caption" id="cap15"><span><b>one</b> <b>year</b></span></div>
+<div class="caption" id="cap16"><span>and sometimes even</span></div>
+<div class="caption" id="cap17"><span>up to</span></div>
+<div class="caption" id="cap18"><span><b>three</b> <b>years.</b></span></div>
+<div class="caption" id="cap19"><span>Besides changes</span></div>
+<div class="caption" id="cap20"><span>in your</span></div>
+<div class="caption" id="cap21"><span><b>speech,</b></span></div>
+<div class="caption" id="cap22"><span>your <b>teeth</b> will</span></div>
+<div class="caption" id="cap23"><span>often <b>hurt</b> too.</span></div>
+<div class="caption" id="cap24"><span>But the</span></div>
+<div class="caption" id="cap25"><span><b>result</b> is</span></div>
+<div class="caption" id="cap26"><span><b>worth</b> it.</span></div>
+<div class="caption" id="cap27"><span>Because with</span></div>
+<div class="caption" id="cap28"><span><b>straight</b> <b>teeth,</b></span></div>
+<div class="caption" id="cap29"><span>you&#x27;ll be</span></div>
+<div class="caption" id="cap30"><span>several times</span></div>
+<div class="caption" id="cap31"><span>more <b>attractive.</b></span></div>
+<div class="caption" id="cap32"><span>But there&#x27;s</span></div>
+<div class="caption" id="cap33"><span><b>another</b> <b>option.</b></span></div>
+<div class="caption" id="cap34"><span><b>Aligners.</b></span></div>
+<div class="caption" id="cap35"><span>These are</span></div>
+<div class="caption" id="cap36"><span><b>clear</b> <b>trays</b></span></div>
+<div class="caption" id="cap37"><span>that <b>fit</b></span></div>
+<div class="caption" id="cap38"><span>over your <b>teeth</b></span></div>
+<div class="caption" id="cap39"><span>and are</span></div>
+<div class="caption" id="cap40"><span>almost <b>invisible</b></span></div>
+<div class="caption" id="cap41"><span>in <b>daily</b> life.</span></div>
+<div class="caption" id="cap42"><span>But they</span></div>
+<div class="caption" id="cap43"><span>don&#x27;t work</span></div>
+<div class="caption" id="cap44"><span>for</span></div>
+<div class="caption" id="cap45"><span><b>severe</b> <b>crookedness.</b></span></div>
+<div class="caption" id="cap46"><span>So it&#x27;s</span></div>
+<div class="caption" id="cap47"><span>best to</span></div>
+<div class="caption" id="cap48"><span>visit a</span></div>
+<div class="caption" id="cap49"><span><b>doctor</b></span></div>
+<div class="caption" id="cap50"><span>and <b>consult.</b></span></div>
+<div class="caption" id="cap51"><span>Because the</span></div>
+<div class="caption" id="cap52"><span><b>earlier</b> you</span></div>
+<div class="caption" id="cap53"><span>take <b>care</b> of</span></div>
+<div class="caption" id="cap54"><span>your <b>teeth,</b></span></div>
+<div class="caption" id="cap55"><span>the sooner</span></div>
+<div class="caption" id="cap56"><span>you&#x27;ll become</span></div>
+<div class="caption" id="cap57"><span>more <b>attractive.</b></span></div>
+<div class="caption" id="cap58"><span><b>Tag</b> a</span></div>
+<div class="caption" id="cap59"><span><b>friend</b> who</span></div>
+<div class="caption" id="cap60"><span><b>urgently</b> needs</span></div>
+<div class="caption" id="cap61"><span>my <b>guide.</b></span></div>
+<div id="part" class="label part">PART 3</div><div id="upto" class="label qualifier">UP TO</div>
+<div class="shade"></div><audio id="audio" src="assets/mix.wav" data-start="0" data-duration="42.63333333333333" data-track-index="1"></audio></div>
+<script>window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});window.__timelines.main=tl;
+tl.fromTo("#bracehero",{"x": -60.60365425158116, "y": 640.0, "scale": 0.774, "opacity": 0},{"x": 9.999999999999943, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.52, "ease": "power3.out", "immediateRender": false},0.1);
+tl.to("#bracehero",{"x": 84.99999999999997, "y": 1100.0, "scale": 0.49, "duration": 0.52, "ease": "power2.inOut"},1.18);
+tl.fromTo("#bracesmouth",{"x": 238.0, "y": 465.0, "scale": 0.602, "opacity": 0},{"x": 120.00000000000004, "y": 465.0, "scale": 0.7, "opacity": 1, "duration": 0.52, "ease": "power3.out", "immediateRender": false},1.18);
+tl.fromTo("#adultlife",{"x": 195.4827844311377, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.000000000000057, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},3.1);
+tl.to("#bracehero",{"x": -0.11138439915670517, "y": 1135.0, "scale": 0.441, "duration": 0.53, "ease": "power2.in"},3.1);
+tl.to("#bracehero",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},3.125);
+tl.to("#bracesmouth",{"x": 80.00000000000004, "y": 500.0, "scale": 0.63, "duration": 0.53, "ease": "power2.in"},3.1);
+tl.to("#bracesmouth",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},3.125);
+tl.fromTo("#part",{"opacity": 0, "y": 15},{"opacity": 1, "y": 0, "duration": 0.18, "ease": "power3.out", "immediateRender": false},5.34);
+tl.to("#part",{"opacity": 0, "duration": 0.15, "ease": "power1.out"},5.95);
+tl.fromTo("#uncertain",{"x": -102.04855842185128, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.0, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},6.14);
+tl.to("#adultlife",{"x": 127.00000000000006, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},6.14);
+tl.to("#adultlife",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},6.165);
+tl.to("#uncertain",{"x": 85.00000000000001, "y": 1100.0, "scale": 0.49, "duration": 0.5, "ease": "power2.inOut"},8.76);
+tl.fromTo("#filtercard",{"x": 203.60000000000002, "y": 440.0, "scale": 0.6364, "opacity": 0},{"x": 100.0, "y": 440.0, "scale": 0.74, "opacity": 1, "duration": 0.5, "ease": "power3.out", "immediateRender": false},8.76);
+tl.fromTo("#bracehero",{"x": -60.60365425158116, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 9.999999999999943, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},10.2);
+tl.to("#uncertain",{"x": 202.0, "y": 1135.0, "scale": 0.441, "duration": 0.53, "ease": "power2.in"},10.2);
+tl.to("#uncertain",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},10.225);
+tl.to("#filtercard",{"x": 174.0, "y": 475.0, "scale": 0.666, "duration": 0.53, "ease": "power2.in"},10.2);
+tl.to("#filtercard",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},10.225);
+tl.to("#bracehero",{"x": 84.99999999999997, "y": 1100.0, "scale": 0.49, "duration": 0.52, "ease": "power2.inOut"},11.44);
+tl.fromTo("#yearone",{"x": 410.97442827442825, "y": 580.0, "scale": 0.4386, "opacity": 0},{"x": 315.0, "y": 580.0, "scale": 0.51, "opacity": 1, "duration": 0.52, "ease": "power3.out", "immediateRender": false},11.44);
+tl.fromTo("#yearthree",{"x": 358.4, "y": 505.6181474480151, "scale": 0.48160000000000003, "opacity": 0},{"x": 280.0, "y": 570.0, "scale": 0.56, "opacity": 1, "duration": 0.45, "ease": "power3.out", "immediateRender": false},13.4);
+tl.to("#yearone",{"x": 205.0, "y": 625.0, "scale": 0.459, "duration": 0.45, "ease": "power2.in"},13.4);
+tl.to("#yearone",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},13.425);
+tl.fromTo("#upto",{"opacity": 0, "y": 15},{"opacity": 1, "y": 0, "duration": 0.18, "ease": "power3.out", "immediateRender": false},13.14);
+tl.to("#upto",{"opacity": 0, "duration": 0.15, "ease": "power1.out"},14.24);
+tl.fromTo("#speech",{"x": -26.424999999999997, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.0, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},14.5);
+tl.to("#bracehero",{"x": 201.99999999999997, "y": 1135.0, "scale": 0.441, "duration": 0.53, "ease": "power2.in"},14.5);
+tl.to("#bracehero",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},14.525);
+tl.to("#yearthree",{"x": 335.9999999999999, "y": 605.0, "scale": 0.5040000000000001, "duration": 0.53, "ease": "power2.in"},14.5);
+tl.to("#yearthree",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},14.525);
+tl.fromTo("#jawpain",{"x": 169.99999999999994, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 9.999999999999943, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},16.32);
+tl.to("#speech",{"x": -31.375000000000014, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},16.32);
+tl.to("#speech",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},16.345);
+tl.to("#jawpain",{"x": 90.0, "y": 1110.0, "scale": 0.48, "duration": 0.43, "ease": "power2.inOut"},17.24);
+tl.fromTo("#soretooth",{"x": 421.39764344262295, "y": 580.0, "scale": 0.4386, "opacity": 0},{"x": 315.0, "y": 580.0, "scale": 0.51, "opacity": 1, "duration": 0.43, "ease": "power3.out", "immediateRender": false},17.24);
+tl.set("#pain-left",{opacity:1,strokeDasharray:document.querySelector("#pain-left").getTotalLength(),strokeDashoffset:document.querySelector("#pain-left").getTotalLength()},17.26);
+tl.to("#pain-left",{"strokeDashoffset": 0, "duration": 0.3, "ease": "sine.inOut"},17.26);
+tl.to("#pain-left",{"opacity": 0, "duration": 0.16, "ease": "power1.out"},17.92);
+tl.fromTo("#smilehero",{"x": -78.97625899280578, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.0, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},18.08);
+tl.to("#jawpain",{"x": 200.5, "y": 1145.0, "scale": 0.432, "duration": 0.53, "ease": "power2.in"},18.08);
+tl.to("#jawpain",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},18.105);
+tl.to("#soretooth",{"x": 401.9277663934426, "y": 615.0, "scale": 0.459, "duration": 0.53, "ease": "power2.in"},18.08);
+tl.to("#soretooth",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},18.105);
+tl.fromTo("#straightmouth",{"x": 229.4000000000001, "y": 570.0, "scale": 0.6105999999999999, "opacity": 0},{"x": 110.00000000000004, "y": 570.0, "scale": 0.71, "opacity": 1, "duration": 0.48, "ease": "power3.out", "immediateRender": false},20.22);
+tl.to("#smilehero",{"x": -86.37050359712234, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},20.22);
+tl.to("#smilehero",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},20.245);
+tl.fromTo("#smilehero",{"x": 334.31381294964035, "y": 570.0, "scale": 0.6364, "opacity": 0},{"x": 230.0, "y": 570.0, "scale": 0.74, "opacity": 1, "duration": 0.52, "ease": "power3.out", "immediateRender": false},21.06);
+tl.to("#straightmouth",{"x": 90.00000000000003, "y": 1210.0, "scale": 0.42, "duration": 0.52, "ease": "power2.inOut"},21.06);
+tl.fromTo("#guide",{"x": -7.451948051948051, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.000000000000043, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},23.12);
+tl.to("#straightmouth",{"x": 207.00000000000003, "y": 1245.0, "scale": 0.378, "duration": 0.53, "ease": "power2.in"},23.12);
+tl.to("#straightmouth",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},23.145);
+tl.to("#smilehero",{"x": 310.79352517985615, "y": 605.0, "scale": 0.666, "duration": 0.53, "ease": "power2.in"},23.12);
+tl.to("#smilehero",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},23.145);
+tl.to("#guide",{"x": 90.00000000000003, "y": 1110.0, "scale": 0.48, "duration": 0.5, "ease": "power2.inOut"},24.74);
+tl.fromTo("#aligner",{"x": 289.6, "y": 510.0, "scale": 0.5504, "opacity": 0},{"x": 200.0, "y": 510.0, "scale": 0.64, "opacity": 1, "duration": 0.5, "ease": "power3.out", "immediateRender": false},24.74);
+tl.fromTo("#alignerfit",{"x": 80.0, "y": 640.0, "scale": 0.6364, "opacity": 0},{"x": 100.0, "y": 640.0, "scale": 0.74, "opacity": 1, "duration": 0.46, "ease": "power3.out", "immediateRender": false},25.6);
+tl.to("#guide",{"x": 194.00000000000003, "y": 1145.0, "scale": 0.432, "duration": 0.53, "ease": "power2.in"},25.6);
+tl.to("#guide",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},25.625);
+tl.to("#aligner",{"x": 263.9999999999999, "y": 545.0, "scale": 0.5760000000000001, "duration": 0.53, "ease": "power2.in"},25.6);
+tl.to("#aligner",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},25.625);
+tl.set("#fit-arrow",{opacity:1,strokeDasharray:document.querySelector("#fit-arrow").getTotalLength(),strokeDashoffset:document.querySelector("#fit-arrow").getTotalLength()},26.86);
+tl.to("#fit-arrow",{"strokeDashoffset": 0, "duration": 0.6, "ease": "sine.inOut"},26.86);
+tl.to("#fit-arrow",{"opacity": 0, "duration": 0.16, "ease": "power1.out"},27.62);
+tl.fromTo("#alignerwear",{"x": 229.4000000000001, "y": 650.0, "scale": 0.6105999999999999, "opacity": 0},{"x": 110.0, "y": 650.0, "scale": 0.71, "opacity": 1, "duration": 0.46, "ease": "power3.out", "immediateRender": false},27.8);
+tl.to("#alignerfit",{"x": 80.0, "y": 675.0, "scale": 0.666, "duration": 0.53, "ease": "power2.in"},27.8);
+tl.to("#alignerfit",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},27.825);
+tl.fromTo("#daily",{"x": -90.1318114874816, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.000000000000028, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.46, "ease": "power3.out", "immediateRender": false},29.1);
+tl.to("#alignerwear",{"x": 201.0, "y": 685.0, "scale": 0.639, "duration": 0.53, "ease": "power2.in"},29.1);
+tl.to("#alignerwear",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},29.125);
+tl.fromTo("#crookedmouth",{"x": 203.60000000000002, "y": 475.0, "scale": 0.6364, "opacity": 0},{"x": 100.0, "y": 475.0, "scale": 0.74, "opacity": 1, "duration": 0.47, "ease": "power3.out", "immediateRender": false},30.5);
+tl.to("#daily",{"x": -87.49999999999997, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},30.5);
+tl.to("#daily",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},30.525);
+tl.fromTo("#aligner",{"x": 80.0, "y": 1105.0, "scale": 0.5246, "opacity": 0},{"x": 160.0, "y": 1055.0, "scale": 0.61, "opacity": 1, "duration": 0.47, "ease": "power3.out", "immediateRender": false},30.5);
+tl.set("#not-left",{opacity:1,strokeDasharray:document.querySelector("#not-left").getTotalLength(),strokeDashoffset:document.querySelector("#not-left").getTotalLength()},31.26);
+tl.to("#not-left",{"strokeDashoffset": 0, "duration": 0.3, "ease": "sine.inOut"},31.26);
+tl.to("#not-left",{"opacity": 0, "duration": 0.16, "ease": "power1.out"},33.12);
+tl.set("#not-right",{opacity:1,strokeDasharray:document.querySelector("#not-right").getTotalLength(),strokeDashoffset:document.querySelector("#not-right").getTotalLength()},31.380000000000003);
+tl.to("#not-right",{"strokeDashoffset": 0, "duration": 0.3, "ease": "sine.inOut"},31.38);
+tl.to("#not-right",{"opacity": 0, "duration": 0.16, "ease": "power1.out"},33.12);
+tl.fromTo("#consult",{"x": 80.0, "y": 705.0, "scale": 0.6364, "opacity": 0},{"x": 90.0, "y": 705.0, "scale": 0.74, "opacity": 1, "duration": 0.58, "ease": "power3.out", "immediateRender": false},33.4);
+tl.to("#crookedmouth",{"x": 174.0, "y": 510.0, "scale": 0.666, "duration": 0.53, "ease": "power2.in"},33.4);
+tl.to("#crookedmouth",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},33.425);
+tl.to("#aligner",{"x": 270.5, "y": 1090.0, "scale": 0.549, "duration": 0.53, "ease": "power2.in"},33.4);
+tl.to("#aligner",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},33.425);
+tl.fromTo("#dentist",{"x": 170.0, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 10.0, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.48, "ease": "power3.out", "immediateRender": false},35.92);
+tl.to("#consult",{"x": 80.0, "y": 740.0, "scale": 0.666, "duration": 0.53, "ease": "power2.in"},35.92);
+tl.to("#consult",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},35.945);
+tl.fromTo("#earlycare",{"x": -120.78785549577248, "y": 580.0, "scale": 0.774, "opacity": 0},{"x": 9.999999999999972, "y": 580.0, "scale": 0.9, "opacity": 1, "duration": 0.47, "ease": "power3.out", "immediateRender": false},37.26);
+tl.to("#dentist",{"x": 107.5, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},37.26);
+tl.to("#dentist",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},37.285);
+tl.fromTo("#smilehero",{"x": 129.99999999999997, "y": 560.0, "scale": 0.8428, "opacity": 0},{"x": -30.00000000000003, "y": 560.0, "scale": 0.98, "opacity": 1, "duration": 0.5, "ease": "power3.out", "immediateRender": false},38.06);
+tl.to("#earlycare",{"x": -94.00000000000003, "y": 615.0, "scale": 0.81, "duration": 0.53, "ease": "power2.in"},38.06);
+tl.to("#earlycare",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},38.085);
+tl.fromTo("#tagphone",{"x": 205.0, "y": 570.0, "scale": 0.4386, "opacity": 0},{"x": 355.0, "y": 570.0, "scale": 0.51, "opacity": 1, "duration": 0.48, "ease": "power3.out", "immediateRender": false},39.98);
+tl.to("#smilehero",{"x": 67.49999999999997, "y": 595.0, "scale": 0.882, "duration": 0.53, "ease": "power2.in"},39.98);
+tl.to("#smilehero",{"opacity": 0, "duration": 0.29, "ease": "power1.out"},40.005);
+tl.fromTo("#friendbraces",{"x": -3.970147058823528, "y": 1130.0, "scale": 0.4214, "opacity": 0},{"x": 85.0, "y": 1100.0, "scale": 0.49, "opacity": 1, "duration": 0.5, "ease": "power3.out", "immediateRender": false},40.26);
+tl.fromTo("#cap0",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},0.0);
+tl.set("#cap0",{opacity:0},1.18);
+tl.fromTo("#cap1",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},1.18);
+tl.set("#cap1",{opacity:0},1.86);
+tl.fromTo("#cap2",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},1.86);
+tl.set("#cap2",{opacity:0},3.1);
+tl.fromTo("#cap3",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},3.1);
+tl.set("#cap3",{opacity:0},3.4);
+tl.fromTo("#cap4",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},3.4);
+tl.set("#cap4",{opacity:0},5.34);
+tl.fromTo("#cap5",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},5.34);
+tl.set("#cap5",{opacity:0},6.14);
+tl.fromTo("#cap6",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},6.14);
+tl.set("#cap6",{opacity:0},6.62);
+tl.fromTo("#cap7",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},6.62);
+tl.set("#cap7",{opacity:0},7.26);
+tl.fromTo("#cap8",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},7.26);
+tl.set("#cap8",{opacity:0},7.84);
+tl.fromTo("#cap9",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},7.84);
+tl.set("#cap9",{opacity:0},8.76);
+tl.fromTo("#cap10",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},8.76);
+tl.set("#cap10",{opacity:0},9.16);
+tl.fromTo("#cap11",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},9.16);
+tl.set("#cap11",{opacity:0},10.2);
+tl.fromTo("#cap12",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},10.2);
+tl.set("#cap12",{opacity:0},10.6);
+tl.fromTo("#cap13",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},10.6);
+tl.set("#cap13",{opacity:0},11.16);
+tl.fromTo("#cap14",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},11.16);
+tl.set("#cap14",{opacity:0},11.44);
+tl.fromTo("#cap15",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},11.44);
+tl.set("#cap15",{opacity:0},12.02);
+tl.fromTo("#cap16",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},12.02);
+tl.set("#cap16",{opacity:0},13.14);
+tl.fromTo("#cap17",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},13.14);
+tl.set("#cap17",{opacity:0},13.4);
+tl.fromTo("#cap18",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},13.4);
+tl.set("#cap18",{opacity:0},14.5);
+tl.fromTo("#cap19",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},14.5);
+tl.set("#cap19",{opacity:0},15.22);
+tl.fromTo("#cap20",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},15.22);
+tl.set("#cap20",{opacity:0},15.52);
+tl.fromTo("#cap21",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},15.52);
+tl.set("#cap21",{opacity:0},16.32);
+tl.fromTo("#cap22",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},16.32);
+tl.set("#cap22",{opacity:0},16.96);
+tl.fromTo("#cap23",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},16.96);
+tl.set("#cap23",{opacity:0},18.08);
+tl.fromTo("#cap24",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},18.08);
+tl.set("#cap24",{opacity:0},18.32);
+tl.fromTo("#cap25",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},18.32);
+tl.set("#cap25",{opacity:0},19.0);
+tl.fromTo("#cap26",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},19.0);
+tl.set("#cap26",{opacity:0},19.82);
+tl.fromTo("#cap27",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},19.82);
+tl.set("#cap27",{opacity:0},20.22);
+tl.fromTo("#cap28",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},20.22);
+tl.set("#cap28",{opacity:0},21.06);
+tl.fromTo("#cap29",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},21.06);
+tl.set("#cap29",{opacity:0},21.28);
+tl.fromTo("#cap30",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},21.28);
+tl.set("#cap30",{opacity:0},22.08);
+tl.fromTo("#cap31",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},22.08);
+tl.set("#cap31",{opacity:0},23.12);
+tl.fromTo("#cap32",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},23.12);
+tl.set("#cap32",{opacity:0},23.68);
+tl.fromTo("#cap33",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},23.68);
+tl.set("#cap33",{opacity:0},24.74);
+tl.fromTo("#cap34",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},24.74);
+tl.set("#cap34",{opacity:0},25.6);
+tl.fromTo("#cap35",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},25.6);
+tl.set("#cap35",{opacity:0},25.92);
+tl.fromTo("#cap36",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},25.92);
+tl.set("#cap36",{opacity:0},26.6);
+tl.fromTo("#cap37",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},26.6);
+tl.set("#cap37",{opacity:0},27.06);
+tl.fromTo("#cap38",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},27.06);
+tl.set("#cap38",{opacity:0},27.8);
+tl.fromTo("#cap39",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},27.8);
+tl.set("#cap39",{opacity:0},28.12);
+tl.fromTo("#cap40",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},28.12);
+tl.set("#cap40",{opacity:0},29.1);
+tl.fromTo("#cap41",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},29.1);
+tl.set("#cap41",{opacity:0},30.5);
+tl.fromTo("#cap42",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},30.5);
+tl.set("#cap42",{opacity:0},31.26);
+tl.fromTo("#cap43",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},31.26);
+tl.set("#cap43",{opacity:0},31.82);
+tl.fromTo("#cap44",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},31.82);
+tl.set("#cap44",{opacity:0},32.06);
+tl.fromTo("#cap45",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},32.06);
+tl.set("#cap45",{opacity:0},33.4);
+tl.fromTo("#cap46",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},33.4);
+tl.set("#cap46",{opacity:0},33.96);
+tl.fromTo("#cap47",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},33.96);
+tl.set("#cap47",{opacity:0},34.32);
+tl.fromTo("#cap48",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},34.32);
+tl.set("#cap48",{opacity:0},34.66);
+tl.fromTo("#cap49",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},34.66);
+tl.set("#cap49",{opacity:0},35.0);
+tl.fromTo("#cap50",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},35.0);
+tl.set("#cap50",{opacity:0},35.92);
+tl.fromTo("#cap51",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},35.92);
+tl.set("#cap51",{opacity:0},36.26);
+tl.fromTo("#cap52",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},36.26);
+tl.set("#cap52",{opacity:0},36.84);
+tl.fromTo("#cap53",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},36.84);
+tl.set("#cap53",{opacity:0},37.4);
+tl.fromTo("#cap54",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},37.4);
+tl.set("#cap54",{opacity:0},38.06);
+tl.fromTo("#cap55",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},38.06);
+tl.set("#cap55",{opacity:0},38.46);
+tl.fromTo("#cap56",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},38.46);
+tl.set("#cap56",{opacity:0},38.92);
+tl.fromTo("#cap57",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},38.92);
+tl.set("#cap57",{opacity:0},39.98);
+tl.fromTo("#cap58",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},39.98);
+tl.set("#cap58",{opacity:0},40.26);
+tl.fromTo("#cap59",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},40.26);
+tl.set("#cap59",{opacity:0},40.7);
+tl.fromTo("#cap60",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},40.7);
+tl.set("#cap60",{opacity:0},41.54);
+tl.fromTo("#cap61",{"opacity": 0, "y": 12},{"opacity": 1, "y": 0, "duration": 0.1, "ease": "power2.out", "immediateRender": false},41.54);
+tl.set("#cap61",{opacity:0},42.63333333333333);
+tl.seek(0);</script></body></html>

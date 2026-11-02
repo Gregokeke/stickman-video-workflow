@@ -1,0 +1,1 @@
+Keep the exact uploaded man-holding-plate illustration. A held prop or body-contact prop can be generated with the character when the grip/contact matters. Separate independently moving objects such as the sugar bowl. This clarification applies throughout the ongoing video.

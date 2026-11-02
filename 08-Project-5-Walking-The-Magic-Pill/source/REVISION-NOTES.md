@@ -1,0 +1,1 @@
+Single requested correction: the second scene now uses one large vertical black gauge with red fill, starting at 88 and falling to 76. 100 is marked at the top. The right-side presenter and pill-taking character are larger. Cane tip follows the falling fill level over 95.04px. All other scenes and all audio are unchanged.

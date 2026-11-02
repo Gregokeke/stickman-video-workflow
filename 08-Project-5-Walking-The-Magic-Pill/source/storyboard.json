@@ -1,0 +1,790 @@
+[
+  {
+    "asset": "pharma-salesman",
+    "start": 0,
+    "end": 4.86,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "If Big Pharma dropped a pill that cut your risk of dying by 12%, and let you stack another",
+    "last_relevant_time": 4.86,
+    "layout": [
+      430,
+      1090,
+      680,
+      1050
+    ]
+  },
+  {
+    "asset": "death-hourglass",
+    "start": 3.1,
+    "end": 4.86,
+    "role": "support",
+    "layout": [
+      700,
+      1245,
+      220,
+      350
+    ],
+    "exact_phrase": "of dying by 12%",
+    "last_relevant_time": 4.86,
+    "handoff": "retain together",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "cane-presenter-left",
+    "start": 4.52,
+    "end": 7.48,
+    "role": "hero",
+    "layout": [
+      675,
+      1150.2,
+      640,
+      850
+    ],
+    "exact_phrase": "and let you stack another 12%",
+    "last_relevant_time": 7.48,
+    "handoff": "motivated replacement",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "happy-pill-pop",
+    "start": 7.14,
+    "end": 8.95,
+    "role": "hero",
+    "layout": [
+      755,
+      1150,
+      450,
+      1000
+    ],
+    "exact_phrase": "for every extra pill you popped",
+    "last_relevant_time": 8.95,
+    "handoff": "motivated replacement",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "zero-effects",
+    "start": 8.6,
+    "end": 10.58,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "you popped with zero side effects, how many of it would",
+    "last_relevant_time": 10.58
+  },
+  {
+    "asset": "eager-buyer",
+    "start": 10.24,
+    "end": 13.04,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "how many of it would you snag for yourself? Well,",
+    "last_relevant_time": 13.04
+  },
+  {
+    "asset": "sarcastic-presenter",
+    "start": 12.7,
+    "end": 15.72,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Well, that drug actually exists. The bad news is,",
+    "last_relevant_time": 15.72
+  },
+  {
+    "asset": "confused",
+    "start": 15.38,
+    "end": 18.58,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "The bad news is, it doesn't come in a bottle, so you can't wash it",
+    "last_relevant_time": 18.58,
+    "layout": [
+      490,
+      1090,
+      850,
+      1050
+    ]
+  },
+  {
+    "asset": "pill-refusal",
+    "start": 16.46,
+    "end": 18.6,
+    "role": "hero",
+    "layout": [
+      420,
+      1060,
+      700,
+      900
+    ],
+    "exact_phrase": "it doesn't come in a bottle",
+    "last_relevant_time": 18.6,
+    "handoff": "motivated replacement",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "coffee-sip",
+    "start": 18.26,
+    "end": 21.0,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "so you can't wash it down with a nice coffee while rotting on the couch.",
+    "last_relevant_time": 21.0
+  },
+  {
+    "asset": "couch-slouch",
+    "start": 20.6,
+    "end": 22.22,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "while rotting on the couch. It's called walking,",
+    "last_relevant_time": 22.22
+  },
+  {
+    "asset": "walking-hero",
+    "start": 21.88,
+    "end": 23.96,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "It's called walking, something your legs were allegedly designed to do. Researchers tracked people's daily movement",
+    "last_relevant_time": 23.96
+  },
+  {
+    "asset": "legs-exasperated",
+    "start": 23.62,
+    "end": 26.24,
+    "role": "hero",
+    "layout": [
+      490,
+      1090,
+      750,
+      960
+    ],
+    "exact_phrase": "something your legs were allegedly designed to do",
+    "last_relevant_time": 26.24,
+    "handoff": "motivated replacement",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "lab-scientist",
+    "start": 25.9,
+    "end": 28.4,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Researchers tracked people's daily movement and split them into groups.",
+    "last_relevant_time": 28.4,
+    "layout": [
+      335,
+      1100,
+      530,
+      920
+    ]
+  },
+  {
+    "asset": "clipboard-study",
+    "start": 26.2,
+    "end": 27.56,
+    "role": "support",
+    "layout": [
+      710,
+      1250,
+      245,
+      320
+    ],
+    "exact_phrase": "Researchers tracked people's daily movement",
+    "last_relevant_time": 27.56,
+    "handoff": "retain together",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "calendar",
+    "start": 27.18,
+    "end": 28.38,
+    "role": "support",
+    "layout": [
+      710,
+      830,
+      230,
+      250
+    ],
+    "exact_phrase": "daily movement and split them into groups",
+    "last_relevant_time": 28.38,
+    "handoff": "retain together",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "step-counter",
+    "start": 27.32,
+    "end": 28.38,
+    "role": "support",
+    "layout": [
+      710,
+      1250,
+      260,
+      330
+    ],
+    "exact_phrase": "movement and split them into groups",
+    "last_relevant_time": 28.38,
+    "handoff": "retain together",
+    "motion": "Explicit phrase-matched choreography; chart or subject retained only while relevant."
+  },
+  {
+    "asset": "research-participants",
+    "start": 28.08,
+    "end": 31.04,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "and split them into groups. Starting at the bottom with the 3,000 step crowd,",
+    "last_relevant_time": 31.04
+  },
+  {
+    "asset": "doorstep-shuffle",
+    "start": 30.7,
+    "end": 35.76,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "the 3,000 step crowd, whose only daily cardio is shuffling to the front door to grab Uber Eats,",
+    "last_relevant_time": 35.76,
+    "layout": [
+      490,
+      1090,
+      760,
+      1070
+    ]
+  },
+  {
+    "asset": "doorstep-handoff",
+    "start": 35.42,
+    "end": 37.9,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "to grab Uber Eats, all the way up to the 16,000 step psychopaths,",
+    "last_relevant_time": 37.9,
+    "layout": [
+      485,
+      1090,
+      850,
+      950
+    ]
+  },
+  {
+    "asset": "long-distance-walker",
+    "start": 37.56,
+    "end": 42.72,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "the 16,000 step psychopaths, who apparently have nowhere to sit and zero existential dread",
+    "last_relevant_time": 42.72,
+    "layout": [
+      480,
+      1090,
+      700,
+      1030
+    ]
+  },
+  {
+    "asset": "watch16000",
+    "start": 38.16,
+    "end": 40.65,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "the 16,000 step psychopaths, who apparently have nowhere to",
+    "last_relevant_time": 40.65,
+    "layout": [
+      745,
+      1290,
+      245,
+      320
+    ]
+  },
+  {
+    "asset": "horizontal-dread",
+    "start": 42.4,
+    "end": 45.42,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "sit and zero existential dread keeping them horizontal. And they found that for",
+    "last_relevant_time": 45.42,
+    "layout": [
+      485,
+      1120,
+      850,
+      780
+    ]
+  },
+  {
+    "asset": "cane-presenter",
+    "start": 45.08,
+    "end": 52.76,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "And they found that for every extra 1,000 steps someone took, their risk of dying from all causes dropped by 12%. Every thousand steps,",
+    "last_relevant_time": 52.76
+  },
+  {
+    "asset": "extra-step-foot",
+    "start": 46.34,
+    "end": 48.92,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "every extra 1,000 steps someone took,",
+    "last_relevant_time": 48.92
+  },
+  {
+    "asset": "closed-coffin",
+    "start": 49.28,
+    "end": 51.1,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "their risk of dying from all causes dropped by 12%.",
+    "last_relevant_time": 51.1
+  },
+  {
+    "asset": "bribe-handoff",
+    "start": 52.42,
+    "end": 56.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Every thousand steps, you're basically bribing the Grim Reaper to look the other",
+    "last_relevant_time": 56.64
+  },
+  {
+    "asset": "reaper-look-away",
+    "start": 56.3,
+    "end": 58.28,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Reaper to look the other way. But that's not even the most offensive part of the",
+    "last_relevant_time": 58.28
+  },
+  {
+    "asset": "offended-professor",
+    "start": 57.94,
+    "end": 60.02,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "most offensive part of the study. When scientists compared the people",
+    "last_relevant_time": 60.02
+  },
+  {
+    "asset": "bottom-marinate",
+    "start": 59.68,
+    "end": 64.02,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "When scientists compared the people marinating at the bottom to the ones at the top, the least active group had",
+    "last_relevant_time": 64.02,
+    "layout": [
+      480,
+      1110,
+      790,
+      830
+    ]
+  },
+  {
+    "asset": "top-energetic",
+    "start": 62.18,
+    "end": 64.02,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "marinating at the bottom to the ones at the top, the least active group had",
+    "last_relevant_time": 64.02,
+    "layout": [
+      715,
+      1120,
+      345,
+      680
+    ]
+  },
+  {
+    "asset": "least-active-chair",
+    "start": 63.68,
+    "end": 67.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "the least active group had a 3-fold higher risk of death. Just to put into perspective",
+    "last_relevant_time": 67.64
+  },
+  {
+    "asset": "top-walker-check",
+    "start": 64.26,
+    "end": 67.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "the least active group had a 3-fold higher risk of death. Just to put into perspective",
+    "last_relevant_time": 67.64
+  },
+  {
+    "asset": "shocked-comparison",
+    "start": 67.3,
+    "end": 71.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Just to put into perspective how absurd that is, smoking cigarettes only increases your",
+    "last_relevant_time": 71.64
+  },
+  {
+    "asset": "smoker",
+    "start": 71.3,
+    "end": 75.68,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "smoking cigarettes only increases your risk of dying by about 2-fold compared to non-smokers. Let that sink in.",
+    "last_relevant_time": 75.68
+  },
+  {
+    "asset": "non-smoker",
+    "start": 72.74,
+    "end": 75.68,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "risk of dying by about 2-fold compared to non-smokers. Let that sink in.",
+    "last_relevant_time": 75.68
+  },
+  {
+    "asset": "sink",
+    "start": 75.34,
+    "end": 77.46,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Let that sink in. Statistically,",
+    "last_relevant_time": 77.46
+  },
+  {
+    "asset": "sarcastic-presenter",
+    "start": 75.34,
+    "end": 78.38,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Let that sink in. Statistically, rotting in your bed all",
+    "last_relevant_time": 78.38
+  },
+  {
+    "asset": "rotting-bed",
+    "start": 78.04,
+    "end": 82.68,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "rotting in your bed all day is more lethal than a pack a day habit. Your mattress is literally outperforming",
+    "last_relevant_time": 82.68,
+    "layout": [
+      475,
+      1100,
+      850,
+      790
+    ]
+  },
+  {
+    "asset": "cigarette-pack",
+    "start": 80.46,
+    "end": 82.68,
+    "handoff": "retain together",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "a pack a day habit. Your mattress is literally outperforming",
+    "last_relevant_time": 82.68,
+    "layout": [
+      735,
+      1200,
+      265,
+      360
+    ]
+  },
+  {
+    "asset": "mattress-winner",
+    "start": 82.34,
+    "end": 86.38,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Your mattress is literally outperforming lung cancer.",
+    "last_relevant_time": 86.38,
+    "layout": [
+      475,
+      1090,
+      700,
+      950
+    ]
+  },
+  {
+    "asset": "lungs",
+    "start": 84.82,
+    "end": 86.38,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "lung cancer.",
+    "last_relevant_time": 86.38,
+    "layout": [
+      760,
+      1290,
+      240,
+      300
+    ]
+  },
+  {
+    "asset": "smoking-reject",
+    "start": 86.04,
+    "end": 91.04,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "Now, I'm not saying you should pick up smoking for your health, and you definitely don't need to march 16,000 steps a",
+    "last_relevant_time": 91.04,
+    "layout": [
+      485,
+      1090,
+      820,
+      1000
+    ]
+  },
+  {
+    "asset": "marching-person",
+    "start": 90.7,
+    "end": 93.38,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "to march 16,000 steps a day like you're fleeing a",
+    "last_relevant_time": 93.38,
+    "layout": [
+      475,
+      1090,
+      700,
+      1000
+    ]
+  },
+  {
+    "asset": "watch16000",
+    "start": 91.14,
+    "end": 93.38,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "to march 16,000 steps a day like you're fleeing a",
+    "last_relevant_time": 93.38,
+    "layout": [
+      745,
+      1290,
+      245,
+      320
+    ]
+  },
+  {
+    "asset": "sprint",
+    "start": 93.04,
+    "end": 94.8,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "day like you're fleeing a crime scene. The average American barely scrapes",
+    "last_relevant_time": 94.8
+  },
+  {
+    "asset": "average-slow",
+    "start": 94.46,
+    "end": 98.54,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "The average American barely scrapes together 5,000 steps a day. And the wild part is,",
+    "last_relevant_time": 98.54,
+    "layout": [
+      475,
+      1090,
+      680,
+      970
+    ]
+  },
+  {
+    "asset": "pedometer5000",
+    "start": 96.34,
+    "end": 98.54,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "together 5,000 steps a day. And the wild part is,",
+    "last_relevant_time": 98.54,
+    "layout": [
+      745,
+      1300,
+      250,
+      340
+    ]
+  },
+  {
+    "asset": "sarcastic-presenter",
+    "start": 98.2,
+    "end": 100.52,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "And the wild part is, even if you just drag",
+    "last_relevant_time": 100.52
+  },
+  {
+    "asset": "exhausted-drag",
+    "start": 100.18,
+    "end": 103.04,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "even if you just drag your carcass from practically decomposing down here,",
+    "last_relevant_time": 103.04,
+    "layout": [
+      480,
+      1100,
+      730,
+      1010
+    ]
+  },
+  {
+    "asset": "apathy",
+    "start": 102.7,
+    "end": 106.44,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "down here, up to mildly functional right about here,",
+    "last_relevant_time": 106.44
+  },
+  {
+    "asset": "functional-walker",
+    "start": 104.34,
+    "end": 106.44,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "up to mildly functional right about here,",
+    "last_relevant_time": 106.44
+  },
+  {
+    "asset": "cane-presenter",
+    "start": 106.1,
+    "end": 110.78,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "about here, your risk of dying early still plummets by over 50%. You don't need 16,000 steps",
+    "last_relevant_time": 110.78
+  },
+  {
+    "asset": "walking-hero",
+    "start": 110.44,
+    "end": 114.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "You don't need 16,000 steps a day to stay alive. But forcing yourself to take",
+    "last_relevant_time": 114.64
+  },
+  {
+    "asset": "watch16000",
+    "start": 110.44,
+    "end": 113.1,
+    "handoff": "retain together",
+    "role": "support",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "You don't need 16,000 steps a day to stay alive.",
+    "last_relevant_time": 113.1,
+    "layout": [
+      745,
+      1290,
+      245,
+      320
+    ]
+  },
+  {
+    "asset": "tying-shoes",
+    "start": 114.3,
+    "end": 116.64,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "But forcing yourself to take a walk from wherever you're",
+    "last_relevant_time": 116.64,
+    "layout": [
+      480,
+      1120,
+      770,
+      880
+    ]
+  },
+  {
+    "asset": "doorway-walk",
+    "start": 116.3,
+    "end": 118.78,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "a walk from wherever you're at right now is the closest thing you'll ever get",
+    "last_relevant_time": 118.78,
+    "layout": [
+      485,
+      1080,
+      790,
+      1030
+    ]
+  },
+  {
+    "asset": "magic-pill-reveal",
+    "start": 118.44,
+    "end": 122.78,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "closest thing you'll ever get to this magic pill. Unless you're just really eager to let six pallbearers do",
+    "last_relevant_time": 122.78,
+    "layout": [
+      490,
+      1100,
+      790,
+      970
+    ]
+  },
+  {
+    "asset": "pallbearers-six",
+    "start": 122.44,
+    "end": 125.1,
+    "handoff": "replace",
+    "role": "hero",
+    "motion": "Deliberate held illustration with explicit spatial choreography; no automatic prop-driven resizing.",
+    "exact_phrase": "to let six pallbearers do the walking for you.",
+    "last_relevant_time": 125.1,
+    "layout": [
+      485,
+      1090,
+      850,
+      880
+    ]
+  }
+]

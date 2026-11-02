@@ -1,0 +1,10 @@
+{
+  "unchanged": true,
+  "sha256": {
+    "assets/audio/narration.wav": "545ba83f4e00d68f7aa052ec9abe92ffb4532a3104d9411d247561af2ea69747",
+    "audio-edits.json": "dcf74eb6793ce7f002c8ba63580588a77b2760f50447fc3ec99fed3ceb9930dd",
+    "captions.json": "2e2d295f61b1366b718cbb4dbf729aecf7305120582fb62e60fdf09ab3094a68"
+  },
+  "original_effect_cues": 36,
+  "revised_effect_cues": 34
+}

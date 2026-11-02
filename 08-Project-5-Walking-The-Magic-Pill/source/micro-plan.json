@@ -1,0 +1,32 @@
+[
+  {
+    "start": 28.08,
+    "end": 30.85,
+    "type": "step-range",
+    "details": "Ordered equal category scaffolding from 3K to 16K. Highlight only endpoints; no invented risk profile."
+  },
+  {
+    "start": 45.15,
+    "end": 52.6,
+    "type": "relative-12",
+    "details": "Show baseline 100 relative units vs 88; add 1,000 steps; reveal \u221212%. Retain frame, animate fill only. Qualify relative illustration."
+  },
+  {
+    "start": 63.65,
+    "end": 67.35,
+    "type": "ratio-3",
+    "details": "Three filled unit slots versus one, with shared three-slot outlines. Reveal 3\u00d7 after stack."
+  },
+  {
+    "start": 71.3,
+    "end": 75.35,
+    "type": "ratio-2",
+    "details": "Separate smoking comparison: two units versus one, explicitly separate cohorts. No shared absolute scale with inactivity comparison."
+  },
+  {
+    "start": 102.7,
+    "end": 110.55,
+    "type": "more-movement",
+    "details": "Qualitative less active \u2192 more active progression; reveal >50% relative change. No invented step threshold or continuous dataset."
+  }
+]

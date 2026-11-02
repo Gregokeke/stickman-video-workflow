@@ -1,0 +1,118 @@
+{
+  "checked_frames": 643,
+  "interval_seconds": 0.1,
+  "alpha_threshold": 32,
+  "visible_opacity_threshold": 0.1,
+  "foreground_events": [],
+  "assets": {},
+  "caption_hits": [],
+  "documented_exceptions": [
+    {
+      "asset": "tensteps",
+      "start": 6.0,
+      "end": 8.65,
+      "allowed_sides": [
+        "left",
+        "bottom"
+      ],
+      "reason": "User explicitly requested a lower, moderately reduced ten-step illustration at bottom left, deliberately extending below the safe area, with a visible gap beneath the centred SCAM stamp."
+    }
+  ],
+  "expected_exception_events": [
+    {
+      "time": 6.4,
+      "asset": "tensteps",
+      "samples": 9193
+    },
+    {
+      "time": 6.5,
+      "asset": "tensteps",
+      "samples": 12675
+    },
+    {
+      "time": 6.6,
+      "asset": "tensteps",
+      "samples": 14692
+    },
+    {
+      "time": 6.7,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 6.8,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 6.9,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.1,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.2,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.3,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.4,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.5,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.6,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.7,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.8,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 7.9,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 8,
+      "asset": "tensteps",
+      "samples": 14774
+    },
+    {
+      "time": 8.1,
+      "asset": "tensteps",
+      "samples": 15083
+    },
+    {
+      "time": 8.2,
+      "asset": "tensteps",
+      "samples": 15462
+    }
+  ]
+}

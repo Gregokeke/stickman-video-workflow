@@ -1,0 +1,32 @@
+{
+  "generator": "built-in image_gen",
+  "style_references": [
+    "/workspace/scratch/4b81fbe857ee/fresh-red/references/01-IMG-20261023-WA0029.jpg",
+    "/workspace/scratch/4b81fbe857ee/fresh-red/references/03-IMG-20261023-WA0027.jpg",
+    "/workspace/scratch/4b81fbe857ee/fresh-red/references/04-IMG-20261023-WA0026.jpg"
+  ],
+  "assets": {
+    "wall": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-e23d21e9-6be5-4779-ac7e-2a48a84b77fc.png",
+    "unappreciated": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-6d04c6f3-54c1-449f-9603-7ac6c4754623.png",
+    "muted": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-402278ff-530a-4f37-a524-11eae326b2d2.png",
+    "drained": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-3b8592e5-ea6b-4a88-a2ec-4ef61d32cc99.png",
+    "all": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-3f60b940-c50d-4965-93d6-2decbaad913f.png",
+    "scraps": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-d760fae5-ac57-4a96-a6ec-0ee44903c5c8.png",
+    "favors": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-b822037d-9eb5-4903-a529-794374be276b.png",
+    "canyon": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-331f7427-f644-4b9a-8dd7-2640c15ee55e.png",
+    "couch": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-71fee4a8-44e7-47f0-80f6-ef1846349b5c.png",
+    "begging": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-5f7e98d0-e695-4d9a-a67e-d97872a2b9d7.png",
+    "falsepeace": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-189afc88-c1ba-47a9-8e36-309dfbc123c2.png",
+    "funeral": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-4d0c219b-9d50-47c5-ba68-5047a88492cf.png",
+    "phone": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-0f853711-2fb3-460d-92b0-ea8c9fe31a65.png",
+    "suitcase": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-e01be26c-375d-4330-a6a8-ab2d446f682a.png",
+    "unsaid": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-0ac44480-03ae-4fb3-a661-c2b0061f15bd.png",
+    "effort": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-a061d1d0-bc57-4a48-9d0d-872631be7e0b.png",
+    "exhausted": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-4c0953c4-2902-4efe-ad75-5950407c0803.png",
+    "apparentpeace": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-cae460d6-f95e-404b-9eb8-0bfed847e2b3.png",
+    "calendar": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-64724766-eb59-4e87-8579-2e49ae3f6fdc.png",
+    "breakup": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-6bbb6f04-e131-4ceb-a4e5-b974dfe0be1f.png",
+    "checkins": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-d5f5c19d-bfef-40dc-8ea0-b0fc34a5278c.png",
+    "withdrawal": "/workspace/scratch/8dd0ab8ecc13/generated_images/exec-c97a45c4-c0df-424d-9b4a-83cba4f451d8.png"
+  }
+}

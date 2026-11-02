@@ -49,8 +49,25 @@ def main():
    if not p.is_file() or p.stat().st_size!=member['bytes'] or sha(p)!=member['sha256']:errors.append('Original member mismatch: '+name)
  for i in m['files']:
   if i['bytes']>=100*1024*1024:errors.append('File at or above GitHub size limit: '+i['path'])
+ browsable=json.loads((R/'BROWSABLE-REFERENCE-AUDIT.json').read_text())
+ if sorted(i['reference'] for i in browsable['projects'])!=list(range(1,7)):errors.append('Expected six browsable original projects')
+ browsable_count=0;restored_count=0
+ for project in browsable['projects']:
+  if len(project['files'])!=project['file_count']:errors.append('Browsable member count mismatch: '+project['name'])
+  if sum(i['bytes'] for i in project['files'])!=project['total_original_bytes']:errors.append('Browsable byte total mismatch: '+project['name'])
+  if sha(R/project['source_archive'])!=project['source_zip_sha256']:errors.append('Original ZIP changed: '+project['source_archive'])
+  seen=set()
+  for member in project['files']+project['restored_assets']:
+   name=member['repository_path'];p=R/name
+   if name in seen:errors.append('Duplicate browsable destination: '+name)
+   seen.add(name)
+   if not name.startswith(project['directory']+'/'):errors.append('Browsable path outside project: '+name)
+   if not p.is_file() or p.stat().st_size!=member['bytes'] or sha(p)!=member['sha256']:errors.append('Browsable original/restored asset mismatch: '+name)
+  browsable_count+=project['file_count'];restored_count+=len(project['restored_assets'])
+ for item in pairs:
+  if item.get('browsable_render') and sha(R/item['browsable_render'])!=item['sha256']:errors.append('Browsable video changed: '+str(item['reference']))
  if (R/'04-Workflow-and-Animation/Stickman Animations Workflow.md').exists():errors.append('Duplicate standalone workflow')
  if errors:print('\n'.join(errors),file=sys.stderr);return 1
- print(f"Verified {len(m['files'])} files, {len(archives)} ZIPs, {len(pairs)} project renders and {imported} original expanded members.")
+ print(f"Verified {len(m['files'])} files, {len(archives)} ZIPs, {len(pairs)} project renders and {imported} new-project members, {browsable_count} original-six members and {restored_count} restored assets.")
  return 0
 if __name__=='__main__':raise SystemExit(main())

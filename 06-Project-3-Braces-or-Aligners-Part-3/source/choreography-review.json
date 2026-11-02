@@ -1,0 +1,2001 @@
+{
+  "tweenCount": 223,
+  "conflicts": [],
+  "tweens": [
+    {
+      "target": "cap0",
+      "start": 0,
+      "end": 0.1,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 0.1,
+      "end": 0.62,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 1.18,
+      "end": 1.7,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "bracesmouth",
+      "start": 1.18,
+      "end": 1.7,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap0",
+      "start": 1.18,
+      "end": 1.18,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap1",
+      "start": 1.18,
+      "end": 1.28,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap1",
+      "start": 1.86,
+      "end": 1.86,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap2",
+      "start": 1.86,
+      "end": 1.9600000000000002,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "adultlife",
+      "start": 3.1,
+      "end": 3.68,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 3.1,
+      "end": 3.63,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "bracesmouth",
+      "start": 3.1,
+      "end": 3.63,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap2",
+      "start": 3.1,
+      "end": 3.1,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap3",
+      "start": 3.1,
+      "end": 3.2,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 3.125,
+      "end": 3.415,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "bracesmouth",
+      "start": 3.125,
+      "end": 3.415,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap3",
+      "start": 3.4,
+      "end": 3.4,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap4",
+      "start": 3.4,
+      "end": 3.5,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "part",
+      "start": 5.34,
+      "end": 5.52,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap4",
+      "start": 5.34,
+      "end": 5.34,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap5",
+      "start": 5.34,
+      "end": 5.4399999999999995,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "part",
+      "start": 5.95,
+      "end": 6.1000000000000005,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "uncertain",
+      "start": 6.14,
+      "end": 6.72,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "adultlife",
+      "start": 6.14,
+      "end": 6.67,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap5",
+      "start": 6.14,
+      "end": 6.14,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap6",
+      "start": 6.14,
+      "end": 6.239999999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "adultlife",
+      "start": 6.165,
+      "end": 6.455,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap6",
+      "start": 6.62,
+      "end": 6.62,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap7",
+      "start": 6.62,
+      "end": 6.72,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap7",
+      "start": 7.26,
+      "end": 7.26,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap8",
+      "start": 7.26,
+      "end": 7.359999999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap8",
+      "start": 7.84,
+      "end": 7.84,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap9",
+      "start": 7.84,
+      "end": 7.9399999999999995,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "uncertain",
+      "start": 8.76,
+      "end": 9.26,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "filtercard",
+      "start": 8.76,
+      "end": 9.26,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap9",
+      "start": 8.76,
+      "end": 8.76,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap10",
+      "start": 8.76,
+      "end": 8.86,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap10",
+      "start": 9.16,
+      "end": 9.16,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap11",
+      "start": 9.16,
+      "end": 9.26,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 10.2,
+      "end": 10.78,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "uncertain",
+      "start": 10.2,
+      "end": 10.729999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "filtercard",
+      "start": 10.2,
+      "end": 10.729999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap11",
+      "start": 10.2,
+      "end": 10.2,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap12",
+      "start": 10.2,
+      "end": 10.299999999999999,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "uncertain",
+      "start": 10.225,
+      "end": 10.514999999999999,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "filtercard",
+      "start": 10.225,
+      "end": 10.514999999999999,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap12",
+      "start": 10.6,
+      "end": 10.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap13",
+      "start": 10.6,
+      "end": 10.7,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap13",
+      "start": 11.16,
+      "end": 11.16,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap14",
+      "start": 11.16,
+      "end": 11.26,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 11.44,
+      "end": 11.959999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "yearone",
+      "start": 11.44,
+      "end": 11.959999999999999,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap14",
+      "start": 11.44,
+      "end": 11.44,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap15",
+      "start": 11.44,
+      "end": 11.54,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap15",
+      "start": 12.02,
+      "end": 12.02,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap16",
+      "start": 12.02,
+      "end": 12.12,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "upto",
+      "start": 13.14,
+      "end": 13.32,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap16",
+      "start": 13.14,
+      "end": 13.14,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap17",
+      "start": 13.14,
+      "end": 13.24,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "yearthree",
+      "start": 13.4,
+      "end": 13.85,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "yearone",
+      "start": 13.4,
+      "end": 13.85,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap17",
+      "start": 13.4,
+      "end": 13.4,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap18",
+      "start": 13.4,
+      "end": 13.5,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "yearone",
+      "start": 13.425,
+      "end": 13.715,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "upto",
+      "start": 14.24,
+      "end": 14.39,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "speech",
+      "start": 14.5,
+      "end": 15.08,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 14.5,
+      "end": 15.03,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "yearthree",
+      "start": 14.5,
+      "end": 15.03,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap18",
+      "start": 14.5,
+      "end": 14.5,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap19",
+      "start": 14.5,
+      "end": 14.6,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "bracehero",
+      "start": 14.525,
+      "end": 14.815,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "yearthree",
+      "start": 14.525,
+      "end": 14.815,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap19",
+      "start": 15.22,
+      "end": 15.22,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap20",
+      "start": 15.22,
+      "end": 15.32,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap20",
+      "start": 15.52,
+      "end": 15.52,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap21",
+      "start": 15.52,
+      "end": 15.62,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "jawpain",
+      "start": 16.32,
+      "end": 16.9,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "speech",
+      "start": 16.32,
+      "end": 16.85,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap21",
+      "start": 16.32,
+      "end": 16.32,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap22",
+      "start": 16.32,
+      "end": 16.42,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "speech",
+      "start": 16.345,
+      "end": 16.634999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap22",
+      "start": 16.96,
+      "end": 16.96,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap23",
+      "start": 16.96,
+      "end": 17.060000000000002,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "jawpain",
+      "start": 17.24,
+      "end": 17.669999999999998,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "soretooth",
+      "start": 17.24,
+      "end": 17.669999999999998,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "pain-left",
+      "start": 17.26,
+      "end": 17.26,
+      "props": [
+        "opacity",
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "pain-left",
+      "start": 17.26,
+      "end": 17.560000000000002,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "pain-left",
+      "start": 17.92,
+      "end": 18.080000000000002,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 18.08,
+      "end": 18.659999999999997,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "jawpain",
+      "start": 18.08,
+      "end": 18.61,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "soretooth",
+      "start": 18.08,
+      "end": 18.61,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap23",
+      "start": 18.08,
+      "end": 18.08,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap24",
+      "start": 18.08,
+      "end": 18.18,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "jawpain",
+      "start": 18.105,
+      "end": 18.395,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "soretooth",
+      "start": 18.105,
+      "end": 18.395,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap24",
+      "start": 18.32,
+      "end": 18.32,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap25",
+      "start": 18.32,
+      "end": 18.42,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap25",
+      "start": 19,
+      "end": 19,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap26",
+      "start": 19,
+      "end": 19.1,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap26",
+      "start": 19.82,
+      "end": 19.82,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap27",
+      "start": 19.82,
+      "end": 19.92,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "straightmouth",
+      "start": 20.22,
+      "end": 20.7,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 20.22,
+      "end": 20.75,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap27",
+      "start": 20.22,
+      "end": 20.22,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap28",
+      "start": 20.22,
+      "end": 20.32,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 20.245,
+      "end": 20.535,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 21.06,
+      "end": 21.58,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "straightmouth",
+      "start": 21.06,
+      "end": 21.58,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap28",
+      "start": 21.06,
+      "end": 21.06,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap29",
+      "start": 21.06,
+      "end": 21.16,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap29",
+      "start": 21.28,
+      "end": 21.28,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap30",
+      "start": 21.28,
+      "end": 21.380000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap30",
+      "start": 22.08,
+      "end": 22.08,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap31",
+      "start": 22.08,
+      "end": 22.18,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "guide",
+      "start": 23.12,
+      "end": 23.7,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "straightmouth",
+      "start": 23.12,
+      "end": 23.650000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 23.12,
+      "end": 23.650000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap31",
+      "start": 23.12,
+      "end": 23.12,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap32",
+      "start": 23.12,
+      "end": 23.220000000000002,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "straightmouth",
+      "start": 23.145,
+      "end": 23.435,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 23.145,
+      "end": 23.435,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap32",
+      "start": 23.68,
+      "end": 23.68,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap33",
+      "start": 23.68,
+      "end": 23.78,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "guide",
+      "start": 24.74,
+      "end": 25.24,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 24.74,
+      "end": 25.24,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap33",
+      "start": 24.74,
+      "end": 24.74,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap34",
+      "start": 24.74,
+      "end": 24.84,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "alignerfit",
+      "start": 25.6,
+      "end": 26.060000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "guide",
+      "start": 25.6,
+      "end": 26.130000000000003,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 25.6,
+      "end": 26.130000000000003,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap34",
+      "start": 25.6,
+      "end": 25.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap35",
+      "start": 25.6,
+      "end": 25.700000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "guide",
+      "start": 25.625,
+      "end": 25.915,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 25.625,
+      "end": 25.915,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap35",
+      "start": 25.92,
+      "end": 25.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap36",
+      "start": 25.92,
+      "end": 26.020000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap36",
+      "start": 26.6,
+      "end": 26.6,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap37",
+      "start": 26.6,
+      "end": 26.700000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "fit-arrow",
+      "start": 26.86,
+      "end": 26.86,
+      "props": [
+        "opacity",
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "fit-arrow",
+      "start": 26.86,
+      "end": 27.46,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "cap37",
+      "start": 27.06,
+      "end": 27.06,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap38",
+      "start": 27.06,
+      "end": 27.16,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "fit-arrow",
+      "start": 27.62,
+      "end": 27.78,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "alignerwear",
+      "start": 27.8,
+      "end": 28.26,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "alignerfit",
+      "start": 27.8,
+      "end": 28.330000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap38",
+      "start": 27.8,
+      "end": 27.8,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap39",
+      "start": 27.8,
+      "end": 27.900000000000002,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "alignerfit",
+      "start": 27.825,
+      "end": 28.115,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap39",
+      "start": 28.12,
+      "end": 28.12,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap40",
+      "start": 28.12,
+      "end": 28.220000000000002,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "daily",
+      "start": 29.1,
+      "end": 29.560000000000002,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "alignerwear",
+      "start": 29.1,
+      "end": 29.630000000000003,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap40",
+      "start": 29.1,
+      "end": 29.1,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap41",
+      "start": 29.1,
+      "end": 29.200000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "alignerwear",
+      "start": 29.125,
+      "end": 29.415,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "crookedmouth",
+      "start": 30.5,
+      "end": 30.97,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "daily",
+      "start": 30.5,
+      "end": 31.03,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 30.5,
+      "end": 30.97,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap41",
+      "start": 30.5,
+      "end": 30.5,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap42",
+      "start": 30.5,
+      "end": 30.6,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "daily",
+      "start": 30.525,
+      "end": 30.814999999999998,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "not-left",
+      "start": 31.26,
+      "end": 31.26,
+      "props": [
+        "opacity",
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "not-left",
+      "start": 31.26,
+      "end": 31.560000000000002,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "cap42",
+      "start": 31.26,
+      "end": 31.26,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap43",
+      "start": 31.26,
+      "end": 31.360000000000003,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "not-right",
+      "start": 31.38,
+      "end": 31.38,
+      "props": [
+        "opacity",
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "not-right",
+      "start": 31.38,
+      "end": 31.68,
+      "props": [
+        "strokeDashoffset"
+      ]
+    },
+    {
+      "target": "cap43",
+      "start": 31.82,
+      "end": 31.82,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap44",
+      "start": 31.82,
+      "end": 31.92,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap44",
+      "start": 32.06,
+      "end": 32.06,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap45",
+      "start": 32.06,
+      "end": 32.160000000000004,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "not-left",
+      "start": 33.12,
+      "end": 33.279999999999994,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "not-right",
+      "start": 33.12,
+      "end": 33.279999999999994,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "consult",
+      "start": 33.4,
+      "end": 33.98,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "crookedmouth",
+      "start": 33.4,
+      "end": 33.93,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 33.4,
+      "end": 33.93,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap45",
+      "start": 33.4,
+      "end": 33.4,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap46",
+      "start": 33.4,
+      "end": 33.5,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "crookedmouth",
+      "start": 33.425,
+      "end": 33.714999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "aligner",
+      "start": 33.425,
+      "end": 33.714999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap46",
+      "start": 33.96,
+      "end": 33.96,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap47",
+      "start": 33.96,
+      "end": 34.06,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap47",
+      "start": 34.32,
+      "end": 34.32,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap48",
+      "start": 34.32,
+      "end": 34.42,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap48",
+      "start": 34.66,
+      "end": 34.66,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap49",
+      "start": 34.66,
+      "end": 34.76,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap49",
+      "start": 35,
+      "end": 35,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap50",
+      "start": 35,
+      "end": 35.1,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "dentist",
+      "start": 35.92,
+      "end": 36.4,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "consult",
+      "start": 35.92,
+      "end": 36.45,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap50",
+      "start": 35.92,
+      "end": 35.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap51",
+      "start": 35.92,
+      "end": 36.02,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "consult",
+      "start": 35.945,
+      "end": 36.235,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap51",
+      "start": 36.26,
+      "end": 36.26,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap52",
+      "start": 36.26,
+      "end": 36.36,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap52",
+      "start": 36.84,
+      "end": 36.84,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap53",
+      "start": 36.84,
+      "end": 36.940000000000005,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "earlycare",
+      "start": 37.26,
+      "end": 37.73,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "dentist",
+      "start": 37.26,
+      "end": 37.79,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "dentist",
+      "start": 37.285,
+      "end": 37.574999999999996,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap53",
+      "start": 37.4,
+      "end": 37.4,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap54",
+      "start": 37.4,
+      "end": 37.5,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 38.06,
+      "end": 38.56,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "earlycare",
+      "start": 38.06,
+      "end": 38.59,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap54",
+      "start": 38.06,
+      "end": 38.06,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap55",
+      "start": 38.06,
+      "end": 38.160000000000004,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "earlycare",
+      "start": 38.085,
+      "end": 38.375,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap55",
+      "start": 38.46,
+      "end": 38.46,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap56",
+      "start": 38.46,
+      "end": 38.56,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap56",
+      "start": 38.92,
+      "end": 38.92,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap57",
+      "start": 38.92,
+      "end": 39.02,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "tagphone",
+      "start": 39.98,
+      "end": 40.459999999999994,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 39.98,
+      "end": 40.51,
+      "props": [
+        "x",
+        "y",
+        "scale"
+      ]
+    },
+    {
+      "target": "cap57",
+      "start": 39.98,
+      "end": 39.98,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap58",
+      "start": 39.98,
+      "end": 40.08,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "smilehero",
+      "start": 40.005,
+      "end": 40.295,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "friendbraces",
+      "start": 40.26,
+      "end": 40.76,
+      "props": [
+        "x",
+        "y",
+        "scale",
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap58",
+      "start": 40.26,
+      "end": 40.26,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap59",
+      "start": 40.26,
+      "end": 40.36,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap59",
+      "start": 40.7,
+      "end": 40.7,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap60",
+      "start": 40.7,
+      "end": 40.800000000000004,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap60",
+      "start": 41.54,
+      "end": 41.54,
+      "props": [
+        "opacity"
+      ]
+    },
+    {
+      "target": "cap61",
+      "start": 41.54,
+      "end": 41.64,
+      "props": [
+        "opacity",
+        "y"
+      ]
+    },
+    {
+      "target": "cap61",
+      "start": 42.6333333,
+      "end": 42.6333333,
+      "props": [
+        "opacity"
+      ]
+    }
+  ]
+}

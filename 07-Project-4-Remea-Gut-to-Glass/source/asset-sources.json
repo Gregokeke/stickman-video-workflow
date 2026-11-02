@@ -1,0 +1,51 @@
+{
+  "generation_tool": "Built-in ImageGen",
+  "new_assets": [
+    [
+      "microbiome",
+      "A magnified cross-section circular window of the gut microbiome: a bold red intestinal tube segment curves along lower edge, above it a small diverse community of red oval, capsule and round bacteria with black outlines and simple friendly faces. Exactly5 distinct microbes, organic spacing, no text, no circle label, no arrows or line connectors. Coherent single illustration, flat graphic educational metaphor."
+    ],
+    [
+      "faceprice",
+      "One frustrated red stick figure with a prominently acne-spotted round face, drooping puffy cheeks and black tired under-eye marks. One hand grips an oversized dangling white price tag reading 'BREAKOUTS' in bold black uppercase; other hand facepalms. Represents face paying a price, no currency or money, no additional text. Full figure."
+    ],
+    [
+      "guide",
+      "One confident funny red stick person in a very simple black bowtie, one index finger raised to communicate a simple solution, other hand extended palm-up toward an unseen item to the viewer's right. Slight raised eyebrow and assured smile. Empty palm, complete body. No text, no arrows, no props beyond bowtie."
+    ],
+    [
+      "recipe",
+      "A large red juice glass with black straw beside a small matching red apple, knobbly red ginger root with white sliced tip and small lobed red acerola fruit. All form ONE compact coherent juice-recipe composition, ingredients slightly below and beside glass without touching. Thick black outlines, recognizable food silhouettes, no text, no label, no arrows."
+    ],
+    [
+      "drinking",
+      "One cheerful red stick person actively sipping from a red juice glass through a black straw, glass in raised right hand close to mouth, other palm relaxed on abdomen. Upright comfortable posture, smile visible around straw, eyes content. Entire body and all props in frame. Thick black separations between red hand/glass/body, no text."
+    ],
+    [
+      "period",
+      "One flat red wall-calendar clipboard with thick black rings. White paper face has a clear black grid of seven columns and four rows, no dates or numbers at all. A large black checkmark on a red round seal overlapping one lower corner; three short blank ruled checklist lines on a separate small white card behind lower side. Implies following a routine over time, no specific promised duration, no words or numerals."
+    ]
+  ],
+  "enzymeboost": "One lively red enzyme character as a flat lock-and-key metaphor: a broad rounded red blob with black outline and a single clearly cut black notch at top. Two separate small red matching substrate/puzzle pieces float directly above the notch, one close to fitting. The enzyme has a confident smiling face and two flexed little arms, showing boosted activity. No alarm clock, no percentages, no labels, no arrows, no muscles drawn realistically, no extra medical claims. Complete coherent subject with simple large readable shapes.",
+  "phone_edits": [
+    [
+      "analysis",
+      "scan.png",
+      "Image1 is the edit target: preserve EXACT same phone geometry, black frame, solid red rim, white screen, front view and outer silhouette. Change ONLY screen content. Remove Remea name entirely. One big heading 'ANALYZING' at top. Keep the central red simplified face, now neutral mouth, black cheek spots, the same red scan brackets. Beneath face put one EMPTY white horizontal progress-bar trough with thick black outline, a simple long rounded rectangle, with generous space around it. Red bottom button 'CHECKING'. No percentages, no other words, no little labels, no extra logos, nonavbars. Input2and3 flat redblack visual references. True alpha-transparent background outside phone; remove backing and glow, no ground shadow. Entire phone complete."
+    ],
+    [
+      "plan",
+      "plan.png",
+      "Image1 is the edit target: preserve EXACT same phone geometry, black frame, solid red rim, white screen, front view and outer silhouette. Change ONLY screen content. Big heading 'YOUR PLAN' at top, no Remea brand at all. Upper large rounded white card with a single red juiceglass and black straw, one bold label 'TAILORED JUICES'. Lower rounded white card with red apple, red ginger and red acerola fruit in a neat row, one bold label 'YOUR ROUTINE'. Red bottom button 'START'. Large clear spacing; no other text, no doses, no dates, no percentages, no promise duration or text outside phone. Input2and3 flat redblack visual references. True alpha-transparent background outside phone, no colored glow or backing. Complete silhouette."
+    ]
+  ],
+  "style": "Use case: illustration-story. ONE FLAT TWO-DIMENSIONAL VECTOR-STYLE production cutout. All THREE attached images are REQUIRED red/black stickman style references:1 rounded geometry/proportion,2 expressive acting,3 thick black contours and hands. Match their simple rounded red silhouette and graphic expression. ONLY solid red #f3131d, near-black #101010, white negative space. Thick rounded black contours. No3D, gradients, material shading, realism, ground shadow, background, tiny text or watermark. Truly transparent alpha background. Complete subject in frame,8% transparent margin, large purposeful detail. ",
+  "reference_files": [
+    "IMG-20261023-WA0029.jpg",
+    "IMG-20261023-WA0027.jpg",
+    "IMG-20261023-WA0026.jpg"
+  ],
+  "phone_reference_roles": "Same approved phone as edit target plus two actual stickman style references",
+  "reused_assets": "reused-assets.json; copied final approved images only",
+  "motion_references": "Complete source and15 runtime frames from original Protect Their Peace and When He Goes Quiet clean-fades projects; see OG-MOTION-STUDY.md"
+}

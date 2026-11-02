@@ -27,3 +27,12 @@ Character-variation clarification (2 November): preserve the same rounded body s
 ## Twelve-reference setup — 2 November 2026
 
 This supersedes earlier seven-project and ZIP-only setup counts: import/study all **12** projects in [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md). References 1–7 retain their ZIPs and videos. References 8–12 are fully expanded folders with all original source/art/audio/documents and complete final MP4s directly in Git; no ZIP extraction, LFS or restoration step is needed for those five. Use their REFERENCE-SETUP.md and original README/lockfiles. The original five ZIP containers were above 100 MiB, but every member is below the per-file limit, so no media conversion was necessary. Read all included files and review all final videos with sound as before; record truthful study/runtime notes. Workflow snapshots in expanded project folders are historical, just like snapshots inside older ZIPs. The single canonical workflow governs. Bouncy/micro studies remain supporting material. Run the updated workspace verifier, which checks all twelve renders and the five complete member-level import audits. Existing seven projects, documents and sound library remain preserved.
+
+
+## References 1–6 are also browsable — 2 November 2026
+
+The twelve-project set now has **11 directly browsable source projects**: references 1–6 under each existing numbered folder's `source/`, and references 8–12 directly in folders 14–18. Reference 7 retains its existing ZIP layout. All seven original project ZIPs remain unchanged as optional download/backups; no project has been renumbered.
+
+Use [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) to open the right source folder. References 1–5 were extracted byte-for-byte. Reference 6 has every packed archive member preserved plus its three working WAVs restored byte-for-byte and 73 PNGs restored with exact original-resolution RGBA pixels/alpha. The ready-to-edit `source/` needs no restore command; the optional ZIP still has its original restoration requirement. No video has been recompressed or retimed; the original six retain their existing compact viewing copies, not newly created full-quality masters.
+
+[BROWSABLE-REFERENCE-AUDIT.json](BROWSABLE-REFERENCE-AUDIT.json) records preservation and restored assets. Import and study the browsable sources and matching complete final videos. Older seven-ZIP/five-expanded setup wording is historical where it differs from this layout. The canonical workflow and all production instructions still govern.

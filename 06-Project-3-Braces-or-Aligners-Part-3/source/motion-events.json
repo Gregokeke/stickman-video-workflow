@@ -1,0 +1,1779 @@
+[
+  {
+    "asset": "bracehero",
+    "time": 0.1,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 1.18,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracesmouth",
+    "time": 1.18,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "adultlife",
+    "time": 3.1,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 3.1,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 3.125,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracesmouth",
+    "time": 3.1,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracesmouth",
+    "time": 3.125,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "part",
+    "time": 5.34,
+    "duration": 0.18,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "part",
+    "time": 5.95,
+    "duration": 0.15,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "uncertain",
+    "time": 6.14,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "adultlife",
+    "time": 6.14,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "adultlife",
+    "time": 6.165,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "uncertain",
+    "time": 8.76,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "filtercard",
+    "time": 8.76,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 10.2,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "uncertain",
+    "time": 10.2,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "uncertain",
+    "time": 10.225,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "filtercard",
+    "time": 10.2,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "filtercard",
+    "time": 10.225,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 11.44,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearone",
+    "time": 11.44,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearthree",
+    "time": 13.4,
+    "duration": 0.45,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearone",
+    "time": 13.4,
+    "duration": 0.45,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearone",
+    "time": 13.425,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "upto",
+    "time": 13.14,
+    "duration": 0.18,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "upto",
+    "time": 14.24,
+    "duration": 0.15,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "speech",
+    "time": 14.5,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 14.5,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "bracehero",
+    "time": 14.525,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearthree",
+    "time": 14.5,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "yearthree",
+    "time": 14.525,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "jawpain",
+    "time": 16.32,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "speech",
+    "time": 16.32,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "speech",
+    "time": 16.345,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "jawpain",
+    "time": 17.24,
+    "duration": 0.43,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "soretooth",
+    "time": 17.24,
+    "duration": 0.43,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "pain-left",
+    "time": 17.26,
+    "duration": 0.3,
+    "properties": [
+      "strokeDashoffset",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "pain-left",
+    "time": 17.92,
+    "duration": 0.16,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 18.08,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "jawpain",
+    "time": 18.08,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "jawpain",
+    "time": 18.104999999999997,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "soretooth",
+    "time": 18.08,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "soretooth",
+    "time": 18.104999999999997,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "straightmouth",
+    "time": 20.22,
+    "duration": 0.48,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 20.22,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 20.244999999999997,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 21.06,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "straightmouth",
+    "time": 21.06,
+    "duration": 0.52,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "guide",
+    "time": 23.12,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "straightmouth",
+    "time": 23.12,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "straightmouth",
+    "time": 23.145,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 23.12,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 23.145,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "guide",
+    "time": 24.74,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 24.74,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerfit",
+    "time": 25.6,
+    "duration": 0.46,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "guide",
+    "time": 25.6,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "guide",
+    "time": 25.625,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 25.6,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 25.625,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "fit-arrow",
+    "time": 26.86,
+    "duration": 0.6,
+    "properties": [
+      "strokeDashoffset",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "fit-arrow",
+    "time": 27.62,
+    "duration": 0.16,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerwear",
+    "time": 27.8,
+    "duration": 0.46,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerfit",
+    "time": 27.8,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerfit",
+    "time": 27.825,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "daily",
+    "time": 29.1,
+    "duration": 0.46,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerwear",
+    "time": 29.1,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "alignerwear",
+    "time": 29.125,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "crookedmouth",
+    "time": 30.5,
+    "duration": 0.47,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "daily",
+    "time": 30.5,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "daily",
+    "time": 30.525,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 30.5,
+    "duration": 0.47,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "not-left",
+    "time": 31.26,
+    "duration": 0.3,
+    "properties": [
+      "strokeDashoffset",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "not-left",
+    "time": 33.12,
+    "duration": 0.16,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "not-right",
+    "time": 31.380000000000003,
+    "duration": 0.3,
+    "properties": [
+      "strokeDashoffset",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "not-right",
+    "time": 33.12,
+    "duration": 0.16,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "consult",
+    "time": 33.4,
+    "duration": 0.58,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "crookedmouth",
+    "time": 33.4,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "crookedmouth",
+    "time": 33.425,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 33.4,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "aligner",
+    "time": 33.425,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "dentist",
+    "time": 35.92,
+    "duration": 0.48,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "consult",
+    "time": 35.92,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "consult",
+    "time": 35.945,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "earlycare",
+    "time": 37.26,
+    "duration": 0.47,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "dentist",
+    "time": 37.26,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "dentist",
+    "time": 37.285,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 38.06,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "earlycare",
+    "time": 38.06,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "earlycare",
+    "time": 38.085,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "tagphone",
+    "time": 39.98,
+    "duration": 0.48,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 39.98,
+    "duration": 0.53,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "smilehero",
+    "time": 40.004999999999995,
+    "duration": 0.29,
+    "properties": [
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "friendbraces",
+    "time": 40.26,
+    "duration": 0.5,
+    "properties": [
+      "x",
+      "y",
+      "scale",
+      "opacity",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap0",
+    "time": 0.0,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap1",
+    "time": 1.18,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap2",
+    "time": 1.86,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap3",
+    "time": 3.1,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap4",
+    "time": 3.4,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap5",
+    "time": 5.34,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap6",
+    "time": 6.14,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap7",
+    "time": 6.62,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap8",
+    "time": 7.26,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap9",
+    "time": 7.84,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap10",
+    "time": 8.76,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap11",
+    "time": 9.16,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap12",
+    "time": 10.2,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap13",
+    "time": 10.6,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap14",
+    "time": 11.16,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap15",
+    "time": 11.44,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap16",
+    "time": 12.02,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap17",
+    "time": 13.14,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap18",
+    "time": 13.4,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap19",
+    "time": 14.5,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap20",
+    "time": 15.22,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap21",
+    "time": 15.52,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap22",
+    "time": 16.32,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap23",
+    "time": 16.96,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap24",
+    "time": 18.08,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap25",
+    "time": 18.32,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap26",
+    "time": 19.0,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap27",
+    "time": 19.82,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap28",
+    "time": 20.22,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap29",
+    "time": 21.06,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap30",
+    "time": 21.28,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap31",
+    "time": 22.08,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap32",
+    "time": 23.12,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap33",
+    "time": 23.68,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap34",
+    "time": 24.74,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap35",
+    "time": 25.6,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap36",
+    "time": 25.92,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap37",
+    "time": 26.6,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap38",
+    "time": 27.06,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap39",
+    "time": 27.8,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap40",
+    "time": 28.12,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap41",
+    "time": 29.1,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap42",
+    "time": 30.5,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap43",
+    "time": 31.26,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap44",
+    "time": 31.82,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap45",
+    "time": 32.06,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap46",
+    "time": 33.4,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap47",
+    "time": 33.96,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap48",
+    "time": 34.32,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap49",
+    "time": 34.66,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap50",
+    "time": 35.0,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap51",
+    "time": 35.92,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap52",
+    "time": 36.26,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap53",
+    "time": 36.84,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap54",
+    "time": 37.4,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap55",
+    "time": 38.06,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap56",
+    "time": 38.46,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap57",
+    "time": 38.92,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap58",
+    "time": 39.98,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap59",
+    "time": 40.26,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap60",
+    "time": 40.7,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  },
+  {
+    "asset": "cap61",
+    "time": 41.54,
+    "duration": 0.1,
+    "properties": [
+      "opacity",
+      "y",
+      "duration",
+      "ease"
+    ]
+  }
+]
