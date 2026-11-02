@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "original_words": 242,
+  "protected_margin_seconds": 0.025,
+  "genuine_quiet_cuts": 16,
+  "original_duration": 89.54777083333333,
+  "edited_duration": 85.15441666666666,
+  "no_speed_change": true,
+  "no_added_pause": true,
+  "all_words_protected": true
+}

@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 16,
+    "id": "eighty-calendar",
+    "output_filename": "eighty-calendar.png",
+    "output_path": "images/eighty-calendar.png",
+    "preferred_aspect": "square",
+    "script_phrase": "working brain past 80",
+    "video_cue_seconds": 107.73,
+    "references": [
+      "references/current/calendar.png",
+      "references/current/dumbbell.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone chunky red desk-calendar tile matching calendar.png's physical material, folded base, white page and bold black typography. Exact large number 80 with smaller word YEARS below. No birthday cake, character, other dates, tick marks or extra wording. Keep the numeral and label broad and readable, entire base and page corners contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "2a9cd7abdbe84956ebbe5d397b091e6dbb2502662bdc801bfeb99ce362b29958"
+}

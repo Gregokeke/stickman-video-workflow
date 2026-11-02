@@ -1,0 +1,11 @@
+{
+  "id": "wise-compass",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: wisely.. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: Standalone chunky red compass in three-quarter view, clear black four-point compass rose and prominent NORTH arrow, one simple integrated CHOOSE WISELY label. No tiny degrees, human or brain.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/wise-compass.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-463730a6-19a7-4d71-bb13-c2d2c92a3e2d.png"
+}

@@ -1,0 +1,8 @@
+{
+  "samples": 385,
+  "errors": [],
+  "intentional_contact_exemption": [
+    "echo-chamber-friends",
+    "echo-padlock"
+  ]
+}

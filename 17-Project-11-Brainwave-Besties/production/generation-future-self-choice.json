@@ -1,0 +1,11 @@
+{
+  "id": "future-self-choice",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: who you are going to become.. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: ONE full-body thoughtful red rounded stickman in red jacket/black tee/shorts, broad exposed forearms/calves, holds a simple blank portrait card of his own face and looks at it seriously, upright reflective pose. No brain, neuron, abstract circuitry, extra people or lettering.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/future-self-choice.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-d4fb474d-db9e-4b29-a79b-2d81a3361b3d.png"
+}

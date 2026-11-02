@@ -1,0 +1,3367 @@
+[
+  {
+    "id": "kiwi-hero",
+    "asset": "kiwi-hero",
+    "start": 0.03,
+    "handoff": 4.347,
+    "end": 4.727,
+    "layout": [
+      480,
+      1050,
+      730,
+      780
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 1.02,
+        "x": -170,
+        "y": 130,
+        "scale": 0.65,
+        "d": 0.45,
+        "rotation": 0
+      },
+      {
+        "t": 2.851,
+        "x": 0,
+        "y": -20,
+        "scale": 1.06,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ],
+    "phrase": "kiwi hero",
+    "entry_duration": 0.46,
+    "key": "kiwi-hero",
+    "x": 480,
+    "y": 1050,
+    "w": 730.0,
+    "h": 614.9203821656051,
+    "alpha_bounds": [
+      31,
+      99,
+      1287,
+      1157
+    ]
+  },
+  {
+    "id": "narrator-sass",
+    "asset": "narrator-sass",
+    "start": 1.02,
+    "handoff": 2.851,
+    "end": 3.231,
+    "layout": [
+      640,
+      1060,
+      420,
+      720
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "narrator sass",
+    "entry_duration": 0.46,
+    "key": "narrator-sass",
+    "x": 640,
+    "y": 1060,
+    "w": 420.0,
+    "h": 704.9318181818182,
+    "alpha_bounds": [
+      118,
+      32,
+      998,
+      1509
+    ]
+  },
+  {
+    "id": "sassy-appearance",
+    "asset": "narrator-sass",
+    "start": 4.347,
+    "handoff": 7.144,
+    "end": 7.524,
+    "layout": [
+      650,
+      1190,
+      440,
+      700
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [],
+    "phrase": "narrator sass",
+    "entry_duration": 0.46,
+    "key": "sassy-appearance",
+    "x": 650,
+    "y": 1190,
+    "w": 417.06161137440756,
+    "h": 700.0,
+    "alpha_bounds": [
+      118,
+      32,
+      998,
+      1509
+    ]
+  },
+  {
+    "id": "tarantula",
+    "asset": "tarantula-larger-abdomen",
+    "start": 5.587,
+    "handoff": 7.144,
+    "end": 7.524,
+    "layout": [
+      295,
+      650,
+      450,
+      390
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "tarantula",
+    "entry_duration": 0.46,
+    "key": "tarantula",
+    "x": 295,
+    "y": 650,
+    "w": 450.00000000000006,
+    "h": 335.43495610534717,
+    "alpha_bounds": [
+      34,
+      114,
+      1287,
+      1048
+    ]
+  },
+  {
+    "id": "nutrition-cutaway",
+    "asset": "nutrition-cutaway",
+    "start": 7.144,
+    "handoff": 8.526,
+    "end": 8.906,
+    "layout": [
+      480,
+      1080,
+      700,
+      790
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "nutrition cutaway",
+    "entry_duration": 0.46,
+    "key": "nutrition-cutaway",
+    "x": 480,
+    "y": 1080,
+    "w": 700.0,
+    "h": 496.82791435368756,
+    "alpha_bounds": [
+      29,
+      139,
+      1290,
+      1034
+    ]
+  },
+  {
+    "id": "boxer-top",
+    "asset": "kiwi-boxer",
+    "start": 8.526,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      300,
+      960,
+      360,
+      440
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 9.7,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 9.84,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.04,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.35,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.49,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.0,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.14,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.34,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": -45,
+        "y": -180,
+        "scale": 0.68,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi boxer",
+    "entry_duration": 0.46,
+    "key": "boxer-top",
+    "x": 300,
+    "y": 960,
+    "w": 360.0,
+    "h": 381.72106824925817,
+    "alpha_bounds": [
+      209,
+      71,
+      1220,
+      1143
+    ]
+  },
+  {
+    "id": "boxer-bottom",
+    "asset": "kiwi-boxer",
+    "start": 9.046,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      300,
+      1410,
+      360,
+      400
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [
+      {
+        "t": 10.2,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.34,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.54,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.85,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.99,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.19,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.5,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.64,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.84,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": -45,
+        "y": -360,
+        "scale": 0.68,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi boxer",
+    "entry_duration": 0.46,
+    "key": "boxer-bottom",
+    "x": 300,
+    "y": 1410,
+    "w": 360.0,
+    "h": 381.72106824925817,
+    "alpha_bounds": [
+      209,
+      71,
+      1220,
+      1143
+    ]
+  },
+  {
+    "id": "orange-boxer",
+    "asset": "orange-boxer",
+    "start": 11.206,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      690,
+      1210,
+      330,
+      470
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 11.8,
+        "x": -26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": -4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.940000000000001,
+        "x": 9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": 2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.14,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": 0,
+        "y": -260,
+        "scale": 0.72,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "orange boxer",
+    "entry_duration": 0.46,
+    "key": "orange-boxer",
+    "x": 690,
+    "y": 1210,
+    "w": 330.0,
+    "h": 340.3125,
+    "alpha_bounds": [
+      133,
+      58,
+      1189,
+      1147
+    ]
+  },
+  {
+    "id": "vitamin-c",
+    "asset": "vitamin-c",
+    "start": 11.886,
+    "handoff": 12.744,
+    "end": 13.124,
+    "layout": [
+      680,
+      720,
+      310,
+      260
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin c",
+    "entry_duration": 0.34,
+    "key": "vitamin-c",
+    "x": 680,
+    "y": 720,
+    "w": 306.41975308641975,
+    "h": 260.0,
+    "alpha_bounds": [
+      46,
+      68,
+      1287,
+      1121
+    ]
+  },
+  {
+    "id": "referee",
+    "asset": "referee",
+    "start": 12.744,
+    "handoff": 16.05,
+    "end": 16.43,
+    "layout": [
+      500,
+      1370,
+      520,
+      500
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 13.2,
+        "x": 0,
+        "y": -14,
+        "scale": 1.025,
+        "d": 0.22,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 13.55,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.25,
+        "rotation": 2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 14.08,
+        "x": 0,
+        "y": -8,
+        "scale": 1.015,
+        "d": 0.2,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 14.48,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.25,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "referee",
+    "entry_duration": 0.3,
+    "key": "referee",
+    "x": 500,
+    "y": 1370,
+    "w": 460.0790513833992,
+    "h": 500.0,
+    "alpha_bounds": [
+      22,
+      24,
+      1186,
+      1289
+    ]
+  },
+  {
+    "id": "potassium",
+    "asset": "potassium",
+    "start": 16.05,
+    "handoff": 18.166,
+    "end": 18.546,
+    "layout": [
+      310,
+      720,
+      410,
+      390
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "potassium",
+    "entry_duration": 0.46,
+    "key": "potassium",
+    "x": 310,
+    "y": 720,
+    "w": 396.5459363957597,
+    "h": 390.0,
+    "alpha_bounds": [
+      78,
+      23,
+      1229,
+      1155
+    ]
+  },
+  {
+    "id": "heart",
+    "asset": "heart",
+    "start": 17.03,
+    "handoff": 18.166,
+    "end": 18.546,
+    "layout": [
+      620,
+      1230,
+      500,
+      800
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 17.23,
+        "x": 0,
+        "y": 0,
+        "scale": 1.06,
+        "d": 0.16,
+        "rotation": 0
+      },
+      {
+        "t": 17.45,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": 0
+      }
+    ],
+    "phrase": "heart",
+    "entry_duration": 0.34,
+    "key": "heart",
+    "x": 620,
+    "y": 1230,
+    "w": 500.0,
+    "h": 680.952380952381,
+    "alpha_bounds": [
+      167,
+      12,
+      1112,
+      1299
+    ]
+  },
+  {
+    "id": "folate",
+    "asset": "folate",
+    "start": 18.166,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      650,
+      870,
+      420,
+      400
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "folate",
+    "entry_duration": 0.46,
+    "key": "folate",
+    "x": 650,
+    "y": 870,
+    "w": 420.0,
+    "h": 237.59019741320625,
+    "alpha_bounds": [
+      37,
+      90,
+      1506,
+      921
+    ]
+  },
+  {
+    "id": "dna",
+    "asset": "dna",
+    "start": 18.766,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      280,
+      1000,
+      330,
+      500
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "dna",
+    "entry_duration": 0.46,
+    "key": "dna",
+    "x": 280,
+    "y": 1000,
+    "w": 234.71145564168822,
+    "h": 500.0,
+    "alpha_bounds": [
+      389,
+      15,
+      934,
+      1176
+    ]
+  },
+  {
+    "id": "vitamin-k",
+    "asset": "vitamin-k-solo",
+    "start": 20.362,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      660,
+      790,
+      390,
+      300
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin k",
+    "entry_duration": 0.46,
+    "key": "vitamin-k",
+    "x": 660,
+    "y": 790,
+    "w": 390.0,
+    "h": 139.64451313755796,
+    "alpha_bounds": [
+      25,
+      34,
+      1966,
+      729
+    ]
+  },
+  {
+    "id": "paper-cut",
+    "asset": "paper-cut",
+    "start": 21.182,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      300,
+      1100,
+      400,
+      420
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "paper cut",
+    "entry_duration": 0.46,
+    "key": "paper-cut",
+    "x": 300,
+    "y": 1100,
+    "w": 400.0,
+    "h": 329.5269168026101,
+    "alpha_bounds": [
+      44,
+      120,
+      1270,
+      1130
+    ]
+  },
+  {
+    "id": "clot",
+    "asset": "clot-bloodstream-edit",
+    "start": 22.322,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      650,
+      1250,
+      380,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "clot",
+    "entry_duration": 0.34,
+    "key": "clot",
+    "x": 650,
+    "y": 1250,
+    "w": 380.0,
+    "h": 274.3414634146341,
+    "alpha_bounds": [
+      283,
+      294,
+      1308,
+      1034
+    ]
+  },
+  {
+    "id": "weird-narrator",
+    "asset": "weird-narrator",
+    "start": 23.267,
+    "handoff": 24.503,
+    "end": 24.883,
+    "layout": [
+      480,
+      1090,
+      640,
+      920
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "weird narrator",
+    "entry_duration": 0.34,
+    "key": "weird-narrator",
+    "x": 480,
+    "y": 1090,
+    "w": 557.5570469798657,
+    "h": 920.0,
+    "alpha_bounds": [
+      84,
+      20,
+      987,
+      1510
+    ]
+  },
+  {
+    "id": "vitamin-e",
+    "asset": "vitamin-e-solo",
+    "start": 24.503,
+    "handoff": 25.645,
+    "end": 26.025,
+    "layout": [
+      500,
+      1000,
+      680,
+      680
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin e",
+    "entry_duration": 0.34,
+    "key": "vitamin-e",
+    "x": 500,
+    "y": 1000,
+    "w": 680.0,
+    "h": 287.7991827203736,
+    "alpha_bounds": [
+      34,
+      89,
+      1747,
+      814
+    ]
+  },
+  {
+    "id": "fruit-basket",
+    "asset": "fruit-basket",
+    "start": 25.645,
+    "handoff": 28.705,
+    "end": 29.084999999999997,
+    "layout": [
+      410,
+      1625,
+      953.25,
+      1076.25
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "fruit basket",
+    "entry_duration": 0.35,
+    "key": "fruit-basket",
+    "x": 410,
+    "y": 1625,
+    "w": 953.25,
+    "h": 817.3966958598726,
+    "alpha_bounds": [
+      34,
+      77,
+      1290,
+      1154
+    ]
+  },
+  {
+    "id": "e-question",
+    "asset": "vitamin-e-solo",
+    "start": 25.645,
+    "handoff": 28.705,
+    "end": 29.085,
+    "layout": [
+      690,
+      810,
+      440,
+      390
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin e",
+    "entry_duration": 0.46,
+    "key": "e-question",
+    "x": 690,
+    "y": 810,
+    "w": 440.0,
+    "h": 186.22300058377115,
+    "alpha_bounds": [
+      34,
+      89,
+      1747,
+      814
+    ]
+  },
+  {
+    "id": "lipid",
+    "asset": "lipid-solo",
+    "start": 28.705,
+    "handoff": 30.945,
+    "end": 31.325,
+    "layout": [
+      620,
+      850,
+      440,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "lipid",
+    "entry_duration": 0.46,
+    "key": "lipid",
+    "x": 620,
+    "y": 850,
+    "w": 439.99999999999994,
+    "h": 288.70281400137264,
+    "alpha_bounds": [
+      54,
+      40,
+      1511,
+      996
+    ]
+  },
+  {
+    "id": "shield",
+    "asset": "shield",
+    "start": 29.405,
+    "handoff": 30.945,
+    "end": 31.325,
+    "layout": [
+      300,
+      1260,
+      400,
+      430
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "shield",
+    "entry_duration": 0.46,
+    "key": "shield",
+    "x": 300,
+    "y": 1260,
+    "w": 400.0,
+    "h": 384.1911764705883,
+    "alpha_bounds": [
+      162,
+      58,
+      1250,
+      1103
+    ]
+  },
+  {
+    "id": "membrane",
+    "asset": "membrane",
+    "start": 30.945,
+    "handoff": 32.976,
+    "end": 33.356,
+    "layout": [
+      520,
+      830,
+      670,
+      350
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "membrane",
+    "entry_duration": 0.46,
+    "key": "membrane",
+    "x": 520,
+    "y": 830,
+    "w": 670.0,
+    "h": 322.87533512064346,
+    "alpha_bounds": [
+      31,
+      141,
+      1523,
+      860
+    ]
+  },
+  {
+    "id": "oxidation-negated",
+    "asset": "oxidation-solo",
+    "start": 31.925,
+    "handoff": 32.976,
+    "end": 33.356,
+    "layout": [
+      665,
+      1160,
+      420,
+      300
+    ],
+    "route": "depth",
+    "z": 10,
+    "moves": [],
+    "phrase": "oxidation",
+    "entry_duration": 0.34,
+    "key": "oxidation-negated",
+    "x": 665,
+    "y": 1160,
+    "w": 420.0,
+    "h": 254.75409836065572,
+    "alpha_bounds": [
+      33,
+      64,
+      1497,
+      952
+    ]
+  },
+  {
+    "id": "no-fat-narrator",
+    "asset": "no-fat-narrator",
+    "start": 32.976,
+    "handoff": 34.694,
+    "end": 35.074000000000005,
+    "layout": [
+      480,
+      1080,
+      630,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "no fat narrator",
+    "entry_duration": 0.46,
+    "key": "no-fat-narrator",
+    "x": 480,
+    "y": 1080,
+    "w": 630.0,
+    "h": 888.5106382978723,
+    "alpha_bounds": [
+      19,
+      76,
+      1006,
+      1468
+    ]
+  },
+  {
+    "id": "kiwi-schemer",
+    "asset": "kiwi-schemer",
+    "start": 34.694,
+    "handoff": 36.1,
+    "end": 36.34,
+    "layout": [
+      480,
+      1090,
+      690,
+      850
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "kiwi schemer",
+    "entry_duration": 0.46,
+    "exit_duration": 0.2,
+    "key": "kiwi-schemer",
+    "x": 480,
+    "y": 1090,
+    "w": 603.2023911187019,
+    "h": 850.0,
+    "alpha_bounds": [
+      248,
+      15,
+      1079,
+      1186
+    ]
+  },
+  {
+    "id": "kiwi-seeds",
+    "asset": "kiwi-seeds",
+    "start": 36.354,
+    "handoff": 39.434,
+    "end": 39.814,
+    "layout": [
+      350,
+      850,
+      470,
+      440
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "kiwi seeds",
+    "entry_duration": 0.46,
+    "key": "kiwi-seeds",
+    "x": 350,
+    "y": 850,
+    "w": 470.0,
+    "h": 414.34210526315786,
+    "alpha_bounds": [
+      48,
+      69,
+      1264,
+      1141
+    ]
+  },
+  {
+    "id": "seed-oil",
+    "asset": "seed-oil",
+    "start": 36.714,
+    "handoff": 39.434,
+    "end": 39.814,
+    "layout": [
+      700,
+      1240,
+      320,
+      420
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "seed oil",
+    "entry_duration": 0.46,
+    "key": "seed-oil",
+    "x": 700,
+    "y": 1240,
+    "w": 320.0,
+    "h": 322.0289855072464,
+    "alpha_bounds": [
+      160,
+      46,
+      1264,
+      1157
+    ]
+  },
+  {
+    "id": "crunch",
+    "asset": "crunch",
+    "start": 39.434,
+    "handoff": 40.792,
+    "end": 41.172000000000004,
+    "layout": [
+      480,
+      1090,
+      650,
+      940
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "crunch",
+    "entry_duration": 0.46,
+    "key": "crunch",
+    "x": 480,
+    "y": 1090,
+    "w": 460.8829431438127,
+    "h": 940.0,
+    "alpha_bounds": [
+      165,
+      23,
+      898,
+      1518
+    ]
+  },
+  {
+    "id": "tragic-gut",
+    "asset": "tragic-gut",
+    "start": 40.792,
+    "handoff": 42.723,
+    "end": 43.103,
+    "layout": [
+      480,
+      1080,
+      650,
+      940
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 41.552,
+        "x": 0,
+        "y": -18,
+        "scale": 1.055,
+        "d": 0.21,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 41.9,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.28,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "tragic gut",
+    "entry_duration": 0.46,
+    "key": "tragic-gut",
+    "x": 480,
+    "y": 1080,
+    "w": 556.9632768361582,
+    "h": 940.0000000000001,
+    "alpha_bounds": [
+      146,
+      74,
+      985,
+      1490
+    ]
+  },
+  {
+    "id": "fiber-portions",
+    "asset": "fiber-portions",
+    "start": 42.723,
+    "handoff": 43.843,
+    "end": 44.223000000000006,
+    "layout": [
+      290,
+      1250,
+      360,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "fiber portions",
+    "entry_duration": 0.46,
+    "key": "fiber-portions",
+    "x": 290,
+    "y": 1250,
+    "w": 360.0,
+    "h": 211.38888888888889,
+    "alpha_bounds": [
+      9,
+      231,
+      1305,
+      992
+    ]
+  },
+  {
+    "id": "fiber-mesh",
+    "asset": "fiber-mesh",
+    "start": 43.843,
+    "handoff": 46.083,
+    "end": 46.32,
+    "layout": [
+      290,
+      1120,
+      330,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "fiber mesh",
+    "entry_duration": 0.46,
+    "key": "fiber-mesh",
+    "x": 290,
+    "y": 1120,
+    "w": 330.0,
+    "h": 270.3614457831325,
+    "alpha_bounds": [
+      38,
+      100,
+      1283,
+      1120
+    ]
+  },
+  {
+    "id": "water-drop",
+    "asset": "water-drop",
+    "start": 45.843,
+    "handoff": 47.083,
+    "end": 47.463,
+    "layout": [
+      440,
+      800,
+      120,
+      160
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "water drop",
+    "entry_duration": 0.2,
+    "key": "water-drop",
+    "x": 440,
+    "y": 800,
+    "w": 109.49461474730737,
+    "h": 160.0,
+    "alpha_bounds": [
+      187,
+      55,
+      1013,
+      1262
+    ]
+  },
+  {
+    "id": "sponge",
+    "asset": "sponge",
+    "start": 46.083,
+    "handoff": 47.083,
+    "end": 47.463,
+    "layout": [
+      420,
+      1160,
+      400,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 46.54,
+        "x": 0,
+        "y": 0,
+        "scale": 1.08,
+        "d": 0.12,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 46.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.19,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "sponge",
+    "entry_duration": 0.22,
+    "key": "sponge",
+    "x": 420,
+    "y": 1160,
+    "w": 400.0,
+    "h": 278.4929356357928,
+    "alpha_bounds": [
+      131,
+      73,
+      1405,
+      960
+    ]
+  },
+  {
+    "id": "sweeping-gut",
+    "asset": "sweeping-gut",
+    "start": 47.083,
+    "handoff": 48.676,
+    "end": 49.056000000000004,
+    "layout": [
+      570,
+      970,
+      600,
+      650
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "sweeping gut",
+    "entry_duration": 0.25,
+    "key": "sweeping-gut",
+    "x": 570,
+    "y": 970,
+    "w": 600.0,
+    "h": 541.548709408826,
+    "alpha_bounds": [
+      96,
+      77,
+      1297,
+      1161
+    ]
+  },
+  {
+    "id": "world",
+    "asset": "world",
+    "start": 48.676,
+    "handoff": 50.496,
+    "end": 50.876,
+    "layout": [
+      350,
+      1200,
+      430,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "world",
+    "entry_duration": 0.46,
+    "key": "world",
+    "x": 350,
+    "y": 1200,
+    "w": 430.0,
+    "h": 542.1531631520533,
+    "alpha_bounds": [
+      293,
+      35,
+      1194,
+      1171
+    ]
+  },
+  {
+    "id": "low-fiber-person",
+    "asset": "low-fiber-person",
+    "start": 50.496,
+    "handoff": 54.016,
+    "end": 54.396,
+    "layout": [
+      680,
+      1250,
+      380,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "low fiber person",
+    "entry_duration": 0.46,
+    "key": "low-fiber-person",
+    "x": 680,
+    "y": 1250,
+    "w": 380.0,
+    "h": 559.4319526627219,
+    "alpha_bounds": [
+      249,
+      38,
+      1094,
+      1282
+    ]
+  },
+  {
+    "id": "missing-fiber",
+    "asset": "fiber-mesh",
+    "start": 51.856,
+    "handoff": 54.016,
+    "end": 54.396,
+    "layout": [
+      290,
+      1190,
+      320,
+      400
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "steady fiber",
+    "entry_duration": 0.46,
+    "key": "missing-fiber",
+    "x": 290,
+    "y": 1190,
+    "w": 319.99999999999994,
+    "h": 262.16867469879514,
+    "alpha_bounds": [
+      38,
+      100,
+      1283,
+      1120
+    ]
+  },
+  {
+    "id": "garbage",
+    "asset": "garbage",
+    "start": 54.016,
+    "handoff": 55.612,
+    "end": 55.992000000000004,
+    "layout": [
+      470,
+      1110,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "garbage",
+    "entry_duration": 0.34,
+    "key": "garbage",
+    "x": 470,
+    "y": 1110,
+    "w": 650.0,
+    "h": 866.4446721311476,
+    "alpha_bounds": [
+      160,
+      35,
+      1136,
+      1336
+    ]
+  },
+  {
+    "id": "matters",
+    "asset": "matters",
+    "start": 55.612,
+    "handoff": 57.853,
+    "end": 58.233000000000004,
+    "layout": [
+      480,
+      1060,
+      640,
+      950
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [],
+    "phrase": "matters",
+    "entry_duration": 0.46,
+    "key": "matters",
+    "x": 480,
+    "y": 1060,
+    "w": 514.2857142857143,
+    "h": 950.0,
+    "alpha_bounds": [
+      112,
+      36,
+      904,
+      1499
+    ]
+  },
+  {
+    "id": "trial-document",
+    "asset": "trial-document",
+    "start": 57.853,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      660,
+      890,
+      410,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "trial document",
+    "entry_duration": 0.46,
+    "key": "trial-document",
+    "x": 660,
+    "y": 890,
+    "w": 410.0,
+    "h": 466.4694471387003,
+    "alpha_bounds": [
+      138,
+      22,
+      1169,
+      1195
+    ]
+  },
+  {
+    "id": "scientist",
+    "asset": "scientist",
+    "start": 58.313,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      280,
+      1250,
+      380,
+      640
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "scientist",
+    "entry_duration": 0.46,
+    "key": "scientist",
+    "x": 280,
+    "y": 1250,
+    "w": 271.08978752570255,
+    "h": 640.0,
+    "alpha_bounds": [
+      202,
+      41,
+      820,
+      1500
+    ]
+  },
+  {
+    "id": "medal",
+    "asset": "medal",
+    "start": 59.633,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      650,
+      1390,
+      240,
+      300
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "medal",
+    "entry_duration": 0.46,
+    "key": "medal",
+    "x": 650,
+    "y": 1390,
+    "w": 219.82758620689657,
+    "h": 300.0,
+    "alpha_bounds": [
+      231,
+      11,
+      1081,
+      1171
+    ]
+  },
+  {
+    "id": "daily-kiwi",
+    "asset": "daily-kiwi",
+    "start": 61.747,
+    "handoff": 62.967,
+    "end": 63.347,
+    "layout": [
+      400,
+      1130,
+      560,
+      840
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 62.627,
+        "x": -110,
+        "y": 20,
+        "scale": 0.85,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ],
+    "phrase": "daily kiwi",
+    "entry_duration": 0.46,
+    "key": "daily-kiwi",
+    "x": 400,
+    "y": 1130,
+    "w": 544.3103448275862,
+    "h": 840.0,
+    "alpha_bounds": [
+      76,
+      74,
+      978,
+      1466
+    ]
+  },
+  {
+    "id": "calendar",
+    "asset": "calendar",
+    "start": 62.627,
+    "handoff": 63.25,
+    "end": 63.63,
+    "layout": [
+      760,
+      1300,
+      200,
+      240
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "calendar",
+    "entry_duration": 0.46,
+    "key": "calendar",
+    "x": 760,
+    "y": 1300,
+    "w": 200.0,
+    "h": 139.0831390831391,
+    "alpha_bounds": [
+      13,
+      186,
+      1300,
+      1081
+    ]
+  },
+  {
+    "id": "constipated",
+    "asset": "constipated",
+    "start": 64.187,
+    "handoff": 66.267,
+    "end": 66.647,
+    "layout": [
+      285,
+      1360,
+      310,
+      500
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "constipated",
+    "entry_duration": 0.34,
+    "key": "constipated",
+    "x": 285,
+    "y": 1360,
+    "w": 209.62199312714776,
+    "h": 500.0,
+    "alpha_bounds": [
+      229,
+      42,
+      839,
+      1497
+    ]
+  },
+  {
+    "id": "comfortable",
+    "asset": "comfortable",
+    "start": 65.187,
+    "handoff": 66.267,
+    "end": 66.64699999999999,
+    "layout": [
+      660,
+      1360,
+      310,
+      500
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "comfortable",
+    "entry_duration": 0.34,
+    "key": "comfortable",
+    "x": 660,
+    "y": 1360,
+    "w": 269.4109772423025,
+    "h": 500.0,
+    "alpha_bounds": [
+      129,
+      23,
+      934,
+      1517
+    ]
+  },
+  {
+    "id": "toilet-sitter",
+    "asset": "toilet-sitter",
+    "start": 66.267,
+    "handoff": 68.287,
+    "end": 68.667,
+    "layout": [
+      390,
+      1140,
+      600,
+      800
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "toilet sitter",
+    "entry_duration": 0.46,
+    "key": "toilet-sitter",
+    "x": 390,
+    "y": 1140,
+    "w": 600.0,
+    "h": 779.8657718120805,
+    "alpha_bounds": [
+      161,
+      90,
+      1055,
+      1252
+    ]
+  },
+  {
+    "id": "praying",
+    "asset": "praying",
+    "start": 68.287,
+    "handoff": 70.267,
+    "end": 70.64699999999999,
+    "layout": [
+      290,
+      1250,
+      430,
+      690
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "praying",
+    "entry_duration": 0.46,
+    "key": "praying",
+    "x": 290,
+    "y": 1250,
+    "w": 430.0,
+    "h": 670.2610966057441,
+    "alpha_bounds": [
+      174,
+      64,
+      940,
+      1258
+    ]
+  },
+  {
+    "id": "poop-shrine",
+    "asset": "poop-shrine",
+    "start": 69.027,
+    "handoff": 70.267,
+    "end": 70.64699999999999,
+    "layout": [
+      650,
+      900,
+      420,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "poop shrine",
+    "entry_duration": 0.34,
+    "key": "poop-shrine",
+    "x": 650,
+    "y": 900,
+    "w": 420.0,
+    "h": 388.88888888888886,
+    "alpha_bounds": [
+      55,
+      38,
+      1270,
+      1163
+    ]
+  },
+  {
+    "id": "sleepy",
+    "asset": "sleepy",
+    "start": 70.267,
+    "handoff": 72.997,
+    "end": 73.377,
+    "layout": [
+      440,
+      1100,
+      610,
+      940
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 71.407,
+        "x": -120,
+        "y": 130,
+        "scale": 0.82,
+        "d": 0.4,
+        "rotation": 0
+      },
+      {
+        "t": 72.027,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ],
+    "phrase": "sleepy",
+    "entry_duration": 0.34,
+    "key": "sleepy",
+    "x": 440,
+    "y": 1100,
+    "w": 441.09191430545957,
+    "h": 940.0,
+    "alpha_bounds": [
+      181,
+      53,
+      860,
+      1500
+    ]
+  },
+  {
+    "id": "moon",
+    "asset": "moon",
+    "start": 70.387,
+    "handoff": 72.997,
+    "end": 73.377,
+    "layout": [
+      740,
+      800,
+      220,
+      230
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "moon",
+    "entry_duration": 0.34,
+    "key": "moon",
+    "x": 740,
+    "y": 800,
+    "w": 220.0,
+    "h": 225.80527752502275,
+    "alpha_bounds": [
+      108,
+      33,
+      1207,
+      1161
+    ]
+  },
+  {
+    "id": "bedtime-kiwi",
+    "asset": "bedtime-kiwi",
+    "start": 72.997,
+    "handoff": 75.817,
+    "end": 76.19699999999999,
+    "layout": [
+      370,
+      1170,
+      560,
+      700
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "bedtime kiwi",
+    "entry_duration": 0.46,
+    "key": "bedtime-kiwi",
+    "x": 370,
+    "y": 1170,
+    "w": 560.0,
+    "h": 568.8971962616822,
+    "alpha_bounds": [
+      121,
+      32,
+      1191,
+      1119
+    ]
+  },
+  {
+    "id": "sleep-quality",
+    "asset": "sleep-quality",
+    "start": 75.817,
+    "handoff": 77.677,
+    "end": 78.057,
+    "layout": [
+      480,
+      1110,
+      740,
+      770
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "sleep quality",
+    "entry_duration": 0.46,
+    "key": "sleep-quality",
+    "x": 480,
+    "y": 1110,
+    "w": 739.9999999999999,
+    "h": 694.7571189279731,
+    "alpha_bounds": [
+      91,
+      43,
+      1285,
+      1164
+    ]
+  },
+  {
+    "id": "serotonin",
+    "asset": "serotonin",
+    "start": 77.677,
+    "handoff": 79.557,
+    "end": 79.937,
+    "layout": [
+      660,
+      800,
+      410,
+      360
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "serotonin",
+    "entry_duration": 0.46,
+    "key": "serotonin",
+    "x": 660,
+    "y": 800,
+    "w": 410.0,
+    "h": 269.3029490616622,
+    "alpha_bounds": [
+      28,
+      24,
+      1520,
+      1004
+    ]
+  },
+  {
+    "id": "brain",
+    "asset": "brain",
+    "start": 78.697,
+    "handoff": 80.337,
+    "end": 80.717,
+    "layout": [
+      700,
+      1280,
+      330,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "brain",
+    "entry_duration": 0.46,
+    "key": "brain",
+    "x": 700,
+    "y": 1280,
+    "w": 330.0,
+    "h": 289.7244094488189,
+    "alpha_bounds": [
+      23,
+      45,
+      1293,
+      1160
+    ]
+  },
+  {
+    "id": "pineal",
+    "asset": "pineal",
+    "start": 79.557,
+    "handoff": 81.497,
+    "end": 81.877,
+    "layout": [
+      650,
+      800,
+      410,
+      360
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "pineal",
+    "entry_duration": 0.46,
+    "key": "pineal",
+    "x": 650,
+    "y": 800,
+    "w": 410.0,
+    "h": 343.8919777601271,
+    "alpha_bounds": [
+      27,
+      102,
+      1286,
+      1158
+    ]
+  },
+  {
+    "id": "melatonin",
+    "asset": "melatonin",
+    "start": 81.497,
+    "handoff": 83.475,
+    "end": 83.85499999999999,
+    "layout": [
+      660,
+      1220,
+      410,
+      440
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "melatonin",
+    "entry_duration": 0.46,
+    "key": "melatonin",
+    "x": 660,
+    "y": 1220,
+    "w": 410.0,
+    "h": 242.7777777777778,
+    "alpha_bounds": [
+      31,
+      81,
+      1507,
+      955
+    ]
+  },
+  {
+    "id": "passed-out",
+    "asset": "passed-out",
+    "start": 83.475,
+    "handoff": 84.731,
+    "end": 85.11099999999999,
+    "layout": [
+      470,
+      1100,
+      730,
+      760
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "passed out",
+    "entry_duration": 0.46,
+    "key": "passed-out",
+    "x": 470,
+    "y": 1100,
+    "w": 730.0,
+    "h": 603.3794788273616,
+    "alpha_bounds": [
+      57,
+      114,
+      1285,
+      1129
+    ]
+  },
+  {
+    "id": "ceiling-awake",
+    "asset": "ceiling-awake",
+    "start": 84.731,
+    "handoff": 87.524,
+    "end": 87.904,
+    "layout": [
+      400,
+      1160,
+      650,
+      720
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 85.811,
+        "x": 0,
+        "y": -12,
+        "scale": 1.045,
+        "d": 0.24,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 86.18,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.3,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "ceiling awake",
+    "entry_duration": 0.46,
+    "key": "ceiling-awake",
+    "x": 400,
+    "y": 1160,
+    "w": 649.9999999999999,
+    "h": 625.3706754530477,
+    "alpha_bounds": [
+      47,
+      12,
+      1261,
+      1180
+    ]
+  },
+  {
+    "id": "clock-3am",
+    "asset": "clock-3am",
+    "start": 86.511,
+    "handoff": 87.524,
+    "end": 87.904,
+    "layout": [
+      730,
+      790,
+      270,
+      240
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "clock 3am",
+    "entry_duration": 0.34,
+    "key": "clock-3am",
+    "x": 730,
+    "y": 790,
+    "w": 270.0,
+    "h": 171.63223140495867,
+    "alpha_bounds": [
+      43,
+      66,
+      1495,
+      989
+    ]
+  },
+  {
+    "id": "gym",
+    "asset": "gym",
+    "start": 87.524,
+    "handoff": 91.983,
+    "end": 92.363,
+    "layout": [
+      470,
+      1120,
+      620,
+      920
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 90.044,
+        "x": -150,
+        "y": 120,
+        "scale": 0.78,
+        "d": 0.42,
+        "rotation": 0
+      },
+      {
+        "t": 90.85,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ],
+    "phrase": "gym",
+    "entry_duration": 0.46,
+    "key": "gym",
+    "x": 470,
+    "y": 1120,
+    "w": 620.0,
+    "h": 854.4243792325057,
+    "alpha_bounds": [
+      250,
+      54,
+      1136,
+      1275
+    ]
+  },
+  {
+    "id": "workout-kiwi",
+    "asset": "workout-kiwi",
+    "start": 90.044,
+    "handoff": 90.85,
+    "end": 91.23,
+    "layout": [
+      660,
+      850,
+      360,
+      290
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "workout kiwi",
+    "entry_duration": 0.34,
+    "key": "workout-kiwi",
+    "x": 660,
+    "y": 850,
+    "w": 360.0,
+    "h": 191.36044880785414,
+    "alpha_bounds": [
+      94,
+      147,
+      1520,
+      905
+    ]
+  },
+  {
+    "id": "glucose",
+    "asset": "glucose",
+    "start": 91.483,
+    "handoff": 92.843,
+    "end": 93.223,
+    "layout": [
+      745,
+      690,
+      350,
+      330
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "glucose",
+    "entry_duration": 0.25,
+    "key": "glucose",
+    "x": 745,
+    "y": 690,
+    "w": 313.51446099912357,
+    "h": 330.0,
+    "alpha_bounds": [
+      140,
+      22,
+      1224,
+      1163
+    ]
+  },
+  {
+    "id": "muscle",
+    "asset": "muscle",
+    "start": 91.983,
+    "handoff": 92.843,
+    "end": 93.223,
+    "layout": [
+      320,
+      1240,
+      400,
+      420
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 92.51,
+        "x": 0,
+        "y": -4,
+        "scale": 1.045,
+        "d": 0.14,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 92.67,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.16,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "muscle",
+    "entry_duration": 0.23,
+    "key": "muscle",
+    "x": 320,
+    "y": 1240,
+    "w": 400.0,
+    "h": 218.6631369953673,
+    "alpha_bounds": [
+      16,
+      104,
+      1527,
+      930
+    ]
+  },
+  {
+    "id": "steady-fiber",
+    "asset": "fiber-mesh",
+    "start": 92.843,
+    "handoff": 93.943,
+    "end": 94.323,
+    "layout": [
+      650,
+      1240,
+      420,
+      360
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "steady fiber",
+    "entry_duration": 0.34,
+    "key": "steady-fiber",
+    "x": 650,
+    "y": 1240,
+    "w": 419.99999999999994,
+    "h": 344.09638554216866,
+    "alpha_bounds": [
+      38,
+      100,
+      1283,
+      1120
+    ]
+  },
+  {
+    "id": "actinidin",
+    "asset": "actinidin",
+    "start": 93.943,
+    "handoff": 97.731,
+    "end": 98.11099999999999,
+    "layout": [
+      660,
+      850,
+      390,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "actinidin",
+    "entry_duration": 0.46,
+    "key": "actinidin",
+    "x": 660,
+    "y": 850,
+    "w": 390.0,
+    "h": 342.3021582733813,
+    "alpha_bounds": [
+      36,
+      55,
+      1287,
+      1153
+    ]
+  },
+  {
+    "id": "scissors",
+    "asset": "scissors",
+    "start": 96.991,
+    "handoff": 99.36,
+    "end": 99.64,
+    "layout": [
+      270,
+      660,
+      300,
+      320
+    ],
+    "route": "left",
+    "z": 50,
+    "moves": [
+      {
+        "t": 97.46,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -8,
+        "ease": "power2.out"
+      },
+      {
+        "t": 97.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -8,
+        "ease": "power2.out"
+      },
+      {
+        "t": 98.671,
+        "x": 1050,
+        "y": 0,
+        "scale": 1,
+        "d": 0.66,
+        "rotation": -8,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "scissors",
+    "entry_duration": 0.25,
+    "exit_duration": 0.18,
+    "exit_via_travel": true,
+    "key": "scissors",
+    "x": 270,
+    "y": 660,
+    "w": 300.0,
+    "h": 248.5235434956105,
+    "alpha_bounds": [
+      42,
+      66,
+      1295,
+      1104
+    ]
+  },
+  {
+    "id": "stomach",
+    "asset": "stomach",
+    "start": 97.731,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      230,
+      1140,
+      300,
+      450
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "stomach",
+    "entry_duration": 0.46,
+    "key": "stomach",
+    "x": 230,
+    "y": 1140,
+    "w": 300.0,
+    "h": 307.38137082601054,
+    "alpha_bounds": [
+      109,
+      9,
+      1247,
+      1175
+    ]
+  },
+  {
+    "id": "protein",
+    "asset": "protein",
+    "start": 98.411,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      670,
+      680,
+      380,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "protein",
+    "entry_duration": 0.22,
+    "split_at": 98.99,
+    "key": "protein",
+    "x": 670,
+    "y": 680,
+    "w": 380.0,
+    "h": 252.57181028724114,
+    "alpha_bounds": [
+      20,
+      16,
+      1517,
+      1011
+    ]
+  },
+  {
+    "id": "peptides",
+    "asset": "peptides",
+    "start": 99.5,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      330,
+      1430,
+      400,
+      300
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "peptides",
+    "entry_duration": 0.18,
+    "key": "peptides",
+    "x": 330,
+    "y": 1430,
+    "w": 332.7474560592044,
+    "h": 300.0,
+    "alpha_bounds": [
+      64,
+      66,
+      1263,
+      1147
+    ]
+  },
+  {
+    "id": "post-meal",
+    "asset": "post-meal",
+    "start": 100.171,
+    "handoff": 103.491,
+    "end": 103.871,
+    "layout": [
+      470,
+      1110,
+      650,
+      910
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "post meal",
+    "entry_duration": 0.46,
+    "key": "post-meal",
+    "x": 470,
+    "y": 1110,
+    "w": 624.5941686367219,
+    "h": 910.0,
+    "alpha_bounds": [
+      173,
+      15,
+      1044,
+      1284
+    ]
+  },
+  {
+    "id": "wet-brick",
+    "asset": "wet-brick",
+    "start": 103.491,
+    "handoff": 104.374,
+    "end": 104.754,
+    "layout": [
+      650,
+      850,
+      400,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "wet brick",
+    "entry_duration": 0.34,
+    "key": "wet-brick",
+    "x": 650,
+    "y": 850,
+    "w": 400.00000000000006,
+    "h": 278.29787234042556,
+    "alpha_bounds": [
+      64,
+      25,
+      1474,
+      1006
+    ]
+  },
+  {
+    "id": "meal-light",
+    "asset": "post-meal",
+    "start": 103.491,
+    "handoff": 104.374,
+    "end": 104.754,
+    "layout": [
+      300,
+      1280,
+      400,
+      590
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "post meal",
+    "entry_duration": 0.34,
+    "key": "meal-light",
+    "x": 300,
+    "y": 1280,
+    "w": 400.0,
+    "h": 582.7784156142366,
+    "alpha_bounds": [
+      173,
+      15,
+      1044,
+      1284
+    ]
+  },
+  {
+    "id": "coins",
+    "asset": "coins",
+    "start": 104.374,
+    "handoff": 106.114,
+    "end": 106.494,
+    "layout": [
+      470,
+      1090,
+      620,
+      610
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "coins",
+    "entry_duration": 0.46,
+    "key": "coins",
+    "x": 470,
+    "y": 1090,
+    "w": 620.0,
+    "h": 403.3610648918469,
+    "alpha_bounds": [
+      69,
+      225,
+      1271,
+      1007
+    ]
+  },
+  {
+    "id": "grocery",
+    "asset": "grocery",
+    "start": 106.114,
+    "handoff": 107.334,
+    "end": 107.714,
+    "layout": [
+      480,
+      1090,
+      730,
+      800
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "grocery",
+    "entry_duration": 0.34,
+    "key": "grocery",
+    "x": 480,
+    "y": 1090,
+    "w": 730.0,
+    "h": 695.7165991902834,
+    "alpha_bounds": [
+      51,
+      8,
+      1286,
+      1185
+    ]
+  },
+  {
+    "id": "quiet-kiwi",
+    "asset": "quiet-kiwi",
+    "start": 107.334,
+    "handoff": 108.825,
+    "end": 109.205,
+    "layout": [
+      480,
+      1110,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "quiet kiwi",
+    "entry_duration": 0.46,
+    "key": "quiet-kiwi",
+    "x": 480,
+    "y": 1110,
+    "w": 561.982044198895,
+    "h": 930.0,
+    "alpha_bounds": [
+      104,
+      44,
+      979,
+      1492
+    ]
+  },
+  {
+    "id": "kiwi-champion",
+    "asset": "kiwi-underrated-sad",
+    "start": 108.825,
+    "handoff": 110.732,
+    "end": 111.112,
+    "layout": [
+      480,
+      1060,
+      700,
+      850
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 108.825,
+        "x": 0,
+        "y": 12,
+        "scale": 0.985,
+        "d": 0.4,
+        "rotation": 1,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 109.4,
+        "x": 0,
+        "y": 20,
+        "scale": 0.98,
+        "d": 0.4,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi champion",
+    "entry_duration": 0.46,
+    "key": "kiwi-champion",
+    "x": 480,
+    "y": 1060,
+    "w": 661.2888052681092,
+    "h": 850.0,
+    "alpha_bounds": [
+      294,
+      85,
+      1121,
+      1148
+    ]
+  },
+  {
+    "id": "overrate",
+    "asset": "overrate",
+    "start": 110.732,
+    "handoff": 111.439,
+    "end": 111.819,
+    "layout": [
+      480,
+      1090,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "overrate",
+    "entry_duration": 0.34,
+    "key": "overrate",
+    "x": 480,
+    "y": 1090,
+    "w": 537.5686537173476,
+    "h": 930.0,
+    "alpha_bounds": [
+      104,
+      18,
+      967,
+      1511
+    ]
+  },
+  {
+    "id": "eat-kiwi",
+    "asset": "eat-kiwi",
+    "start": 111.439,
+    "handoff": 114.6,
+    "end": 114.6,
+    "layout": [
+      320,
+      1180,
+      470,
+      750
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "eat kiwi",
+    "entry_duration": 0.46,
+    "key": "eat-kiwi",
+    "x": 320,
+    "y": 1180,
+    "w": 395.06601806810284,
+    "h": 750.0,
+    "alpha_bounds": [
+      162,
+      52,
+      920,
+      1491
+    ]
+  },
+  {
+    "id": "fuzzy-egg",
+    "asset": "fuzzy-egg",
+    "start": 111.859,
+    "handoff": 114.6,
+    "end": 114.6,
+    "layout": [
+      700,
+      950,
+      320,
+      450
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "fuzzy egg",
+    "entry_duration": 0.46,
+    "key": "fuzzy-egg",
+    "x": 700,
+    "y": 950,
+    "w": 320.0,
+    "h": 342.93515358361776,
+    "alpha_bounds": [
+      16,
+      27,
+      1188,
+      1283
+    ]
+  },
+  {
+    "id": "p-dna",
+    "asset": "instructor-straight",
+    "start": 18.95,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        18.95,
+        310,
+        1080,
+        1000
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "tip": [
+      75.64422277639235,
+      6.6500415627597675
+    ],
+    "key": "p-dna",
+    "x": 434.68827930174564,
+    "y": 1573.3499584372403,
+    "w": 400.665004156276,
+    "h": 1000.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "p-membrane",
+    "asset": "instructor-straight",
+    "start": 31.22,
+    "handoff": 32.896,
+    "end": 33.176,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        31.22,
+        570,
+        850,
+        1700
+      ],
+      [
+        31.925,
+        650,
+        1140,
+        1350,
+        0.24
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": 160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "tip": [
+      552.5353283458022,
+      11.305070656691605
+    ],
+    "key": "p-membrane",
+    "x": 358.0299251870324,
+    "y": 1688.6949293433086,
+    "w": 681.1305070656692,
+    "h": 1700.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "p-fiber",
+    "asset": "instructor-straight",
+    "start": 43.95,
+    "handoff": 44.9,
+    "end": 45.12,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor straight",
+    "targets": [
+      [
+        43.95,
+        630,
+        680,
+        720
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "exit_duration": 0.16,
+    "tip": [
+      54.46384039900249,
+      4.788029925187033
+    ],
+    "key": "p-fiber",
+    "x": 719.7755610972569,
+    "y": 1035.211970074813,
+    "w": 288.4788029925187,
+    "h": 720.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "p-trial",
+    "asset": "instructor-straight",
+    "start": 63.25,
+    "handoff": 64.1,
+    "end": 64.36,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        63.25,
+        645,
+        885,
+        1750
+      ],
+      [
+        63.4,
+        645,
+        790,
+        1750,
+        0.5
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": 160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "tip": [
+      568.7863674147964,
+      11.637572734829593
+    ],
+    "key": "p-trial",
+    "x": 426.79551122194516,
+    "y": 1748.3624272651705,
+    "w": 701.163757273483,
+    "h": 1750.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "p-sleep",
+    "asset": "instructor-up",
+    "start": 77.93,
+    "handoff": 83.475,
+    "end": 83.85499999999999,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        77.93,
+        650,
+        820,
+        1120
+      ],
+      [
+        78.697,
+        700,
+        1220,
+        1120,
+        0.24
+      ],
+      [
+        79.557,
+        650,
+        790,
+        1120,
+        0.24
+      ],
+      [
+        81.497,
+        660,
+        1220,
+        1120,
+        0.24
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "tip": [
+      598.1716118684844,
+      16.16680032076985
+    ],
+    "key": "p-sleep",
+    "x": 359.8957497995188,
+    "y": 1363.8331996792301,
+    "w": 616.1347233360065,
+    "h": 1120.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "p-water",
+    "asset": "instructor-straight",
+    "start": 45.1,
+    "handoff": 47.0,
+    "end": 47.28,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        45.1,
+        325,
+        1090,
+        1100
+      ],
+      [
+        45.843,
+        460,
+        850,
+        1100,
+        0.2
+      ],
+      [
+        46.13,
+        450,
+        950,
+        1100,
+        0.2
+      ],
+      [
+        46.38,
+        430,
+        1080,
+        1100,
+        0.23
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22,
+    "tip": [
+      357.522859517872,
+      7.315045719035744
+    ],
+    "key": "p-water",
+    "x": 187.8428927680798,
+    "y": 1632.6849542809643,
+    "w": 440.7315045719036,
+    "h": 1100.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  },
+  {
+    "id": "p-gut",
+    "asset": "instructor-up",
+    "start": 47.12,
+    "handoff": 48.676,
+    "end": 48.956,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        47.12,
+        639.23,
+        840.77,
+        1150
+      ],
+      [
+        47.47,
+        662.31,
+        970.0,
+        1150,
+        0.27
+      ],
+      [
+        47.82,
+        588.46,
+        1103.85,
+        1150,
+        0.26
+      ],
+      [
+        48.13,
+        500.77,
+        1228.46,
+        1150,
+        0.27
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22,
+    "tip": [
+      614.1940657578187,
+      16.599839615076185
+    ],
+    "key": "p-gut",
+    "x": 341.3551002405774,
+    "y": 1399.1701603849237,
+    "w": 632.6383319967923,
+    "h": 1150.0,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "p-steady-enzyme",
+    "asset": "instructor-up",
+    "start": 92.9,
+    "handoff": 96.96,
+    "end": 97.24,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        92.9,
+        650,
+        1220,
+        1350
+      ],
+      [
+        93.943,
+        650,
+        830,
+        1350,
+        0.2
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22,
+    "tip": [
+      721.010425020048,
+      19.486768243785082
+    ],
+    "key": "p-steady-enzyme",
+    "x": 300.3207698476344,
+    "y": 1875.5132317562147,
+    "w": 742.6623897353649,
+    "h": 1349.9999999999998,
+    "alpha_bounds": [
+      429,
+      25,
+      1115,
+      1272
+    ]
+  },
+  {
+    "id": "p-scissors",
+    "asset": "instructor-straight",
+    "start": 97.0,
+    "handoff": 97.65,
+    "end": 97.83,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        97.0,
+        270,
+        660,
+        1800
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.97,
+    "entry_x": -55,
+    "entry_y": 25,
+    "entry_duration": 0.22,
+    "exit_duration": 0.13,
+    "tip": [
+      136.15960099750623,
+      11.970074812967582
+    ],
+    "key": "p-scissors",
+    "x": 494.43890274314214,
+    "y": 1548.0299251870324,
+    "w": 721.1970074812967,
+    "h": 1800.0,
+    "alpha_bounds": [
+      434,
+      44,
+      916,
+      1247
+    ]
+  }
+]

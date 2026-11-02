@@ -1,0 +1,11 @@
+{
+  "id": "matched-brain-regions",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: lighting up the exact same regions at the exact same millisecond.. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone TWO detailed red human brain views side by side with a large clear gap, cortical folds and THREE sparse white region windows per brain for schematic highlighting. No lit colored areas, people, faces or wave traces. Large BRAIN REGIONS label.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/matched-brain-regions.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-d11954f8-de0e-4e86-990a-033f7b9ba457.png"
+}

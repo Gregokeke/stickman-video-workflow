@@ -1,0 +1,399 @@
+{
+  "samples": 1027,
+  "unintended_collisions": [],
+  "ui_conflicts": [],
+  "intentional_extraction_overlaps": [
+    {
+      "t": 3.53,
+      "a": "biceps-poser",
+      "b": "chest-diagram",
+      "fraction": 1.0
+    },
+    {
+      "t": 3.6,
+      "a": "biceps-poser",
+      "b": "chest-diagram",
+      "fraction": 0.6666666666666666
+    },
+    {
+      "t": 6.43,
+      "a": "bench-press",
+      "b": "five-day-calendar",
+      "fraction": 0.5405405405405406
+    },
+    {
+      "t": 6.55,
+      "a": "bench-press",
+      "b": "five-day-calendar",
+      "fraction": 0.42857142857142855
+    },
+    {
+      "t": 11.03,
+      "a": "leg-reveal",
+      "b": "lower-body",
+      "fraction": 0.9342105263157895
+    },
+    {
+      "t": 20.13,
+      "a": "study-report",
+      "b": "ten-year-timeline",
+      "fraction": 1.0
+    },
+    {
+      "t": 20.14,
+      "a": "study-report",
+      "b": "ten-year-timeline",
+      "fraction": 1.0
+    },
+    {
+      "t": 22.27,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 1.0
+    },
+    {
+      "t": 22.39,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 0.9892871858261227
+    },
+    {
+      "t": 22.4,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 0.9527410207939508
+    },
+    {
+      "t": 22.51,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 0.34586076792187614
+    },
+    {
+      "t": 22.6,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 0.3511873936524377
+    },
+    {
+      "t": 22.63,
+      "a": "female-cohort",
+      "b": "twins-baseline",
+      "fraction": 0.340904046755937
+    },
+    {
+      "t": 26.72,
+      "a": "leg-power-test",
+      "b": "prediction-brain",
+      "fraction": 1.0
+    },
+    {
+      "t": 28.4,
+      "a": "prediction-brain",
+      "b": "brain-decay-metaphor",
+      "fraction": 1.0
+    },
+    {
+      "t": 28.52,
+      "a": "prediction-brain",
+      "b": "brain-decay-metaphor",
+      "fraction": 1.0
+    },
+    {
+      "t": 37.91,
+      "a": "mri-scanner",
+      "b": "mri-brain-images",
+      "fraction": 1.0
+    },
+    {
+      "t": 37.99,
+      "a": "mri-scanner",
+      "b": "mri-brain-images",
+      "fraction": 1.0
+    },
+    {
+      "t": 38,
+      "a": "mri-scanner",
+      "b": "mri-brain-images",
+      "fraction": 1.0
+    },
+    {
+      "t": 38.03,
+      "a": "mri-scanner",
+      "b": "mri-brain-images",
+      "fraction": 0.9334085778781038
+    },
+    {
+      "t": 43.2,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 1.0
+    },
+    {
+      "t": 43.22,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 1.0
+    },
+    {
+      "t": 43.34,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 1.0
+    },
+    {
+      "t": 43.4,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 0.7065397350993378
+    },
+    {
+      "t": 43.46,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 0.35597031706768606
+    },
+    {
+      "t": 43.58,
+      "a": "brain-tissue",
+      "b": "tissue-neuron",
+      "fraction": 0.2884682181312956
+    },
+    {
+      "t": 45.39,
+      "a": "forgetful-parent",
+      "b": "family-photo",
+      "fraction": 1.0
+    },
+    {
+      "t": 45.4,
+      "a": "forgetful-parent",
+      "b": "family-photo",
+      "fraction": 1.0
+    },
+    {
+      "t": 45.51,
+      "a": "forgetful-parent",
+      "b": "family-photo",
+      "fraction": 0.023115577889447236
+    },
+    {
+      "t": 51,
+      "a": "squat-athlete",
+      "b": "leg-muscle",
+      "fraction": 1.0
+    },
+    {
+      "t": 51.12,
+      "a": "squat-athlete",
+      "b": "leg-muscle",
+      "fraction": 0.08208092485549133
+    },
+    {
+      "t": 53.58,
+      "a": "leg-muscle",
+      "b": "myokines",
+      "fraction": 1.0
+    },
+    {
+      "t": 53.6,
+      "a": "leg-muscle",
+      "b": "myokines",
+      "fraction": 1.0
+    },
+    {
+      "t": 53.7,
+      "a": "leg-muscle",
+      "b": "myokines",
+      "fraction": 0.6427586206896552
+    },
+    {
+      "t": 57.19,
+      "a": "myokines",
+      "b": "bdnf",
+      "fraction": 0.3076923076923077
+    },
+    {
+      "t": 57.2,
+      "a": "myokines",
+      "b": "bdnf",
+      "fraction": 0.2711864406779661
+    },
+    {
+      "t": 57.31,
+      "a": "myokines",
+      "b": "bdnf",
+      "fraction": 0.04672897196261682
+    },
+    {
+      "t": 60.96,
+      "a": "brain-cell-source",
+      "b": "neuron",
+      "fraction": 1.0
+    },
+    {
+      "t": 61,
+      "a": "brain-cell-source",
+      "b": "neuron",
+      "fraction": 1.0
+    },
+    {
+      "t": 63.08,
+      "a": "neuron",
+      "b": "neural-network",
+      "fraction": 0.8444444444444444
+    },
+    {
+      "t": 63.2,
+      "a": "neuron",
+      "b": "neural-network",
+      "fraction": 0.469447138700291
+    },
+    {
+      "t": 63.32,
+      "a": "neuron",
+      "b": "neural-network",
+      "fraction": 0.058398119689025495
+    },
+    {
+      "t": 63.4,
+      "a": "neuron",
+      "b": "neural-network",
+      "fraction": 0.04447658651238474
+    },
+    {
+      "t": 63.44,
+      "a": "neuron",
+      "b": "neural-network",
+      "fraction": 0.04122220213342976
+    },
+    {
+      "t": 70.83,
+      "a": "identical-twins-control",
+      "b": "genetic-helix",
+      "fraction": 1.0
+    },
+    {
+      "t": 80,
+      "a": "older-self",
+      "b": "mental-tax",
+      "fraction": 1.0
+    },
+    {
+      "t": 80.01,
+      "a": "older-self",
+      "b": "mental-tax",
+      "fraction": 1.0
+    },
+    {
+      "t": 85.23,
+      "a": "eighty-year-old",
+      "b": "walker",
+      "fraction": 1.0
+    },
+    {
+      "t": 85.35,
+      "a": "eighty-year-old",
+      "b": "walker",
+      "fraction": 0.8091872791519434
+    },
+    {
+      "t": 85.4,
+      "a": "eighty-year-old",
+      "b": "walker",
+      "fraction": 0.11630218687872763
+    },
+    {
+      "t": 92.79,
+      "a": "misstep",
+      "b": "hip-fracture",
+      "fraction": 0.65625
+    },
+    {
+      "t": 92.8,
+      "a": "misstep",
+      "b": "hip-fracture",
+      "fraction": 0.9512195121951219
+    },
+    {
+      "t": 93.9,
+      "a": "hip-fracture",
+      "b": "afterlife-ticket",
+      "fraction": 0.6153846153846154
+    },
+    {
+      "t": 94,
+      "a": "hip-fracture",
+      "b": "afterlife-ticket",
+      "fraction": 0.6285714285714286
+    },
+    {
+      "t": 94.02,
+      "a": "hip-fracture",
+      "b": "afterlife-ticket",
+      "fraction": 0.33578431372549017
+    },
+    {
+      "t": 101.58,
+      "a": "shorts-confidence",
+      "b": "insurance-policy",
+      "fraction": 0.7971014492753623
+    },
+    {
+      "t": 101.6,
+      "a": "shorts-confidence",
+      "b": "insurance-policy",
+      "fraction": 1.0
+    },
+    {
+      "t": 103.14,
+      "a": "shorts-confidence",
+      "b": "nervous-system",
+      "fraction": 1.0
+    },
+    {
+      "t": 103.2,
+      "a": "shorts-confidence",
+      "b": "nervous-system",
+      "fraction": 1.0
+    },
+    {
+      "t": 103.26,
+      "a": "shorts-confidence",
+      "b": "nervous-system",
+      "fraction": 0.453382084095064
+    },
+    {
+      "t": 104.8,
+      "a": "nervous-system",
+      "b": "brain-intact",
+      "fraction": 1.0
+    },
+    {
+      "t": 106.97,
+      "a": "brain-intact",
+      "b": "working-brain",
+      "fraction": 1.0
+    },
+    {
+      "t": 107,
+      "a": "brain-intact",
+      "b": "working-brain",
+      "fraction": 1.0
+    },
+    {
+      "t": 107.09,
+      "a": "brain-intact",
+      "b": "working-brain",
+      "fraction": 1.0
+    }
+  ],
+  "source_opacity_at_emergence": [],
+  "pointer_max_error_px": 7.385687040958328e-05,
+  "missing_images": [],
+  "page_errors": [],
+  "caption_overlaps": [],
+  "caption_overflow": [],
+  "ui_guide": "references/red-zone-canvas.png",
+  "intentional_crops": "Only large instructor lower bodies; normal illustrations remain complete"
+}

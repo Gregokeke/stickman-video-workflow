@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 8,
+    "id": "hip-fracture",
+    "output_filename": "hip-fracture.png",
+    "output_path": "images/hip-fracture.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "means a shattered hip",
+    "video_cue_seconds": 92.83,
+    "references": [
+      "references/current/lower-body-anatomy.png",
+      "references/current/brain.png",
+      "references/current/dumbbell.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone stylized anatomical teaching model of a hip joint: one proximal femur articulating with the corresponding half-pelvis/acetabulum, shown at a readable slight three-quarter angle. A small clear black fracture line crosses the femoral neck. Red model surfaces, bold black contours, restrained white or pale-red bony/joint highlights; all in the established palette. No skin, muscle wrapper, human figure, face or gore. Label exactly HIP on one integrated red plaque. The femoral head, neck and relevant pelvic socket must be anatomically coherent and fully visible.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "902fa3895b5af5df4cd687d01b506e77378830dc5d204a1a5765e0b10b7aa0c7"
+}

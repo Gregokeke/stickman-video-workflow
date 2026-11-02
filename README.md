@@ -1,4 +1,21 @@
-# Stickman Video Workflow — seven references
+# Stickman Video Workflow — twelve references
+
+## Current reference set: twelve projects — 2 November 2026
+
+The workspace now contains **12 finished reference projects**: the original seven editable ZIPs plus five new fully expanded project folders. References 8–12 are normal browsable files; their largest original member is about 39.1 MB, below GitHub's 100 MiB per-file limit. No recompression, media conversion, LFS, restoration helper or bulky outer ZIP is needed for these five. Every original archive member is preserved byte-for-byte; see [REFERENCE-IMPORT-AUDIT.json](REFERENCE-IMPORT-AUDIT.json). References 6 and 7 retain their existing lossless restore requirement.
+
+Read [REFERENCE-PROJECTS.md](REFERENCE-PROJECTS.md) for all twelve. Import and study **all twelve** under the current workflow. Earlier seven-reference descriptions below record the preserved baseline; this dated addition supersedes their project count and ZIP-only setup wording. The bouncy package remains a supporting study, not a numbered project.
+
+| # | Project folder / setup | Complete final video | Study focus |
+| --- | --- | --- | --- |
+| 8 | [Fasting Self Recycling](14-Project-8-Fasting-Self-Recycling/REFERENCE-SETUP.md) | [MP4](14-Project-8-Fasting-Self-Recycling/renders/Fasting-Self-Recycling.mp4) | Related emergence, switches, gauges and cell division. |
+| 9 | [One Winner Each Organ](15-Project-9-One-Winner-Each-Organ/REFERENCE-SETUP.md) | [MP4](15-Project-9-One-Winner-Each-Organ/renders/One-Winner-Each-Organ.mp4) | Related-object chains and dimensional scientific props; character styling remains governed by A/D. |
+| 10 | [Kiwi Small Fruit Big Attitude](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/REFERENCE-SETUP.md) | [MP4](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/renders/Kiwi-Small-Fruit-Big-Attitude.mp4) | Functional mechanisms, fluid routes, protein split and latest revision precedence. |
+| 11 | [Brainwave Besties](17-Project-11-Brainwave-Besties/REFERENCE-SETUP.md) | [MP4](17-Project-11-Brainwave-Besties/renders/Brainwave-Besties.mp4) | Registered waveform/chart/screen animation, handoffs and approved character A. |
+| 12 | [Leg Power Brain Insurance](18-Project-12-Leg-Power-Brain-Insurance/REFERENCE-SETUP.md) | [MP4](18-Project-12-Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4) | Feature-anchored emergence, moving-target pointing and approved character D. |
+
+Clone or download the repository to obtain all files. Folder links open actual source directories/setup notes, not individual project-ZIP downloads. All new final MP4s retain their original full-resolution bytes. Read the current canonical workflow even when an imported project contains an older workflow snapshot.
+
 
 A browsable red/black/white stickman-video workspace with **seven finished reference projects**, individually listed editable ZIPs and matching videos, one current workflow, micro-explanation studies/clips, instructor references, the complete 72-effect sound pack and the dimensional bouncy UI study.
 

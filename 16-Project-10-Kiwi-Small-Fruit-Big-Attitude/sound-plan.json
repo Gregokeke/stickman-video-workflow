@@ -1,0 +1,614 @@
+[
+  [
+    0.14,
+    "O01",
+    -9,
+    "arrival: kiwi hero"
+  ],
+  [
+    1.13,
+    "B20",
+    -9,
+    "arrival: narrator sass"
+  ],
+  [
+    5.697,
+    "B08",
+    -13,
+    "arrival: tarantula"
+  ],
+  [
+    7.254,
+    "B06",
+    -9,
+    "arrival: nutrition cutaway"
+  ],
+  [
+    8.636,
+    "B15",
+    -13,
+    "arrival: kiwi boxer"
+  ],
+  [
+    10.19,
+    "A02",
+    -12,
+    "kiwi matchup challenge"
+  ],
+  [
+    10.23,
+    "B27",
+    -17,
+    "VS slash draws"
+  ],
+  [
+    11.316,
+    "B16",
+    -13,
+    "arrival: orange boxer"
+  ],
+  [
+    11.996,
+    "B08",
+    -13,
+    "arrival: vitamin c"
+  ],
+  [
+    12.85,
+    "B06",
+    -9,
+    "arrival: referee"
+  ],
+  [
+    14.88,
+    "C18",
+    -13,
+    "referee unfair reaction"
+  ],
+  [
+    16.16,
+    "B15",
+    -13,
+    "arrival: potassium"
+  ],
+  [
+    17.14,
+    "B20",
+    -9,
+    "arrival: heart"
+  ],
+  [
+    17.56,
+    "B02",
+    -18,
+    "steady heart condition"
+  ],
+  [
+    18.276,
+    "B16",
+    -13,
+    "arrival: folate"
+  ],
+  [
+    18.876,
+    "B08",
+    -13,
+    "arrival: dna"
+  ],
+  [
+    19.17,
+    "B27",
+    -17,
+    "DNA construction link"
+  ],
+  [
+    20.472,
+    "A11",
+    -13,
+    "arrival: vitamin k"
+  ],
+  [
+    21.292,
+    "B15",
+    -13,
+    "arrival: paper cut"
+  ],
+  [
+    22.432,
+    "B18",
+    -13,
+    "arrival: clot"
+  ],
+  [
+    22.45,
+    "B08",
+    -17,
+    "clot closes cut"
+  ],
+  [
+    23.377,
+    "B31",
+    -9,
+    "arrival: weird narrator"
+  ],
+  [
+    24.613,
+    "B36",
+    -9,
+    "arrival: vitamin e"
+  ],
+  [
+    25.755,
+    "A11",
+    -13,
+    "arrival: fruit basket"
+  ],
+  [
+    27.8,
+    "B02",
+    -18,
+    "vitamin E absence slash"
+  ],
+  [
+    28.815,
+    "B18",
+    -13,
+    "arrival: lipid"
+  ],
+  [
+    29.515,
+    "B16",
+    -13,
+    "arrival: shield"
+  ],
+  [
+    29.55,
+    "B19b",
+    -18,
+    "antioxidant shield"
+  ],
+  [
+    31.055,
+    "B08",
+    -13,
+    "arrival: membrane"
+  ],
+  [
+    33.086,
+    "O01",
+    -9,
+    "arrival: no fat narrator"
+  ],
+  [
+    34.804,
+    "B20",
+    -9,
+    "arrival: kiwi schemer"
+  ],
+  [
+    36.464,
+    "B16",
+    -13,
+    "arrival: kiwi seeds"
+  ],
+  [
+    36.824,
+    "B08",
+    -15,
+    "arrival: seed oil"
+  ],
+  [
+    37.34,
+    "C09",
+    -17,
+    "seed oil trace"
+  ],
+  [
+    39.544,
+    "B06",
+    -9,
+    "arrival: crunch"
+  ],
+  [
+    39.55,
+    "B04",
+    -17,
+    "kiwi crunch"
+  ],
+  [
+    40.902,
+    "O01",
+    -9,
+    "arrival: tragic gut"
+  ],
+  [
+    42.833,
+    "B16",
+    -13,
+    "arrival: fiber portions"
+  ],
+  [
+    43.953,
+    "B08",
+    -15,
+    "arrival: fiber mesh"
+  ],
+  [
+    44.0,
+    "B27",
+    -18,
+    "fiber units fill"
+  ],
+  [
+    46.0,
+    "C09",
+    -17,
+    "water held by fiber"
+  ],
+  [
+    46.193,
+    "B15",
+    -13,
+    "arrival: sponge"
+  ],
+  [
+    47.193,
+    "B20",
+    -9,
+    "arrival: sweeping gut"
+  ],
+  [
+    47.25,
+    "B06",
+    -18,
+    "bowel flow"
+  ],
+  [
+    48.786,
+    "B16",
+    -13,
+    "arrival: world"
+  ],
+  [
+    49.53,
+    "B13",
+    -18,
+    "below-fiber-goal units"
+  ],
+  [
+    50.606,
+    "B08",
+    -13,
+    "arrival: low fiber person"
+  ],
+  [
+    51.966,
+    "A11",
+    -13,
+    "arrival: steady fiber"
+  ],
+  [
+    54.126,
+    "O01",
+    -9,
+    "arrival: garbage"
+  ],
+  [
+    55.722,
+    "B20",
+    -9,
+    "arrival: matters"
+  ],
+  [
+    57.963,
+    "B16",
+    -13,
+    "arrival: trial document"
+  ],
+  [
+    58.423,
+    "B08",
+    -13,
+    "arrival: scientist"
+  ],
+  [
+    58.95,
+    "B02",
+    -17,
+    "RCT assignment"
+  ],
+  [
+    59.8,
+    "B19b",
+    -18,
+    "gold standard study"
+  ],
+  [
+    61.857,
+    "O01",
+    -9,
+    "arrival: daily kiwi"
+  ],
+  [
+    63.55,
+    "B27",
+    -18,
+    "trial outcome bar grows"
+  ],
+  [
+    64.297,
+    "B16",
+    -13,
+    "arrival: constipated"
+  ],
+  [
+    65.297,
+    "B08",
+    -13,
+    "arrival: comfortable"
+  ],
+  [
+    65.65,
+    "C14",
+    -17,
+    "abdominal comfort"
+  ],
+  [
+    66.377,
+    "B06",
+    -9,
+    "arrival: toilet sitter"
+  ],
+  [
+    67.08,
+    "B27",
+    -17,
+    "forty-minute clock advances"
+  ],
+  [
+    68.397,
+    "O01",
+    -9,
+    "arrival: praying"
+  ],
+  [
+    68.48,
+    "C12",
+    -17,
+    "praying despair"
+  ],
+  [
+    69.137,
+    "B18",
+    -13,
+    "arrival: poop shrine"
+  ],
+  [
+    69.37,
+    "B19b",
+    -18,
+    "shrine punchline"
+  ],
+  [
+    70.377,
+    "B31",
+    -9,
+    "arrival: sleepy"
+  ],
+  [
+    73.107,
+    "B06",
+    -9,
+    "arrival: bedtime kiwi"
+  ],
+  [
+    75.927,
+    "O01",
+    -9,
+    "arrival: sleep quality"
+  ],
+  [
+    76.03,
+    "B08",
+    -17,
+    "sleep quality gauge"
+  ],
+  [
+    77.787,
+    "B18",
+    -13,
+    "arrival: serotonin"
+  ],
+  [
+    78.807,
+    "B16",
+    -15,
+    "arrival: brain"
+  ],
+  [
+    79.667,
+    "B08",
+    -13,
+    "arrival: pineal"
+  ],
+  [
+    80.86,
+    "C01",
+    -22,
+    "pineal synthesis mechanism"
+  ],
+  [
+    81.607,
+    "A11",
+    -13,
+    "arrival: melatonin"
+  ],
+  [
+    83.585,
+    "O01",
+    -9,
+    "arrival: passed out"
+  ],
+  [
+    84.2,
+    "B06",
+    -16,
+    "sleeping release"
+  ],
+  [
+    84.841,
+    "B20",
+    -9,
+    "arrival: ceiling awake"
+  ],
+  [
+    86.621,
+    "B16",
+    -13,
+    "arrival: clock 3am"
+  ],
+  [
+    87.634,
+    "B36",
+    -9,
+    "arrival: gym"
+  ],
+  [
+    90.154,
+    "A11",
+    -13,
+    "arrival: workout kiwi"
+  ],
+  [
+    91.593,
+    "B15",
+    -13,
+    "arrival: glucose"
+  ],
+  [
+    92.093,
+    "B18",
+    -13,
+    "arrival: muscle"
+  ],
+  [
+    92.11,
+    "B08",
+    -18,
+    "carb to muscle fuel"
+  ],
+  [
+    92.953,
+    "B16",
+    -13,
+    "arrival: steady fiber"
+  ],
+  [
+    93.23,
+    "B27",
+    -18,
+    "steady fiber line"
+  ],
+  [
+    94.053,
+    "B08",
+    -13,
+    "arrival: actinidin"
+  ],
+  [
+    97.101,
+    "A11",
+    -13,
+    "arrival: scissors"
+  ],
+  [
+    97.841,
+    "B15",
+    -13,
+    "arrival: stomach"
+  ],
+  [
+    98.52,
+    "B18",
+    -15,
+    "arrival: protein"
+  ],
+  [
+    99.05,
+    "C20",
+    -14,
+    "protein bond cleavage"
+  ],
+  [
+    99.96,
+    "B16",
+    -15,
+    "arrival: peptides"
+  ],
+  [
+    100.281,
+    "B36",
+    -9,
+    "arrival: post meal"
+  ],
+  [
+    103.601,
+    "A11",
+    -13,
+    "arrival: wet brick"
+  ],
+  [
+    104.484,
+    "B18",
+    -13,
+    "arrival: coins"
+  ],
+  [
+    104.91,
+    "B27",
+    -16,
+    "cheap coins"
+  ],
+  [
+    106.224,
+    "B31",
+    -9,
+    "arrival: grocery"
+  ],
+  [
+    107.444,
+    "B36",
+    -9,
+    "arrival: quiet kiwi"
+  ],
+  [
+    108.935,
+    "B06",
+    -9,
+    "arrival: kiwi champion"
+  ],
+  [
+    110.842,
+    "O01",
+    -9,
+    "arrival: overrate"
+  ],
+  [
+    110.86,
+    "B19b",
+    -16,
+    "overrate them conclusion"
+  ],
+  [
+    111.549,
+    "B20",
+    -9,
+    "arrival: eat kiwi"
+  ],
+  [
+    111.969,
+    "B16",
+    -13,
+    "arrival: fuzzy egg"
+  ]
+]

@@ -1,0 +1,11 @@
+{
+  "id": "shared-feelings",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: feelings of the person sitting next to you.. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Coherent two full-body red rounded best friends seated beside each other, one visibly worried with drooping eyes, other matches concerned expression and places a supportive hand on shoulder. Messy-haired jacket/short-haired shirt, broad limbs, compact simple stools. No heart, brain, cells or text.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/shared-feelings.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-2cf2da8c-6d9b-4b00-b0ba-de77c0c5aad8.png"
+}

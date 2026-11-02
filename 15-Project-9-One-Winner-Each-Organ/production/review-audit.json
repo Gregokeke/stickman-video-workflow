@@ -1,0 +1,1009 @@
+{
+  "errors": [],
+  "audits": [
+    {
+      "time": 0.7,
+      "visible": [
+        "host"
+      ],
+      "captions": [
+        "What's the number one supplement"
+      ],
+      "missing": []
+    },
+    {
+      "time": 2.95,
+      "visible": [
+        "host",
+        "body"
+      ],
+      "captions": [
+        "for every organ in your body,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 4.6,
+      "visible": [
+        "host"
+      ],
+      "captions": [
+        "assuming you haven't already"
+      ],
+      "missing": []
+    },
+    {
+      "time": 5.95,
+      "visible": [
+        "overload"
+      ],
+      "captions": [
+        "overdosed on random supplements?"
+      ],
+      "missing": []
+    },
+    {
+      "time": 8.3,
+      "visible": [
+        "body-map"
+      ],
+      "captions": [
+        "I'm going organ by organ,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 9.95,
+      "visible": [
+        "winner",
+        "proven"
+      ],
+      "captions": [
+        "naming one proven winner for each,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 10,
+      "visible": [
+        "winner",
+        "proven"
+      ],
+      "captions": [
+        "naming one proven winner for each,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 12.5,
+      "visible": [
+        "heart"
+      ],
+      "captions": [
+        "Right now, stress and garbage food"
+      ],
+      "missing": []
+    },
+    {
+      "time": 13.45,
+      "visible": [
+        "heart",
+        "stress"
+      ],
+      "captions": [
+        "Right now, stress and garbage food"
+      ],
+      "missing": []
+    },
+    {
+      "time": 14.3,
+      "visible": [
+        "heart",
+        "food"
+      ],
+      "captions": [
+        "Right now, stress and garbage food"
+      ],
+      "missing": []
+    },
+    {
+      "time": 15.7,
+      "visible": [
+        "inflamed",
+        "teach-inflam"
+      ],
+      "captions": [
+        "trigger arterial inflammation,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 17.1,
+      "visible": [
+        "teach-inflam",
+        "inner-wall"
+      ],
+      "captions": [
+        "the inner swelling that makes"
+      ],
+      "missing": []
+    },
+    {
+      "time": 18.2,
+      "visible": [
+        "rupture"
+      ],
+      "captions": [
+        "plaque rupture and stop your heart midbeat."
+      ],
+      "missing": []
+    },
+    {
+      "time": 19.3,
+      "visible": [
+        "rupture",
+        "stopheart"
+      ],
+      "captions": [
+        "plaque rupture and stop your heart midbeat."
+      ],
+      "missing": []
+    },
+    {
+      "time": 20,
+      "visible": [
+        "stopheart",
+        "midbeat"
+      ],
+      "captions": [
+        "plaque rupture and stop your heart midbeat."
+      ],
+      "missing": []
+    },
+    {
+      "time": 21.95,
+      "visible": [
+        "omega"
+      ],
+      "captions": [
+        "omega-3 fish oil."
+      ],
+      "missing": []
+    },
+    {
+      "time": 22.5,
+      "visible": [
+        "omega",
+        "fish"
+      ],
+      "captions": [
+        "omega-3 fish oil."
+      ],
+      "missing": []
+    },
+    {
+      "time": 23.7,
+      "visible": [
+        "omega",
+        "calm-artery"
+      ],
+      "captions": [
+        "It cools that swelling down,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 25.9,
+      "visible": [
+        "study"
+      ],
+      "captions": [
+        "and in a study of over 25,000 adults,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 27.8,
+      "visible": [
+        "study",
+        "gram"
+      ],
+      "captions": [
+        "just one gram a day"
+      ],
+      "missing": []
+    },
+    {
+      "time": 30.5,
+      "visible": [
+        "heart-risk"
+      ],
+      "captions": [
+        "cut the risk of fatal heart attacks in half."
+      ],
+      "missing": []
+    },
+    {
+      "time": 31.9,
+      "visible": [
+        "next-eyes"
+      ],
+      "captions": [
+        "Next, your eyes."
+      ],
+      "missing": []
+    },
+    {
+      "time": 33.7,
+      "visible": [
+        "screen"
+      ],
+      "captions": [
+        "Staring at a glowing screen"
+      ],
+      "missing": []
+    },
+    {
+      "time": 35.2,
+      "visible": [
+        "twelve-hour-clock",
+        "eye-strain"
+      ],
+      "captions": [
+        "for 12 hours a day"
+      ],
+      "missing": []
+    },
+    {
+      "time": 35.4,
+      "visible": [
+        "twelve-hour-clock",
+        "eye-strain"
+      ],
+      "captions": [
+        "for 12 hours a day"
+      ],
+      "missing": []
+    },
+    {
+      "time": 36.2,
+      "visible": [
+        "eye-strain"
+      ],
+      "captions": [
+        "blasts your retinas with damaging blue light"
+      ],
+      "missing": []
+    },
+    {
+      "time": 37.7,
+      "visible": [
+        "retina"
+      ],
+      "captions": [
+        "blasts your retinas with damaging blue light"
+      ],
+      "missing": []
+    },
+    {
+      "time": 39.4,
+      "visible": [
+        "damage-eye"
+      ],
+      "captions": [
+        "that slowly rots your vision"
+      ],
+      "missing": []
+    },
+    {
+      "time": 40.9,
+      "visible": [
+        "blind",
+        "vision-loss"
+      ],
+      "captions": [
+        "into blindness."
+      ],
+      "missing": []
+    },
+    {
+      "time": 40.95,
+      "visible": [
+        "blind",
+        "vision-loss"
+      ],
+      "captions": [
+        "into blindness."
+      ],
+      "missing": []
+    },
+    {
+      "time": 42.2,
+      "visible": [
+        "eye-answer"
+      ],
+      "captions": [
+        "To stop that, your eyes want"
+      ],
+      "missing": []
+    },
+    {
+      "time": 43.5,
+      "visible": [
+        "lutein"
+      ],
+      "captions": [
+        "lutein and zeaxanthin,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 44.4,
+      "visible": [
+        "lutein",
+        "zeax"
+      ],
+      "captions": [
+        "lutein and zeaxanthin,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 45.8,
+      "visible": [
+        "antioxidants"
+      ],
+      "captions": [
+        "yellow antioxidant pigments"
+      ],
+      "missing": []
+    },
+    {
+      "time": 47.7,
+      "visible": [
+        "eye-protected"
+      ],
+      "captions": [
+        "for your eyeballs,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 48.9,
+      "visible": [
+        "eyeball"
+      ],
+      "captions": [],
+      "missing": []
+    },
+    {
+      "time": 50.5,
+      "visible": [
+        "age-eyes"
+      ],
+      "captions": [
+        "age-related vision loss"
+      ],
+      "missing": []
+    },
+    {
+      "time": 52.8,
+      "visible": [
+        "age-eyes"
+      ],
+      "captions": [
+        "by up to 31% in a 10-year study."
+      ],
+      "missing": []
+    },
+    {
+      "time": 53.7,
+      "visible": [
+        "age-eyes",
+        "decade"
+      ],
+      "captions": [
+        "by up to 31% in a 10-year study."
+      ],
+      "missing": []
+    },
+    {
+      "time": 55.3,
+      "visible": [
+        "kidneys",
+        "teach-kidneys"
+      ],
+      "captions": [
+        "Your kidneys are constantly filtering"
+      ],
+      "missing": []
+    },
+    {
+      "time": 56.2,
+      "visible": [
+        "filter"
+      ],
+      "captions": [
+        "Your kidneys are constantly filtering"
+      ],
+      "missing": []
+    },
+    {
+      "time": 57.1,
+      "visible": [
+        "calcium",
+        "filter"
+      ],
+      "captions": [
+        "stray calcium that loves to crystallize"
+      ],
+      "missing": []
+    },
+    {
+      "time": 57.6,
+      "visible": [
+        "calcium",
+        "filter"
+      ],
+      "captions": [
+        "stray calcium that loves to crystallize"
+      ],
+      "missing": []
+    },
+    {
+      "time": 59.1,
+      "visible": [
+        "crystals"
+      ],
+      "captions": [
+        "into jagged little kidney stones"
+      ],
+      "missing": []
+    },
+    {
+      "time": 60,
+      "visible": [
+        "stone",
+        "sharp-stone"
+      ],
+      "captions": [
+        "into jagged little kidney stones"
+      ],
+      "missing": []
+    },
+    {
+      "time": 60.6,
+      "visible": [
+        "stone",
+        "sharp-stone"
+      ],
+      "captions": [
+        "into jagged little kidney stones"
+      ],
+      "missing": []
+    },
+    {
+      "time": 62,
+      "visible": [
+        "stone",
+        "cry"
+      ],
+      "captions": [
+        "you have to cry your way into passing."
+      ],
+      "missing": []
+    },
+    {
+      "time": 64.4,
+      "visible": [
+        "magnesium"
+      ],
+      "captions": [
+        "That's why they want magnesium"
+      ],
+      "missing": []
+    },
+    {
+      "time": 65.4,
+      "visible": [
+        "magnesium",
+        "block"
+      ],
+      "captions": [
+        "to block those minerals from hardening"
+      ],
+      "missing": []
+    },
+    {
+      "time": 66.85,
+      "visible": [
+        "urine"
+      ],
+      "captions": [
+        "in your urine."
+      ],
+      "missing": []
+    },
+    {
+      "time": 68.1,
+      "visible": [
+        "older"
+      ],
+      "captions": [
+        "And in adults over 50,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 69.5,
+      "visible": [
+        "older",
+        "dose350"
+      ],
+      "captions": [
+        "350 mg a day"
+      ],
+      "missing": []
+    },
+    {
+      "time": 72.9,
+      "visible": [
+        "kidney-risk"
+      ],
+      "captions": [
+        "nearly in half."
+      ],
+      "missing": []
+    },
+    {
+      "time": 74.8,
+      "visible": [
+        "skeleton"
+      ],
+      "captions": [
+        "Your bones slowly hollow out"
+      ],
+      "missing": []
+    },
+    {
+      "time": 75.7,
+      "visible": [
+        "hollow"
+      ],
+      "captions": [],
+      "missing": []
+    },
+    {
+      "time": 77.2,
+      "visible": [
+        "hollow",
+        "aging-bone"
+      ],
+      "captions": [
+        "like brittle chalk as you age,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 77.6,
+      "visible": [
+        "hollow",
+        "aging-bone"
+      ],
+      "captions": [
+        "like brittle chalk as you age,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 78.9,
+      "visible": [
+        "looseCa"
+      ],
+      "captions": [
+        "while loose calcium floats around,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 80.7,
+      "visible": [
+        "looseCa",
+        "concrete"
+      ],
+      "captions": [
+        "turning your arteries into concrete pipes."
+      ],
+      "missing": []
+    },
+    {
+      "time": 82.5,
+      "visible": [
+        "bone-bridge"
+      ],
+      "captions": [
+        "So your skeleton wants"
+      ],
+      "missing": []
+    },
+    {
+      "time": 83.9,
+      "visible": [
+        "d3"
+      ],
+      "captions": [
+        "vitamin D3 paired with vitamin K2."
+      ],
+      "missing": []
+    },
+    {
+      "time": 85.8,
+      "visible": [
+        "d3",
+        "k2"
+      ],
+      "captions": [
+        "vitamin D3 paired with vitamin K2."
+      ],
+      "missing": []
+    },
+    {
+      "time": 87.7,
+      "visible": [
+        "d3",
+        "k2",
+        "bloodCa"
+      ],
+      "captions": [
+        "D3 pulls calcium into your blood,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 89.3,
+      "visible": [
+        "k2"
+      ],
+      "captions": [
+        "and K2 activates the proteins"
+      ],
+      "missing": []
+    },
+    {
+      "time": 90.6,
+      "visible": [
+        "steering-protein"
+      ],
+      "captions": [
+        "that steer it into your bones"
+      ],
+      "missing": []
+    },
+    {
+      "time": 91.95,
+      "visible": [
+        "bone-fill",
+        "teach-bone",
+        "not-arteries"
+      ],
+      "captions": [
+        "instead of your arteries."
+      ],
+      "missing": []
+    },
+    {
+      "time": 92.4,
+      "visible": [
+        "bone-fill",
+        "teach-bone",
+        "not-arteries"
+      ],
+      "captions": [
+        "instead of your arteries."
+      ],
+      "missing": []
+    },
+    {
+      "time": 92.8,
+      "visible": [
+        "bone-fill",
+        "teach-bone",
+        "not-arteries"
+      ],
+      "captions": [
+        "instead of your arteries."
+      ],
+      "missing": []
+    },
+    {
+      "time": 94.8,
+      "visible": [
+        "liver",
+        "liver-discomfort"
+      ],
+      "captions": [
+        "Your liver takes a daily beating,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 95.7,
+      "visible": [
+        "liver",
+        "liver-discomfort"
+      ],
+      "captions": [
+        "Your liver takes a daily beating,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 96.1,
+      "visible": [
+        "liver",
+        "liver-discomfort"
+      ],
+      "captions": [
+        "filtering out toxins that slowly suffocate"
+      ],
+      "missing": []
+    },
+    {
+      "time": 97.3,
+      "visible": [
+        "liver",
+        "toxins"
+      ],
+      "captions": [
+        "filtering out toxins that slowly suffocate"
+      ],
+      "missing": []
+    },
+    {
+      "time": 99.3,
+      "visible": [
+        "scar-liver",
+        "scar-cell"
+      ],
+      "captions": [
+        "and scar its cells."
+      ],
+      "missing": []
+    },
+    {
+      "time": 100,
+      "visible": [
+        "scar-liver",
+        "scar-cell"
+      ],
+      "captions": [],
+      "missing": []
+    },
+    {
+      "time": 100.5,
+      "visible": [
+        "nac-bridge",
+        "scar-cell"
+      ],
+      "captions": [
+        "To survive, it wants NAC,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 102.4,
+      "visible": [
+        "nac"
+      ],
+      "captions": [
+        "N-acetylcysteine,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 104.7,
+      "visible": [
+        "nac",
+        "blocks"
+      ],
+      "captions": [
+        "the direct amino acid building block"
+      ],
+      "missing": []
+    },
+    {
+      "time": 105.2,
+      "visible": [
+        "nac",
+        "blocks"
+      ],
+      "captions": [],
+      "missing": []
+    },
+    {
+      "time": 106.7,
+      "visible": [
+        "glutathione"
+      ],
+      "captions": [
+        "that creates glutathione,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 107.8,
+      "visible": [
+        "glutathione",
+        "detox-action"
+      ],
+      "captions": [
+        "the master detox molecule"
+      ],
+      "missing": []
+    },
+    {
+      "time": 109.5,
+      "visible": [
+        "hospital"
+      ],
+      "captions": [
+        "hospitals pump into people"
+      ],
+      "missing": []
+    },
+    {
+      "time": 110.9,
+      "visible": [
+        "hospital"
+      ],
+      "captions": [
+        "with poisoned, failing livers."
+      ],
+      "missing": []
+    },
+    {
+      "time": 112.7,
+      "visible": [
+        "muscle-bridge"
+      ],
+      "captions": [
+        "And finally, your muscles run out of ATP,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 114.8,
+      "visible": [
+        "muscle",
+        "atp"
+      ],
+      "captions": [
+        "And finally, your muscles run out of ATP,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 116.5,
+      "visible": [
+        "muscle",
+        "atp"
+      ],
+      "captions": [
+        "their raw cellular battery juice,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 117.5,
+      "visible": [
+        "muscle",
+        "atp"
+      ],
+      "captions": [
+        "within seconds of heavy lifting,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 118.7,
+      "visible": [
+        "lift"
+      ],
+      "captions": [
+        "within seconds of heavy lifting,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 120.1,
+      "visible": [
+        "tired"
+      ],
+      "captions": [
+        "leaving you weak and exhausted."
+      ],
+      "missing": []
+    },
+    {
+      "time": 122.25,
+      "visible": [
+        "creatine"
+      ],
+      "captions": [],
+      "missing": []
+    },
+    {
+      "time": 123.35,
+      "visible": [
+        "creatine"
+      ],
+      "captions": [
+        "to rapidly refuel that energy"
+      ],
+      "missing": []
+    },
+    {
+      "time": 124.95,
+      "visible": [
+        "creatine",
+        "strong"
+      ],
+      "captions": [
+        "so you can do more before giving out."
+      ],
+      "missing": []
+    },
+    {
+      "time": 127.2,
+      "visible": [
+        "old-lift"
+      ],
+      "captions": [
+        "In older adults, adding creatine"
+      ],
+      "missing": []
+    },
+    {
+      "time": 128.7,
+      "visible": [
+        "old-lift",
+        "creatine2"
+      ],
+      "captions": [
+        "to strength training built"
+      ],
+      "missing": []
+    },
+    {
+      "time": 130.8,
+      "visible": [
+        "lean"
+      ],
+      "captions": [
+        "about three extra pounds of lean muscle."
+      ],
+      "missing": []
+    },
+    {
+      "time": 133.5,
+      "visible": [
+        "dose"
+      ],
+      "captions": [
+        "Just three to five grams a day"
+      ],
+      "missing": []
+    },
+    {
+      "time": 134.9,
+      "visible": [
+        "dose",
+        "final-host"
+      ],
+      "captions": [
+        "is all it takes."
+      ],
+      "missing": []
+    }
+  ]
+}

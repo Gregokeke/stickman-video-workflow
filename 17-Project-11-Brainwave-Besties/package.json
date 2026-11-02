@@ -1,0 +1,16 @@
+{
+  "name": "brainwave-besties",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 build.py",
+    "check": "npx --yes hyperframes@0.8.217 check",
+    "preview": "npx --yes hyperframes@0.8.217 preview",
+    "render": "node render.mjs",
+    "setup-browser": "node prepare-browser.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "24.15.0",
+    "@sparticuz/chromium": "^153.0.0"
+  }
+}

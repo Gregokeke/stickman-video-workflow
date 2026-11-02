@@ -1,0 +1,11 @@
+{
+  "id": "toxic-speech",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: toxic disaster with zero ambition,. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: Standalone chunky red jagged speech balloon containing only bold black comic insult marks #!* and a thorn-like outline; clearly a rude speech metaphor, not actual poison. No people, brain, skull, chemical, face or other words.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/toxic-speech.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-70ffc9fa-9eca-4149-8011-7293f8c05f6c.png"
+}

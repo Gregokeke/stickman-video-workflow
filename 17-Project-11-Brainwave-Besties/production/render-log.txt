@@ -1,0 +1,19 @@
+Segment 1: 0/1293
+Segment 2: 0/1294
+Segment 1: 150/1293
+Segment 2: 150/1294
+Segment 1: 300/1293
+Segment 2: 300/1294
+Segment 1: 450/1293
+Segment 2: 450/1294
+Segment 1: 600/1293
+Segment 2: 600/1294
+Segment 1: 750/1293
+Segment 2: 750/1294
+Segment 1: 900/1293
+Segment 2: 900/1294
+Segment 1: 1050/1293
+Segment 2: 1050/1294
+Segment 1: 1200/1293
+Segment 2: 1200/1294
+Render verified { duration: '86.233333', size: '20011543' }

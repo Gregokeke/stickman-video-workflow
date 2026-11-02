@@ -1,0 +1,317 @@
+[
+  {
+    "id": "alarmed-host",
+    "path": "assets/graphics/alarmed-host.png",
+    "sha256": "d6fcaa882126d7c84b03dba9f39f15fea0ea4e48493d540c8cfcddcc9377cc70"
+  },
+  {
+    "id": "aligned-brains",
+    "path": "assets/graphics/aligned-brains.png",
+    "sha256": "75a8cb250a0b19b72e4303d6ee4c31fe64f925a9233926a2ebac266b88505e64"
+  },
+  {
+    "id": "ambition-gauge",
+    "path": "assets/graphics/ambition-gauge.png",
+    "sha256": "53b037536da271246d7e4ff458c6664b3343531ac769964cf5e5ffefdab681aa"
+  },
+  {
+    "id": "amygdala-model",
+    "path": "assets/graphics/amygdala-model.png",
+    "sha256": "56f8b0c8372342c31407863f7c0a91b6d7ae14043622b7620b89fbb4556973ee"
+  },
+  {
+    "id": "bad-influence-friend",
+    "path": "assets/graphics/bad-influence-friend.png",
+    "sha256": "1e80133f77d1094121b952880722dec80e6ee1e80c24eae39502283ae8a1f3c8"
+  },
+  {
+    "id": "best-friends-hook",
+    "path": "assets/graphics/best-friends-hook.png",
+    "sha256": "1cf92b12c8baf89e87a083a8ba8f8f5c4d1c4e49f1dbf71f0b4bc218cc9ee9a8"
+  },
+  {
+    "id": "bluetooth-hub",
+    "path": "assets/graphics/bluetooth-hub.png",
+    "sha256": "a2395b5da48eb24e6ec3b1f9553cdc4ae2b4584462c3b07a85e1ccf9007da4db"
+  },
+  {
+    "id": "brainwave-scope",
+    "path": "assets/graphics/brainwave-scope.png",
+    "sha256": "671442a506f5b3d79b9b7f1afa667086b89ec058fd94a813487282b3a4614401"
+  },
+  {
+    "id": "broken-neuron-wiring",
+    "path": "assets/graphics/broken-neuron-wiring.png",
+    "sha256": "dad4b63dcc250a305124793e911cfb64f766f53e004bbd90f833dbff6f5e93d7"
+  },
+  {
+    "id": "cancelled-stamp",
+    "path": "assets/graphics/cancelled-stamp.png",
+    "sha256": "1cfca7c0d82fe5298bfd95d86bd5cb4be3f5ab60332c38141bbab0df745afb05"
+  },
+  {
+    "id": "casual-hangout",
+    "path": "assets/graphics/casual-hangout.png",
+    "sha256": "40c74a08e7cc0deba58ca2fa5823a154bdbe2688cb1f0fe602c3ff291af79039"
+  },
+  {
+    "id": "circle-chooser",
+    "path": "assets/graphics/circle-chooser.png",
+    "sha256": "1e6ff2cea0415f646641f02428bb7e411ec1fbb7a1491ff27f720dadf8ffa5a5"
+  },
+  {
+    "id": "crowded-room",
+    "path": "assets/graphics/crowded-room.png",
+    "sha256": "8042471f1191dfc68ccb0050a4c292552c1e2d925e48964c50773918bed09db6"
+  },
+  {
+    "id": "dark-joke-phone",
+    "path": "assets/graphics/dark-joke-phone.png",
+    "sha256": "1f2b6672b3577634a8fcded0d40a7c206936d1e1815fee3542af7988338d25b8"
+  },
+  {
+    "id": "decision-fork",
+    "path": "assets/graphics/decision-fork.png",
+    "sha256": "a6b29ce21e088044e0830e22f2713dc5bd8781135434b5fe200cbf539fba63ac"
+  },
+  {
+    "id": "echo-chamber-friends",
+    "path": "assets/graphics/echo-chamber-friends.png",
+    "sha256": "be41afd678f8a13c3ab127ed16e8cc0faa1e7ecb25547b3378977692a465b810"
+  },
+  {
+    "id": "echo-padlock",
+    "path": "assets/graphics/echo-padlock.png",
+    "sha256": "412e97b827a6890e7b31cf3fed8b4e82ac9e9449818755cdf9384be1f10f6305"
+  },
+  {
+    "id": "emotion-masks",
+    "path": "assets/graphics/emotion-masks.png",
+    "sha256": "3a9484882d13af53cbf7ed5b514cb0118ff8548c19750eb4126275740be12058"
+  },
+  {
+    "id": "empathy-comfort",
+    "path": "assets/graphics/empathy-comfort.png",
+    "sha256": "8834fe11d25202bf8013b08ac6a8372536999c92fc908fa52251fb4576a53284"
+  },
+  {
+    "id": "empathy-neural-network",
+    "path": "assets/graphics/empathy-neural-network.png",
+    "sha256": "2b77673a95c45b95abdafa6c6d38f2ede29884dfe46531be299c60739063d006"
+  },
+  {
+    "id": "empty-wallet",
+    "path": "assets/graphics/empty-wallet.png",
+    "sha256": "d498252b6fe88969595e86c710817b7b424cf1bde148d34f4a104a7ae1c1a14a"
+  },
+  {
+    "id": "friendship-calendar",
+    "path": "assets/graphics/friendship-calendar.png",
+    "sha256": "7a3aae1b300ded0a5eabe63e78686c0eb13c2d5f58446aa43299b5a7055e4fcd"
+  },
+  {
+    "id": "future-self-choice",
+    "path": "assets/graphics/future-self-choice.png",
+    "sha256": "df24ca0ea33b984c7b9cdb1eb5a691b4f9cab16d4b0a3e4f1c1cf9825502fcad"
+  },
+  {
+    "id": "glance-left",
+    "path": "assets/graphics/glance-left.png",
+    "sha256": "ab424afc95cc9d659b03dfa046ed72f9d39fffe54ab36112bad82ee22195b0c1"
+  },
+  {
+    "id": "glance-right",
+    "path": "assets/graphics/glance-right.png",
+    "sha256": "8f388ecd5e8fa238bf64888d74d336729f8855a689e9e25479f744f404733d2a"
+  },
+  {
+    "id": "hanging-out-time",
+    "path": "assets/graphics/hanging-out-time.png",
+    "sha256": "c27beb96db0eb1dd83abd968ab26670468b1ff8667903659a5fa7733e6913c08"
+  },
+  {
+    "id": "healthy-friend-circle",
+    "path": "assets/graphics/healthy-friend-circle.png",
+    "sha256": "8b4b28600230381b6384c52440b4ee0df151050fde1aed29963599e666407cb9"
+  },
+  {
+    "id": "influenced-brain",
+    "path": "assets/graphics/influenced-brain.png",
+    "sha256": "9d890ccfc7f3728b99591a14ecdee7ad2da5da553933a7fdac288ac6e655aa27"
+  },
+  {
+    "id": "instructor-diagonal",
+    "path": "assets/graphics/instructor-diagonal.png",
+    "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990"
+  },
+  {
+    "id": "instructor-straight",
+    "path": "assets/graphics/instructor-straight.png",
+    "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62"
+  },
+  {
+    "id": "instructor-up",
+    "path": "assets/graphics/instructor-up.png",
+    "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7"
+  },
+  {
+    "id": "knowing-host",
+    "path": "assets/graphics/knowing-host.png",
+    "sha256": "e2040df9b582d7c5412e5e2590c54fe2f14f88b2fdfd5653fc78c2821b6b0e33"
+  },
+  {
+    "id": "laughing-friends",
+    "path": "assets/graphics/laughing-friends.png",
+    "sha256": "946bef716fe5fe388dde9c6116a63217d261936c96e5e3937db04f6529d5a963"
+  },
+  {
+    "id": "matched-brain-regions",
+    "path": "assets/graphics/matched-brain-regions.png",
+    "sha256": "cfe20e70390f6c257e448d00a03751fe4c19672b73a57563f8ba80db5cddefb0"
+  },
+  {
+    "id": "millisecond-timer",
+    "path": "assets/graphics/millisecond-timer.png",
+    "sha256": "337d612c147a1e56d5f01235ffb6a498dd687f5d1b0a7399cc653def23694c55"
+  },
+  {
+    "id": "mirror-follower",
+    "path": "assets/graphics/mirror-follower.png",
+    "sha256": "2b042764b313740332fe2c41b03ab6c0193c8e7224c364647fb3aebd529ab21b"
+  },
+  {
+    "id": "mirror-leader",
+    "path": "assets/graphics/mirror-leader.png",
+    "sha256": "6270e28496954c931b38ad5906be62b8ee9424b7033515a1cfc33c945c9b77e7"
+  },
+  {
+    "id": "mirror-neuron",
+    "path": "assets/graphics/mirror-neuron.png",
+    "sha256": "fdd88421fd8f41f2f87eca3a8afcdbbcb662a540919843fba1a3a505a35a7e13"
+  },
+  {
+    "id": "mirrored-hands",
+    "path": "assets/graphics/mirrored-hands.png",
+    "sha256": "8ee67902526bf928fe27acdf79075dad9df450dffa54798edf0c56b60d172318"
+  },
+  {
+    "id": "mri-scanner",
+    "path": "assets/graphics/mri-scanner.png",
+    "sha256": "c4b1a81048c928da5bde285352221cc933fe1fe564a6294ca25778a7340ef561"
+  },
+  {
+    "id": "neural-download-console",
+    "path": "assets/graphics/neural-download-console.png",
+    "sha256": "2573a0e2de8bd45a6a5aced9c9d462a0482e7b0706bd37cf6645ecf1d2b3ebb2"
+  },
+  {
+    "id": "neuron-cell-body",
+    "path": "assets/graphics/neuron-cell-body.png",
+    "sha256": "435f60714fab6717cec794d4b581c4fe3416156a902f20e9e3f126c76091be0e"
+  },
+  {
+    "id": "neuroscientist",
+    "path": "assets/graphics/neuroscientist.png",
+    "sha256": "cc948e6384448693cbf424dba07c5ad350762da4d8ffa4eb111f8ba9423d624e"
+  },
+  {
+    "id": "neurosynchrony-board",
+    "path": "assets/graphics/neurosynchrony-board.png",
+    "sha256": "64a6896f87352d2442e662955900e06dd4da994fbab650a86f66c887836f8caf"
+  },
+  {
+    "id": "paired-nervous-systems",
+    "path": "assets/graphics/paired-nervous-systems.png",
+    "sha256": "30de38c7238ef232cb9725bdb88220dee1b2f1743ce682e4b3960655d3bf2b35"
+  },
+  {
+    "id": "prefrontal-model",
+    "path": "assets/graphics/prefrontal-model.png",
+    "sha256": "2bc3fe3eb87d8dcd7aa5d1c3d11c5b611dc0faa9b125a2badeb311ccae1faeb2"
+  },
+  {
+    "id": "rewriting-neural-network",
+    "path": "assets/graphics/rewriting-neural-network.png",
+    "sha256": "7699843db8660db421f0d0283b08ecc0e20eda6d5c6d18c0d801e51319f41493"
+  },
+  {
+    "id": "scanner-console",
+    "path": "assets/graphics/scanner-console.png",
+    "sha256": "f415fa094ca3b9b16fa0b193d3b7eff4e4865baa284b5e55538075a6e3d9092e"
+  },
+  {
+    "id": "science-host",
+    "path": "assets/graphics/science-host.png",
+    "sha256": "6ebe61df1a22c39fdf474665dcda38a28fd6667e434f607a88e4271e02080ce2"
+  },
+  {
+    "id": "sentence-bubbles",
+    "path": "assets/graphics/sentence-bubbles.png",
+    "sha256": "fea155eb11d9305d936556e187cdf7534ee76e9b2a8361755eb141b5fe823d1b"
+  },
+  {
+    "id": "sentence-finisher",
+    "path": "assets/graphics/sentence-finisher.png",
+    "sha256": "8f1694808991ba5d59c23c10dc17da0c5e074e216f65f91816ad433675dbdd9d"
+  },
+  {
+    "id": "sentence-speaker",
+    "path": "assets/graphics/sentence-speaker.png",
+    "sha256": "bc89932fa0c09c7df4a52626bdf2ddc14a2cc34b77094ed6aa27f435a9233a5b"
+  },
+  {
+    "id": "shared-braincell-duo",
+    "path": "assets/graphics/shared-braincell-duo.png",
+    "sha256": "d0a33b192ff08e6dc2eed38fc00bb52a2760bd81cec4a10986097d4ba514c743"
+  },
+  {
+    "id": "shared-feelings",
+    "path": "assets/graphics/shared-feelings.png",
+    "sha256": "3ee030d69a8f0e316afe53af559eca14e733cd83f8410b2f6d89592bf909d5b2"
+  },
+  {
+    "id": "single-brain-cell",
+    "path": "assets/graphics/single-brain-cell.png",
+    "sha256": "944227718e861da428ecdd1cee1f7bb941d1e6766a7047f6a46b31268e0b5fee"
+  },
+  {
+    "id": "spike-display",
+    "path": "assets/graphics/spike-display.png",
+    "sha256": "5de8a4a52e196215f10cfcd640b5e7b681fe4699d2592058a568c04b3d35686e"
+  },
+  {
+    "id": "stimulus-screen",
+    "path": "assets/graphics/stimulus-screen.png",
+    "sha256": "a085ffdd2ef6f70ed4c1c86556d6e902b9c331b4911c4938b18c685697ff5fd0"
+  },
+  {
+    "id": "sync-brain-pair",
+    "path": "assets/graphics/sync-brain-pair.png",
+    "sha256": "388039993ef8c6077791382fa8e9e099ea3eb951def02ea825edc138aedf75cf"
+  },
+  {
+    "id": "terrible-life-choices",
+    "path": "assets/graphics/terrible-life-choices.png",
+    "sha256": "35e3adf3f8ff04e2ed319c8477657e9b2af719d277d2ecd715da14e2805288d2"
+  },
+  {
+    "id": "toxic-speech",
+    "path": "assets/graphics/toxic-speech.png",
+    "sha256": "5999037e3b4b73fab693b912bc982664e9a991d5a5040d8ca32c6e98302abd8a"
+  },
+  {
+    "id": "warning-siren",
+    "path": "assets/graphics/warning-siren.png",
+    "sha256": "067fe3a5a73b0e9e822d7b99850274b5ec4693ae576bdc792989d7a212427b3d"
+  },
+  {
+    "id": "weirdo-besties",
+    "path": "assets/graphics/weirdo-besties.png",
+    "sha256": "edcd45ab42f52a22109855e6b79daf07ef27f42074dde8a21b36fde1ffefdd62"
+  },
+  {
+    "id": "wise-compass",
+    "path": "assets/graphics/wise-compass.png",
+    "sha256": "3ac814a1de2184c9d13f9fdc26ca75d00eebc51a3dd94c1770cbe509942c9221"
+  }
+]

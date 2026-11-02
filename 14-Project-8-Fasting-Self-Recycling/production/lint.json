@@ -1,0 +1,740 @@
+{
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 74,
+  "infoCount": 0,
+  "findings": [
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=assets/graphics/honest-narrator.png data-start= data-duration=",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=assets/graphics/autophagy-body.png data-start= data-duration=",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 29 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 2 has 23 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 3 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html"
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"fasting-hook\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "fasting-hook",
+      "fixHint": "Move <div id=\"fasting-hook\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 409
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"question\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "question",
+      "fixHint": "Move <div id=\"question\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 744
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stop-giving\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stop-giving",
+      "fixHint": "Move <div id=\"stop-giving\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 1101
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"energy-input\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "energy-input",
+      "fixHint": "Move <div id=\"energy-input\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 1429
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"food-source\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "food-source",
+      "fixHint": "Move <div id=\"food-source\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 1777
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stopped-eating\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stopped-eating",
+      "fixHint": "Move <div id=\"stopped-eating\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 2114
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"body-eats\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "body-eats",
+      "fixHint": "Move <div id=\"body-eats\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 2763
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"yep\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "yep",
+      "fixHint": "Move <div id=\"yep\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 3117
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"sugar\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "sugar",
+      "fixHint": "Move <div id=\"sugar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 3446
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-drop\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-drop",
+      "fixHint": "Move <div id=\"teach-drop\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 3776
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"insulin\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "insulin",
+      "fixHint": "Move <div id=\"insulin\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 4199
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"survival\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "survival",
+      "fixHint": "Move <div id=\"survival\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 4532
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"autophagy\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "autophagy",
+      "fixHint": "Move <div id=\"autophagy\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 5335
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-vesicle\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-vesicle",
+      "fixHint": "Move <div id=\"teach-vesicle\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 6070
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"self-eating\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "self-eating",
+      "fixHint": "Move <div id=\"self-eating\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 6480
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"hunt\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "hunt",
+      "fixHint": "Move <div id=\"hunt\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 7212
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"senescent\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "senescent",
+      "fixHint": "Move <div id=\"senescent\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 7920
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-senescent\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-senescent",
+      "fixHint": "Move <div id=\"teach-senescent\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 8624
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"broken\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "broken",
+      "fixHint": "Move <div id=\"broken\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 9053
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"retired\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "retired",
+      "fixHint": "Move <div id=\"retired\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 9399
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"rent-free\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "rent-free",
+      "fixHint": "Move <div id=\"rent-free\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 10069
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"no-job\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "no-job",
+      "fixHint": "Move <div id=\"no-job\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 10733
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"alive\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "alive",
+      "fixHint": "Move <div id=\"alive\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 11378
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"useless\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "useless",
+      "fixHint": "Move <div id=\"useless\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 12030
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"rotting\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "rotting",
+      "fixHint": "Move <div id=\"rotting\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 12375
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"leak\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "leak",
+      "fixHint": "Move <div id=\"leak\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 13035
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"basically\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "basically",
+      "fixHint": "Move <div id=\"basically\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 13702
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"roommate\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "roommate",
+      "fixHint": "Move <div id=\"roommate\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 14046
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"refuses\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "refuses",
+      "fixHint": "Move <div id=\"refuses\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 14753
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"reason-narrator\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "reason-narrator",
+      "fixHint": "Move <div id=\"reason-narrator\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 15386
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"puffy\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "puffy",
+      "fixHint": "Move <div id=\"puffy\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 15750
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stiff\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stiff",
+      "fixHint": "Move <div id=\"stiff\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 16517
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"eighty\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "eighty",
+      "fixHint": "Move <div id=\"eighty\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 16839
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"inflammation-return\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "inflammation-return",
+      "fixHint": "Move <div id=\"inflammation-return\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 17585
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-inflammation\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-inflammation",
+      "fixHint": "Move <div id=\"teach-inflammation\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 18266
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cannibalize\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cannibalize",
+      "fixHint": "Move <div id=\"cannibalize\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 18699
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-cleanup\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-cleanup",
+      "fixHint": "Move <div id=\"teach-cleanup\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 19418
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"junk\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "junk",
+      "fixHint": "Move <div id=\"junk\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 19845
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"amino\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "amino",
+      "fixHint": "Move <div id=\"amino\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 20535
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"protein\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "protein",
+      "fixHint": "Move <div id=\"protein\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 20878
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"blocks\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "blocks",
+      "fixHint": "Move <div id=\"blocks\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 21210
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"burning\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "burning",
+      "fixHint": "Move <div id=\"burning\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 21921
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-fog\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-fog",
+      "fixHint": "Move <div id=\"brain-fog\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 22485
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-clear\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-clear",
+      "fixHint": "Move <div id=\"brain-clear\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 23228
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-clear-actor\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-clear-actor",
+      "fixHint": "Move <div id=\"brain-clear-actor\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 23559
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"depuff\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "depuff",
+      "fixHint": "Move <div id=\"depuff\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 23956
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"joint\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "joint",
+      "fixHint": "Move <div id=\"joint\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 24690
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"joint-relief\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "joint-relief",
+      "fixHint": "Move <div id=\"joint-relief\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 25014
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"body-garbage\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "body-garbage",
+      "fixHint": "Move <div id=\"body-garbage\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 25728
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"garbage\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "garbage",
+      "fixHint": "Move <div id=\"garbage\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 26086
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"healing-switch\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "healing-switch",
+      "fixHint": "Move <div id=\"healing-switch\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 26731
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"repair\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "repair",
+      "fixHint": "Move <div id=\"repair\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 27539
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"repaired\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "repaired",
+      "fixHint": "Move <div id=\"repaired\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 28187
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stem\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stem",
+      "fixHint": "Move <div id=\"stem\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 28539
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"teach-stem\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "teach-stem",
+      "fixHint": "Move <div id=\"teach-stem\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 29180
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"deadbeat\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "deadbeat",
+      "fixHint": "Move <div id=\"deadbeat\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 29616
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"divide\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "divide",
+      "fixHint": "Move <div id=\"divide\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 30283
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"fresh\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "fresh",
+      "fixHint": "Move <div id=\"fresh\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 31467
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"skin\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "skin",
+      "fixHint": "Move <div id=\"skin\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 32085
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"recover\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "recover",
+      "fixHint": "Move <div id=\"recover\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 32778
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"fiber-repair\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "fiber-repair",
+      "fixHint": "Move <div id=\"fiber-repair\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 33444
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"gut-irritated\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "gut-irritated",
+      "fixHint": "Move <div id=\"gut-irritated\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 33793
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"gut-calm\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "gut-calm",
+      "fixHint": "Move <div id=\"gut-calm\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 34463
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"wild\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "wild",
+      "fixHint": "Move <div id=\"wild\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 34784
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"body-result\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "body-result",
+      "fixHint": "Move <div id=\"body-result\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 35122
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"jaw\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "jaw",
+      "fixHint": "Move <div id=\"jaw\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 35488
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"hours\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "hours",
+      "fixHint": "Move <div id=\"hours\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 36212
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"honestly\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "honestly",
+      "fixHint": "Move <div id=\"honestly\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 37109
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"divine\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "divine",
+      "fixHint": "Move <div id=\"divine\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/dcc2b5ec0613/edit/Fasting-Self-Recycling/index.html",
+      "line": 71,
+      "column": 37466
+    }
+  ],
+  "filesScanned": 1,
+  "_meta": {
+    "version": "0.8.220",
+    "updateAvailable": false
+  }
+}

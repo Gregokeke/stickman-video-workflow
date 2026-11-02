@@ -1,0 +1,802 @@
+[
+  {
+    "time": 0.04,
+    "start": 0,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "science-host arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 1.36,
+    "start": 1.2834400000000001,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "sync-brain-pair arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 2.2,
+    "start": 2.1439600000000003,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "best-friends-hook arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 4.96,
+    "start": 4.92033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Wireless sync",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.0,
+    "start": 4.94885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "bluetooth-hub arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.83256,
+    "start": 5.7376,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "shared-braincell-duo arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 8.25256,
+    "start": 8.191980000000001,
+    "source": "C12",
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Shared brain-cell joke",
+    "duration": 1.114,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.05256,
+    "start": 9.00131,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "single-brain-cell arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.98896,
+    "start": 9.936340000000001,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "neurosynchrony-board arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 10.228959999999999,
+    "start": 10.186649999999998,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "guide-neurosynchrony entrance",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 12.49335,
+    "start": 12.451039999999999,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "knowing-host arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 14.41335,
+    "start": 14.36406,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Sentence recognition",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 14.45335,
+    "start": 14.39137,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "sentence-speaker arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 14.79335,
+    "start": 14.69839,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "sentence-finisher arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 16.21335,
+    "start": 16.15731,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "glance-left arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 17.35335,
+    "start": 17.30837,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "Unhinged glance",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 18.89335,
+    "start": 18.831370000000003,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "crowded-room arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 19.97065,
+    "start": 19.910069999999997,
+    "source": "C12",
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Shared laugh reaction",
+    "duration": 1.114,
+    "tail_preserved": true
+  },
+  {
+    "time": 20.01065,
+    "start": 19.96032,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "laughing-friends arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.45065,
+    "start": 21.3994,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "dark-joke-phone arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 23.77065,
+    "start": 23.72557,
+    "source": "A02",
+    "path": "assets/sfx/A02_Slap_Clap_Reverb_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Cancellation stamp contact",
+    "duration": 1.288,
+    "tail_preserved": true
+  },
+  {
+    "time": 23.81065,
+    "start": 23.758029999999998,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "cancelled-stamp arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 24.70265,
+    "start": 24.626089999999998,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "hanging-out-time arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 26.04265,
+    "start": 25.9915,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "friendship-calendar arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 27.40265,
+    "start": 27.352320000000002,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "aligned-brains arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 28.74265,
+    "start": 28.6843,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Rhythms align",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 29.58265,
+    "start": 29.5314,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "brainwave-scope arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 32.06265,
+    "start": 32.01003,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "mirror-neuron arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 32.31265,
+    "start": 32.27034,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "guide-mirror entrance",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 33.40035,
+    "start": 33.32379,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "neuron-cell-body arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.80035,
+    "start": 34.75106,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Leader gesture",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.84035,
+    "start": 34.77837,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "mirror-leader arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 35.46035,
+    "start": 35.41106,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Follower matches",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 36.02035,
+    "start": 35.9691,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "mirrored-hands arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 37.18035,
+    "start": 37.12773,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "shared-feelings arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 39.78106,
+    "start": 39.738749999999996,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "neuroscientist arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 41.76106,
+    "start": 41.70991,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "mri-scanner arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.02106,
+    "start": 42.970729999999996,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "stimulus-screen arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.28106,
+    "start": 43.22980999999999,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "scanner-console arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 44.28106,
+    "start": 44.22844,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "spike-display arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 45.34106,
+    "start": 45.28271,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Schematic matched spikes",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 45.96106,
+    "start": 45.8845,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "matched-brain-regions arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 48.38106,
+    "start": 48.32991,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "millisecond-timer arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 49.16106,
+    "start": 49.10271,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Same-time emphasis",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 50.40106,
+    "start": 50.35073,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "amygdala-model arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 50.64106,
+    "start": 50.59875,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "guide-emotion-planning entrance",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 52.94206,
+    "start": 52.88944,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "prefrontal-model arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 54.52206,
+    "start": 54.472770000000004,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Decision fork",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 54.56206,
+    "start": 54.4855,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "decision-fork arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 56.76206,
+    "start": 56.717079999999996,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Terrible choices reversal",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 56.80206,
+    "start": 56.74008,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "terrible-life-choices arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 58.56996,
+    "start": 58.51963,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "empathy-neural-network arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 60.46535,
+    "start": 60.40931,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "weirdo-besties arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 64.92535,
+    "start": 64.84879,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "paired-nervous-systems arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.24535,
+    "start": 66.15039,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -24,
+    "reason": "Echo chamber",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.28535,
+    "start": 66.23419999999999,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "echo-chamber-friends arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.98535,
+    "start": 66.93502,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "echo-padlock arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 67.97715,
+    "start": 67.9259,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "alarmed-host arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.89715,
+    "start": 68.88725,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -24,
+    "reason": "Serious warning",
+    "duration": 1.641,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.93715,
+    "start": 68.88453,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "warning-siren arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 70.09385,
+    "start": 70.05154,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "circle-chooser arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 71.41385,
+    "start": 71.36456,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Choose company",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 71.45385,
+    "start": 71.39187,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "healthy-friend-circle arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.29385,
+    "start": 72.24352,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "wise-compass arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 73.03556,
+    "start": 72.97071,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "bad-influence-friend arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 74.25556,
+    "start": 74.20294,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "empty-wallet arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 74.67556,
+    "start": 74.599,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "toxic-speech arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 75.99556,
+    "start": 75.93721,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Zero ambition",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 76.03556,
+    "start": 75.98441,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "ambition-gauge arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 76.85556,
+    "start": 76.80523,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "influenced-brain arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 77.79556,
+    "start": 77.75058,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "Negated casual interpretation",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 78.35556,
+    "start": 78.30431,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "casual-hangout arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 79.70665,
+    "start": 79.65402999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "neural-download-console arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 80.34665,
+    "start": 80.28957,
+    "source": "B13",
+    "path": "assets/sfx/B13_Keyboard_Run_03.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Download process",
+    "duration": 0.951,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.28665,
+    "start": 81.24319,
+    "source": "C20",
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "target_peak_dbfs": -21,
+    "reason": "Broken wiring metaphor",
+    "duration": 0.598,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.32665,
+    "start": 81.25009,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "broken-neuron-wiring arrival",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 82.90665,
+    "start": 82.8483,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "Network rewrite",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 82.94665,
+    "start": 82.8955,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "rewriting-neural-network arrival",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 83.40665,
+    "start": 83.31169,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -14.5,
+    "reason": "future-self-choice arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 84.46665,
+    "start": 84.45675,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -24,
+    "reason": "Closing emphasis",
+    "duration": 1.641,
+    "tail_preserved": true
+  }
+]

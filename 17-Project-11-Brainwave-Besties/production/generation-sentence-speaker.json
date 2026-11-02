@@ -1,0 +1,11 @@
+{
+  "id": "sentence-speaker",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: finish each other's sentences,. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: ONE red rounded stickman best friend, messy black hair and open red jacket/black tee, broad limbs, mid-sentence speaking with one palm open toward RIGHT, amused expectant eyes. Full body, no bubbles, writing, brain or companion.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/sentence-speaker.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-c12851b7-d629-4d4d-a3aa-650f5ed7d0bd.png"
+}

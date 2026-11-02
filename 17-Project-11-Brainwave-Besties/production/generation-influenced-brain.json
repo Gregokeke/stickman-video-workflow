@@ -1,0 +1,11 @@
+{
+  "id": "influenced-brain",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: your brain isn't just hanging out with them.. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: Standalone anatomically recognizable red human brain in lateral view with fine black cortical folds and a subtle blank white inset window at lower-right cortex for schematic emphasis. Integrated YOUR BRAIN label. No faces, people, limbs, circuit ports or lines.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/influenced-brain.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-8ba9453c-ca98-4dca-991c-316af188913d.png"
+}

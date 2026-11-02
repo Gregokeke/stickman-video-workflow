@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 9,
+    "id": "afterlife-ticket",
+    "output_filename": "afterlife-ticket.png",
+    "output_path": "images/afterlife-ticket.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "and a one-way ticket to the afterlife.",
+    "video_cue_seconds": 93.94,
+    "references": [
+      "references/current/study-report.png",
+      "references/current/calendar.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone chunky red comic one-way paper ticket at a slight angle, broad rectangular silhouette with rounded notched ends and a small simple cartoon wing emblem on one end. Only exact words: ONE WAY and smaller AFTERLIFE, bold and legible. Red paper, white areas and confident black ink. Clearly an absurd narration metaphor, no real travel brand, skull, gore, person or unrelated symbols. Entire ticket fully visible.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "b5a0bad7b61b82d45464e9e3be35da71429bfdd290100c3f7820642f56e1b7f3"
+}

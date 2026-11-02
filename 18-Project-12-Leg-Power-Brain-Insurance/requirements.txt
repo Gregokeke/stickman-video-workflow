@@ -1,0 +1,5 @@
+numpy
+soundfile
+Pillow
+# Optional, only to rerun local transcription:
+faster-whisper

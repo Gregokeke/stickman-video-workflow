@@ -1,0 +1,11 @@
+{
+  "id": "prefrontal-model",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: prefrontal cortex, which handles decision making,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone detailed red human brain lateral view, frontal lobe at RIGHT and cerebellum lower LEFT; a clear thin black perimeter outlines the anterior frontal region at far right. Bold integrated PREFRONTAL CORTEX label with a short leader ending in that anterior frontal region. No people, face, hands or chart.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/prefrontal-model.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-5714edc1-d91f-48ee-b498-8acc8008d812.png"
+}

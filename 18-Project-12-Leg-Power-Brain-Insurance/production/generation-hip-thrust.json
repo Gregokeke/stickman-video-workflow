@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 11,
+    "id": "hip-thrust",
+    "output_filename": "hip-thrust.png",
+    "output_path": "images/hip-thrust.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "hip thrusts,",
+    "video_cue_seconds": 97.24,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/loaded-squat.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE complete exercise interaction in clear SIDE VIEW: the same rounded red gym character, red training shirt and shorts, shoulder blades supported on a low stable red exercise bench. He is at the TOP of a correct hip thrust: feet flat and grounded, knees bent near right angles, hips lifted so shoulders-to-hips-to-knees form a near straight line, neutral neck and pelvis. Hands rest naturally at hips. Coherent four limbs, complete bench and feet. No barbell, dumbbell, extra equipment or text. Keep simple thick stickman limbs, not realistic skin/muscles. The bench must actually contact the upper-back support area, not the head or lower back.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "a150311e1090abf4e06a1dde1b164b43e1bfe361618c5b512da48888d790891c"
+}

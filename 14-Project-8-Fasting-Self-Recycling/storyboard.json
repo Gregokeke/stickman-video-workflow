@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "fasting-hook",
+    "asset": "fasting-guy",
+    "start": 0.03,
+    "handoff": 3.74,
+    "end": 4.04,
+    "layout": [
+      460,
+      1090,
+      780,
+      990
+    ],
+    "route": "arcLeft",
+    "moves": [
+      {
+        "t": 1.26,
+        "x": -190,
+        "y": 200,
+        "scale": 0.62,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "question",
+    "asset": "honest-narrator",
+    "start": 1.26,
+    "handoff": 3.74,
+    "end": 4.04,
+    "layout": [
+      710,
+      930,
+      430,
+      760
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "stop-giving",
+    "asset": "stop-fork",
+    "start": 3.74,
+    "handoff": 4.4,
+    "end": 4.7,
+    "layout": [
+      450,
+      1120,
+      670,
+      850
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "energy-input",
+    "asset": "body-energy",
+    "start": 4.4,
+    "handoff": 6.66,
+    "end": 6.96,
+    "layout": [
+      630,
+      1040,
+      520,
+      900
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "food-source",
+    "asset": "dinner-plate",
+    "start": 4.84,
+    "handoff": 6.66,
+    "end": 6.96,
+    "layout": [
+      250,
+      880,
+      330,
+      280
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "stopped-eating",
+    "asset": "closedmouth-stop",
+    "start": 6.66,
+    "handoff": 7.8,
+    "end": 8.1,
+    "layout": [
+      470,
+      1100,
+      720,
+      980
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "body-eats",
+    "asset": "autophagy-body",
+    "start": 7.8,
+    "handoff": 10.84,
+    "end": 11.14,
+    "layout": [
+      470,
+      1110,
+      660,
+      970
+    ],
+    "route": "reveal",
+    "moves": [
+      {
+        "t": 9.16,
+        "x": -100,
+        "y": -30,
+        "scale": 1.12,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "yep",
+    "asset": "knowing",
+    "start": 10.84,
+    "handoff": 12.64,
+    "end": 12.940000000000001,
+    "layout": [
+      480,
+      1270,
+      740,
+      1170
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "sink"
+  },
+  {
+    "id": "sugar",
+    "asset": "glucose",
+    "start": 12.86,
+    "handoff": 15.02,
+    "end": 15.32,
+    "layout": [
+      300,
+      760,
+      270,
+      280
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "teach-drop",
+    "asset": "instructor-straight",
+    "start": 13.1,
+    "handoff": 14.58,
+    "end": 14.88,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        13.1,
+        300,
+        1090,
+        490
+      ],
+      [
+        13.58,
+        730,
+        1090,
+        490
+      ],
+      [
+        13.88,
+        730,
+        1255,
+        490,
+        0.45,
+        "power2.inOut"
+      ]
+    ],
+    "tip_source": [
+      525,
+      52
+    ],
+    "flip": false
+  },
+  {
+    "id": "insulin",
+    "asset": "insulin",
+    "start": 13.58,
+    "handoff": 15.02,
+    "end": 15.32,
+    "layout": [
+      730,
+      760,
+      270,
+      280
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "survival",
+    "asset": "survival-switch",
+    "start": 15.02,
+    "handoff": 17.28,
+    "end": 17.580000000000002,
+    "layout": [
+      470,
+      1010,
+      360,
+      590
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 16.78,
+        "x": -210,
+        "y": 230,
+        "scale": 0.48,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "autophagy",
+    "asset": "autophagosome",
+    "start": 16.78,
+    "handoff": 18.7,
+    "end": 19.0,
+    "layout": [
+      640,
+      760,
+      530,
+      560
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "survival",
+    "exit": "recede"
+  },
+  {
+    "id": "teach-vesicle",
+    "asset": "instructor-up",
+    "start": 17.02,
+    "handoff": 18.7,
+    "end": 19.0,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        17.02,
+        850,
+        850,
+        880
+      ]
+    ],
+    "tip_source": [
+      449,
+      43
+    ],
+    "flip": true
+  },
+  {
+    "id": "self-eating",
+    "asset": "self-eating-cell",
+    "start": 18.7,
+    "handoff": 19.92,
+    "end": 20.220000000000002,
+    "layout": [
+      480,
+      1060,
+      720,
+      730
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "autophagy",
+    "exit": "recede"
+  },
+  {
+    "id": "hunt",
+    "asset": "hunter",
+    "start": 20.36,
+    "handoff": 21.12,
+    "end": 21.42,
+    "layout": [
+      460,
+      1120,
+      650,
+      910
+    ],
+    "route": "arcLeft",
+    "moves": [
+      {
+        "t": 21.0,
+        "x": -210,
+        "y": 160,
+        "scale": 0.62,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "senescent",
+    "asset": "senescent-cell",
+    "start": 21.0,
+    "handoff": 22.74,
+    "end": 23.04,
+    "layout": [
+      690,
+      820,
+      440,
+      470
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "teach-senescent",
+    "asset": "instructor-diagonal",
+    "start": 21.48,
+    "handoff": 22.74,
+    "end": 23.04,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        21.48,
+        690,
+        900,
+        560
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false
+  },
+  {
+    "id": "broken",
+    "asset": "damaged-cell",
+    "start": 22.74,
+    "handoff": 24.52,
+    "end": 24.82,
+    "layout": [
+      340,
+      820,
+      430,
+      430
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "retired",
+    "asset": "retired-cell",
+    "start": 23.12,
+    "handoff": 25.66,
+    "end": 25.96,
+    "layout": [
+      710,
+      1150,
+      350,
+      530
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 24.52,
+        "x": -190,
+        "y": -60,
+        "scale": 1.08,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "rent-free",
+    "asset": "squatting-cell",
+    "start": 25.66,
+    "handoff": 26.78,
+    "end": 27.080000000000002,
+    "layout": [
+      470,
+      1060,
+      600,
+      720
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "no-job",
+    "asset": "idle-worker",
+    "start": 26.28,
+    "handoff": 28.68,
+    "end": 28.98,
+    "layout": [
+      690,
+      1190,
+      410,
+      720
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "alive",
+    "asset": "alive-cell",
+    "start": 28.68,
+    "handoff": 31.7,
+    "end": 32.0,
+    "layout": [
+      350,
+      850,
+      460,
+      470
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "useless",
+    "asset": "indifferent",
+    "start": 29.68,
+    "handoff": 31.7,
+    "end": 32.0,
+    "layout": [
+      730,
+      1190,
+      380,
+      700
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "rotting",
+    "asset": "rotting-cell",
+    "start": 31.7,
+    "handoff": 33.74,
+    "end": 34.04,
+    "layout": [
+      370,
+      890,
+      570,
+      580
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 32.66,
+        "x": -140,
+        "y": -70,
+        "scale": 0.72,
+        "d": 0.56,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "leak",
+    "asset": "inflammatory-particles",
+    "start": 32.66,
+    "handoff": 33.74,
+    "end": 34.04,
+    "layout": [
+      730,
+      1150,
+      340,
+      370
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "rotting",
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "basically",
+    "asset": "nonchalant",
+    "start": 33.74,
+    "handoff": 35.1,
+    "end": 35.4,
+    "layout": [
+      430,
+      1420,
+      690,
+      1150
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "sink"
+  },
+  {
+    "id": "roommate",
+    "asset": "roommate",
+    "start": 35.1,
+    "handoff": 36.18,
+    "end": 36.48,
+    "layout": [
+      450,
+      1080,
+      760,
+      760
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "refuses",
+    "asset": "refuse-move",
+    "start": 36.18,
+    "handoff": 37.36,
+    "end": 37.66,
+    "layout": [
+      450,
+      1090,
+      690,
+      920
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "reason-narrator",
+    "asset": "honest-narrator",
+    "start": 37.36,
+    "handoff": 38.8,
+    "end": 39.1,
+    "layout": [
+      450,
+      1130,
+      680,
+      960
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "puffy",
+    "asset": "puffy-guy",
+    "start": 38.8,
+    "handoff": 40.82,
+    "end": 41.12,
+    "layout": [
+      390,
+      1110,
+      640,
+      950
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 40.22,
+        "x": -160,
+        "y": 140,
+        "scale": 0.7,
+        "d": 0.5,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "stiff",
+    "asset": "knee",
+    "start": 40.22,
+    "handoff": 40.82,
+    "end": 41.12,
+    "layout": [
+      740,
+      1100,
+      330,
+      650
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "eighty",
+    "asset": "old-young",
+    "start": 40.82,
+    "handoff": 43.24,
+    "end": 43.54,
+    "layout": [
+      460,
+      1080,
+      720,
+      960
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "inflammation-return",
+    "asset": "inflammatory-particles",
+    "start": 43.98,
+    "handoff": 45.72,
+    "end": 46.019999999999996,
+    "layout": [
+      430,
+      850,
+      600,
+      500
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "teach-inflammation",
+    "asset": "instructor-diagonal",
+    "start": 44.22,
+    "handoff": 45.72,
+    "end": 46.019999999999996,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        44.22,
+        450,
+        950,
+        650
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": true
+  },
+  {
+    "id": "cannibalize",
+    "asset": "cleanup-cell",
+    "start": 45.72,
+    "handoff": 48.74,
+    "end": 49.04,
+    "layout": [
+      630,
+      850,
+      490,
+      530
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 47.7,
+        "x": 100,
+        "y": -80,
+        "scale": 0.78,
+        "d": 0.62,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "teach-cleanup",
+    "asset": "instructor-straight",
+    "start": 45.96,
+    "handoff": 48.74,
+    "end": 49.04,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        45.96,
+        590,
+        930,
+        630
+      ],
+      [
+        47.7,
+        400,
+        1220,
+        580,
+        0.35,
+        "power2.inOut"
+      ]
+    ],
+    "tip_source": [
+      525,
+      52
+    ],
+    "flip": false
+  },
+  {
+    "id": "junk",
+    "asset": "junk-parts",
+    "start": 47.7,
+    "handoff": 48.74,
+    "end": 49.04,
+    "layout": [
+      310,
+      1190,
+      420,
+      360
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "cannibalize",
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "amino",
+    "asset": "amino-acids",
+    "start": 48.74,
+    "handoff": 51.6,
+    "end": 51.9,
+    "layout": [
+      440,
+      850,
+      680,
+      420
+    ],
+    "route": "emerge",
+    "moves": [
+      {
+        "t": 50.14,
+        "x": -150,
+        "y": -60,
+        "scale": 0.64,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "emerge_from": "junk",
+    "exit": "recede"
+  },
+  {
+    "id": "protein",
+    "asset": "protein",
+    "start": 50.14,
+    "handoff": 51.6,
+    "end": 51.9,
+    "layout": [
+      730,
+      1120,
+      280,
+      310
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "blocks",
+    "asset": "building-blocks",
+    "start": 50.6,
+    "handoff": 51.6,
+    "end": 51.9,
+    "layout": [
+      350,
+      1270,
+      380,
+      290
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "burning",
+    "asset": "fuel",
+    "start": 51.78,
+    "handoff": 53.12,
+    "end": 53.419999999999995,
+    "layout": [
+      460,
+      1040,
+      600,
+      700
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "brain-fog",
+    "asset": "brainfog-guy",
+    "start": 53.12,
+    "handoff": 54.36,
+    "end": 54.66,
+    "layout": [
+      350,
+      1130,
+      550,
+      880
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "brain-clear",
+    "asset": "brain",
+    "start": 54.36,
+    "handoff": 54.9,
+    "end": 55.199999999999996,
+    "layout": [
+      730,
+      800,
+      340,
+      310
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "brain-fog",
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "brain-clear-actor",
+    "asset": "brain-clear-guy",
+    "start": 54.36,
+    "handoff": 54.9,
+    "end": 55.2,
+    "layout": [
+      350,
+      1130,
+      550,
+      880
+    ],
+    "route": "state",
+    "moves": [],
+    "z": 11,
+    "exit": "left"
+  },
+  {
+    "id": "depuff",
+    "asset": "depuffed-guy",
+    "start": 54.9,
+    "handoff": 56.4,
+    "end": 56.699999999999996,
+    "layout": [
+      460,
+      1110,
+      700,
+      960
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "joint",
+    "asset": "joint",
+    "start": 57.0,
+    "handoff": 59.1,
+    "end": 59.4,
+    "layout": [
+      350,
+      830,
+      450,
+      430
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 57.9,
+        "x": -40,
+        "y": -70,
+        "scale": 0.85,
+        "d": 0.55,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "joint-relief",
+    "asset": "relieved-joints",
+    "start": 57.9,
+    "handoff": 59.1,
+    "end": 59.4,
+    "layout": [
+      720,
+      1190,
+      380,
+      720
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "body-garbage",
+    "asset": "autophagy-body",
+    "start": 59.66,
+    "handoff": 62.1,
+    "end": 62.4,
+    "layout": [
+      330,
+      1090,
+      460,
+      860
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "garbage",
+    "asset": "garbage-cell",
+    "start": 61.2,
+    "handoff": 62.5,
+    "end": 62.8,
+    "layout": [
+      730,
+      1120,
+      330,
+      430
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "healing-switch",
+    "asset": "survival-switch",
+    "start": 62.14,
+    "handoff": 64.16,
+    "end": 64.46,
+    "layout": [
+      300,
+      850,
+      300,
+      460
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "repair",
+    "asset": "repair-tools",
+    "start": 62.58,
+    "handoff": 64.16,
+    "end": 64.46,
+    "layout": [
+      750,
+      990,
+      390,
+      450
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "repaired",
+    "asset": "repaired-cell",
+    "start": 63.26,
+    "handoff": 64.16,
+    "end": 64.46,
+    "layout": [
+      340,
+      1370,
+      340,
+      374
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "stem",
+    "asset": "stem-cell",
+    "start": 64.88,
+    "handoff": 67.6,
+    "end": 67.9,
+    "layout": [
+      430,
+      840,
+      650,
+      580
+    ],
+    "route": "depth",
+    "moves": [
+      {
+        "t": 66.26,
+        "x": -180,
+        "y": 180,
+        "scale": 0.58,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "recede"
+  },
+  {
+    "id": "teach-stem",
+    "asset": "instructor-diagonal",
+    "start": 65.11999999999999,
+    "handoff": 67.02,
+    "end": 67.32,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        65.11999999999999,
+        430,
+        900,
+        660
+      ],
+      [
+        66.26,
+        730,
+        1130,
+        600,
+        0.3,
+        "power2.inOut",
+        false
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": true
+  },
+  {
+    "id": "deadbeat",
+    "asset": "deadbeat-cell",
+    "start": 66.26,
+    "handoff": 67.3,
+    "end": 67.6,
+    "layout": [
+      730,
+      1120,
+      320,
+      360
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "divide",
+    "asset": "dividing-cells",
+    "start": 67.3,
+    "handoff": 68.42,
+    "end": 68.72,
+    "layout": [
+      460,
+      1000,
+      720,
+      550
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "emerge_from": "stem",
+    "exit": "recede"
+  },
+  {
+    "id": "fresh",
+    "asset": "fresh-cell",
+    "start": 68.42,
+    "handoff": 69.44,
+    "end": 69.74,
+    "layout": [
+      450,
+      1030,
+      660,
+      620
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "skin",
+    "asset": "tight-skin-guy",
+    "start": 69.72,
+    "handoff": 70.72,
+    "end": 71.02,
+    "layout": [
+      440,
+      1110,
+      680,
+      950
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "recover",
+    "asset": "recovery-guy",
+    "start": 70.72,
+    "handoff": 71.9,
+    "end": 72.2,
+    "layout": [
+      360,
+      1130,
+      530,
+      830
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "fiber-repair",
+    "asset": "torn-tissue",
+    "start": 71.0,
+    "handoff": 71.9,
+    "end": 72.2,
+    "layout": [
+      750,
+      860,
+      300,
+      230
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "gut-irritated",
+    "asset": "gut-war",
+    "start": 72.06,
+    "handoff": 72.86999999999999,
+    "end": 73.16999999999999,
+    "layout": [
+      430,
+      1030,
+      670,
+      650
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "gut-calm",
+    "asset": "gut",
+    "start": 72.52,
+    "handoff": 75.4,
+    "end": 75.7,
+    "layout": [
+      460,
+      1030,
+      660,
+      650
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "wild",
+    "asset": "reassuring",
+    "start": 75.4,
+    "handoff": 76.2,
+    "end": 76.5,
+    "layout": [
+      450,
+      1120,
+      690,
+      970
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "body-result",
+    "asset": "energetic-morning",
+    "start": 76.2,
+    "handoff": 78.0,
+    "end": 78.3,
+    "layout": [
+      460,
+      1100,
+      700,
+      980
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "jaw",
+    "asset": "jawlock-guy",
+    "start": 78.0,
+    "handoff": 79.9,
+    "end": 80.2,
+    "layout": [
+      390,
+      1120,
+      640,
+      940
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 79.06,
+        "x": -110,
+        "y": 60,
+        "scale": 0.82,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "hours",
+    "asset": "clock",
+    "start": 79.06,
+    "handoff": 79.9,
+    "end": 80.2,
+    "layout": [
+      760,
+      800,
+      280,
+      200
+    ],
+    "route": "down",
+    "moves": [],
+    "z": 10,
+    "clock_text": "A FEW HOURS",
+    "exit": "recede",
+    "entry_duration": 0.38
+  },
+  {
+    "id": "honestly",
+    "asset": "honest-narrator",
+    "start": 79.9,
+    "handoff": 81.04,
+    "end": 81.34,
+    "layout": [
+      450,
+      1430,
+      760,
+      1160
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "sink"
+  },
+  {
+    "id": "divine",
+    "asset": "divine-guy",
+    "start": 81.04,
+    "handoff": 82.33333333333333,
+    "end": 82.33333333333333,
+    "layout": [
+      460,
+      1080,
+      740,
+      980
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "recede"
+  }
+]

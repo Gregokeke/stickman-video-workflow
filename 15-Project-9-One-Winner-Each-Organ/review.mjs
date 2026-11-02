@@ -1,0 +1,11 @@
+import {ensureBrowser} from './setup_browser.mjs';
+import puppeteer from 'puppeteer-core';import chromium from '@sparticuz/chromium';import {browserPath} from './browser-path.mjs';import fs from 'node:fs';import path from 'node:path';
+const b=await puppeteer.launch({executablePath:await ensureBrowser(),headless:'shell',args:['--no-sandbox','--disable-dev-shm-usage','--disable-gpu','--allow-file-access-from-files']});
+const p=await b.newPage();await p.setViewport({width:1080,height:1920});const errors=[];p.on('pageerror',e=>errors.push(e.message));
+const incomplete=process.argv.includes('--incomplete');await p.goto('file://'+path.resolve(incomplete?'index-review.html':'index.html'),{waitUntil:'load'});await p.evaluate(async()=>{await document.fonts.ready;return true});
+const d=JSON.parse(fs.readFileSync('audio-edits.json')),s=JSON.parse(fs.readFileSync('storyboard.json'));
+const times=[0.7, 2.95, 4.6, 5.95, 8.3, 9.95, 10, 12.5, 13.45, 14.3, 15.7, 17.1, 18.2, 19.3, 20.0, 21.95, 22.5, 23.7, 25.9, 27.8, 30.5, 31.9, 33.7, 35.2, 35.4, 36.2, 37.7, 39.4, 40.9, 40.95, 42.2, 43.5, 44.4, 45.8, 47.7, 48.9, 50.5, 52.8, 53.7, 55.3, 56.2, 57.1, 57.6, 59.1, 60, 60.6, 62, 64.4, 65.4, 66.85, 68.1, 69.5, 72.9, 74.8, 75.7, 77.2, 77.6, 78.9, 80.7, 82.5, 83.9, 85.8, 87.7, 89.3, 90.6, 91.95, 92.4, 92.8, 94.8, 95.7, 96.1, 97.3, 99.3, 100.0, 100.5, 102.4, 104.7, 105.2, 106.7, 107.8, 109.5, 110.9, 112.7, 114.8, 116.5, 117.5, 118.7, 120.1, 122.25, 123.35, 124.95, 127.2, 128.7, 130.8, 133.5, 134.9];
+fs.mkdirSync('production/review',{recursive:true});
+const audits=[];
+for(const t of times){await p.evaluate(t=>{window.__timelines.main.seek(t);return true},t);await p.screenshot({path:'production/review/'+t+'.jpg',type:'jpeg',quality:85});audits.push(await p.evaluate(t=>({time:t,visible:[...document.querySelectorAll('.actor')].filter(e=>+getComputedStyle(e).opacity>.8).map(e=>e.id),captions:[...document.querySelectorAll('.caption')].filter(e=>+getComputedStyle(e).opacity>.8).map(e=>e.textContent),missing:[...document.images].filter(e=>!e.complete||!e.naturalWidth).map(e=>e.src)}),t));}
+fs.writeFileSync('production/review-audit.json',JSON.stringify({errors,audits},null,2));await b.close();console.log('Reviewed',times.length,'frames; errors',errors);

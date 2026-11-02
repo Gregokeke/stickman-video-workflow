@@ -1,0 +1,543 @@
+{
+  "errors": [],
+  "audits": [
+    {
+      "time": 0.7,
+      "visible": [
+        "fasting-hook"
+      ],
+      "captions": [
+        "When you fast,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 1.9,
+      "visible": [
+        "fasting-hook",
+        "question"
+      ],
+      "captions": [
+        "what actually happens?"
+      ],
+      "missing": []
+    },
+    {
+      "time": 4.6,
+      "visible": [
+        "energy-input"
+      ],
+      "captions": [
+        "Well, you stop giving your body an energy source,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 5.6,
+      "visible": [
+        "energy-input",
+        "food-source"
+      ],
+      "captions": [
+        "Well, you stop giving your body an energy source,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 7.3,
+      "visible": [
+        "stopped-eating"
+      ],
+      "captions": [
+        "and even though you stopped eating,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 9.7,
+      "visible": [
+        "body-eats"
+      ],
+      "captions": [
+        "It's just eating you instead."
+      ],
+      "missing": []
+    },
+    {
+      "time": 11.7,
+      "visible": [
+        "yep"
+      ],
+      "captions": [
+        "you heard that right."
+      ],
+      "missing": []
+    },
+    {
+      "time": 13.25,
+      "visible": [
+        "sugar",
+        "teach-drop"
+      ],
+      "captions": [
+        "Once your blood sugar and insulin drop,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 14.35,
+      "visible": [
+        "sugar",
+        "teach-drop",
+        "insulin"
+      ],
+      "captions": [
+        "Once your blood sugar and insulin drop,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 15.9,
+      "visible": [
+        "survival"
+      ],
+      "captions": [
+        "your body flips on a survival switch"
+      ],
+      "missing": []
+    },
+    {
+      "time": 17.6,
+      "visible": [
+        "autophagy",
+        "teach-vesicle"
+      ],
+      "captions": [
+        "called autophagy,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 19.3,
+      "visible": [
+        "self-eating"
+      ],
+      "captions": [
+        "which literally means self-eating,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 21.8,
+      "visible": [
+        "senescent",
+        "teach-senescent"
+      ],
+      "captions": [
+        "and starts hunting down senescent cells."
+      ],
+      "missing": []
+    },
+    {
+      "time": 23.8,
+      "visible": [
+        "broken",
+        "retired"
+      ],
+      "captions": [
+        "These are broken, retired cells"
+      ],
+      "missing": []
+    },
+    {
+      "time": 25.95,
+      "visible": [
+        "rent-free"
+      ],
+      "captions": [
+        "just squatting in your body rent free"
+      ],
+      "missing": []
+    },
+    {
+      "time": 27.3,
+      "visible": [
+        "no-job"
+      ],
+      "captions": [
+        "that can no longer do their job."
+      ],
+      "missing": []
+    },
+    {
+      "time": 29.3,
+      "visible": [
+        "alive"
+      ],
+      "captions": [
+        "They're technically alive,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 30.4,
+      "visible": [
+        "alive",
+        "useless"
+      ],
+      "captions": [
+        "completely useless,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 32.9,
+      "visible": [
+        "rotting",
+        "leak"
+      ],
+      "captions": [
+        "and leaking inflammation."
+      ],
+      "missing": []
+    },
+    {
+      "time": 34.6,
+      "visible": [
+        "basically"
+      ],
+      "captions": [
+        "that one unemployed roommate who"
+      ],
+      "missing": []
+    },
+    {
+      "time": 35.5,
+      "visible": [
+        "roommate"
+      ],
+      "captions": [
+        "that one unemployed roommate who"
+      ],
+      "missing": []
+    },
+    {
+      "time": 36.9,
+      "visible": [
+        "refuses"
+      ],
+      "captions": [
+        "refuses to move out,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 38.3,
+      "visible": [
+        "reason-narrator"
+      ],
+      "captions": [
+        "and the exact reason you wake up feeling puffy,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 39.8,
+      "visible": [
+        "puffy"
+      ],
+      "captions": [
+        "and the exact reason you wake up feeling puffy,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 40.65,
+      "visible": [
+        "puffy",
+        "stiff"
+      ],
+      "captions": [
+        "stiff, and 80 years old in your 20s."
+      ],
+      "missing": []
+    },
+    {
+      "time": 42,
+      "visible": [
+        "eighty"
+      ],
+      "captions": [
+        "stiff, and 80 years old in your 20s."
+      ],
+      "missing": []
+    },
+    {
+      "time": 44.6,
+      "visible": [
+        "inflammation-return",
+        "teach-inflammation"
+      ],
+      "captions": [
+        "To get rid of that inflammation,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 46.8,
+      "visible": [
+        "cannibalize",
+        "teach-cleanup"
+      ],
+      "captions": [
+        "your body literally cannibalizes them,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 48.4,
+      "visible": [
+        "cannibalize",
+        "teach-cleanup",
+        "junk"
+      ],
+      "captions": [
+        "stripping their junk parts down into"
+      ],
+      "missing": []
+    },
+    {
+      "time": 49.5,
+      "visible": [
+        "amino"
+      ],
+      "captions": [
+        "amino acids,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 50.9,
+      "visible": [
+        "amino",
+        "protein",
+        "blocks"
+      ],
+      "captions": [
+        "raw protein building blocks,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 52.7,
+      "visible": [
+        "burning"
+      ],
+      "captions": [
+        "and burning them for fuel,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 54.7,
+      "visible": [
+        "brain-clear",
+        "brain-clear-actor"
+      ],
+      "captions": [
+        "which finally clears out your brain fog,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 55.9,
+      "visible": [
+        "depuff"
+      ],
+      "captions": [
+        "depuffs your face,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 58.4,
+      "visible": [
+        "joint",
+        "joint-relief"
+      ],
+      "captions": [
+        "and stops your joints from aching for no reason."
+      ],
+      "missing": []
+    },
+    {
+      "time": 60.7,
+      "visible": [
+        "body-garbage"
+      ],
+      "captions": [
+        "Once your body finishes eating its own garbage,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 61.7,
+      "visible": [
+        "body-garbage",
+        "garbage"
+      ],
+      "captions": [
+        "Once your body finishes eating its own garbage,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 63.8,
+      "visible": [
+        "healing-switch",
+        "repair",
+        "repaired"
+      ],
+      "captions": [
+        "it flips into healing and repair mode,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 65.7,
+      "visible": [
+        "stem",
+        "teach-stem"
+      ],
+      "captions": [
+        "to replace those deadbeat cells"
+      ],
+      "missing": []
+    },
+    {
+      "time": 66.9,
+      "visible": [
+        "stem",
+        "teach-stem",
+        "deadbeat"
+      ],
+      "captions": [
+        "to replace those deadbeat cells"
+      ],
+      "missing": []
+    },
+    {
+      "time": 67.95,
+      "visible": [
+        "divide"
+      ],
+      "captions": [
+        "with fresh, brand new, healthy ones,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 69,
+      "visible": [
+        "fresh"
+      ],
+      "captions": [
+        "with fresh, brand new, healthy ones,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 70.4,
+      "visible": [
+        "skin"
+      ],
+      "captions": [
+        "meaning tighter skin,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 71.6,
+      "visible": [
+        "recover",
+        "fiber-repair"
+      ],
+      "captions": [
+        "faster recovery,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 72.6,
+      "visible": [
+        "gut-irritated",
+        "gut-calm"
+      ],
+      "captions": [
+        "and a gut that isn't constantly at war with itself."
+      ],
+      "missing": []
+    },
+    {
+      "time": 74.2,
+      "visible": [
+        "gut-calm"
+      ],
+      "captions": [
+        "and a gut that isn't constantly at war with itself."
+      ],
+      "missing": []
+    },
+    {
+      "time": 76.6,
+      "visible": [
+        "body-result"
+      ],
+      "captions": [
+        "It's wild that your body does all that"
+      ],
+      "missing": []
+    },
+    {
+      "time": 78.7,
+      "visible": [
+        "jaw"
+      ],
+      "captions": [
+        "just because you locked your jaw for a few hours."
+      ],
+      "missing": []
+    },
+    {
+      "time": 79.6,
+      "visible": [
+        "jaw",
+        "hours"
+      ],
+      "captions": [
+        "just because you locked your jaw for a few hours."
+      ],
+      "missing": []
+    },
+    {
+      "time": 80.5,
+      "visible": [
+        "honestly"
+      ],
+      "captions": [
+        "Honestly,"
+      ],
+      "missing": []
+    },
+    {
+      "time": 81.85,
+      "visible": [
+        "divine"
+      ],
+      "captions": [
+        "it's divine."
+      ],
+      "missing": []
+    }
+  ]
+}

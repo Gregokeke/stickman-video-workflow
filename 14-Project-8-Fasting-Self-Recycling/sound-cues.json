@@ -1,0 +1,612 @@
+[
+  {
+    "time": 0.03,
+    "start": 0,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -8,
+    "reason": "fasting hook arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 1.26,
+    "start": 1.21769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "question enters beside retained actor",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 3.74,
+    "start": 3.6950200000000004,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "stop-giving reversal",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 4.4,
+    "start": 4.33802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "body energy cutaway",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 4.84,
+    "start": 4.78738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "food-energy source",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 6.66,
+    "start": 6.60396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "stopped-eating pose",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 7.8,
+    "start": 7.7050399999999994,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -10,
+    "reason": "internal recycling body reveal",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.16,
+    "start": 9.10875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -18,
+    "reason": "attention shifts inside body",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 10.84,
+    "start": 10.79769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "Yep knowing delivery",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 12.86,
+    "start": 12.809669999999999,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -13,
+    "reason": "glucose identity",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.58,
+    "start": 13.5701,
+    "source": "B19b",
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "target_peak_dbfs": -16,
+    "reason": "insulin identity",
+    "duration": 1.641,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.88,
+    "start": 13.82165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "two illustrative fills drop",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 15.02,
+    "start": 14.95802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "survival switch arrives",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 15.28,
+    "start": 15.23071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "switch clicks on",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 16.78,
+    "start": 16.71515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -10,
+    "reason": "autophagy membrane emerges",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 18.7,
+    "start": 18.64738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "self-recycling detail",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 20.36,
+    "start": 20.30396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "hunting detective",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.0,
+    "start": 20.94967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -14,
+    "reason": "senescent cell found",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 22.74,
+    "start": 22.663439999999998,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -14,
+    "reason": "damaged-cell state",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 23.12,
+    "start": 23.06502,
+    "source": "C10",
+    "path": "assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "retired-cell comic beat",
+    "duration": 0.302,
+    "tail_preserved": true
+  },
+  {
+    "time": 25.66,
+    "start": 25.60165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "rent-free doorway lands",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 26.28,
+    "start": 26.23769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "idle worker",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 28.68,
+    "start": 28.62967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -15,
+    "reason": "still-alive identity",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 29.68,
+    "start": 29.63502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "useless reaction",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 31.7,
+    "start": 31.61635,
+    "source": "B21",
+    "path": "assets/sfx/B21_Low_Whoosh_Pulse_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "rotting cell",
+    "duration": 1.163,
+    "tail_preserved": true
+  },
+  {
+    "time": 32.66,
+    "start": 32.613209999999995,
+    "source": "C09",
+    "path": "assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "inflammatory leak",
+    "duration": 1.276,
+    "tail_preserved": true
+  },
+  {
+    "time": 33.74,
+    "start": 33.69769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "Basically setup",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 35.1,
+    "start": 35.03802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -10,
+    "reason": "unemployed roommate",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 36.18,
+    "start": 36.12396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "doorframe refusal",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 38.8,
+    "start": 38.74738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "puffy waking face",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.22,
+    "start": 40.16165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -16,
+    "reason": "stiff knee",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.82,
+    "start": 40.77746,
+    "source": "C04",
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "target_peak_dbfs": -15,
+    "reason": "eighty-in-twenties joke",
+    "duration": 0.763,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.98,
+    "start": 43.929669999999994,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -13,
+    "reason": "inflammation recalled",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 45.72,
+    "start": 45.65515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -10,
+    "reason": "cell cleanup detail",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 47.7,
+    "start": 47.65321,
+    "source": "C09",
+    "path": "assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "junk fragments emerge",
+    "duration": 1.276,
+    "tail_preserved": true
+  },
+  {
+    "time": 48.74,
+    "start": 48.687380000000005,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "amino acids emerge",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 50.14,
+    "start": 50.08967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -16,
+    "reason": "protein",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 50.6,
+    "start": 50.541650000000004,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "building blocks",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 51.78,
+    "start": 51.68504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -11,
+    "reason": "burning for fuel",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 53.12,
+    "start": 53.07769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "brain fog actor",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 54.36,
+    "start": 54.32033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -16,
+    "reason": "fog clears and same face refreshes",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 54.9,
+    "start": 54.84738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -14,
+    "reason": "depuffed face",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 57.0,
+    "start": 56.94967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -14,
+    "reason": "joint close-up",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 57.52,
+    "start": 57.47769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -13,
+    "reason": "joint relief",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 59.66,
+    "start": 59.59802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "body cleanup returns",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 61.2,
+    "start": 61.147380000000005,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "cellular waste",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 62.14,
+    "start": 62.08396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "healing switch",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 62.58,
+    "start": 62.53071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "healing switch on",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 64.88,
+    "start": 64.81514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -10,
+    "reason": "stem cell hero",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.26,
+    "start": 66.20967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -15,
+    "reason": "worn-out cell",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 67.3,
+    "start": 67.25321,
+    "source": "C09",
+    "path": "assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+    "target_peak_dbfs": -16,
+    "reason": "new cells emerge",
+    "duration": 1.276,
+    "tail_preserved": true
+  },
+  {
+    "time": 67.78,
+    "start": 67.72875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -18,
+    "reason": "daughter cells separate",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.42,
+    "start": 68.38033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -15,
+    "reason": "fresh healthy cell",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 69.72,
+    "start": 69.67769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "tighter skin actor",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 70.72,
+    "start": 70.65802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "recovery jog",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.06,
+    "start": 72.00967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -14,
+    "reason": "gut irritation metaphor",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.52,
+    "start": 72.47769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "gut calms on negation",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 75.4,
+    "start": 75.34738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -12,
+    "reason": "wonder narrator",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 78.0,
+    "start": 77.94165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -16,
+    "reason": "jaw-lock joke",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 79.06,
+    "start": 79.01071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "a few hours clock",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.04,
+    "start": 81.00033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "divine closing glint",
+    "duration": 0.929,
+    "tail_preserved": true
+  }
+]

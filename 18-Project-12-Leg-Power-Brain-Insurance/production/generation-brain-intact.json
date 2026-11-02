@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 15,
+    "id": "brain-intact",
+    "output_filename": "brain-intact.png",
+    "output_path": "images/brain-intact.png",
+    "preferred_aspect": "square",
+    "script_phrase": "and your brain intact.",
+    "video_cue_seconds": 104.86,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone intact red gross brain model, matching brain.png's established anatomy and finish: frontal side LEFT, cerebellum lower RIGHT and complete downward brainstem, readable gyri/sulci. It sits inside a separate red-and-black protective shield-shaped surround as ONE coherent illustration. No face, person, mascot, clinical certification, percentage or damage. Integrated plaque reads exactly INTACT BRAIN. The shield must not obscure essential brain anatomy. All required parts fully contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "a985130d176de3219cc2329707fba63b8d6230e041d818090fa679426432a071"
+}

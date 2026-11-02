@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 3,
+    "id": "mental-tax",
+    "output_filename": "mental-tax.png",
+    "output_path": "images/mental-tax.png",
+    "preferred_aspect": "square",
+    "script_phrase": "one of the biggest mental taxes",
+    "video_cue_seconds": 80.05,
+    "references": [
+      "references/current/study-report.png",
+      "references/current/calendar.png",
+      "references/current/dumbbell.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone compact comic burden prop: a stack of three thick red paperwork folders plus one small red receipt spool with a short folded receipt. The receipt's only words are MENTAL TAX in bold readable black. No amounts or other readable fine print. Chunky red paper edges, black folds and white page faces, mild dimensional three-quarter perspective. No person, brain, face or unrelated symbol. This is paperwork as a metaphor for mental effort.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "6475e3c70e371c80152f3ece4cf38429c38fb54588aae8b25a5f4538ca503fda"
+}

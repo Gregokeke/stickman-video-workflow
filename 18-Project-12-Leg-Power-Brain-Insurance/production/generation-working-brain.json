@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 17,
+    "id": "working-brain",
+    "output_filename": "working-brain.png",
+    "output_path": "images/working-brain.png",
+    "preferred_aspect": "square",
+    "script_phrase": "working brain past 80",
+    "video_cue_seconds": 107.01,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone intact red lateral brain model matching brain.png, frontal side LEFT, cerebellum lower RIGHT, complete brainstem and clear gyri/sulci. A small neat exposed/inset schematic neural-circuit window in the cortex shows THREE substantial interconnected red neuron somas with nuclei and branching connections, stylistically matching neural-network.png. No fake measured MRI/EEG data, numbers, scan readouts, baked glow or traveling signal line. No person or mascot face. Integrated plaque reads exactly WORKING BRAIN. Keep the gross brain recognizable and fully contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "b337a3c461ec336cd1e4bcb4f0c56e8d026b4c1a78220cb9f95448613d9488b4"
+}

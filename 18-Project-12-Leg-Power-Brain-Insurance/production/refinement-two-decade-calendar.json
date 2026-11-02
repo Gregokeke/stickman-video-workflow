@@ -1,0 +1,6 @@
+{
+  "id": "two-decade-calendar",
+  "prompt": "Change ONLY the right calendar text from 20 YEARS to exactly 20 YEARS YOUNGER, arranged in three bold readable lines. Preserve the NOW calendar, rightward arrow, red-and-black style, all other geometry and true transparency. Do not add anything else.",
+  "tool": "built-in ImageGen edit",
+  "output_path": "/workspace/scratch/da11170a9a63/generated_images/exec-54c82668-6a08-49b3-8019-c8ae0ffb3e64.png"
+}

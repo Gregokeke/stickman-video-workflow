@@ -1,0 +1,642 @@
+[
+  {
+    "id": "aging-eyes",
+    "path": "assets/graphics/aging-eyes.png",
+    "phrase": "aging eyes",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "36bd9272be60291f33e43e2b7c2ae88dd6c11a191d2a754d9a9527bc703138f0"
+  },
+  {
+    "id": "amino-acids",
+    "path": "assets/graphics/amino-acids.png",
+    "phrase": "amino acids",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "ecc085d1c73142bbe37cc199315865db3d638206f3c3b5bcbb8e4192731fdc39"
+  },
+  {
+    "id": "clock",
+    "path": "assets/graphics/clock.png",
+    "phrase": "clock",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "2a76fdb31972a107c216331a4399d32db4a6413c6af3c9d846b59828e48def82"
+  },
+  {
+    "id": "heart",
+    "path": "assets/graphics/heart.png",
+    "phrase": "heart",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "e56aba755a60904ad826ccfc09ad879cb1b7181efc5ba7322ae429d0628ae125"
+  },
+  {
+    "id": "instructor-diagonal",
+    "path": "assets/graphics/instructor-diagonal.png",
+    "phrase": "instructor diagonal",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990"
+  },
+  {
+    "id": "liver",
+    "path": "assets/graphics/liver.png",
+    "phrase": "liver",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "289f93745072d4d73d9886b6bb0b850e0a4ce42527d10feac255b6184ff695f8"
+  },
+  {
+    "id": "lutein",
+    "path": "assets/graphics/lutein.png",
+    "phrase": "lutein",
+    "kind": "new built-in ImageGen symbolic pigment",
+    "source": "production/pigment-prompts.md",
+    "sha256": "223e3c33b308addc84b002c49499f2329bebd92461b7e5f223604679f4b66a68"
+  },
+  {
+    "id": "muscle",
+    "path": "assets/graphics/muscle.png",
+    "phrase": "muscle",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "66834739551afeade177b02d035bbf7cf6f5b664ec05cb2fb14f72538c2302a9"
+  },
+  {
+    "id": "protein",
+    "path": "assets/graphics/protein.png",
+    "phrase": "protein",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "22509b0a1b2a3ce3abb33831f9cdf714c2b4cabd4a52f3404599de2711d0a557"
+  },
+  {
+    "id": "retina",
+    "path": "assets/graphics/retina.png",
+    "phrase": "retina",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final",
+    "sha256": "0b40d1683814daad4a76335ab2122fa625ced14e984e81aae81f97ffdd74e052"
+  },
+  {
+    "id": "zeaxanthin",
+    "path": "assets/graphics/zeaxanthin.png",
+    "phrase": "zeaxanthin",
+    "kind": "new built-in ImageGen symbolic pigment",
+    "source": "production/pigment-prompts.md",
+    "sha256": "ba73bd46ead645a399847b5b5c0d9ad889e141cb90754b30b145494fdd4f2703"
+  },
+  {
+    "id": "supplement-host",
+    "path": "assets/graphics/supplement-host.png",
+    "phrase": "supplement host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "25f321258e7ae4b0e45b7453e8a07e7fb97948d9f84926a5d8c1cf8e75b30688"
+  },
+  {
+    "id": "organ-body",
+    "path": "assets/graphics/organ-body.png",
+    "phrase": "organ body",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "52011fa6ce266b69dd2ae8603c1b4468ecbb4dfa14c2721ea76a602b97c9c21e"
+  },
+  {
+    "id": "pill-overload",
+    "path": "assets/graphics/pill-overload.png",
+    "phrase": "pill overload",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "bf2dbd3738d1aa6d16d45837c4b7c64a6a84ba0009dd62f1990f7d46e55aedbc"
+  },
+  {
+    "id": "winner-host",
+    "path": "assets/graphics/winner-host.png",
+    "phrase": "winner host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "3c28a9d39b007cb934697ac1ddb6b332e45312b95b42777b8cb94260adb0fa5b"
+  },
+  {
+    "id": "stressed-host",
+    "path": "assets/graphics/stressed-host.png",
+    "phrase": "stressed host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "1b5dbbbac7ab71b558375d6aa4805d64b6b3f3d9d4e6abfa65a1470628627651"
+  },
+  {
+    "id": "junk-food",
+    "path": "assets/graphics/junk-food.png",
+    "phrase": "junk food",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "3a300a8c40b7c3ad78579e3a15332c912e305c7d7df5036ee616d8f5c9dcd8d2"
+  },
+  {
+    "id": "inflamed-artery",
+    "path": "assets/graphics/inflamed-artery.png",
+    "phrase": "inflamed artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "35ca95db13b90173b2b1f0d18f467747f634d102313cd742867492d2fdeb9419"
+  },
+  {
+    "id": "rupture-artery",
+    "path": "assets/graphics/rupture-artery.png",
+    "phrase": "rupture artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "aaa81ba49e839dd6cdd6b18f76081a57548cf08d24c55a1eb0c19be652caed48"
+  },
+  {
+    "id": "stopped-heart",
+    "path": "assets/graphics/stopped-heart.png",
+    "phrase": "stopped heart",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "863d7c75b079541b6fc744adbf76765a1d955f5c78950104613ce186d5bfa8d1"
+  },
+  {
+    "id": "omega3",
+    "path": "assets/graphics/omega3.png",
+    "phrase": "omega3",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "ad79edd502222374acf1884a3b4fe4dddb051ac23117b7b90ff94227bd7a25d4"
+  },
+  {
+    "id": "cooled-artery",
+    "path": "assets/graphics/cooled-artery.png",
+    "phrase": "cooled artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "3f07db0e75d49ec60bd97b05883df47fa41ab3a07904b9255f3b256cc1f2ef70"
+  },
+  {
+    "id": "study-adults",
+    "path": "assets/graphics/study-adults.png",
+    "phrase": "study adults",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "18d2e931916734bd1bb0ae6a4c27c0bb628711215aa9937a9d76d95df85fcfff"
+  },
+  {
+    "id": "gram-dose",
+    "path": "assets/graphics/gram-dose.png",
+    "phrase": "gram dose",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "05cf54f4d89350c079644099d8727be17d79e86d8fa8d0006a8645597fc3e5de"
+  },
+  {
+    "id": "eye-host",
+    "path": "assets/graphics/eye-host.png",
+    "phrase": "eye host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "dd2de15dc0df7e8858442fda9bdbe7ec3ff1ea5ac1698db3e9846933ac79ff8d"
+  },
+  {
+    "id": "screen-guy",
+    "path": "assets/graphics/screen-guy.png",
+    "phrase": "screen guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "538dde6a159b4384ccdc5d0101e76b03450666818bbbb9af51a22face8dcf172"
+  },
+  {
+    "id": "damaged-eye",
+    "path": "assets/graphics/damaged-eye.png",
+    "phrase": "damaged eye",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "c17f7ee056eabd69a57bb0529fb5cc9f126e629a862a83a0ffb84d0fe7aee2b0"
+  },
+  {
+    "id": "blind-guy",
+    "path": "assets/graphics/blind-guy.png",
+    "phrase": "blind guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "183405b70bfba9fba103925cf68bf43bf955a690d1c3b40c2503b679f9fca37a"
+  },
+  {
+    "id": "protected-eye",
+    "path": "assets/graphics/protected-eye.png",
+    "phrase": "protected eye",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "2525a12a749ea0f7f6f863ceba6808d0e234fb404dcb7d6d4b8ce86df1e4ba7e"
+  },
+  {
+    "id": "kidneys",
+    "path": "assets/graphics/kidneys.png",
+    "phrase": "kidneys",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "bf8b4023aa8b07805c0691aa3572f63a6e60a069d3a3a35bd1d69d1d1d987576"
+  },
+  {
+    "id": "calcium",
+    "path": "assets/graphics/calcium.png",
+    "phrase": "calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "45c837de85a462c56fe3a80f874de3c7f2c3035f4eb3f576c05a539214192b58"
+  },
+  {
+    "id": "crystals",
+    "path": "assets/graphics/crystals.png",
+    "phrase": "crystals",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "79e04b115eb8d5d31b9654c924b9515d788d7bf0fe51940fce30bbfec5899696"
+  },
+  {
+    "id": "stone",
+    "path": "assets/graphics/stone.png",
+    "phrase": "stone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "6e4c88e6e0cfcfc40f6bfaad7b917b4610e98b95bf47585f0517e05633cc22aa"
+  },
+  {
+    "id": "crying-guy",
+    "path": "assets/graphics/crying-guy.png",
+    "phrase": "crying guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "f1fd937cc28e357405ad7e9cba308ef5e3ecb5d1b62404950f8f6b8c27a87232"
+  },
+  {
+    "id": "magnesium",
+    "path": "assets/graphics/magnesium.png",
+    "phrase": "magnesium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "69cd06794ce0730f6161c1b5f5d3ea51f5277b92b1cb01d6c6af1fcad3c4db33"
+  },
+  {
+    "id": "crystal-block",
+    "path": "assets/graphics/crystal-block.png",
+    "phrase": "crystal block",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "973d3e4b2ef7544f83939fcac56171ee93c3cc53439058999242082e0a6c410b"
+  },
+  {
+    "id": "urine",
+    "path": "assets/graphics/urine.png",
+    "phrase": "urine",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "06d32eb1d82129314ab53ac58412546d28638b199e04ef65a6cda0547fb1a730"
+  },
+  {
+    "id": "older-host",
+    "path": "assets/graphics/older-host.png",
+    "phrase": "older host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "7386599af692b6d4826053ba2282e63db0d50b927bdccd5f2aaaa78b1c557faa"
+  },
+  {
+    "id": "dose350",
+    "path": "assets/graphics/dose350.png",
+    "phrase": "dose350",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "4e3bf4de9ceb948383d86b65442a72732fbe0a2a515814250f33ee8ef6b5db76"
+  },
+  {
+    "id": "skeleton",
+    "path": "assets/graphics/skeleton.png",
+    "phrase": "skeleton",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "004022eef9a4253ec666a7e08ce227de0e3311580b99613c9a7e8f05a1b37646"
+  },
+  {
+    "id": "hollow-bone",
+    "path": "assets/graphics/hollow-bone.png",
+    "phrase": "hollow bone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "2a2a6ffaddb928e1b2923eee913ad7f1339297d1c09ca280ffac0307e2aa89a6"
+  },
+  {
+    "id": "chalk",
+    "path": "assets/graphics/chalk.png",
+    "phrase": "chalk",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "e052d780b1aaf8ec0d8511688d67d3509fb17f9c41264bf333967dc02849b68e"
+  },
+  {
+    "id": "concrete-artery",
+    "path": "assets/graphics/concrete-artery.png",
+    "phrase": "concrete artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "ee3430f9ba4599872dee28a41f4ab830062f9ef6eb7523aab2a47a292adcbe18"
+  },
+  {
+    "id": "d3",
+    "path": "assets/graphics/d3.png",
+    "phrase": "d3",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "43c2b9b5a70201ba9179a2dfd9047363bd388fe8354b3271f37610f39ee0edf0"
+  },
+  {
+    "id": "k2",
+    "path": "assets/graphics/k2.png",
+    "phrase": "k2",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "9ce8166dc49e1ec02c9778d0760555409ae4bebd51530abc37770d24f53328cf"
+  },
+  {
+    "id": "blood-calcium",
+    "path": "assets/graphics/blood-calcium.png",
+    "phrase": "blood calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "781f65f8867349ef6d7ff245802fe77d1a9e5208d496ba84cec63f6407dbc973"
+  },
+  {
+    "id": "calcium-bone",
+    "path": "assets/graphics/calcium-bone.png",
+    "phrase": "calcium bone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "8afca357f76747d74ec213b22cce2eda77ecde4d33060a77b96f663740f79ee0"
+  },
+  {
+    "id": "toxins",
+    "path": "assets/graphics/toxins.png",
+    "phrase": "toxins",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "2a865d08d9bd252afed7d39c3cfe9cbf9e1380d5af2fcaf9d04fb7c1e22fec6a"
+  },
+  {
+    "id": "scarred-liver",
+    "path": "assets/graphics/scarred-liver.png",
+    "phrase": "scarred liver",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "a9593f123095a60c481bfb0efd8183b4ade216978febc4f450879fa0a6f7d9fe"
+  },
+  {
+    "id": "nac",
+    "path": "assets/graphics/nac.png",
+    "phrase": "nac",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "1ef63c1f08cb76696b60d9c4387a63f122bb842f0723e63fb4bcd0b29b53d736"
+  },
+  {
+    "id": "glutathione",
+    "path": "assets/graphics/glutathione.png",
+    "phrase": "glutathione",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "af89efdebc89d2b688292788c4a9eab253af511ef5acf085dd36af4aa2da8c43"
+  },
+  {
+    "id": "hospital",
+    "path": "assets/graphics/hospital.png",
+    "phrase": "hospital",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "d005c6faa7ebe6e16a9266f63ab8409eecad61769290fd7cebc0e2d54d6c20ad"
+  },
+  {
+    "id": "atp",
+    "path": "assets/graphics/atp.png",
+    "phrase": "atp",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "5e533d0d73b31432f546652c564b7ea37028f58443d6d96d2ac0fd21f1d1a3b5"
+  },
+  {
+    "id": "heavy-lifter",
+    "path": "assets/graphics/heavy-lifter.png",
+    "phrase": "heavy lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "9588856515e098c7c5bbc34cd8dc2a3fb8ab75deecf180fcfdf19d56e4b710c2"
+  },
+  {
+    "id": "tired-lifter",
+    "path": "assets/graphics/tired-lifter.png",
+    "phrase": "tired lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "d4c3f21c8ab614af04b122c57e704188200d49e7c53a751525942f16707c083a"
+  },
+  {
+    "id": "creatine",
+    "path": "assets/graphics/creatine.png",
+    "phrase": "creatine",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "8f29a15b9f8bfe1d9490f83884bc68524a74cd25320797bda0af6010dffc940a"
+  },
+  {
+    "id": "strong-lifter",
+    "path": "assets/graphics/strong-lifter.png",
+    "phrase": "strong lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "270b51495bdca46afe55302bc2d4780d86e8d5c1cdb4b42a776904445ab3e29e"
+  },
+  {
+    "id": "older-lifter",
+    "path": "assets/graphics/older-lifter.png",
+    "phrase": "older lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "bca3a6fbbc954652f7601e2766d3c00a874aa890f1ab98b476f621a3128548ec"
+  },
+  {
+    "id": "lean-muscle",
+    "path": "assets/graphics/lean-muscle.png",
+    "phrase": "lean muscle",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "e3bf611c198494a3971f8ae5946b27b9176e432f54f24d53a8c2f6765a5dfa0f"
+  },
+  {
+    "id": "dose-scoop",
+    "path": "assets/graphics/dose-scoop.png",
+    "phrase": "dose scoop",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json",
+    "sha256": "4ff1097511d987e951883d5b3fa3b5564c0d690921bd14ef22e3e4b75f8a4faf"
+  },
+  {
+    "id": "organ-checklist",
+    "path": "assets/graphics/organ-checklist.png",
+    "phrase": "organ checklist",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "ccef82a1a4ad91d77283620f1ab11340b81fa17eed75d78f6daf3c8eb1f340d5"
+  },
+  {
+    "id": "proven-badge",
+    "path": "assets/graphics/proven-badge.png",
+    "phrase": "proven badge",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "c6853e3288839156277b573df3fbbf356f40524396fa222955c5d7cb5c5ab4de"
+  },
+  {
+    "id": "artery-wall",
+    "path": "assets/graphics/artery-wall.png",
+    "phrase": "artery wall",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "3f9071714ec75ddb87dec412b236fd7d248a4e8b56a4b14fa0de1c62a0596bb7"
+  },
+  {
+    "id": "heartbeat-monitor",
+    "path": "assets/graphics/heartbeat-monitor.png",
+    "phrase": "heartbeat monitor",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "9ebdca8d37e54c96ff4b3aca297fb7e537c5c543f86e6930e11b9c66f636d814"
+  },
+  {
+    "id": "fish-softgels",
+    "path": "assets/graphics/fish-softgels.png",
+    "phrase": "fish softgels",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "0682f6ae781a069cbcd12fbc5168428248896534545f0b219fd4a6966f055ff2"
+  },
+  {
+    "id": "heart-shield",
+    "path": "assets/graphics/heart-shield.png",
+    "phrase": "heart shield",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "0c793d221ab370763198adf5e4e991482ab523df18421f40053520318f77d0e6"
+  },
+  {
+    "id": "eye-strain-host",
+    "path": "assets/graphics/eye-strain-host.png",
+    "phrase": "eye strain host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "cc32614ba095e9e9cdaa4b4c9b3b62931aad848b570f2613f5f3c9ea7a2714f9"
+  },
+  {
+    "id": "vision-chart",
+    "path": "assets/graphics/vision-chart.png",
+    "phrase": "vision chart",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "29f73810236df63beb713b448e1e1ab052c47a6b48108aec36f2cc787b352091"
+  },
+  {
+    "id": "antioxidant-shield",
+    "path": "assets/graphics/antioxidant-shield.png",
+    "phrase": "antioxidant shield",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "7e1bd42b5a15d8b4d77f5a3264a1d1b6562c31089e25ecdb5602beab565b98de"
+  },
+  {
+    "id": "eyeball-anatomy",
+    "path": "assets/graphics/eyeball-anatomy.png",
+    "phrase": "eyeball anatomy",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "ab8543f2cef5677b38fb7a44d8321ef17a2d6abe015d7fd25f554388bfcab2d6"
+  },
+  {
+    "id": "study-calendar",
+    "path": "assets/graphics/study-calendar.png",
+    "phrase": "study calendar",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "7f54efcd029066e2e0de06f677ca05ce99762ab2a10a736bcca88afc11fad0e8"
+  },
+  {
+    "id": "kidney-filter",
+    "path": "assets/graphics/kidney-filter.png",
+    "phrase": "kidney filter",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "51348d929d7fc458d4b11d6393cc70fd81fc714be8cc3d4b008c47cc6f1749d9"
+  },
+  {
+    "id": "jagged-stone",
+    "path": "assets/graphics/jagged-stone.png",
+    "phrase": "jagged stone",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "ab74b2ce946409632ff7a50d8d026038fc0cc538ea72baa587a0874cf1a1ebe1"
+  },
+  {
+    "id": "diseased-kidney",
+    "path": "assets/graphics/diseased-kidney.png",
+    "phrase": "diseased kidney",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "2b0315dcc957d13e683a374e28c6a32aa391c189d51b73f8e88ae64804d456de"
+  },
+  {
+    "id": "aging-bones-host",
+    "path": "assets/graphics/aging-bones-host.png",
+    "phrase": "aging bones host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "1bdb8d43e4343dbfe40b55d6c8c97a0935116222fb92b7188f528a7e05686e84"
+  },
+  {
+    "id": "artery-no-calcium",
+    "path": "assets/graphics/artery-no-calcium.png",
+    "phrase": "artery no calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "daecd331bb68ef6051af23ae248ff5dd77065d7c185b8bec99f970e8d0e35480"
+  },
+  {
+    "id": "liver-stress-host",
+    "path": "assets/graphics/liver-stress-host.png",
+    "phrase": "liver stress host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "b46d9a80fce496c41c070c017c8da214e9bcfa0dc41f60f4a7d9aa9a1c253848"
+  },
+  {
+    "id": "scarred-hepatocyte",
+    "path": "assets/graphics/scarred-hepatocyte.png",
+    "phrase": "scarred hepatocyte",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "267bf4547da986d81f7f454244c17e279b0d444e3b4563cc8a60dcebe4df9abf"
+  },
+  {
+    "id": "amino-blocks",
+    "path": "assets/graphics/amino-blocks.png",
+    "phrase": "amino blocks",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "c54e9f9be7cae379dbacf66bc572cf91b8b026b1ae981d60dd03378f88127739"
+  },
+  {
+    "id": "liver-detox",
+    "path": "assets/graphics/liver-detox.png",
+    "phrase": "liver detox",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json",
+    "sha256": "249483ad6ae83ad710cb57cab5336411497ab9b7c49f74a1dd002542b76aa68b"
+  }
+]

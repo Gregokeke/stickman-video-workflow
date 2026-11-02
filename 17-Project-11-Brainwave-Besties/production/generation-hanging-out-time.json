@@ -1,0 +1,11 @@
+{
+  "id": "hanging-out-time",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: See, when you spend enough time around someone,. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: Coherent full-body two red rounded best friends casually chat on a small park bench, messy-haired red jacket friend gestures and short-haired rolled-shirt friend listens with warm smile. Broad visible limbs, simple bench only, no scenery, brain or text.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/hanging-out-time.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-a4b2b287-efc1-457e-b54c-75b746cfda36.png"
+}

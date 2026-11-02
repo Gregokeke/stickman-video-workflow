@@ -1,0 +1,368 @@
+[
+  {
+    "id": "honest-narrator",
+    "path": "assets/graphics/honest-narrator.png",
+    "phrase": "honest narrator",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "knowing",
+    "path": "assets/graphics/knowing.png",
+    "phrase": "knowing",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "reassuring",
+    "path": "assets/graphics/reassuring.png",
+    "phrase": "reassuring",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "nonchalant",
+    "path": "assets/graphics/nonchalant.png",
+    "phrase": "nonchalant",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "indifferent",
+    "path": "assets/graphics/indifferent.png",
+    "phrase": "indifferent",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "stop-fork",
+    "path": "assets/graphics/stop-fork.png",
+    "phrase": "stop fork",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "dinner-plate",
+    "path": "assets/graphics/dinner-plate.png",
+    "phrase": "dinner plate",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "glucose",
+    "path": "assets/graphics/glucose.png",
+    "phrase": "glucose",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "insulin",
+    "path": "assets/graphics/insulin.png",
+    "phrase": "insulin",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "damaged-cell",
+    "path": "assets/graphics/damaged-cell.png",
+    "phrase": "damaged cell",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "repaired-cell",
+    "path": "assets/graphics/repaired-cell.png",
+    "phrase": "repaired cell",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "brain",
+    "path": "assets/graphics/brain.png",
+    "phrase": "brain",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "gut",
+    "path": "assets/graphics/gut.png",
+    "phrase": "gut",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "energetic-morning",
+    "path": "assets/graphics/energetic-morning.png",
+    "phrase": "energetic morning",
+    "kind": "Exact phrase-matching approved ImageGen art from Last-Meal-Tonight"
+  },
+  {
+    "id": "joint",
+    "path": "assets/graphics/joint.png",
+    "phrase": "joint",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "knee",
+    "path": "assets/graphics/knee.png",
+    "phrase": "knee",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "amino-acids",
+    "path": "assets/graphics/amino-acids.png",
+    "phrase": "amino acids",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "protein",
+    "path": "assets/graphics/protein.png",
+    "phrase": "protein",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "torn-tissue",
+    "path": "assets/graphics/torn-tissue.png",
+    "phrase": "torn tissue",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "clock",
+    "path": "assets/graphics/clock.png",
+    "phrase": "clock",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "instructor-diagonal",
+    "path": "assets/graphics/instructor-diagonal.png",
+    "phrase": "instructor diagonal",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "instructor-up",
+    "path": "assets/graphics/instructor-up.png",
+    "phrase": "instructor up",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "instructor-straight",
+    "path": "assets/graphics/instructor-straight.png",
+    "phrase": "instructor straight",
+    "kind": "Exact phrase-matching approved ImageGen art from Eggs-Two-Weeks"
+  },
+  {
+    "id": "fasting-guy",
+    "path": "assets/graphics/fasting-guy.png",
+    "phrase": "fasting guy",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "body-energy",
+    "path": "assets/graphics/body-energy.png",
+    "phrase": "body energy",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "autophagy-body",
+    "path": "assets/graphics/autophagy-body.png",
+    "phrase": "autophagy body",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "closedmouth-stop",
+    "path": "assets/graphics/closedmouth-stop.png",
+    "phrase": "Full-body bald red stickman in a detailed red blazer, black undershirt and red trousers, one hand pressing index finger across firmly CLOSED lips, other palm pushes a small plate with food away. Sassy side-eye raised eyebrow and firm no-eating expression. Plate and gesture clearly visible, no text.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "survival-switch",
+    "path": "assets/graphics/survival-switch.png",
+    "phrase": "One freestanding chunky red rectangular toggle-switch housing with thick black outline, WHITE empty inner recess, two small black mounting screws and a clear empty horizontal slot. NO lever, NO knob, NO words, NO symbols. Leave the center slot empty for an independently animated toggle. Front-facing clean diagram, no background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "autophagosome",
+    "path": "assets/graphics/autophagosome.png",
+    "phrase": "Biological schematic of an autophagosome: large open C-shaped DOUBLE membrane in red with black contours and white interior, enclosing several broken red protein coils and one small damaged red mitochondrion. The membrane gap is on the upper right and clearly visible so it can be closed by animation. Small clean attached label below reading AUTOPHAGY. No arrows, no face, not a cartoon monster.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "self-eating-cell",
+    "path": "assets/graphics/self-eating-cell.png",
+    "phrase": "Clean biological schematic showing a rounded red cell with white cutaway interior, intact red nucleus at upper left, and one circular double-membrane lysosome-like compartment at lower right enclosing broken red organelle fragments. Label directly beneath SELF-RECYCLING. No mouths or teeth, no monster, no arrows. Conceptual intracellular recycling, not a whole person being consumed.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "hunter",
+    "path": "assets/graphics/hunter.png",
+    "phrase": "Full-body red stickman detective in a red short trench coat with seams and belt, black undershirt, red trousers and rounded shoes. Crouches slightly forward, brows narrowed in focused concentration, holds a magnifying glass in front of one eye with coherent hand grip, other hand on waist. Magnifying lens WHITE transparent-looking interior, no cell inside it yet. No background or text.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "senescent-cell",
+    "path": "assets/graphics/senescent-cell.png",
+    "phrase": "Single large senescent biological cell in cross section: irregular wrinkled red membrane, white interior, large red nucleus with black speckles and several visibly damaged red organelles, small black age spots. Attached bold clean label SENESCENT CELL below. No cartoon face or arms, no clock, no gore. Dense clear biological detail with uncluttered readable cell.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "retired-cell",
+    "path": "assets/graphics/retired-cell.png",
+    "phrase": "Single anthropomorphic round RED cell sitting slouched in a compact red reclining chair, wearing tiny black reading glasses and a red cardigan, drooping eyelids and weary smug expression, small red slippers. Still clearly a ROUND CELL with a red nucleus motif on its body, not a human. One small attached label RETIRED. Comic retired-cell metaphor.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "squatting-cell",
+    "path": "assets/graphics/squatting-cell.png",
+    "phrase": "Single anthropomorphic round RED cell lounging inside a small simple red doorway frame, arms gripping both sides possessively, feet planted, chin raised and an entitled smug expression. Cell body is a rounded membrane with a nucleus motif, not a human body. Attached tag below reading RENT FREE. No room, couch or scenery.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "idle-worker",
+    "path": "assets/graphics/idle-worker.png",
+    "phrase": "Full-body red stickman in an unbuttoned red work shirt with rolled cuffs, black undershirt and red trousers. Standing with shoulders slumped, arms dangling, one eyebrow bored and eyelids low, frowning at a red wrench lying untouched beside his foot. Expression says refuses to do the job. No text, no background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "alive-cell",
+    "path": "assets/graphics/alive-cell.png",
+    "phrase": "Single round biological RED cell, intact membrane and nucleus, a tiny distinct black-and-red energy spark inside the white interior, but several dark damaged organelles also visible. Attached bold label STILL ALIVE beneath. No human face, no limbs, no surrounding molecules. Clean schematic with readable large organelles.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "rotting-cell",
+    "path": "assets/graphics/rotting-cell.png",
+    "phrase": "Single damaged biological RED cell with irregular pitted membrane and white cutaway interior. Dark broken red organelles inside; several small red inflammatory particles spilling outward through a visibly damaged section of membrane on the RIGHT only. Attached label CELLULAR WASTE. No disgusting gore, no green, no slime, no cartoon face.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "inflammatory-particles",
+    "path": "assets/graphics/inflammatory-particles.png",
+    "phrase": "One compact group of three red biological inflammatory signaling molecules with black contours and distinct small bead-like branches, white highlight accents. Attached bold label INFLAMMATION directly below. Diagrammatic conceptual symbols, NOT an exact chemical structure. No extra arrows, no flames, no backdrop.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "roommate",
+    "path": "assets/graphics/roommate.png",
+    "phrase": "Full-body red stickman in a rumpled red hoodie and red pajama trousers, messy short black hair. Slouched deeply on a small RED couch, one leg over armrest, one hand holds a red TV remote and other hand dismissively waves away viewer. Smug lazy unemployed-roommate expression with half-lidded eyes and crooked mouth. Only couch and character, no room, no TV, no snacks or clutter.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "refuse-move",
+    "path": "assets/graphics/refuse-move.png",
+    "phrase": "Full-body bald red stickman in a red hoodie and red trousers bracing both feet apart inside a small RED doorway frame. Both hands grip the doorframe stubbornly, jaw set, angry lowered eyebrows and defiant side-eye toward viewer. Clear refusing-to-move-out action. No house, bags, text or background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "puffy-guy",
+    "path": "assets/graphics/puffy-guy.png",
+    "phrase": "Full-body red stickman young man with short messy black hair, red pajama shirt with black collar, pocket and cuff seams, red trousers, simple rounded feet. Standing sleepy after waking, both palms press gently against very PUFFY swollen ROUND cheeks, worried raised brows, tired half-lidded eyes, small unhappy mouth. Iconic round head, puffiness expressed by enlarged round cheeks not a realistic face. No bed, mirror, text or other props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "old-young",
+    "path": "assets/graphics/old-young.png",
+    "phrase": "Full-body red stickman young adult with messy short black hair in red pajama shirt and trousers, bent forward like an elderly person, one coherent hand leaning on a red walking cane and other hand pressing lower back. Comically exhausted eyelids and wry grimace, curved posture and shuffling rounded feet. Still a young stickman acting eighty, no beard, no wrinkles that make it a realistic human. No text or backdrop.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "cleanup-cell",
+    "path": "assets/graphics/cleanup-cell.png",
+    "phrase": "One large round biological cell with white cutaway interior, red intact nucleus at upper left. A large red lysosomal compartment at lower right contains broken organelle fragments, with tiny red dots representing breakdown products inside its compartment. Clearly different from a monster or eating mouth. Attached bold label CELL CLEANUP. No arrows or human face, no background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "junk-parts",
+    "path": "assets/graphics/junk-parts.png",
+    "phrase": "One compact isolated cluster of exactly four red damaged cellular components: a broken curled protein ribbon, a split mitochondrion fragment with cristae, a short snapped filament, and a small irregular protein clump. Clearly biological debris, bold black contours and white spaces separating parts. Attached bold label JUNK PARTS. No garbage bin or other props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "fuel",
+    "path": "assets/graphics/fuel.png",
+    "phrase": "One bold red flame-shaped ENERGY symbol with black contour, white inner flame and a compact small red lightning bolt inside. Attached bold label FUEL below. Clean health-explainer icon, not photoreal fire, no orange or yellow, no extra objects.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "building-blocks",
+    "path": "assets/graphics/building-blocks.png",
+    "phrase": "One compact group of three linked red structural building-block units, each a simple squared rounded biological bead with black contour and WHITE inset, joined by short black links. One piece is being slotted neatly into the linked chain, representing raw protein building blocks. Attached bold label BUILDING BLOCKS. No house, wall, toy branding, numbers or extra scene.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "brainfog-guy",
+    "path": "assets/graphics/brainfog-guy.png",
+    "phrase": "Full-body red stickman in red collared pajama shirt and trousers, short messy black hair. Confused squint, uneven raised brows, one hand at temple and other palm held upward questioning. A small semi-opaque WHITE cloud with heavy BLACK outline floats directly across upper forehead, partially obscuring hair but NOT covering eyes or mouth. Clear brain-fog metaphor, one cloud only. No text or extra props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "depuffed-guy",
+    "path": "assets/graphics/depuffed-guy.png",
+    "phrase": "Full-body young red stickman with short messy BLACK hair, red pajama shirt with BLACK collar, pocket and cuff seam detail, red trousers, rounded feet. Refreshed confident open eyes, subtle asymmetrical pleased smile, both fingertips gently outline cheeks. Slim ROUND iconic face with normal non-puffy cheeks, straight relaxed posture, no unrealistic sharp human jaw or nose. No mirror, text or props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "relieved-joints",
+    "path": "assets/graphics/relieved-joints.png",
+    "phrase": "Full-body red stickman young adult in a red casual tracksuit with black seam accents. Balancing lightly on one foot while flexing the other knee and gently holding it with both hands, smiling with relaxed brows and relieved expression. Clear joint relief and easy movement without extreme athletic pose. Round iconic head, no human musculature. No pain marks, no text or other props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "garbage-cell",
+    "path": "assets/graphics/garbage-cell.png",
+    "phrase": "One compact red cellular-waste bin with black outline and white recycling mark, open top holding two broken red organelle fragments and a snapped filament. Biological waste components visibly different from household food trash. Attached bold label CELL WASTE. No person, no scene, no litter scattered outside.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "repair-tools",
+    "path": "assets/graphics/repair-tools.png",
+    "phrase": "One large biological red cell cross-section with clean white interior and intact nucleus; a small red wrench and small red screwdriver crossed neatly over its lower-right membrane edge, signaling repair. Attached bold label REPAIR MODE. Cell is biological, not human face. No background, no extra icons or arrows.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "stem-cell",
+    "path": "assets/graphics/stem-cell.png",
+    "phrase": "Single clean round biological stem cell with vivid red membrane, white cytoplasm, large red nucleus with black nucleolus, a few small organelles neatly spaced. Attached bold label STEM CELL directly below in black/red outlined lettering. Crisp educational schematic, no human face, no limbs, no arrows, no numbers.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "dividing-cells",
+    "path": "assets/graphics/dividing-cells.png",
+    "phrase": "Two joined red biological daughter cells midway through division, a narrow central cleavage bridge connecting them, each with its own red nucleus and clean white interior. Horizontal arrangement with large clear membranes and minimal separated organelles. Attached bold label NEW CELLS below. No arrows, no extra third cell, no human faces.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "deadbeat-cell",
+    "path": "assets/graphics/deadbeat-cell.png",
+    "phrase": "Single collapsed irregular red biological cell with wrinkled membrane, dark broken organelles and off-center nucleus inside white cytoplasm. A small simple black X mark is on a tag attached to the membrane, indicating a worn-out cell targeted for replacement. Attached bold label WORN-OUT CELL. No face, no gore, no green slime.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "fresh-cell",
+    "path": "assets/graphics/fresh-cell.png",
+    "phrase": "Single healthy round red biological cell with smooth intact membrane, clean white interior, bright red nucleus and three neatly separated red organelles. Two tiny black/white four-point sparkle accents near membrane. Attached bold label HEALTHY CELL. No human face, no arrows, no numbers.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "tight-skin-guy",
+    "path": "assets/graphics/tight-skin-guy.png",
+    "phrase": "Full-body bald red stickman in a red open-collar shirt over black undershirt, red trousers. One hand gently touches cheek with two fingertips, other rests on waist, proud refreshed asymmetric smile, lifted confident eyebrows, smooth perfectly ROUND face and upright stance. Clear confident smooth-skin acting, no realistic human anatomy, no mirror or text.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "recovery-guy",
+    "path": "assets/graphics/recovery-guy.png",
+    "phrase": "Full-body red stickman in red sports jacket with black cuffs and red running trousers, one small WHITE bandage with black outline on forearm. Leaning forward beginning an easy jog, smiling relieved and energetic, one arm swings naturally while bandaged forearm visible. No crutches, no muscular human body, no floor or extra props.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "gut-war",
+    "path": "assets/graphics/gut-war.png",
+    "phrase": "One standalone red stomach attached to a simplified coiled red intestine, white internal cutaway windows, BLACK contour. Inside the gut cutaway only, three small angry red spiky inflammatory particles clash with tiny black zigzag agitation marks. Attached bold label IRRITATED GUT. No soldiers, weapons, faces, fire, arrows or background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "jawlock-guy",
+    "path": "assets/graphics/jawlock-guy.png",
+    "phrase": "Full-body red stickman young man with messy short black hair, red pajama shirt and trousers. Lips firmly closed with a small simple RED padlock icon placed over the closed mouth as an obvious metaphor, not a physical injury; one hand holds a small matching red key up beside face, other on waist. Raised eyebrow and mischievous knowing smirk in eyes. No wounds, no chains, no text, no background.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "divine-guy",
+    "path": "assets/graphics/divine-guy.png",
+    "phrase": "Full-body bald red stickman wearing red blazer over black shirt and red trousers. Looks upward with relaxed half-closed smiling eyes, broad grateful delighted smile, both open palms lifted to shoulder height. Three small WHITE four-point glints with BLACK outlines above open palms, expressing wonder and divine appreciation. No wings, halo, religious symbols, text or setting. Warm humorous stickman acting.",
+    "kind": "new built-in ImageGen illustration"
+  },
+  {
+    "id": "brain-clear-guy",
+    "path": "assets/graphics/brain-clear-guy.png",
+    "phrase": "Same actor, fog gone and refreshed expression",
+    "kind": "built-in ImageGen precise edit of brainfog-guy"
+  }
+]

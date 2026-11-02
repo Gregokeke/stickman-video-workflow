@@ -1,0 +1,349 @@
+[
+  {
+    "number": 1,
+    "id": "power-difference",
+    "output_filename": "power-difference.png",
+    "output_path": "images/power-difference.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "making the difference,",
+    "video_cue_seconds": 75.3,
+    "references": [
+      "references/current/cognitive-monitor.png",
+      "references/current/dumbbell.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone freestanding red comparison instrument panel, two equal white inset windows side by side, no person. Left window contains one short black horizontal bar; right contains one longer red horizontal bar. Broad clear black contours, chunky red frame and stable base, a modest three-quarter view. Exact integrated labels: LEG POWER and smaller SCHEMATIC. No numeric scales, percentages, measured scores or claims about the study. This is a qualitative illustrative comparison, not clinical data. Keep both complete windows unobscured.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 2,
+    "id": "common-sense-host",
+    "output_filename": "common-sense-host.png",
+    "output_path": "images/common-sense-host.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "which is honestly just common sense.",
+    "video_cue_seconds": 77.31,
+    "references": [
+      "references/current/adult-host.png",
+      "references/style/self-idea.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current black-haired adult host, same rounded face and simple messy black hair as adult-host.png. Red casual jacket over black tee, red trousers, sturdy simple legs and rounded shoes. Knowing skeptical smirk, raised eyebrow, BOTH palms raised in a relaxed confident shrug. Coherent hands and fingers, open readable silhouette. No sunglasses, no object, no words. Preserve the current host identity; invent a new shrug pose rather than copying a supplied pose.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 3,
+    "id": "mental-tax",
+    "output_filename": "mental-tax.png",
+    "output_path": "images/mental-tax.png",
+    "preferred_aspect": "square",
+    "script_phrase": "one of the biggest mental taxes",
+    "video_cue_seconds": 80.05,
+    "references": [
+      "references/current/study-report.png",
+      "references/current/calendar.png",
+      "references/current/dumbbell.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone compact comic burden prop: a stack of three thick red paperwork folders plus one small red receipt spool with a short folded receipt. The receipt's only words are MENTAL TAX in bold readable black. No amounts or other readable fine print. Chunky red paper edges, black folds and white page faces, mild dimensional three-quarter perspective. No person, brain, face or unrelated symbol. This is paperwork as a metaphor for mental effort.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 4,
+    "id": "balance-walk",
+    "output_filename": "balance-walk.png",
+    "output_path": "images/balance-walk.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "is simply walking without dying.",
+    "video_cue_seconds": 81.27,
+    "references": [
+      "references/current/older-cautious.png",
+      "references/current/older-thoughtful.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body older male rounded stickman matching older-cautious.png and older-thoughtful.png: simple short gray hair, red casual jacket/cardigan over black tee, red straight trousers, rounded shoes. Taking ONE careful walking step with arms slightly extended for balance, eyes watching the floor ahead. Wary but determined expression, shoulders subtly tense. Coherent grounded support foot and forward stepping foot. No walker, cane, stairs or other prop. Keep limbs sturdy, not wire-thin; keep the same stylized older-character identity.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 5,
+    "id": "seventy-year-old",
+    "output_filename": "seventy-year-old.png",
+    "output_path": "images/seventy-year-old.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "Plenty of 70 and 80-year-olds",
+    "video_cue_seconds": 83.28,
+    "references": [
+      "references/current/older-thoughtful.png",
+      "references/current/older-cautious.png",
+      "references/current/older-moustache.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body older male rounded stickman representing the 70-year-old side of a later comparison. Match the face family and red wardrobe of older-thoughtful.png, with short sparse gray hair, a few simple cartoon cheek creases, red zip cardigan over black shirt and straight red trousers. Upright standing pose, hands relaxed by sides, gently worried eyes. Distinguish him from older-moustache.png: NO moustache for this character. No age number, walker, cane or other object. No realistic human skin.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 6,
+    "id": "stairs",
+    "output_filename": "stairs.png",
+    "output_path": "images/stairs.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "especially near a flight of stairs",
+    "video_cue_seconds": 90.32,
+    "references": [
+      "references/current/mobility-walker.png",
+      "references/current/dumbbell.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone complete short flight of FOUR broad red stair steps with clear tread/riser construction and a stable landing, in three-quarter side view. A sturdy continuous red-and-black side handrail follows the flight accurately, supported by sensible posts. Red solid surfaces and black construction edges, no background building or person. All treads, handrail ends and base fully contained. No lettering.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 7,
+    "id": "misstep",
+    "output_filename": "misstep.png",
+    "output_path": "images/misstep.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "where one bad misstep",
+    "video_cue_seconds": 91.6,
+    "references": [
+      "references/current/older-cautious.png",
+      "references/current/mobility-walker.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE coherent non-graphic interaction: the same older gray-haired rounded red character as older-cautious.png is catching balance on a short red stairway. One foot is awkwardly slipping over a tread edge; the other remains plausibly supported. His arms reach toward the sturdy side handrail, shocked worried face, red jacket over black tee and red trousers. Whole character and entire useful stair/rail apparatus visible, no detached limbs or broken anatomy. Match the separately generated stairs.png construction when available. Show a recoverable misstep, not an impact or graphic injury. No blood, gore, text or extra person.\n",
+    "transparent_background": true,
+    "additional_reference_after_generation": "images/stairs.png",
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 8,
+    "id": "hip-fracture",
+    "output_filename": "hip-fracture.png",
+    "output_path": "images/hip-fracture.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "means a shattered hip",
+    "video_cue_seconds": 92.83,
+    "references": [
+      "references/current/lower-body-anatomy.png",
+      "references/current/brain.png",
+      "references/current/dumbbell.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone stylized anatomical teaching model of a hip joint: one proximal femur articulating with the corresponding half-pelvis/acetabulum, shown at a readable slight three-quarter angle. A small clear black fracture line crosses the femoral neck. Red model surfaces, bold black contours, restrained white or pale-red bony/joint highlights; all in the established palette. No skin, muscle wrapper, human figure, face or gore. Label exactly HIP on one integrated red plaque. The femoral head, neck and relevant pelvic socket must be anatomically coherent and fully visible.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 9,
+    "id": "afterlife-ticket",
+    "output_filename": "afterlife-ticket.png",
+    "output_path": "images/afterlife-ticket.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "and a one-way ticket to the afterlife.",
+    "video_cue_seconds": 93.94,
+    "references": [
+      "references/current/study-report.png",
+      "references/current/calendar.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone chunky red comic one-way paper ticket at a slight angle, broad rectangular silhouette with rounded notched ends and a small simple cartoon wing emblem on one end. Only exact words: ONE WAY and smaller AFTERLIFE, bold and legible. Red paper, white areas and confident black ink. Clearly an absurd narration metaphor, no real travel brand, skull, gore, person or unrelated symbols. Entire ticket fully visible.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 10,
+    "id": "squat-exercise",
+    "output_filename": "squat-exercise.png",
+    "output_path": "images/squat-exercise.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "Movements like squats,",
+    "video_cue_seconds": 96.34,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/loaded-squat.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current rounded red gym character in a red training shirt with black accents/undershirt, red shorts and rounded gym shoes. Correct UNLOADED squat, clearly in SIDE VIEW: heels flat and grounded, knees tracking in line with feet, hips lowered back, chest upright with neutral spine, arms extended forward naturally for balance. Match gym-hero.png identity and sturdy simple limbs. loaded-squat.png is proportion/finish reference only: NO dumbbell or other load in this output. Entire hands, feet and head visible. No realistic bodybuilding anatomy, equipment or text.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": [
+      "Refined side profile squat"
+    ]
+  },
+  {
+    "number": 11,
+    "id": "hip-thrust",
+    "output_filename": "hip-thrust.png",
+    "output_path": "images/hip-thrust.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "hip thrusts,",
+    "video_cue_seconds": 97.24,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/loaded-squat.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE complete exercise interaction in clear SIDE VIEW: the same rounded red gym character, red training shirt and shorts, shoulder blades supported on a low stable red exercise bench. He is at the TOP of a correct hip thrust: feet flat and grounded, knees bent near right angles, hips lifted so shoulders-to-hips-to-knees form a near straight line, neutral neck and pelvis. Hands rest naturally at hips. Coherent four limbs, complete bench and feet. No barbell, dumbbell, extra equipment or text. Keep simple thick stickman limbs, not realistic skin/muscles. The bench must actually contact the upper-back support area, not the head or lower back.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 12,
+    "id": "lunge",
+    "output_filename": "lunge.png",
+    "output_path": "images/lunge.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "and lunges",
+    "video_cue_seconds": 98.02,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/loaded-squat.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current rounded red gym character in red training shirt, red shorts and rounded gym shoes, doing a correct forward lunge in SIDE THREE-QUARTER VIEW. Front foot grounded, front knee bent and tracking over the ankle/foot, back knee lowered just above the ground, torso upright, hands on hips. Stable coherent stance with two complete legs and arms. Sturdy simple calves/forearms matching gym-hero.png, not muscular realistic anatomy. No weights, bench, extra person or text.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 13,
+    "id": "insurance-policy",
+    "output_filename": "insurance-policy.png",
+    "output_path": "images/insurance-policy.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "They're biological insurance policies",
+    "video_cue_seconds": 101.62,
+    "references": [
+      "references/current/study-report.png",
+      "references/current/calendar.png",
+      "references/current/dumbbell.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone red policy document with a large simple protective shield emblem overlapping its lower corner as one coherent prop. Clear folded paper edges and a broad white inset page with the exact bold title BIOLOGICAL INSURANCE. Sparse non-readable decorative rules only elsewhere. No numbers, signature, real company logo, stamp of clinical approval or person. Red/black/white dimensional graphic style, fully contained. It represents the narration's insurance metaphor, not a real medical guarantee.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 14,
+    "id": "nervous-system",
+    "output_filename": "nervous-system.png",
+    "output_path": "images/nervous-system.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "that keep your nervous system firing",
+    "video_cue_seconds": 103.18,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/current/lower-body-anatomy.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone stylized educational NERVOUS SYSTEM teaching model: a red anatomically recognizable brain at top, a central spinal cord descending beneath it, and paired branching peripheral nerves spreading bilaterally into a torso-and-limb-shaped network. No human skin, body outline, face, eyes, clothes, skeleton, muscles or stickman behind/inside it. Only the neural structures and one integrated red plaque reading NERVOUS SYSTEM. Keep the spinal cord and branch relationships coherent; do not draw arbitrary spaghetti. Red neural structures with strong black contours on true transparency, complete terminals and no cropped branches.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 15,
+    "id": "brain-intact",
+    "output_filename": "brain-intact.png",
+    "output_path": "images/brain-intact.png",
+    "preferred_aspect": "square",
+    "script_phrase": "and your brain intact.",
+    "video_cue_seconds": 104.86,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone intact red gross brain model, matching brain.png's established anatomy and finish: frontal side LEFT, cerebellum lower RIGHT and complete downward brainstem, readable gyri/sulci. It sits inside a separate red-and-black protective shield-shaped surround as ONE coherent illustration. No face, person, mascot, clinical certification, percentage or damage. Integrated plaque reads exactly INTACT BRAIN. The shield must not obscure essential brain anatomy. All required parts fully contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 16,
+    "id": "eighty-calendar",
+    "output_filename": "eighty-calendar.png",
+    "output_path": "images/eighty-calendar.png",
+    "preferred_aspect": "square",
+    "script_phrase": "working brain past 80",
+    "video_cue_seconds": 107.73,
+    "references": [
+      "references/current/calendar.png",
+      "references/current/dumbbell.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone chunky red desk-calendar tile matching calendar.png's physical material, folded base, white page and bold black typography. Exact large number 80 with smaller word YEARS below. No birthday cake, character, other dates, tick marks or extra wording. Keep the numeral and label broad and readable, entire base and page corners contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 17,
+    "id": "working-brain",
+    "output_filename": "working-brain.png",
+    "output_path": "images/working-brain.png",
+    "preferred_aspect": "square",
+    "script_phrase": "working brain past 80",
+    "video_cue_seconds": 107.01,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone intact red lateral brain model matching brain.png, frontal side LEFT, cerebellum lower RIGHT, complete brainstem and clear gyri/sulci. A small neat exposed/inset schematic neural-circuit window in the cortex shows THREE substantial interconnected red neuron somas with nuclei and branching connections, stylistically matching neural-network.png. No fake measured MRI/EEG data, numbers, scan readouts, baked glow or traveling signal line. No person or mascot face. Integrated plaque reads exactly WORKING BRAIN. Keep the gross brain recognizable and fully contained.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  {
+    "number": 18,
+    "id": "nursing-home",
+    "output_filename": "nursing-home.png",
+    "output_path": "images/nursing-home.png",
+    "preferred_aspect": "landscape",
+    "script_phrase": "instead of staring blankly at a nursing home wall,",
+    "video_cue_seconds": 108.96,
+    "references": [
+      "references/current/older-thoughtful.png",
+      "references/current/older-moustache.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE coherent stylized scene: the older gray-haired rounded male stickman matching older-thoughtful.png, in red cardigan/jacket over black tee and red trousers, sits in a compact red armchair, hands resting quietly, staring blankly toward a small BLANK wall picture. The wall picture is a separate simple red rectangular frame fragment within the same illustration; do not fill a room background. Blank distant expression and slightly slumped posture, complete legs and rounded slippers, no realistic human skin, branded hospital, text or extra people. Use older-moustache.png for older proportions/clothing language only, not its moustache identity.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": [
+      "Removed extra furniture; hands resting"
+    ]
+  },
+  {
+    "number": 19,
+    "id": "leg-day-finale",
+    "output_filename": "leg-day-finale.png",
+    "output_path": "images/leg-day-finale.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "stop skipping leg day.",
+    "video_cue_seconds": 111.08,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/adult-host.png",
+      "references/style/self-idea.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current black-haired rounded gym hero, consistent with gym-hero.png and adult-host.png. Red open gym jacket over black tee, red training shorts, sturdy rounded calves and gym shoes. Strong planted stance, assertive amused face looking at the viewer. BOTH hands clearly point down toward his OWN legs, coherent fingers and wrists. No separate arrow, text, weight or other object. Entire head, hands, legs and feet visible with generous transparent margins. Match existing character thickness; do not inflate him into a bodybuilder.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  }
+]

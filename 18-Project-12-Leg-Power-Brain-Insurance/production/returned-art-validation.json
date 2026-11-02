@@ -1,0 +1,192 @@
+[
+  {
+    "id": "power-difference",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "c97abebdefe25b99a710125ff145f515a5cc84938d4a515b088dd5156d6a74f5"
+  },
+  {
+    "id": "common-sense-host",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "d0e1c9681ac08ce767f2336cf39a9c9bb4e483d5ab892fc15009ed58b6fd6370"
+  },
+  {
+    "id": "mental-tax",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "sha256": "6475e3c70e371c80152f3ece4cf38429c38fb54588aae8b25a5f4538ca503fda"
+  },
+  {
+    "id": "balance-walk",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "e101aae9ad84e035bfe9a03ea13a68b57150bd923970c472d2bbe680bb0ad2d9"
+  },
+  {
+    "id": "seventy-year-old",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "fab28c9ea013289ba82395e2eb1d1e5ae6d9e74b8d62d70ca5636efd434299a8"
+  },
+  {
+    "id": "stairs",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "1527f556e8624348b1100063a91d502b692969ab66d336db695945c462f54e75"
+  },
+  {
+    "id": "misstep",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "98298271df01048f6d3453555cc90bd59ac0acba896165db3a8e07f749320de7"
+  },
+  {
+    "id": "hip-fracture",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "902fa3895b5af5df4cd687d01b506e77378830dc5d204a1a5765e0b10b7aa0c7"
+  },
+  {
+    "id": "afterlife-ticket",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "b5a0bad7b61b82d45464e9e3be35da71429bfdd290100c3f7820642f56e1b7f3"
+  },
+  {
+    "id": "squat-exercise",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "e6c3c6c01953035665e9b65f9827652a7d16aa9f50b03b81b2a4898637fffda8"
+  },
+  {
+    "id": "hip-thrust",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "a150311e1090abf4e06a1dde1b164b43e1bfe361618c5b512da48888d790891c"
+  },
+  {
+    "id": "lunge",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "d89abe6270483fa94509e35f37f90af22f2d66bb8862832cf7694b316dfafc64"
+  },
+  {
+    "id": "insurance-policy",
+    "dimensions": [
+      1199,
+      1312
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "sha256": "9d5ca749b0c559081cb620ad7d946bae3cb121abcc07f924e5cd5487f434eff5"
+  },
+  {
+    "id": "nervous-system",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "7e8cfa50f27527ae1dfc2f21fb438674615ff02a1f8db9f63992025450677408"
+  },
+  {
+    "id": "brain-intact",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "sha256": "a985130d176de3219cc2329707fba63b8d6230e041d818090fa679426432a071"
+  },
+  {
+    "id": "eighty-calendar",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "sha256": "2a9cd7abdbe84956ebbe5d397b091e6dbb2502662bdc801bfeb99ce362b29958"
+  },
+  {
+    "id": "working-brain",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "sha256": "b337a3c461ec336cd1e4bcb4f0c56e8d026b4c1a78220cb9f95448613d9488b4"
+  },
+  {
+    "id": "nursing-home",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "363ae56e6b9378a0763b0b58cea8ba08a03cc505b0f02c9f3f5ad39ce6ba1bb3"
+  },
+  {
+    "id": "leg-day-finale",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "sha256": "b4144b4d43bd9188a83931141c198368daaa7e8fb527211fdfb29011ad4978d2"
+  }
+]

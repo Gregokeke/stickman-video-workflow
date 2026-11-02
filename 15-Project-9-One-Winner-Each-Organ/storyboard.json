@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "host",
+    "asset": "supplement-host",
+    "start": 0.12,
+    "handoff": 5.22,
+    "end": 5.52,
+    "layout": [
+      470,
+      1060,
+      620,
+      850
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 2.24,
+        "x": -210,
+        "y": 170,
+        "scale": 0.66,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      },
+      {
+        "t": 3.96,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "body",
+    "asset": "organ-body",
+    "start": 2.24,
+    "handoff": 3.96,
+    "end": 4.26,
+    "layout": [
+      720,
+      930,
+      420,
+      650
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "host"
+  },
+  {
+    "id": "overload",
+    "asset": "pill-overload",
+    "start": 5.22,
+    "handoff": 7.26,
+    "end": 7.56,
+    "layout": [
+      510,
+      1080,
+      740,
+      900
+    ],
+    "route": "diagonal",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "body-map",
+    "asset": "organ-checklist",
+    "start": 7.6,
+    "handoff": 9.36,
+    "end": 9.66,
+    "layout": [
+      380,
+      1010,
+      430,
+      720
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "winner",
+    "asset": "winner-host",
+    "start": 9.08,
+    "handoff": 11.78,
+    "end": 12.08,
+    "layout": [
+      700,
+      1110,
+      460,
+      760
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "heart",
+    "asset": "heart",
+    "start": 11.78,
+    "handoff": 14.74,
+    "end": 15.040000000000001,
+    "layout": [
+      600,
+      930,
+      570,
+      550
+    ],
+    "route": "depth",
+    "moves": [
+      {
+        "t": 12.86,
+        "x": 110,
+        "y": -70,
+        "scale": 0.74,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "stress",
+    "asset": "stressed-host",
+    "start": 12.86,
+    "handoff": 13.72,
+    "end": 14.020000000000001,
+    "layout": [
+      300,
+      1240,
+      450,
+      650
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "food",
+    "asset": "junk-food",
+    "start": 13.72,
+    "handoff": 14.74,
+    "end": 15.040000000000001,
+    "layout": [
+      300,
+      1250,
+      470,
+      400
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "inflamed",
+    "asset": "inflamed-artery",
+    "start": 14.74,
+    "handoff": 16.38,
+    "end": 16.68,
+    "layout": [
+      510,
+      920,
+      740,
+      550
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "teach-inflam",
+    "asset": "instructor-diagonal",
+    "start": 15.08,
+    "handoff": 17.48,
+    "end": 17.78,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "exit": "right",
+    "targets": [
+      [
+        15.08,
+        550,
+        950,
+        550
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false
+  },
+  {
+    "id": "rupture",
+    "asset": "rupture-artery",
+    "start": 17.56,
+    "handoff": 19.28,
+    "end": 19.580000000000002,
+    "layout": [
+      350,
+      860,
+      470,
+      440
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "inflamed"
+  },
+  {
+    "id": "stopheart",
+    "asset": "stopped-heart",
+    "start": 18.54,
+    "handoff": 20.94,
+    "end": 21.240000000000002,
+    "layout": [
+      740,
+      1200,
+      350,
+      410
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "omega",
+    "asset": "omega3",
+    "start": 21.2,
+    "handoff": 24.68,
+    "end": 24.98,
+    "layout": [
+      310,
+      1000,
+      400,
+      620
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 22.9,
+        "x": -15,
+        "y": 130,
+        "scale": 0.85,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "calm-artery",
+    "asset": "cooled-artery",
+    "start": 22.9,
+    "handoff": 24.68,
+    "end": 24.98,
+    "layout": [
+      730,
+      920,
+      430,
+      410
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "omega"
+  },
+  {
+    "id": "study",
+    "asset": "study-adults",
+    "start": 24.68,
+    "handoff": 28.22,
+    "end": 28.52,
+    "layout": [
+      520,
+      1110,
+      720,
+      680
+    ],
+    "route": "arcRight",
+    "moves": [
+      {
+        "t": 27.22,
+        "x": -180,
+        "y": 100,
+        "scale": 0.69,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "gram",
+    "asset": "gram-dose",
+    "start": 27.22,
+    "handoff": 28.8,
+    "end": 29.1,
+    "layout": [
+      750,
+      930,
+      340,
+      360
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "heart-risk",
+    "asset": "heart-shield",
+    "start": 28.22,
+    "handoff": 31.32,
+    "end": 31.62,
+    "layout": [
+      340,
+      1040,
+      450,
+      450
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "next-eyes",
+    "asset": "eye-host",
+    "start": 31.32,
+    "handoff": 32.8,
+    "end": 33.099999999999994,
+    "layout": [
+      490,
+      1100,
+      620,
+      860
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "screen",
+    "asset": "screen-guy",
+    "start": 32.8,
+    "handoff": 34.54,
+    "end": 34.839999999999996,
+    "layout": [
+      400,
+      1130,
+      610,
+      740
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "retina",
+    "asset": "retina",
+    "start": 36.34,
+    "handoff": 38.64,
+    "end": 38.94,
+    "layout": [
+      750,
+      900,
+      400,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "screen"
+  },
+  {
+    "id": "damage-eye",
+    "asset": "damaged-eye",
+    "start": 38.64,
+    "handoff": 40.1,
+    "end": 40.4,
+    "layout": [
+      350,
+      870,
+      480,
+      450
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "blind",
+    "asset": "blind-guy",
+    "start": 40.4,
+    "handoff": 41.38,
+    "end": 41.68,
+    "layout": [
+      730,
+      1240,
+      430,
+      680
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "eye-answer",
+    "asset": "eye-host",
+    "start": 41.38,
+    "handoff": 42.86,
+    "end": 43.16,
+    "layout": [
+      300,
+      1210,
+      470,
+      700
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "lutein",
+    "asset": "lutein",
+    "start": 42.86,
+    "handoff": 44.88,
+    "end": 45.18,
+    "layout": [
+      340,
+      870,
+      430,
+      430
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 43.58,
+        "x": -30,
+        "y": -60,
+        "scale": 0.82,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "zeax",
+    "asset": "zeaxanthin",
+    "start": 43.58,
+    "handoff": 44.88,
+    "end": 45.18,
+    "layout": [
+      730,
+      1190,
+      370,
+      420
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "lutein"
+  },
+  {
+    "id": "eye-protected",
+    "asset": "protected-eye",
+    "start": 46.7,
+    "handoff": 48.18,
+    "end": 48.48,
+    "layout": [
+      520,
+      1010,
+      720,
+      630
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "age-eyes",
+    "asset": "aging-eyes",
+    "start": 49.38,
+    "handoff": 53.72,
+    "end": 54.019999999999996,
+    "layout": [
+      320,
+      1020,
+      440,
+      530
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "kidneys",
+    "asset": "kidneys",
+    "start": 54.5,
+    "handoff": 55.9,
+    "end": 56.199999999999996,
+    "layout": [
+      650,
+      900,
+      500,
+      530
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "calcium",
+    "asset": "calcium",
+    "start": 56.8,
+    "handoff": 58.24,
+    "end": 58.54,
+    "layout": [
+      800,
+      740,
+      280,
+      290
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "filter"
+  },
+  {
+    "id": "crystals",
+    "asset": "crystals",
+    "start": 58.24,
+    "handoff": 59.8,
+    "end": 60.099999999999994,
+    "layout": [
+      540,
+      1020,
+      650,
+      540
+    ],
+    "route": "emerge",
+    "moves": [
+      {
+        "t": 59.06,
+        "x": -150,
+        "y": -180,
+        "scale": 0.7,
+        "d": 0.5,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "calcium"
+  },
+  {
+    "id": "stone",
+    "asset": "stone",
+    "start": 59.8,
+    "handoff": 63.1,
+    "end": 63.4,
+    "layout": [
+      350,
+      870,
+      500,
+      530
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "cry",
+    "asset": "crying-guy",
+    "start": 61.3,
+    "handoff": 63.1,
+    "end": 63.4,
+    "layout": [
+      740,
+      1230,
+      420,
+      620
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "magnesium",
+    "asset": "magnesium",
+    "start": 63.76,
+    "handoff": 65.7,
+    "end": 66.0,
+    "layout": [
+      310,
+      1030,
+      400,
+      610
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "block",
+    "asset": "crystal-block",
+    "start": 64.62,
+    "handoff": 66.44,
+    "end": 66.74,
+    "layout": [
+      740,
+      960,
+      430,
+      460
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "magnesium"
+  },
+  {
+    "id": "urine",
+    "asset": "urine",
+    "start": 66.44,
+    "handoff": 67.12,
+    "end": 67.42,
+    "layout": [
+      510,
+      1050,
+      620,
+      610
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "older",
+    "asset": "older-host",
+    "start": 67.22,
+    "handoff": 70.98,
+    "end": 71.28,
+    "layout": [
+      340,
+      1120,
+      470,
+      760
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "dose350",
+    "asset": "dose350",
+    "start": 68.5,
+    "handoff": 70.98,
+    "end": 71.28,
+    "layout": [
+      760,
+      910,
+      350,
+      340
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "kidney-risk",
+    "asset": "diseased-kidney",
+    "start": 70.98,
+    "handoff": 74.1,
+    "end": 74.4,
+    "layout": [
+      320,
+      1030,
+      450,
+      530
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "skeleton",
+    "asset": "skeleton",
+    "start": 74.1,
+    "handoff": 75.38,
+    "end": 75.67999999999999,
+    "layout": [
+      310,
+      1050,
+      390,
+      850
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "hollow",
+    "asset": "hollow-bone",
+    "start": 74.94,
+    "handoff": 77.76,
+    "end": 78.06,
+    "layout": [
+      740,
+      920,
+      420,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "skeleton"
+  },
+  {
+    "id": "chalk",
+    "asset": "chalk",
+    "start": 75.94,
+    "handoff": 76.98,
+    "end": 77.28,
+    "layout": [
+      740,
+      1270,
+      330,
+      270
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "looseCa",
+    "asset": "calcium",
+    "start": 78.2,
+    "handoff": 81.6,
+    "end": 81.89999999999999,
+    "layout": [
+      310,
+      870,
+      340,
+      330
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 79.76,
+        "x": -40,
+        "y": 160,
+        "scale": 0.8,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "concrete",
+    "asset": "concrete-artery",
+    "start": 79.76,
+    "handoff": 81.6,
+    "end": 81.89999999999999,
+    "layout": [
+      720,
+      1110,
+      450,
+      500
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "d3",
+    "asset": "d3",
+    "start": 83.12,
+    "handoff": 88.34,
+    "end": 88.64,
+    "layout": [
+      310,
+      1020,
+      400,
+      630
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 84.98,
+        "x": -30,
+        "y": 130,
+        "scale": 0.83,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "k2",
+    "asset": "k2",
+    "start": 84.98,
+    "handoff": 89.68,
+    "end": 89.98,
+    "layout": [
+      750,
+      920,
+      380,
+      600
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "d3"
+  },
+  {
+    "id": "bloodCa",
+    "asset": "blood-calcium",
+    "start": 86.84,
+    "handoff": 88.34,
+    "end": 88.64,
+    "layout": [
+      540,
+      1400,
+      350,
+      310
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "steering-protein",
+    "asset": "protein",
+    "start": 89.68,
+    "handoff": 91.1,
+    "end": 91.39999999999999,
+    "layout": [
+      310,
+      910,
+      400,
+      440
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "bone-fill",
+    "asset": "calcium-bone",
+    "start": 91.1,
+    "handoff": 93.92,
+    "end": 94.22,
+    "layout": [
+      740,
+      1060,
+      450,
+      570
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "steering-protein"
+  },
+  {
+    "id": "teach-bone",
+    "asset": "instructor-diagonal",
+    "start": 91.46,
+    "handoff": 92.98,
+    "end": 93.28,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "exit": "right",
+    "targets": [
+      [
+        91.46,
+        740,
+        1050,
+        500
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false
+  },
+  {
+    "id": "liver",
+    "asset": "liver",
+    "start": 93.92,
+    "handoff": 98.56,
+    "end": 98.86,
+    "layout": [
+      380,
+      960,
+      590,
+      550
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 94.72,
+        "x": -50,
+        "y": -110,
+        "scale": 0.7,
+        "d": 0.55,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      },
+      {
+        "t": 96.52,
+        "x": -120,
+        "y": 130,
+        "scale": 0.75,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "toxins",
+    "asset": "toxins",
+    "start": 96.52,
+    "handoff": 98.56,
+    "end": 98.86,
+    "layout": [
+      750,
+      820,
+      350,
+      360
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "liver"
+  },
+  {
+    "id": "scar-liver",
+    "asset": "scarred-liver",
+    "start": 98.56,
+    "handoff": 99.96,
+    "end": 100.26,
+    "layout": [
+      330,
+      1120,
+      440,
+      380
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "nac",
+    "asset": "nac",
+    "start": 101.04,
+    "handoff": 105.76,
+    "end": 106.06,
+    "layout": [
+      320,
+      1030,
+      430,
+      660
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 103.84,
+        "x": -30,
+        "y": 110,
+        "scale": 0.85,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "amino",
+    "asset": "amino-acids",
+    "start": 103.5,
+    "handoff": 104.54,
+    "end": 104.84,
+    "layout": [
+      740,
+      910,
+      410,
+      430
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "nac"
+  },
+  {
+    "id": "glutathione",
+    "asset": "glutathione",
+    "start": 105.76,
+    "handoff": 108.24,
+    "end": 108.53999999999999,
+    "layout": [
+      510,
+      1050,
+      700,
+      600
+    ],
+    "route": "emerge",
+    "moves": [
+      {
+        "t": 106.94,
+        "x": -220,
+        "y": -120,
+        "scale": 0.6,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "blocks"
+  },
+  {
+    "id": "hospital",
+    "asset": "hospital",
+    "start": 108.24,
+    "handoff": 111.66,
+    "end": 111.96,
+    "layout": [
+      500,
+      1110,
+      760,
+      760
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "muscle",
+    "asset": "muscle",
+    "start": 113.04,
+    "handoff": 117.86,
+    "end": 118.16,
+    "layout": [
+      330,
+      980,
+      450,
+      510
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "atp",
+    "asset": "atp",
+    "start": 113.96,
+    "handoff": 117.86,
+    "end": 118.16,
+    "layout": [
+      750,
+      850,
+      370,
+      400
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "muscle"
+  },
+  {
+    "id": "lift",
+    "asset": "heavy-lifter",
+    "start": 117.86,
+    "handoff": 119.22,
+    "end": 119.52,
+    "layout": [
+      520,
+      1100,
+      750,
+      850
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "tired",
+    "asset": "tired-lifter",
+    "start": 119.22,
+    "handoff": 121.48,
+    "end": 121.78,
+    "layout": [
+      510,
+      1120,
+      680,
+      800
+    ],
+    "route": "state",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "creatine",
+    "asset": "creatine",
+    "start": 121.48,
+    "handoff": 125.9,
+    "end": 126.2,
+    "layout": [
+      310,
+      960,
+      400,
+      610
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 122.52,
+        "x": -30,
+        "y": 70,
+        "scale": 0.82,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "strong",
+    "asset": "strong-lifter",
+    "start": 124.22,
+    "handoff": 125.9,
+    "end": 126.2,
+    "layout": [
+      750,
+      1270,
+      430,
+      650
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "old-lift",
+    "asset": "older-lifter",
+    "start": 126.16,
+    "handoff": 129.44,
+    "end": 129.74,
+    "layout": [
+      350,
+      1120,
+      510,
+      780
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "creatine2",
+    "asset": "creatine",
+    "start": 127.82,
+    "handoff": 129.44,
+    "end": 129.74,
+    "layout": [
+      770,
+      870,
+      310,
+      460
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "lean",
+    "asset": "lean-muscle",
+    "start": 129.7,
+    "handoff": 132.52,
+    "end": 132.82000000000002,
+    "layout": [
+      350,
+      1050,
+      470,
+      650
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "dose",
+    "asset": "dose-scoop",
+    "start": 132.68,
+    "handoff": 135.733333,
+    "end": 136.033333,
+    "layout": [
+      700,
+      1050,
+      420,
+      480
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left"
+  },
+  {
+    "id": "bone-bridge",
+    "asset": "skeleton",
+    "start": 81.6,
+    "handoff": 83.44,
+    "end": 83.74,
+    "layout": [
+      510,
+      1090,
+      470,
+      860
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "nac-bridge",
+    "asset": "supplement-host",
+    "start": 99.96,
+    "handoff": 101.04,
+    "end": 101.34,
+    "layout": [
+      720,
+      1220,
+      400,
+      650
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "muscle-bridge",
+    "asset": "supplement-host",
+    "start": 112.14,
+    "handoff": 113.04,
+    "end": 113.34,
+    "layout": [
+      510,
+      1150,
+      570,
+      800
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "final-host",
+    "asset": "winner-host",
+    "start": 134.06,
+    "handoff": 135.733333,
+    "end": 136.033333,
+    "layout": [
+      290,
+      1250,
+      390,
+      610
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "twelve-hour-clock",
+    "asset": "clock",
+    "start": 34.54,
+    "handoff": 35.8,
+    "end": 36.1,
+    "layout": [
+      760,
+      740,
+      300,
+      230
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "clock_text": "12 HOURS"
+  },
+  {
+    "id": "teach-kidneys",
+    "asset": "instructor-diagonal",
+    "start": 54.94,
+    "handoff": 55.88,
+    "end": 56.18,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        54.94,
+        650,
+        920,
+        520
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false
+  },
+  {
+    "id": "proven",
+    "asset": "proven-badge",
+    "start": 9.4,
+    "handoff": 11.06,
+    "end": 11.360000000000001,
+    "layout": [
+      290,
+      850,
+      270,
+      280
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.4
+  },
+  {
+    "id": "inner-wall",
+    "asset": "artery-wall",
+    "start": 16.38,
+    "handoff": 17.56,
+    "end": 17.86,
+    "layout": [
+      560,
+      900,
+      650,
+      500
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "inflamed",
+    "entry_duration": 0.44
+  },
+  {
+    "id": "midbeat",
+    "asset": "heartbeat-monitor",
+    "start": 19.28,
+    "handoff": 20.94,
+    "end": 21.240000000000002,
+    "layout": [
+      350,
+      870,
+      450,
+      350
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42
+  },
+  {
+    "id": "fish",
+    "asset": "fish-softgels",
+    "start": 21.9,
+    "handoff": 22.9,
+    "end": 23.2,
+    "layout": [
+      750,
+      900,
+      350,
+      360
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.4
+  },
+  {
+    "id": "eye-strain",
+    "asset": "eye-strain-host",
+    "start": 34.54,
+    "handoff": 36.34,
+    "end": 36.64,
+    "layout": [
+      400,
+      1130,
+      610,
+      740
+    ],
+    "route": "state",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "vision-loss",
+    "asset": "vision-chart",
+    "start": 40.1,
+    "handoff": 41.38,
+    "end": 41.68,
+    "layout": [
+      350,
+      870,
+      480,
+      450
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42
+  },
+  {
+    "id": "antioxidants",
+    "asset": "antioxidant-shield",
+    "start": 44.88,
+    "handoff": 46.7,
+    "end": 47.0,
+    "layout": [
+      520,
+      1040,
+      750,
+      600
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "zeax",
+    "entry_duration": 0.48
+  },
+  {
+    "id": "eyeball",
+    "asset": "eyeball-anatomy",
+    "start": 48.18,
+    "handoff": 49.38,
+    "end": 49.68,
+    "layout": [
+      520,
+      1010,
+      720,
+      630
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42
+  },
+  {
+    "id": "decade",
+    "asset": "study-calendar",
+    "start": 52.96,
+    "handoff": 54.5,
+    "end": 54.8,
+    "layout": [
+      750,
+      1030,
+      340,
+      380
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.42
+  },
+  {
+    "id": "filter",
+    "asset": "kidney-filter",
+    "start": 55.9,
+    "handoff": 58.24,
+    "end": 58.54,
+    "layout": [
+      400,
+      1050,
+      430,
+      560
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "kidneys"
+  },
+  {
+    "id": "sharp-stone",
+    "asset": "jagged-stone",
+    "start": 59.06,
+    "handoff": 61.3,
+    "end": 61.599999999999994,
+    "layout": [
+      760,
+      1300,
+      270,
+      260
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44
+  },
+  {
+    "id": "aging-bone",
+    "asset": "aging-bones-host",
+    "start": 76.98,
+    "handoff": 78.2,
+    "end": 78.5,
+    "layout": [
+      320,
+      1200,
+      380,
+      580
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44
+  },
+  {
+    "id": "not-arteries",
+    "asset": "artery-no-calcium",
+    "start": 91.46,
+    "handoff": 93.28,
+    "end": 93.58,
+    "layout": [
+      300,
+      780,
+      350,
+      350
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44
+  },
+  {
+    "id": "liver-discomfort",
+    "asset": "liver-stress-host",
+    "start": 94.72,
+    "handoff": 96.52,
+    "end": 96.82,
+    "layout": [
+      740,
+      1250,
+      400,
+      600
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right"
+  },
+  {
+    "id": "scar-cell",
+    "asset": "scarred-hepatocyte",
+    "start": 99.16,
+    "handoff": 101.04,
+    "end": 101.34,
+    "layout": [
+      750,
+      700,
+      330,
+      330
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "scar-liver",
+    "entry_duration": 0.5
+  },
+  {
+    "id": "blocks",
+    "asset": "amino-blocks",
+    "start": 104.54,
+    "handoff": 105.76,
+    "end": 106.06,
+    "layout": [
+      740,
+      910,
+      430,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "amino",
+    "entry_duration": 0.44
+  },
+  {
+    "id": "detox-action",
+    "asset": "liver-detox",
+    "start": 106.94,
+    "handoff": 108.24,
+    "end": 108.53999999999999,
+    "layout": [
+      730,
+      1180,
+      380,
+      430
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "glutathione",
+    "entry_duration": 0.46
+  }
+]

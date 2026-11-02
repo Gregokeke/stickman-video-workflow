@@ -1,0 +1,769 @@
+{
+  "minimum_original_illustrations": 76,
+  "planned_distinct_illustrations": 76,
+  "full_video_complete": true,
+  "narration_duration_seconds": 112.4855416667,
+  "illustrations": [
+    {
+      "number": 1,
+      "id": "aging-host",
+      "word_index": 0,
+      "cue_seconds": 0,
+      "phrase_anchor": "The",
+      "description": "Aging hook: expressive host checking a birthday candle",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 2,
+      "id": "biceps-poser",
+      "word_index": 8,
+      "cue_seconds": 2.72,
+      "phrase_anchor": "biceps",
+      "description": "Upper-body obsessed gym stickman flexing biceps",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 3,
+      "id": "chest-diagram",
+      "word_index": 11,
+      "cue_seconds": 3.57,
+      "phrase_anchor": "chest,",
+      "description": "Standalone pectoral muscle illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 4,
+      "id": "dismissive-host",
+      "word_index": 15,
+      "cue_seconds": 5.25,
+      "phrase_anchor": "stop",
+      "description": "Nonchalant stop gesture",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 5,
+      "id": "bench-press",
+      "word_index": 17,
+      "cue_seconds": 5.86,
+      "phrase_anchor": "bench",
+      "description": "Coherent stickman bench-press interaction",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 6,
+      "id": "five-day-calendar",
+      "word_index": 19,
+      "cue_seconds": 6.47,
+      "phrase_anchor": "five",
+      "description": "Five gym days marked on a desk calendar",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 7,
+      "id": "toothpick-walker",
+      "word_index": 24,
+      "cue_seconds": 7.6,
+      "phrase_anchor": "walking",
+      "description": "Comedic top-heavy gym stickman with toothpick-like trouser legs",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 8,
+      "id": "leg-reveal",
+      "word_index": 32,
+      "cue_seconds": 10.16,
+      "phrase_anchor": "legs.",
+      "description": "Strong stylized legs in gym shorts",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 9,
+      "id": "lower-body",
+      "word_index": 34,
+      "cue_seconds": 11.07,
+      "phrase_anchor": "lower",
+      "description": "Standalone lower-body muscle-group illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 10,
+      "id": "confident-mirror",
+      "word_index": 40,
+      "cue_seconds": 12.7,
+      "phrase_anchor": "look,",
+      "description": "Older stickman admiring confident posture in mirror",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 11,
+      "id": "energetic-stride",
+      "word_index": 41,
+      "cue_seconds": 13.17,
+      "phrase_anchor": "feel,",
+      "description": "Same character feeling energetic, long purposeful stride",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 12,
+      "id": "agility-step",
+      "word_index": 43,
+      "cue_seconds": 13.88,
+      "phrase_anchor": "perform",
+      "description": "Coherent controlled step-up interaction",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 13,
+      "id": "two-decade-calendar",
+      "word_index": 44,
+      "cue_seconds": 14.3,
+      "phrase_anchor": "two",
+      "description": "Two clearly separated decade calendar props as one illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 14,
+      "id": "casual-watcher",
+      "word_index": 49,
+      "cue_seconds": 15.92,
+      "phrase_anchor": "casually",
+      "description": "Relaxed observer sipping while watching peers",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 15,
+      "id": "crumbling-peer",
+      "word_index": 55,
+      "cue_seconds": 18.14,
+      "phrase_anchor": "crumble",
+      "description": "Stylized stickman breaking into cartoon dust, no gore",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 16,
+      "id": "study-report",
+      "word_index": 58,
+      "cue_seconds": 19.93,
+      "phrase_anchor": "A",
+      "description": "Original research report prop with no fabricated chart",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 17,
+      "id": "ten-year-timeline",
+      "word_index": 59,
+      "cue_seconds": 20.18,
+      "phrase_anchor": "10",
+      "description": "Ten-year study timeline as a clear illustrated prop",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 18,
+      "id": "female-cohort",
+      "word_index": 64,
+      "cue_seconds": 21.23,
+      "phrase_anchor": "300",
+      "description": "Stylized female twin cohort, labels avoid invented sample counts",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 19,
+      "id": "twins-baseline",
+      "word_index": 66,
+      "cue_seconds": 22.31,
+      "phrase_anchor": "twins,",
+      "description": "Recognizable older female twin pair, neutral baseline poses",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 20,
+      "id": "age-55",
+      "word_index": 68,
+      "cue_seconds": 23.37,
+      "phrase_anchor": "55",
+      "description": "Age-55 birthday calendar prop",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 21,
+      "id": "leg-power-test",
+      "word_index": 73,
+      "cue_seconds": 25.35,
+      "phrase_anchor": "leg",
+      "description": "Leg-extension power test apparatus with coherent operator",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 22,
+      "id": "prediction-brain",
+      "word_index": 77,
+      "cue_seconds": 26.76,
+      "phrase_anchor": "predict",
+      "description": "Brain plus observation lens, association not causal proof",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 23,
+      "id": "brain-decay-metaphor",
+      "word_index": 82,
+      "cue_seconds": 28.44,
+      "phrase_anchor": "rots,",
+      "description": "Cartoon brain decay metaphor, stylized and non-diagnostic",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 24,
+      "id": "wild-results-host",
+      "word_index": 85,
+      "cue_seconds": 29.25,
+      "phrase_anchor": "results",
+      "description": "Scientist reacting to results sheet",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 25,
+      "id": "powerful-twins",
+      "word_index": 89,
+      "cue_seconds": 31.02,
+      "phrase_anchor": "twins",
+      "description": "Twin pair in higher-power comparison pose",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 26,
+      "id": "cognitive-task",
+      "word_index": 99,
+      "cue_seconds": 33.98,
+      "phrase_anchor": "sharper",
+      "description": "Cognitive matching-task console with editable unscored display",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 27,
+      "id": "follow-up-calendar",
+      "word_index": 102,
+      "cue_seconds": 35.5,
+      "phrase_anchor": "10",
+      "description": "Separate ten-year follow-up calendar",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 28,
+      "id": "mri-scanner",
+      "word_index": 108,
+      "cue_seconds": 37.55,
+      "phrase_anchor": "MRI",
+      "description": "Complete MRI scanner with rounded stickman patient",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 29,
+      "id": "mri-brain-images",
+      "word_index": 109,
+      "cue_seconds": 37.95,
+      "phrase_anchor": "brain",
+      "description": "Separate schematic brain-scan film, no fake measured clinical data",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 30,
+      "id": "gray-matter",
+      "word_index": 116,
+      "cue_seconds": 40.06,
+      "phrase_anchor": "gray",
+      "description": "Cortical gray-matter surface detail, emerges from brain film",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 31,
+      "id": "brain-tissue",
+      "word_index": 121,
+      "cue_seconds": 41.62,
+      "phrase_anchor": "brain",
+      "description": "Standalone neural tissue section, no human attached",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 32,
+      "id": "tissue-neuron",
+      "word_index": 126,
+      "cue_seconds": 43.26,
+      "phrase_anchor": "neurons",
+      "description": "Distinct tissue-derived neuron illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 33,
+      "id": "forgetful-parent",
+      "word_index": 131,
+      "cue_seconds": 44.54,
+      "phrase_anchor": "forgetting",
+      "description": "Stickman parent searching for a name",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 34,
+      "id": "family-photo",
+      "word_index": 135,
+      "cue_seconds": 45.43,
+      "phrase_anchor": "names.",
+      "description": "Photo of two distinct children, no readable invented names",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 35,
+      "id": "strong-legs-summary",
+      "word_index": 137,
+      "cue_seconds": 46.4,
+      "phrase_anchor": "legs",
+      "description": "Leg-strength summary character, new original acting state",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 36,
+      "id": "brain",
+      "word_index": 142,
+      "cue_seconds": 48.68,
+      "phrase_anchor": "brain.",
+      "description": "New lateral brain model used in emergence demo",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 37,
+      "id": "question-host",
+      "word_index": 143,
+      "cue_seconds": 49.34,
+      "phrase_anchor": "Why?",
+      "description": "Thoughtful skeptical chin-in-hand host",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 38,
+      "id": "squat-athlete",
+      "word_index": 144,
+      "cue_seconds": 49.87,
+      "phrase_anchor": "Because",
+      "description": "Controlled loaded squat; source for muscle detail",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 39,
+      "id": "leg-muscle",
+      "word_index": 149,
+      "cue_seconds": 51.04,
+      "phrase_anchor": "muscles",
+      "description": "Standalone quadriceps-like muscle belly; emerges from thigh",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 40,
+      "id": "resistance-weight",
+      "word_index": 152,
+      "cue_seconds": 52.31,
+      "phrase_anchor": "heavy",
+      "description": "Standalone substantial weight resisting contraction",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 41,
+      "id": "myokines",
+      "word_index": 157,
+      "cue_seconds": 53.62,
+      "phrase_anchor": "chemical",
+      "description": "Schematic secreted protein cluster emerges from muscle",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 42,
+      "id": "bdnf",
+      "word_index": 165,
+      "cue_seconds": 57.23,
+      "phrase_anchor": "BDNF,",
+      "description": "Standalone schematic protein dimer; no claimed exact atomic model",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 43,
+      "id": "growth-metaphor",
+      "word_index": 170,
+      "cue_seconds": 59.51,
+      "phrase_anchor": "miracle",
+      "description": "Unbranded plant-growth watering can; clearly a narration metaphor",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 44,
+      "id": "neuron",
+      "word_index": 175,
+      "cue_seconds": 61.0,
+      "phrase_anchor": "cells,",
+      "description": "Standalone full neuron emerges from brain, all terminals visible",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 45,
+      "id": "neural-network",
+      "word_index": 183,
+      "cue_seconds": 63.12,
+      "phrase_anchor": "pathways",
+      "description": "Connected neural network emerges from neuron",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 46,
+      "id": "shrinking-brain-contrast",
+      "word_index": 186,
+      "cue_seconds": 64.6,
+      "phrase_anchor": "shrinking.",
+      "description": "Separate small brain outline contrast, never imply instant skull growth",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 47,
+      "id": "alarmed-host",
+      "word_index": 190,
+      "cue_seconds": 65.99,
+      "phrase_anchor": "craziest",
+      "description": "Brief incredulous reaction",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 48,
+      "id": "identical-twins-control",
+      "word_index": 197,
+      "cue_seconds": 68.05,
+      "phrase_anchor": "twins,",
+      "description": "Matching identical female twins with different leg-power poses",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 49,
+      "id": "genetic-helix",
+      "word_index": 204,
+      "cue_seconds": 70.87,
+      "phrase_anchor": "genetics,",
+      "description": "Standalone DNA double helix",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 50,
+      "id": "childhood-photo",
+      "word_index": 206,
+      "cue_seconds": 71.63,
+      "phrase_anchor": "childhood,",
+      "description": "Stylized childhood photo scene",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 51,
+      "id": "horoscope-wheel",
+      "word_index": 209,
+      "cue_seconds": 72.77,
+      "phrase_anchor": "horoscope.",
+      "description": "Unbranded comic horoscope wheel",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 52,
+      "id": "raw-leg-power",
+      "word_index": 214,
+      "cue_seconds": 73.9,
+      "phrase_anchor": "power",
+      "description": "Original athletic leg-power action",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 53,
+      "id": "power-difference",
+      "word_index": 217,
+      "cue_seconds": 75.3,
+      "phrase_anchor": "difference,",
+      "description": "Two distinct power test results depicted schematically without fake values",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 54,
+      "id": "common-sense-host",
+      "word_index": 223,
+      "cue_seconds": 77.31,
+      "phrase_anchor": "sense.",
+      "description": "Knowing shrug, one complete readable pose",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 55,
+      "id": "older-self",
+      "word_index": 227,
+      "cue_seconds": 78.12,
+      "phrase_anchor": "older,",
+      "description": "Older stickman reflecting on mobility",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 56,
+      "id": "mental-tax",
+      "word_index": 233,
+      "cue_seconds": 80.05,
+      "phrase_anchor": "taxes",
+      "description": "Mental burden as a stack of paperwork, comic metaphor",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 57,
+      "id": "balance-walk",
+      "word_index": 236,
+      "cue_seconds": 81.27,
+      "phrase_anchor": "walking",
+      "description": "Older stickman balancing a careful walking step",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 58,
+      "id": "seventy-year-old",
+      "word_index": 241,
+      "cue_seconds": 83.28,
+      "phrase_anchor": "70",
+      "description": "Distinct stylized older character, age context from caption",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 59,
+      "id": "eighty-year-old",
+      "word_index": 243,
+      "cue_seconds": 83.87,
+      "phrase_anchor": "80",
+      "description": "Second older character, visibly distinct clothing and posture",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 60,
+      "id": "walker",
+      "word_index": 249,
+      "cue_seconds": 85.27,
+      "phrase_anchor": "walkers,",
+      "description": "Standalone mobility walker, complete readable feet",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 61,
+      "id": "paranoid-step",
+      "word_index": 258,
+      "cue_seconds": 86.84,
+      "phrase_anchor": "paranoia,",
+      "description": "Cautious older character looking at floor before a step",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 62,
+      "id": "stairs",
+      "word_index": 264,
+      "cue_seconds": 90.32,
+      "phrase_anchor": "stairs",
+      "description": "Complete short flight of stairs with rail",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 63,
+      "id": "misstep",
+      "word_index": 268,
+      "cue_seconds": 91.6,
+      "phrase_anchor": "misstep",
+      "description": "Coherent cautious misstep scene without graphic injury",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 64,
+      "id": "hip-fracture",
+      "word_index": 272,
+      "cue_seconds": 92.83,
+      "phrase_anchor": "hip",
+      "description": "Standalone stylized schematic hip bone crack, no person attached",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 65,
+      "id": "afterlife-ticket",
+      "word_index": 277,
+      "cue_seconds": 93.94,
+      "phrase_anchor": "ticket",
+      "description": "Comic one-way ticket metaphor, no gore",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 66,
+      "id": "squat-exercise",
+      "word_index": 283,
+      "cue_seconds": 95.92,
+      "phrase_anchor": "squats,",
+      "description": "Separate correct squat demonstration illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 67,
+      "id": "hip-thrust",
+      "word_index": 285,
+      "cue_seconds": 97.24,
+      "phrase_anchor": "thrusts,",
+      "description": "Separate coherent hip-thrust exercise illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 68,
+      "id": "lunge",
+      "word_index": 287,
+      "cue_seconds": 98.02,
+      "phrase_anchor": "lunges",
+      "description": "Separate correct lunge illustration",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 69,
+      "id": "shorts-confidence",
+      "word_index": 294,
+      "cue_seconds": 99.65,
+      "phrase_anchor": "shorts.",
+      "description": "Stickman looking confident in shorts",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 70,
+      "id": "insurance-policy",
+      "word_index": 298,
+      "cue_seconds": 101.62,
+      "phrase_anchor": "policies",
+      "description": "Biological-insurance metaphor document and shield",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 71,
+      "id": "nervous-system",
+      "word_index": 303,
+      "cue_seconds": 103.18,
+      "phrase_anchor": "system",
+      "description": "Standalone stylized nervous system, no realistic human",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 72,
+      "id": "brain-intact",
+      "word_index": 308,
+      "cue_seconds": 104.86,
+      "phrase_anchor": "intact.",
+      "description": "Protected intact brain, original view and plaque",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 73,
+      "id": "eighty-calendar",
+      "word_index": 318,
+      "cue_seconds": 107.73,
+      "phrase_anchor": "80",
+      "description": "Standalone 80th birthday calendar",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 74,
+      "id": "working-brain",
+      "word_index": 316,
+      "cue_seconds": 107.01,
+      "phrase_anchor": "brain",
+      "description": "Brain with purposeful active circuit overlay, new art",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 75,
+      "id": "nursing-home",
+      "word_index": 322,
+      "cue_seconds": 108.96,
+      "phrase_anchor": "blankly",
+      "description": "Stylized seated older stickman staring blankly at a wall",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    },
+    {
+      "number": 76,
+      "id": "leg-day-finale",
+      "word_index": 328,
+      "cue_seconds": 111.08,
+      "phrase_anchor": "stop",
+      "description": "Hero leg-day stickman, assertive final action",
+      "status": "integrated",
+      "counts_as_distinct_if_used": true
+    }
+  ],
+  "generated_distinct_illustrations": 57
+}

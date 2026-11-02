@@ -1,0 +1,18 @@
+{
+  "input": {
+    "input_i": "-15.12",
+    "input_tp": "-1.62",
+    "input_lra": "3.20",
+    "input_thresh": "-25.26",
+    "output_i": "-16.10",
+    "output_tp": "-2.67",
+    "output_lra": "3.00",
+    "output_thresh": "-26.23",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "output": "{\n\t\"input_i\" : \"-15.04\",\n\t\"input_tp\" : \"-1.62\",\n\t\"input_lra\" : \"2.90\",\n\t\"input_thresh\" : \"-25.16\",\n\t\"output_i\" : \"-15.92\",\n\t\"output_tp\" : \"-2.50\",\n\t\"output_lra\" : \"2.90\",\n\t\"output_thresh\" : \"-26.04\",\n\t\"normalization_type\" : \"linear\",\n\t\"target_offset\" : \"-0.08\"\n}\n",
+  "cues": 83,
+  "unique_sources": 14,
+  "all_tails_preserved": true
+}

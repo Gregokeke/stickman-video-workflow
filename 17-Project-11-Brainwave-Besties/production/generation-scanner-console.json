@@ -1,0 +1,11 @@
+{
+  "id": "scanner-console",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: identical, synchronized electrical spikes. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone red scientific scanner console, front-facing large screen divided into TWO EMPTY white panels, red control deck with a few knobs, integrated SCHEMATIC label. No brain, waveforms, numeric results or human.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/scanner-console.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-c8b3219d-53d3-453d-936c-1f6860082d0d.png"
+}

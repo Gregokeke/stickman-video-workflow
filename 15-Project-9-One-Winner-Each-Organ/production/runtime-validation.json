@@ -1,0 +1,93 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "contrast": [
+    {
+      "time": 13.573,
+      "selector": "span",
+      "text": "Right now, stress and garbage food",
+      "ratio": 19.03,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(16,16,16)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 13.573,
+      "selector": "b",
+      "text": "garbage",
+      "ratio": 5.04,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(222,11,19)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 40.72,
+      "selector": "span",
+      "text": "into blindness.",
+      "ratio": 19.03,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(16,16,16)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 67.867,
+      "selector": "span",
+      "text": "And in adults over 50,",
+      "ratio": 19.03,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(16,16,16)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 95.013,
+      "selector": "span",
+      "text": "Your liver takes a daily beating,",
+      "ratio": 19.03,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(16,16,16)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 95.013,
+      "selector": "b",
+      "text": "liver",
+      "ratio": 5.04,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(222,11,19)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 122.16,
+      "selector": "span",
+      "text": "That's why they want creatine",
+      "ratio": 19.03,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(16,16,16)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 122.16,
+      "selector": "b",
+      "text": "creatine",
+      "ratio": 5.04,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(222,11,19)",
+      "bg": "rgb(255,255,255)"
+    }
+  ],
+  "contrastFailures": 0,
+  "_meta": {
+    "version": "0.8.220",
+    "updateAvailable": false,
+    "deprecated": true
+  }
+}

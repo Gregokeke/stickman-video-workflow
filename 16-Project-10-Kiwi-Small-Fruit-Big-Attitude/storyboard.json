@@ -1,0 +1,2330 @@
+[
+  {
+    "id": "kiwi-hero",
+    "asset": "kiwi-hero",
+    "start": 0.03,
+    "handoff": 4.347,
+    "end": 4.727,
+    "layout": [
+      480,
+      1050,
+      730,
+      780
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 1.02,
+        "x": -170,
+        "y": 130,
+        "scale": 0.65,
+        "d": 0.45,
+        "rotation": 0
+      },
+      {
+        "t": 2.851,
+        "x": 0,
+        "y": -20,
+        "scale": 1.06,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ],
+    "phrase": "kiwi hero",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "narrator-sass",
+    "asset": "narrator-sass",
+    "start": 1.02,
+    "handoff": 2.851,
+    "end": 3.231,
+    "layout": [
+      640,
+      1060,
+      420,
+      720
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "narrator sass",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "sassy-appearance",
+    "asset": "narrator-sass",
+    "start": 4.347,
+    "handoff": 7.144,
+    "end": 7.524,
+    "layout": [
+      650,
+      1190,
+      440,
+      700
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [],
+    "phrase": "narrator sass",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "tarantula",
+    "asset": "tarantula-larger-abdomen",
+    "start": 5.587,
+    "handoff": 7.144,
+    "end": 7.524,
+    "layout": [
+      295,
+      650,
+      450,
+      390
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "tarantula",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "nutrition-cutaway",
+    "asset": "nutrition-cutaway",
+    "start": 7.144,
+    "handoff": 8.526,
+    "end": 8.906,
+    "layout": [
+      480,
+      1080,
+      700,
+      790
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "nutrition cutaway",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "boxer-top",
+    "asset": "kiwi-boxer",
+    "start": 8.526,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      300,
+      960,
+      360,
+      440
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 9.7,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 9.84,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.04,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.35,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.49,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.0,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.14,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.34,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": -45,
+        "y": -180,
+        "scale": 0.68,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi boxer",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "boxer-bottom",
+    "asset": "kiwi-boxer",
+    "start": 9.046,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      300,
+      1410,
+      360,
+      400
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [
+      {
+        "t": 10.2,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.34,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.54,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 10.85,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 10.99,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.19,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.5,
+        "x": 26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": 4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.64,
+        "x": -9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 11.84,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": -45,
+        "y": -360,
+        "scale": 0.68,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi boxer",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "orange-boxer",
+    "asset": "orange-boxer",
+    "start": 11.206,
+    "handoff": 15.05,
+    "end": 15.35,
+    "layout": [
+      690,
+      1210,
+      330,
+      470
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 11.8,
+        "x": -26,
+        "y": -10,
+        "scale": 1.025,
+        "d": 0.13,
+        "rotation": -4,
+        "ease": "power3.out"
+      },
+      {
+        "t": 11.940000000000001,
+        "x": 9,
+        "y": 5,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": 2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.14,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.15,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 12.744,
+        "x": 0,
+        "y": -260,
+        "scale": 0.72,
+        "d": 0.32,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "orange boxer",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "vitamin-c",
+    "asset": "vitamin-c",
+    "start": 11.886,
+    "handoff": 12.744,
+    "end": 13.124,
+    "layout": [
+      680,
+      720,
+      310,
+      260
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin c",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "referee",
+    "asset": "referee",
+    "start": 12.744,
+    "handoff": 16.05,
+    "end": 16.43,
+    "layout": [
+      500,
+      1370,
+      520,
+      500
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 13.2,
+        "x": 0,
+        "y": -14,
+        "scale": 1.025,
+        "d": 0.22,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 13.55,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.25,
+        "rotation": 2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 14.08,
+        "x": 0,
+        "y": -8,
+        "scale": 1.015,
+        "d": 0.2,
+        "rotation": -2,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 14.48,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.25,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "referee",
+    "entry_duration": 0.3
+  },
+  {
+    "id": "potassium",
+    "asset": "potassium",
+    "start": 16.05,
+    "handoff": 18.166,
+    "end": 18.546,
+    "layout": [
+      310,
+      720,
+      410,
+      390
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "potassium",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "heart",
+    "asset": "heart",
+    "start": 17.03,
+    "handoff": 18.166,
+    "end": 18.546,
+    "layout": [
+      620,
+      1230,
+      500,
+      800
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 17.23,
+        "x": 0,
+        "y": 0,
+        "scale": 1.06,
+        "d": 0.16,
+        "rotation": 0
+      },
+      {
+        "t": 17.45,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": 0
+      }
+    ],
+    "phrase": "heart",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "folate",
+    "asset": "folate",
+    "start": 18.166,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      650,
+      870,
+      420,
+      400
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "folate",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "dna",
+    "asset": "dna",
+    "start": 18.766,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      280,
+      1000,
+      330,
+      500
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "dna",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "vitamin-k",
+    "asset": "vitamin-k-solo",
+    "start": 20.362,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      660,
+      790,
+      390,
+      300
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin k",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "paper-cut",
+    "asset": "paper-cut",
+    "start": 21.182,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      300,
+      1100,
+      400,
+      420
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "paper cut",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "clot",
+    "asset": "clot-bloodstream-edit",
+    "start": 22.322,
+    "handoff": 23.267,
+    "end": 23.647,
+    "layout": [
+      650,
+      1250,
+      380,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "clot",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "weird-narrator",
+    "asset": "weird-narrator",
+    "start": 23.267,
+    "handoff": 24.503,
+    "end": 24.883,
+    "layout": [
+      480,
+      1090,
+      640,
+      920
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "weird narrator",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "vitamin-e",
+    "asset": "vitamin-e-solo",
+    "start": 24.503,
+    "handoff": 25.645,
+    "end": 26.025,
+    "layout": [
+      500,
+      1000,
+      680,
+      680
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin e",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "fruit-basket",
+    "asset": "fruit-basket",
+    "start": 25.645,
+    "handoff": 28.705,
+    "end": 29.084999999999997,
+    "layout": [
+      410,
+      1625,
+      953.25,
+      1076.25
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "fruit basket",
+    "entry_duration": 0.35
+  },
+  {
+    "id": "e-question",
+    "asset": "vitamin-e-solo",
+    "start": 25.645,
+    "handoff": 28.705,
+    "end": 29.085,
+    "layout": [
+      690,
+      810,
+      440,
+      390
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "vitamin e",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "lipid",
+    "asset": "lipid-solo",
+    "start": 28.705,
+    "handoff": 30.945,
+    "end": 31.325,
+    "layout": [
+      620,
+      850,
+      440,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "lipid",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "shield",
+    "asset": "shield",
+    "start": 29.405,
+    "handoff": 30.945,
+    "end": 31.325,
+    "layout": [
+      300,
+      1260,
+      400,
+      430
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "shield",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "membrane",
+    "asset": "membrane",
+    "start": 30.945,
+    "handoff": 32.976,
+    "end": 33.356,
+    "layout": [
+      520,
+      830,
+      670,
+      350
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "membrane",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "oxidation-negated",
+    "asset": "oxidation-solo",
+    "start": 31.925,
+    "handoff": 32.976,
+    "end": 33.356,
+    "layout": [
+      665,
+      1160,
+      420,
+      300
+    ],
+    "route": "depth",
+    "z": 10,
+    "moves": [],
+    "phrase": "oxidation",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "no-fat-narrator",
+    "asset": "no-fat-narrator",
+    "start": 32.976,
+    "handoff": 34.694,
+    "end": 35.074000000000005,
+    "layout": [
+      480,
+      1080,
+      630,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "no fat narrator",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "kiwi-schemer",
+    "asset": "kiwi-schemer",
+    "start": 34.694,
+    "handoff": 36.1,
+    "end": 36.34,
+    "layout": [
+      480,
+      1090,
+      690,
+      850
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "kiwi schemer",
+    "entry_duration": 0.46,
+    "exit_duration": 0.2
+  },
+  {
+    "id": "kiwi-seeds",
+    "asset": "kiwi-seeds",
+    "start": 36.354,
+    "handoff": 39.434,
+    "end": 39.814,
+    "layout": [
+      350,
+      850,
+      470,
+      440
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "kiwi seeds",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "seed-oil",
+    "asset": "seed-oil",
+    "start": 36.714,
+    "handoff": 39.434,
+    "end": 39.814,
+    "layout": [
+      700,
+      1240,
+      320,
+      420
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "seed oil",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "crunch",
+    "asset": "crunch",
+    "start": 39.434,
+    "handoff": 40.792,
+    "end": 41.172000000000004,
+    "layout": [
+      480,
+      1090,
+      650,
+      940
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "crunch",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "tragic-gut",
+    "asset": "tragic-gut",
+    "start": 40.792,
+    "handoff": 42.723,
+    "end": 43.103,
+    "layout": [
+      480,
+      1080,
+      650,
+      940
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 41.552,
+        "x": 0,
+        "y": -18,
+        "scale": 1.055,
+        "d": 0.21,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 41.9,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.28,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "tragic gut",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "fiber-portions",
+    "asset": "fiber-portions",
+    "start": 42.723,
+    "handoff": 43.843,
+    "end": 44.223000000000006,
+    "layout": [
+      290,
+      1250,
+      360,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "fiber portions",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "fiber-mesh",
+    "asset": "fiber-mesh",
+    "start": 43.843,
+    "handoff": 46.083,
+    "end": 46.32,
+    "layout": [
+      290,
+      1120,
+      330,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "fiber mesh",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "water-drop",
+    "asset": "water-drop",
+    "start": 45.843,
+    "handoff": 47.083,
+    "end": 47.463,
+    "layout": [
+      440,
+      800,
+      120,
+      160
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "water drop",
+    "entry_duration": 0.2
+  },
+  {
+    "id": "sponge",
+    "asset": "sponge",
+    "start": 46.083,
+    "handoff": 47.083,
+    "end": 47.463,
+    "layout": [
+      420,
+      1160,
+      400,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 46.54,
+        "x": 0,
+        "y": 0,
+        "scale": 1.08,
+        "d": 0.12,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 46.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.19,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "sponge",
+    "entry_duration": 0.22
+  },
+  {
+    "id": "sweeping-gut",
+    "asset": "sweeping-gut",
+    "start": 47.083,
+    "handoff": 48.676,
+    "end": 49.056000000000004,
+    "layout": [
+      570,
+      970,
+      600,
+      650
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "sweeping gut",
+    "entry_duration": 0.25
+  },
+  {
+    "id": "world",
+    "asset": "world",
+    "start": 48.676,
+    "handoff": 50.496,
+    "end": 50.876,
+    "layout": [
+      350,
+      1200,
+      430,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "world",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "low-fiber-person",
+    "asset": "low-fiber-person",
+    "start": 50.496,
+    "handoff": 54.016,
+    "end": 54.396,
+    "layout": [
+      680,
+      1250,
+      380,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "low fiber person",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "missing-fiber",
+    "asset": "fiber-mesh",
+    "start": 51.856,
+    "handoff": 54.016,
+    "end": 54.396,
+    "layout": [
+      290,
+      1190,
+      320,
+      400
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "steady fiber",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "garbage",
+    "asset": "garbage",
+    "start": 54.016,
+    "handoff": 55.612,
+    "end": 55.992000000000004,
+    "layout": [
+      470,
+      1110,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "garbage",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "matters",
+    "asset": "matters",
+    "start": 55.612,
+    "handoff": 57.853,
+    "end": 58.233000000000004,
+    "layout": [
+      480,
+      1060,
+      640,
+      950
+    ],
+    "route": "behind",
+    "z": 10,
+    "moves": [],
+    "phrase": "matters",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "trial-document",
+    "asset": "trial-document",
+    "start": 57.853,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      660,
+      890,
+      410,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "trial document",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "scientist",
+    "asset": "scientist",
+    "start": 58.313,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      280,
+      1250,
+      380,
+      640
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "scientist",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "medal",
+    "asset": "medal",
+    "start": 59.633,
+    "handoff": 61.747,
+    "end": 62.127,
+    "layout": [
+      650,
+      1390,
+      240,
+      300
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "medal",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "daily-kiwi",
+    "asset": "daily-kiwi",
+    "start": 61.747,
+    "handoff": 62.967,
+    "end": 63.347,
+    "layout": [
+      400,
+      1130,
+      560,
+      840
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 62.627,
+        "x": -110,
+        "y": 20,
+        "scale": 0.85,
+        "d": 0.45,
+        "rotation": 0
+      }
+    ],
+    "phrase": "daily kiwi",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "calendar",
+    "asset": "calendar",
+    "start": 62.627,
+    "handoff": 63.25,
+    "end": 63.63,
+    "layout": [
+      760,
+      1300,
+      200,
+      240
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "calendar",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "constipated",
+    "asset": "constipated",
+    "start": 64.187,
+    "handoff": 66.267,
+    "end": 66.647,
+    "layout": [
+      285,
+      1360,
+      310,
+      500
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "constipated",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "comfortable",
+    "asset": "comfortable",
+    "start": 65.187,
+    "handoff": 66.267,
+    "end": 66.64699999999999,
+    "layout": [
+      660,
+      1360,
+      310,
+      500
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "comfortable",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "toilet-sitter",
+    "asset": "toilet-sitter",
+    "start": 66.267,
+    "handoff": 68.287,
+    "end": 68.667,
+    "layout": [
+      390,
+      1140,
+      600,
+      800
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "toilet sitter",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "praying",
+    "asset": "praying",
+    "start": 68.287,
+    "handoff": 70.267,
+    "end": 70.64699999999999,
+    "layout": [
+      290,
+      1250,
+      430,
+      690
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "praying",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "poop-shrine",
+    "asset": "poop-shrine",
+    "start": 69.027,
+    "handoff": 70.267,
+    "end": 70.64699999999999,
+    "layout": [
+      650,
+      900,
+      420,
+      560
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "poop shrine",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "sleepy",
+    "asset": "sleepy",
+    "start": 70.267,
+    "handoff": 72.997,
+    "end": 73.377,
+    "layout": [
+      440,
+      1100,
+      610,
+      940
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 71.407,
+        "x": -120,
+        "y": 130,
+        "scale": 0.82,
+        "d": 0.4,
+        "rotation": 0
+      },
+      {
+        "t": 72.027,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ],
+    "phrase": "sleepy",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "moon",
+    "asset": "moon",
+    "start": 70.387,
+    "handoff": 72.997,
+    "end": 73.377,
+    "layout": [
+      740,
+      800,
+      220,
+      230
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "moon",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "bedtime-kiwi",
+    "asset": "bedtime-kiwi",
+    "start": 72.997,
+    "handoff": 75.817,
+    "end": 76.19699999999999,
+    "layout": [
+      370,
+      1170,
+      560,
+      700
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "bedtime kiwi",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "sleep-quality",
+    "asset": "sleep-quality",
+    "start": 75.817,
+    "handoff": 77.677,
+    "end": 78.057,
+    "layout": [
+      480,
+      1110,
+      740,
+      770
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "sleep quality",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "serotonin",
+    "asset": "serotonin",
+    "start": 77.677,
+    "handoff": 79.557,
+    "end": 79.937,
+    "layout": [
+      660,
+      800,
+      410,
+      360
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "serotonin",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "brain",
+    "asset": "brain",
+    "start": 78.697,
+    "handoff": 80.337,
+    "end": 80.717,
+    "layout": [
+      700,
+      1280,
+      330,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "brain",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "pineal",
+    "asset": "pineal",
+    "start": 79.557,
+    "handoff": 81.497,
+    "end": 81.877,
+    "layout": [
+      650,
+      800,
+      410,
+      360
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "pineal",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "melatonin",
+    "asset": "melatonin",
+    "start": 81.497,
+    "handoff": 83.475,
+    "end": 83.85499999999999,
+    "layout": [
+      660,
+      1220,
+      410,
+      440
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "melatonin",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "passed-out",
+    "asset": "passed-out",
+    "start": 83.475,
+    "handoff": 84.731,
+    "end": 85.11099999999999,
+    "layout": [
+      470,
+      1100,
+      730,
+      760
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "passed out",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "ceiling-awake",
+    "asset": "ceiling-awake",
+    "start": 84.731,
+    "handoff": 87.524,
+    "end": 87.904,
+    "layout": [
+      400,
+      1160,
+      650,
+      720
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [
+      {
+        "t": 85.811,
+        "x": 0,
+        "y": -12,
+        "scale": 1.045,
+        "d": 0.24,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 86.18,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.3,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "ceiling awake",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "clock-3am",
+    "asset": "clock-3am",
+    "start": 86.511,
+    "handoff": 87.524,
+    "end": 87.904,
+    "layout": [
+      730,
+      790,
+      270,
+      240
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "clock 3am",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "gym",
+    "asset": "gym",
+    "start": 87.524,
+    "handoff": 91.983,
+    "end": 92.363,
+    "layout": [
+      470,
+      1120,
+      620,
+      920
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 90.044,
+        "x": -150,
+        "y": 120,
+        "scale": 0.78,
+        "d": 0.42,
+        "rotation": 0
+      },
+      {
+        "t": 90.85,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.4,
+        "rotation": 0
+      }
+    ],
+    "phrase": "gym",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "workout-kiwi",
+    "asset": "workout-kiwi",
+    "start": 90.044,
+    "handoff": 90.85,
+    "end": 91.23,
+    "layout": [
+      660,
+      850,
+      360,
+      290
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "workout kiwi",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "glucose",
+    "asset": "glucose",
+    "start": 91.483,
+    "handoff": 92.843,
+    "end": 93.223,
+    "layout": [
+      745,
+      690,
+      350,
+      330
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "glucose",
+    "entry_duration": 0.25
+  },
+  {
+    "id": "muscle",
+    "asset": "muscle",
+    "start": 91.983,
+    "handoff": 92.843,
+    "end": 93.223,
+    "layout": [
+      320,
+      1240,
+      400,
+      420
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 92.51,
+        "x": 0,
+        "y": -4,
+        "scale": 1.045,
+        "d": 0.14,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 92.67,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.16,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "muscle",
+    "entry_duration": 0.23
+  },
+  {
+    "id": "steady-fiber",
+    "asset": "fiber-mesh",
+    "start": 92.843,
+    "handoff": 93.943,
+    "end": 94.323,
+    "layout": [
+      650,
+      1240,
+      420,
+      360
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "steady fiber",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "actinidin",
+    "asset": "actinidin",
+    "start": 93.943,
+    "handoff": 97.731,
+    "end": 98.11099999999999,
+    "layout": [
+      660,
+      850,
+      390,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "actinidin",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "scissors",
+    "asset": "scissors",
+    "start": 96.991,
+    "handoff": 99.36,
+    "end": 99.64,
+    "layout": [
+      270,
+      660,
+      300,
+      320
+    ],
+    "route": "left",
+    "z": 50,
+    "moves": [
+      {
+        "t": 97.46,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -8,
+        "ease": "power2.out"
+      },
+      {
+        "t": 97.69,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.18,
+        "rotation": -8,
+        "ease": "power2.out"
+      },
+      {
+        "t": 98.671,
+        "x": 1050,
+        "y": 0,
+        "scale": 1,
+        "d": 0.66,
+        "rotation": -8,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "scissors",
+    "entry_duration": 0.25,
+    "exit_duration": 0.18,
+    "exit_via_travel": true
+  },
+  {
+    "id": "stomach",
+    "asset": "stomach",
+    "start": 97.731,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      230,
+      1140,
+      300,
+      450
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "stomach",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "protein",
+    "asset": "protein",
+    "start": 98.411,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      670,
+      680,
+      380,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "protein",
+    "entry_duration": 0.22,
+    "split_at": 98.99
+  },
+  {
+    "id": "peptides",
+    "asset": "peptides",
+    "start": 99.5,
+    "handoff": 100.171,
+    "end": 100.551,
+    "layout": [
+      330,
+      1430,
+      400,
+      300
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "peptides",
+    "entry_duration": 0.18
+  },
+  {
+    "id": "post-meal",
+    "asset": "post-meal",
+    "start": 100.171,
+    "handoff": 103.491,
+    "end": 103.871,
+    "layout": [
+      470,
+      1110,
+      650,
+      910
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "post meal",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "wet-brick",
+    "asset": "wet-brick",
+    "start": 103.491,
+    "handoff": 104.374,
+    "end": 104.754,
+    "layout": [
+      650,
+      850,
+      400,
+      340
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "wet brick",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "meal-light",
+    "asset": "post-meal",
+    "start": 103.491,
+    "handoff": 104.374,
+    "end": 104.754,
+    "layout": [
+      300,
+      1280,
+      400,
+      590
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "post meal",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "coins",
+    "asset": "coins",
+    "start": 104.374,
+    "handoff": 106.114,
+    "end": 106.494,
+    "layout": [
+      470,
+      1090,
+      620,
+      610
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "coins",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "grocery",
+    "asset": "grocery",
+    "start": 106.114,
+    "handoff": 107.334,
+    "end": 107.714,
+    "layout": [
+      480,
+      1090,
+      730,
+      800
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "grocery",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "quiet-kiwi",
+    "asset": "quiet-kiwi",
+    "start": 107.334,
+    "handoff": 108.825,
+    "end": 109.205,
+    "layout": [
+      480,
+      1110,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "quiet kiwi",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "kiwi-champion",
+    "asset": "kiwi-underrated-sad",
+    "start": 108.825,
+    "handoff": 110.732,
+    "end": 111.112,
+    "layout": [
+      480,
+      1060,
+      700,
+      850
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [
+      {
+        "t": 108.825,
+        "x": 0,
+        "y": 12,
+        "scale": 0.985,
+        "d": 0.4,
+        "rotation": 1,
+        "ease": "power2.inOut"
+      },
+      {
+        "t": 109.4,
+        "x": 0,
+        "y": 20,
+        "scale": 0.98,
+        "d": 0.4,
+        "rotation": 0,
+        "ease": "power2.inOut"
+      }
+    ],
+    "phrase": "kiwi champion",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "overrate",
+    "asset": "overrate",
+    "start": 110.732,
+    "handoff": 111.439,
+    "end": 111.819,
+    "layout": [
+      480,
+      1090,
+      650,
+      930
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "overrate",
+    "entry_duration": 0.34
+  },
+  {
+    "id": "eat-kiwi",
+    "asset": "eat-kiwi",
+    "start": 111.439,
+    "handoff": 114.6,
+    "end": 114.6,
+    "layout": [
+      320,
+      1180,
+      470,
+      750
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "eat kiwi",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "fuzzy-egg",
+    "asset": "fuzzy-egg",
+    "start": 111.859,
+    "handoff": 114.6,
+    "end": 114.6,
+    "layout": [
+      700,
+      950,
+      320,
+      450
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "fuzzy egg",
+    "entry_duration": 0.46
+  },
+  {
+    "id": "p-dna",
+    "asset": "instructor-straight",
+    "start": 18.95,
+    "handoff": 20.362,
+    "end": 20.741999999999997,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        18.95,
+        310,
+        1080,
+        1000
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32
+  },
+  {
+    "id": "p-membrane",
+    "asset": "instructor-straight",
+    "start": 31.22,
+    "handoff": 32.896,
+    "end": 33.176,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        31.22,
+        570,
+        850,
+        1700
+      ],
+      [
+        31.925,
+        650,
+        1140,
+        1350,
+        0.24
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": 160,
+    "entry_y": 70,
+    "entry_duration": 0.32
+  },
+  {
+    "id": "p-fiber",
+    "asset": "instructor-straight",
+    "start": 43.95,
+    "handoff": 44.9,
+    "end": 45.12,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor straight",
+    "targets": [
+      [
+        43.95,
+        630,
+        680,
+        720
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32,
+    "exit_duration": 0.16
+  },
+  {
+    "id": "p-trial",
+    "asset": "instructor-straight",
+    "start": 63.25,
+    "handoff": 64.1,
+    "end": 64.36,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor up",
+    "targets": [
+      [
+        63.25,
+        645,
+        885,
+        1750
+      ],
+      [
+        63.4,
+        645,
+        790,
+        1750,
+        0.5
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.85,
+    "entry_x": 160,
+    "entry_y": 70,
+    "entry_duration": 0.32
+  },
+  {
+    "id": "p-sleep",
+    "asset": "instructor-up",
+    "start": 77.93,
+    "handoff": 83.475,
+    "end": 83.85499999999999,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        77.93,
+        650,
+        820,
+        1120
+      ],
+      [
+        78.697,
+        700,
+        1220,
+        1120,
+        0.24
+      ],
+      [
+        79.557,
+        650,
+        790,
+        1120,
+        0.24
+      ],
+      [
+        81.497,
+        660,
+        1220,
+        1120,
+        0.24
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.85,
+    "entry_x": -160,
+    "entry_y": 70,
+    "entry_duration": 0.32
+  },
+  {
+    "id": "p-water",
+    "asset": "instructor-straight",
+    "start": 45.1,
+    "handoff": 47.0,
+    "end": 47.28,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        45.1,
+        325,
+        1090,
+        1100
+      ],
+      [
+        45.843,
+        460,
+        850,
+        1100,
+        0.2
+      ],
+      [
+        46.13,
+        450,
+        950,
+        1100,
+        0.2
+      ],
+      [
+        46.38,
+        430,
+        1080,
+        1100,
+        0.23
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22
+  },
+  {
+    "id": "p-gut",
+    "asset": "instructor-up",
+    "start": 47.12,
+    "handoff": 48.676,
+    "end": 48.956,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        47.12,
+        639.23,
+        840.77,
+        1150
+      ],
+      [
+        47.47,
+        662.31,
+        970.0,
+        1150,
+        0.27
+      ],
+      [
+        47.82,
+        588.46,
+        1103.85,
+        1150,
+        0.26
+      ],
+      [
+        48.13,
+        500.77,
+        1228.46,
+        1150,
+        0.27
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22
+  },
+  {
+    "id": "p-steady-enzyme",
+    "asset": "instructor-up",
+    "start": 92.9,
+    "handoff": 96.96,
+    "end": 97.24,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        92.9,
+        650,
+        1220,
+        1350
+      ],
+      [
+        93.943,
+        650,
+        830,
+        1350,
+        0.2
+      ]
+    ],
+    "flip": true,
+    "tip_source": [
+      449,
+      43
+    ],
+    "entry_scale": 0.97,
+    "entry_x": 55,
+    "entry_y": 25,
+    "entry_duration": 0.22
+  },
+  {
+    "id": "p-scissors",
+    "asset": "instructor-straight",
+    "start": 97.0,
+    "handoff": 97.65,
+    "end": 97.83,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 45,
+    "moves": [],
+    "phrase": "instructor diagonal",
+    "targets": [
+      [
+        97.0,
+        270,
+        660,
+        1800
+      ]
+    ],
+    "flip": false,
+    "tip_source": [
+      525,
+      52
+    ],
+    "entry_scale": 0.97,
+    "entry_x": -55,
+    "entry_y": 25,
+    "entry_duration": 0.22,
+    "exit_duration": 0.13
+  }
+]

@@ -1,0 +1,2276 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.36,
+    "word": "What's",
+    "probability": 0.9157789945602417
+  },
+  {
+    "start": 0.36,
+    "end": 0.48,
+    "word": "the",
+    "probability": 0.9954710006713867
+  },
+  {
+    "start": 0.48,
+    "end": 0.74,
+    "word": "number",
+    "probability": 0.9054078459739685
+  },
+  {
+    "start": 0.74,
+    "end": 1.12,
+    "word": "one",
+    "probability": 0.8266807198524475
+  },
+  {
+    "start": 1.12,
+    "end": 1.54,
+    "word": "supplement",
+    "probability": 0.993454098701477
+  },
+  {
+    "start": 1.54,
+    "end": 1.94,
+    "word": "for",
+    "probability": 0.9976160526275635
+  },
+  {
+    "start": 1.94,
+    "end": 2.24,
+    "word": "every",
+    "probability": 0.9784811735153198
+  },
+  {
+    "start": 2.24,
+    "end": 2.8,
+    "word": "organ",
+    "probability": 0.9966799020767212
+  },
+  {
+    "start": 2.8,
+    "end": 3.0,
+    "word": "in",
+    "probability": 0.9983957409858704
+  },
+  {
+    "start": 3.0,
+    "end": 3.14,
+    "word": "your",
+    "probability": 0.9976513981819153
+  },
+  {
+    "start": 3.14,
+    "end": 3.56,
+    "word": "body,",
+    "probability": 0.9992609620094299
+  },
+  {
+    "start": 3.96,
+    "end": 4.3,
+    "word": "assuming",
+    "probability": 0.9923642873764038
+  },
+  {
+    "start": 4.3,
+    "end": 4.64,
+    "word": "you",
+    "probability": 0.9961048364639282
+  },
+  {
+    "start": 4.64,
+    "end": 4.98,
+    "word": "haven't",
+    "probability": 0.9552210569381714
+  },
+  {
+    "start": 4.98,
+    "end": 5.22,
+    "word": "already",
+    "probability": 0.9699600338935852
+  },
+  {
+    "start": 5.22,
+    "end": 5.82,
+    "word": "overdosed",
+    "probability": 0.9861272275447845
+  },
+  {
+    "start": 5.82,
+    "end": 6.02,
+    "word": "on",
+    "probability": 0.9951246380805969
+  },
+  {
+    "start": 6.02,
+    "end": 6.22,
+    "word": "random",
+    "probability": 0.9918066263198853
+  },
+  {
+    "start": 6.22,
+    "end": 6.9,
+    "word": "supplements?",
+    "probability": 0.9973964691162109
+  },
+  {
+    "start": 7.26,
+    "end": 7.46,
+    "word": "I'm",
+    "probability": 0.9741559326648712
+  },
+  {
+    "start": 7.46,
+    "end": 7.6,
+    "word": "going",
+    "probability": 0.997803270816803
+  },
+  {
+    "start": 7.6,
+    "end": 7.9,
+    "word": "organ",
+    "probability": 0.8325876593589783
+  },
+  {
+    "start": 7.9,
+    "end": 8.24,
+    "word": "by",
+    "probability": 0.9360871315002441
+  },
+  {
+    "start": 8.24,
+    "end": 8.5,
+    "word": "organ,",
+    "probability": 0.9994156360626221
+  },
+  {
+    "start": 8.5,
+    "end": 9.08,
+    "word": "naming",
+    "probability": 0.9929901361465454
+  },
+  {
+    "start": 9.08,
+    "end": 9.4,
+    "word": "one",
+    "probability": 0.9810987114906311
+  },
+  {
+    "start": 9.4,
+    "end": 9.8,
+    "word": "proven",
+    "probability": 0.995556652545929
+  },
+  {
+    "start": 9.8,
+    "end": 10.14,
+    "word": "winner",
+    "probability": 0.9957854151725769
+  },
+  {
+    "start": 10.14,
+    "end": 10.44,
+    "word": "for",
+    "probability": 0.997342050075531
+  },
+  {
+    "start": 10.44,
+    "end": 10.66,
+    "word": "each,",
+    "probability": 0.999413013458252
+  },
+  {
+    "start": 11.06,
+    "end": 11.32,
+    "word": "starting",
+    "probability": 0.9904224872589111
+  },
+  {
+    "start": 11.32,
+    "end": 11.62,
+    "word": "with",
+    "probability": 0.9991299510002136
+  },
+  {
+    "start": 11.62,
+    "end": 11.78,
+    "word": "your",
+    "probability": 0.9959635734558105
+  },
+  {
+    "start": 11.78,
+    "end": 12.06,
+    "word": "heart.",
+    "probability": 0.9994648098945618
+  },
+  {
+    "start": 12.42,
+    "end": 12.52,
+    "word": "Right",
+    "probability": 0.9847927093505859
+  },
+  {
+    "start": 12.52,
+    "end": 12.84,
+    "word": "now,",
+    "probability": 0.9980596899986267
+  },
+  {
+    "start": 12.86,
+    "end": 13.36,
+    "word": "stress",
+    "probability": 0.9747685790061951
+  },
+  {
+    "start": 13.36,
+    "end": 13.72,
+    "word": "and",
+    "probability": 0.9915217161178589
+  },
+  {
+    "start": 13.72,
+    "end": 13.98,
+    "word": "garbage",
+    "probability": 0.9922145009040833
+  },
+  {
+    "start": 13.98,
+    "end": 14.4,
+    "word": "food",
+    "probability": 0.9960756897926331
+  },
+  {
+    "start": 14.4,
+    "end": 14.74,
+    "word": "trigger",
+    "probability": 0.9950723052024841
+  },
+  {
+    "start": 14.74,
+    "end": 15.46,
+    "word": "arterial",
+    "probability": 0.993851512670517
+  },
+  {
+    "start": 15.46,
+    "end": 15.88,
+    "word": "inflammation,",
+    "probability": 0.9987269043922424
+  },
+  {
+    "start": 16.38,
+    "end": 16.48,
+    "word": "the",
+    "probability": 0.996917724609375
+  },
+  {
+    "start": 16.48,
+    "end": 16.66,
+    "word": "inner",
+    "probability": 0.9861083626747131
+  },
+  {
+    "start": 16.66,
+    "end": 17.0,
+    "word": "swelling",
+    "probability": 0.9994403719902039
+  },
+  {
+    "start": 17.0,
+    "end": 17.32,
+    "word": "that",
+    "probability": 0.9958409667015076
+  },
+  {
+    "start": 17.32,
+    "end": 17.56,
+    "word": "makes",
+    "probability": 0.9958618879318237
+  },
+  {
+    "start": 17.56,
+    "end": 17.76,
+    "word": "plaque",
+    "probability": 0.9926779270172119
+  },
+  {
+    "start": 17.76,
+    "end": 18.28,
+    "word": "rupture",
+    "probability": 0.9970267415046692
+  },
+  {
+    "start": 18.28,
+    "end": 18.54,
+    "word": "and",
+    "probability": 0.8043868541717529
+  },
+  {
+    "start": 18.54,
+    "end": 18.78,
+    "word": "stop",
+    "probability": 0.9908155202865601
+  },
+  {
+    "start": 18.78,
+    "end": 19.0,
+    "word": "your",
+    "probability": 0.9970472455024719
+  },
+  {
+    "start": 19.0,
+    "end": 19.28,
+    "word": "heart",
+    "probability": 0.9978616833686829
+  },
+  {
+    "start": 19.28,
+    "end": 19.76,
+    "word": "midbeat.",
+    "probability": 0.6939597576856613
+  },
+  {
+    "start": 20.12,
+    "end": 20.42,
+    "word": "That's",
+    "probability": 0.9964011907577515
+  },
+  {
+    "start": 20.42,
+    "end": 20.56,
+    "word": "why",
+    "probability": 0.9981038570404053
+  },
+  {
+    "start": 20.56,
+    "end": 20.68,
+    "word": "your",
+    "probability": 0.9945775270462036
+  },
+  {
+    "start": 20.68,
+    "end": 20.94,
+    "word": "heart",
+    "probability": 0.9998264908790588
+  },
+  {
+    "start": 20.94,
+    "end": 21.2,
+    "word": "needs",
+    "probability": 0.997305154800415
+  },
+  {
+    "start": 21.2,
+    "end": 21.4,
+    "word": "omega",
+    "probability": 0.7442309260368347
+  },
+  {
+    "start": 21.4,
+    "end": 21.9,
+    "word": "-3",
+    "probability": 0.835959792137146
+  },
+  {
+    "start": 21.9,
+    "end": 22.22,
+    "word": "fish",
+    "probability": 0.9820533990859985
+  },
+  {
+    "start": 22.22,
+    "end": 22.42,
+    "word": "oil.",
+    "probability": 0.996510922908783
+  },
+  {
+    "start": 22.84,
+    "end": 22.9,
+    "word": "It",
+    "probability": 0.9972010850906372
+  },
+  {
+    "start": 22.9,
+    "end": 23.28,
+    "word": "cools",
+    "probability": 0.9957147538661957
+  },
+  {
+    "start": 23.28,
+    "end": 23.4,
+    "word": "that",
+    "probability": 0.9966444969177246
+  },
+  {
+    "start": 23.4,
+    "end": 23.68,
+    "word": "swelling",
+    "probability": 0.9981593489646912
+  },
+  {
+    "start": 23.68,
+    "end": 24.08,
+    "word": "down,",
+    "probability": 0.999702513217926
+  },
+  {
+    "start": 24.36,
+    "end": 24.52,
+    "word": "and",
+    "probability": 0.9968504309654236
+  },
+  {
+    "start": 24.52,
+    "end": 24.62,
+    "word": "in",
+    "probability": 0.993901252746582
+  },
+  {
+    "start": 24.62,
+    "end": 24.68,
+    "word": "a",
+    "probability": 0.9944002032279968
+  },
+  {
+    "start": 24.68,
+    "end": 24.9,
+    "word": "study",
+    "probability": 0.9993914365768433
+  },
+  {
+    "start": 24.9,
+    "end": 25.12,
+    "word": "of",
+    "probability": 0.9978456497192383
+  },
+  {
+    "start": 25.12,
+    "end": 25.32,
+    "word": "over",
+    "probability": 0.9944827556610107
+  },
+  {
+    "start": 25.32,
+    "end": 25.66,
+    "word": "25",
+    "probability": 0.9870933890342712
+  },
+  {
+    "start": 25.66,
+    "end": 26.42,
+    "word": ",000",
+    "probability": 0.9748550951480865
+  },
+  {
+    "start": 26.42,
+    "end": 26.8,
+    "word": "adults,",
+    "probability": 0.9983514547348022
+  },
+  {
+    "start": 26.8,
+    "end": 27.22,
+    "word": "just",
+    "probability": 0.12862922251224518
+  },
+  {
+    "start": 27.22,
+    "end": 27.56,
+    "word": "one",
+    "probability": 0.6522917747497559
+  },
+  {
+    "start": 27.56,
+    "end": 27.84,
+    "word": "gram",
+    "probability": 0.9650905728340149
+  },
+  {
+    "start": 27.84,
+    "end": 28.0,
+    "word": "a",
+    "probability": 0.9888155460357666
+  },
+  {
+    "start": 28.0,
+    "end": 28.22,
+    "word": "day",
+    "probability": 0.9982494711875916
+  },
+  {
+    "start": 28.22,
+    "end": 28.48,
+    "word": "cut",
+    "probability": 0.7480322122573853
+  },
+  {
+    "start": 28.48,
+    "end": 28.66,
+    "word": "the",
+    "probability": 0.9967922568321228
+  },
+  {
+    "start": 28.66,
+    "end": 28.9,
+    "word": "risk",
+    "probability": 0.9984995126724243
+  },
+  {
+    "start": 28.9,
+    "end": 29.02,
+    "word": "of",
+    "probability": 0.9956972599029541
+  },
+  {
+    "start": 29.02,
+    "end": 29.22,
+    "word": "fatal",
+    "probability": 0.9969413876533508
+  },
+  {
+    "start": 29.22,
+    "end": 29.54,
+    "word": "heart",
+    "probability": 0.9980319142341614
+  },
+  {
+    "start": 29.54,
+    "end": 29.94,
+    "word": "attacks",
+    "probability": 0.9899640679359436
+  },
+  {
+    "start": 29.94,
+    "end": 30.14,
+    "word": "in",
+    "probability": 0.9939385652542114
+  },
+  {
+    "start": 30.14,
+    "end": 30.42,
+    "word": "half.",
+    "probability": 0.9947627186775208
+  },
+  {
+    "start": 31.32,
+    "end": 31.56,
+    "word": "Next,",
+    "probability": 0.923150360584259
+  },
+  {
+    "start": 31.94,
+    "end": 32.02,
+    "word": "your",
+    "probability": 0.9842875003814697
+  },
+  {
+    "start": 32.02,
+    "end": 32.34,
+    "word": "eyes.",
+    "probability": 0.9968825578689575
+  },
+  {
+    "start": 32.8,
+    "end": 33.2,
+    "word": "Staring",
+    "probability": 0.9536803662776947
+  },
+  {
+    "start": 33.2,
+    "end": 33.4,
+    "word": "at",
+    "probability": 0.9741835594177246
+  },
+  {
+    "start": 33.4,
+    "end": 33.44,
+    "word": "a",
+    "probability": 0.99710613489151
+  },
+  {
+    "start": 33.44,
+    "end": 33.68,
+    "word": "glowing",
+    "probability": 0.9993104934692383
+  },
+  {
+    "start": 33.68,
+    "end": 34.18,
+    "word": "screen",
+    "probability": 0.9954623579978943
+  },
+  {
+    "start": 34.18,
+    "end": 34.54,
+    "word": "for",
+    "probability": 0.9953248500823975
+  },
+  {
+    "start": 34.54,
+    "end": 34.9,
+    "word": "12",
+    "probability": 0.9435140490531921
+  },
+  {
+    "start": 34.9,
+    "end": 35.18,
+    "word": "hours",
+    "probability": 0.992576539516449
+  },
+  {
+    "start": 35.18,
+    "end": 35.32,
+    "word": "a",
+    "probability": 0.9963679313659668
+  },
+  {
+    "start": 35.32,
+    "end": 35.58,
+    "word": "day,",
+    "probability": 0.9995948672294617
+  },
+  {
+    "start": 35.8,
+    "end": 36.04,
+    "word": "blast",
+    "probability": 0.9662874341011047
+  },
+  {
+    "start": 36.04,
+    "end": 36.34,
+    "word": "your",
+    "probability": 0.9944179058074951
+  },
+  {
+    "start": 36.34,
+    "end": 36.78,
+    "word": "retinas",
+    "probability": 0.876751571893692
+  },
+  {
+    "start": 36.78,
+    "end": 37.0,
+    "word": "with",
+    "probability": 0.994485080242157
+  },
+  {
+    "start": 37.0,
+    "end": 37.3,
+    "word": "damaging",
+    "probability": 0.9886243343353271
+  },
+  {
+    "start": 37.3,
+    "end": 37.78,
+    "word": "blue",
+    "probability": 0.9970545768737793
+  },
+  {
+    "start": 37.78,
+    "end": 38.18,
+    "word": "light",
+    "probability": 0.9939005374908447
+  },
+  {
+    "start": 38.18,
+    "end": 38.64,
+    "word": "that",
+    "probability": 0.8947621583938599
+  },
+  {
+    "start": 38.64,
+    "end": 39.04,
+    "word": "slowly",
+    "probability": 0.9966145157814026
+  },
+  {
+    "start": 39.04,
+    "end": 39.6,
+    "word": "rots",
+    "probability": 0.9628355205059052
+  },
+  {
+    "start": 39.6,
+    "end": 39.74,
+    "word": "your",
+    "probability": 0.9965417981147766
+  },
+  {
+    "start": 39.74,
+    "end": 40.1,
+    "word": "vision",
+    "probability": 0.9991256594657898
+  },
+  {
+    "start": 40.1,
+    "end": 40.4,
+    "word": "into",
+    "probability": 0.996345579624176
+  },
+  {
+    "start": 40.4,
+    "end": 40.7,
+    "word": "blindness.",
+    "probability": 0.9957616925239563
+  },
+  {
+    "start": 41.38,
+    "end": 41.48,
+    "word": "To",
+    "probability": 0.9930292963981628
+  },
+  {
+    "start": 41.48,
+    "end": 41.7,
+    "word": "stop",
+    "probability": 0.9993094205856323
+  },
+  {
+    "start": 41.7,
+    "end": 42.0,
+    "word": "that,",
+    "probability": 0.9991222023963928
+  },
+  {
+    "start": 42.22,
+    "end": 42.36,
+    "word": "your",
+    "probability": 0.9918408393859863
+  },
+  {
+    "start": 42.36,
+    "end": 42.66,
+    "word": "eyes",
+    "probability": 0.9987812638282776
+  },
+  {
+    "start": 42.66,
+    "end": 42.86,
+    "word": "want",
+    "probability": 0.995442271232605
+  },
+  {
+    "start": 42.86,
+    "end": 43.44,
+    "word": "lutein",
+    "probability": 0.7527485291163126
+  },
+  {
+    "start": 43.44,
+    "end": 43.58,
+    "word": "and",
+    "probability": 0.9861209988594055
+  },
+  {
+    "start": 43.58,
+    "end": 44.4,
+    "word": "zeaxanthin,",
+    "probability": 0.7825876325368881
+  },
+  {
+    "start": 44.66,
+    "end": 44.88,
+    "word": "yellow",
+    "probability": 0.9844498038291931
+  },
+  {
+    "start": 44.88,
+    "end": 45.5,
+    "word": "antioxidant",
+    "probability": 0.9848259687423706
+  },
+  {
+    "start": 45.5,
+    "end": 46.1,
+    "word": "pigments",
+    "probability": 0.9957486987113953
+  },
+  {
+    "start": 46.1,
+    "end": 46.32,
+    "word": "that",
+    "probability": 0.9885925054550171
+  },
+  {
+    "start": 46.32,
+    "end": 46.48,
+    "word": "act",
+    "probability": 0.9991018772125244
+  },
+  {
+    "start": 46.48,
+    "end": 46.7,
+    "word": "like",
+    "probability": 0.9982802867889404
+  },
+  {
+    "start": 46.7,
+    "end": 46.92,
+    "word": "built",
+    "probability": 0.9920549392700195
+  },
+  {
+    "start": 46.92,
+    "end": 47.2,
+    "word": "-in",
+    "probability": 0.9310208559036255
+  },
+  {
+    "start": 47.2,
+    "end": 47.42,
+    "word": "sunglasses",
+    "probability": 0.9461660385131836
+  },
+  {
+    "start": 47.42,
+    "end": 48.06,
+    "word": "for",
+    "probability": 0.9985249638557434
+  },
+  {
+    "start": 48.06,
+    "end": 48.18,
+    "word": "your",
+    "probability": 0.995657205581665
+  },
+  {
+    "start": 48.18,
+    "end": 48.62,
+    "word": "eyeballs,",
+    "probability": 0.9936065375804901
+  },
+  {
+    "start": 48.94,
+    "end": 49.1,
+    "word": "which",
+    "probability": 0.9986446499824524
+  },
+  {
+    "start": 49.1,
+    "end": 49.38,
+    "word": "slowed",
+    "probability": 0.9703124165534973
+  },
+  {
+    "start": 49.38,
+    "end": 49.8,
+    "word": "advanced",
+    "probability": 0.9774917960166931
+  },
+  {
+    "start": 49.8,
+    "end": 50.22,
+    "word": "age",
+    "probability": 0.9747510552406311
+  },
+  {
+    "start": 50.22,
+    "end": 50.54,
+    "word": "-related",
+    "probability": 0.9432291984558105
+  },
+  {
+    "start": 50.54,
+    "end": 50.9,
+    "word": "vision",
+    "probability": 0.9986587762832642
+  },
+  {
+    "start": 50.9,
+    "end": 51.12,
+    "word": "loss",
+    "probability": 0.9944005608558655
+  },
+  {
+    "start": 51.12,
+    "end": 51.44,
+    "word": "by",
+    "probability": 0.9912248253822327
+  },
+  {
+    "start": 51.44,
+    "end": 51.56,
+    "word": "up",
+    "probability": 0.9986609220504761
+  },
+  {
+    "start": 51.56,
+    "end": 51.66,
+    "word": "to",
+    "probability": 0.9984765648841858
+  },
+  {
+    "start": 51.66,
+    "end": 52.08,
+    "word": "31",
+    "probability": 0.9928058981895447
+  },
+  {
+    "start": 52.08,
+    "end": 52.62,
+    "word": "%",
+    "probability": 0.829586923122406
+  },
+  {
+    "start": 52.62,
+    "end": 52.9,
+    "word": "in",
+    "probability": 0.9968067407608032
+  },
+  {
+    "start": 52.9,
+    "end": 52.96,
+    "word": "a",
+    "probability": 0.9977845549583435
+  },
+  {
+    "start": 52.96,
+    "end": 53.16,
+    "word": "10",
+    "probability": 0.876282274723053
+  },
+  {
+    "start": 53.16,
+    "end": 53.38,
+    "word": "-year",
+    "probability": 0.9476377367973328
+  },
+  {
+    "start": 53.38,
+    "end": 53.72,
+    "word": "study.",
+    "probability": 0.9985760450363159
+  },
+  {
+    "start": 54.5,
+    "end": 54.78,
+    "word": "Your",
+    "probability": 0.4242602288722992
+  },
+  {
+    "start": 54.78,
+    "end": 55.04,
+    "word": "kidneys",
+    "probability": 0.9954402446746826
+  },
+  {
+    "start": 55.04,
+    "end": 55.38,
+    "word": "are",
+    "probability": 0.9944105744361877
+  },
+  {
+    "start": 55.38,
+    "end": 55.9,
+    "word": "constantly",
+    "probability": 0.9940735697746277
+  },
+  {
+    "start": 55.9,
+    "end": 56.52,
+    "word": "filtering",
+    "probability": 0.9922342300415039
+  },
+  {
+    "start": 56.52,
+    "end": 56.8,
+    "word": "stray",
+    "probability": 0.8848616480827332
+  },
+  {
+    "start": 56.8,
+    "end": 57.22,
+    "word": "calcium",
+    "probability": 0.989129900932312
+  },
+  {
+    "start": 57.22,
+    "end": 57.66,
+    "word": "that",
+    "probability": 0.9802492260932922
+  },
+  {
+    "start": 57.66,
+    "end": 57.98,
+    "word": "loves",
+    "probability": 0.9438865780830383
+  },
+  {
+    "start": 57.98,
+    "end": 58.24,
+    "word": "to",
+    "probability": 0.9951068162918091
+  },
+  {
+    "start": 58.24,
+    "end": 58.92,
+    "word": "crystallize",
+    "probability": 0.9406570494174957
+  },
+  {
+    "start": 58.92,
+    "end": 59.06,
+    "word": "into",
+    "probability": 0.9877225160598755
+  },
+  {
+    "start": 59.06,
+    "end": 59.62,
+    "word": "jagged",
+    "probability": 0.9947140514850616
+  },
+  {
+    "start": 59.62,
+    "end": 59.8,
+    "word": "little",
+    "probability": 0.9054043292999268
+  },
+  {
+    "start": 59.8,
+    "end": 60.08,
+    "word": "kidney",
+    "probability": 0.9975848197937012
+  },
+  {
+    "start": 60.08,
+    "end": 60.52,
+    "word": "stones.",
+    "probability": 0.9964494705200195
+  },
+  {
+    "start": 60.94,
+    "end": 61.06,
+    "word": "You",
+    "probability": 0.9690554141998291
+  },
+  {
+    "start": 61.06,
+    "end": 61.18,
+    "word": "have",
+    "probability": 0.9924966096878052
+  },
+  {
+    "start": 61.18,
+    "end": 61.3,
+    "word": "to",
+    "probability": 0.9973946809768677
+  },
+  {
+    "start": 61.3,
+    "end": 61.56,
+    "word": "cry",
+    "probability": 0.9769978523254395
+  },
+  {
+    "start": 61.56,
+    "end": 61.84,
+    "word": "your",
+    "probability": 0.9977607727050781
+  },
+  {
+    "start": 61.84,
+    "end": 62.02,
+    "word": "way",
+    "probability": 0.998324453830719
+  },
+  {
+    "start": 62.02,
+    "end": 62.22,
+    "word": "into",
+    "probability": 0.9724099040031433
+  },
+  {
+    "start": 62.22,
+    "end": 62.5,
+    "word": "passing.",
+    "probability": 0.9942797422409058
+  },
+  {
+    "start": 63.1,
+    "end": 63.3,
+    "word": "That's",
+    "probability": 0.9847427308559418
+  },
+  {
+    "start": 63.3,
+    "end": 63.44,
+    "word": "why",
+    "probability": 0.9992037415504456
+  },
+  {
+    "start": 63.44,
+    "end": 63.58,
+    "word": "they",
+    "probability": 0.9973909258842468
+  },
+  {
+    "start": 63.58,
+    "end": 63.76,
+    "word": "want",
+    "probability": 0.998887836933136
+  },
+  {
+    "start": 63.76,
+    "end": 64.12,
+    "word": "magnesium",
+    "probability": 0.9697219729423523
+  },
+  {
+    "start": 64.12,
+    "end": 64.62,
+    "word": "to",
+    "probability": 0.9890110492706299
+  },
+  {
+    "start": 64.62,
+    "end": 64.82,
+    "word": "block",
+    "probability": 0.9967785477638245
+  },
+  {
+    "start": 64.82,
+    "end": 65.1,
+    "word": "those",
+    "probability": 0.9879905581474304
+  },
+  {
+    "start": 65.1,
+    "end": 65.4,
+    "word": "minerals",
+    "probability": 0.9994660019874573
+  },
+  {
+    "start": 65.4,
+    "end": 65.7,
+    "word": "from",
+    "probability": 0.9973294734954834
+  },
+  {
+    "start": 65.7,
+    "end": 66.14,
+    "word": "hardening",
+    "probability": 0.9826530814170837
+  },
+  {
+    "start": 66.14,
+    "end": 66.3,
+    "word": "in",
+    "probability": 0.9842549562454224
+  },
+  {
+    "start": 66.3,
+    "end": 66.44,
+    "word": "your",
+    "probability": 0.98870849609375
+  },
+  {
+    "start": 66.44,
+    "end": 66.68,
+    "word": "urine.",
+    "probability": 0.9980506896972656
+  },
+  {
+    "start": 67.12,
+    "end": 67.14,
+    "word": "And",
+    "probability": 0.959220290184021
+  },
+  {
+    "start": 67.14,
+    "end": 67.22,
+    "word": "in",
+    "probability": 0.9805425405502319
+  },
+  {
+    "start": 67.22,
+    "end": 67.46,
+    "word": "adults",
+    "probability": 0.9949729442596436
+  },
+  {
+    "start": 67.46,
+    "end": 67.72,
+    "word": "over",
+    "probability": 0.9889029860496521
+  },
+  {
+    "start": 67.72,
+    "end": 68.16,
+    "word": "50,",
+    "probability": 0.9485366940498352
+  },
+  {
+    "start": 68.5,
+    "end": 68.98,
+    "word": "350",
+    "probability": 0.9905452728271484
+  },
+  {
+    "start": 68.98,
+    "end": 69.48,
+    "word": "mg",
+    "probability": 0.2567220628261566
+  },
+  {
+    "start": 69.48,
+    "end": 69.9,
+    "word": "a",
+    "probability": 0.7251133918762207
+  },
+  {
+    "start": 69.9,
+    "end": 70.1,
+    "word": "day",
+    "probability": 0.9992349147796631
+  },
+  {
+    "start": 70.1,
+    "end": 70.4,
+    "word": "cut",
+    "probability": 0.8447571396827698
+  },
+  {
+    "start": 70.4,
+    "end": 70.58,
+    "word": "the",
+    "probability": 0.9958113431930542
+  },
+  {
+    "start": 70.58,
+    "end": 70.8,
+    "word": "odds",
+    "probability": 0.995646059513092
+  },
+  {
+    "start": 70.8,
+    "end": 70.98,
+    "word": "of",
+    "probability": 0.9962021708488464
+  },
+  {
+    "start": 70.98,
+    "end": 71.16,
+    "word": "chronic",
+    "probability": 0.9820952415466309
+  },
+  {
+    "start": 71.16,
+    "end": 71.54,
+    "word": "kidney",
+    "probability": 0.9993502497673035
+  },
+  {
+    "start": 71.54,
+    "end": 71.94,
+    "word": "disease",
+    "probability": 0.9944739937782288
+  },
+  {
+    "start": 71.94,
+    "end": 72.36,
+    "word": "nearly",
+    "probability": 0.9043967127799988
+  },
+  {
+    "start": 72.36,
+    "end": 72.66,
+    "word": "in",
+    "probability": 0.9926331639289856
+  },
+  {
+    "start": 72.66,
+    "end": 72.96,
+    "word": "half.",
+    "probability": 0.9952467083930969
+  },
+  {
+    "start": 73.86,
+    "end": 74.1,
+    "word": "Your",
+    "probability": 0.9559013843536377
+  },
+  {
+    "start": 74.1,
+    "end": 74.38,
+    "word": "bones",
+    "probability": 0.9963261485099792
+  },
+  {
+    "start": 74.38,
+    "end": 74.94,
+    "word": "slowly",
+    "probability": 0.9890630841255188
+  },
+  {
+    "start": 74.94,
+    "end": 75.38,
+    "word": "hollow",
+    "probability": 0.9964544773101807
+  },
+  {
+    "start": 75.38,
+    "end": 75.74,
+    "word": "out",
+    "probability": 0.9911097288131714
+  },
+  {
+    "start": 75.74,
+    "end": 75.94,
+    "word": "like",
+    "probability": 0.9499449729919434
+  },
+  {
+    "start": 75.94,
+    "end": 76.22,
+    "word": "brittle",
+    "probability": 0.9863285422325134
+  },
+  {
+    "start": 76.22,
+    "end": 76.62,
+    "word": "chalk",
+    "probability": 0.9922202229499817
+  },
+  {
+    "start": 76.62,
+    "end": 76.98,
+    "word": "as",
+    "probability": 0.9792050719261169
+  },
+  {
+    "start": 76.98,
+    "end": 77.12,
+    "word": "you",
+    "probability": 0.998193085193634
+  },
+  {
+    "start": 77.12,
+    "end": 77.38,
+    "word": "age,",
+    "probability": 0.9994999170303345
+  },
+  {
+    "start": 77.76,
+    "end": 77.98,
+    "word": "while",
+    "probability": 0.9922997951507568
+  },
+  {
+    "start": 77.98,
+    "end": 78.2,
+    "word": "loose",
+    "probability": 0.9818876385688782
+  },
+  {
+    "start": 78.2,
+    "end": 78.76,
+    "word": "calcium",
+    "probability": 0.9952867031097412
+  },
+  {
+    "start": 78.76,
+    "end": 79.04,
+    "word": "floats",
+    "probability": 0.9952805638313293
+  },
+  {
+    "start": 79.04,
+    "end": 79.56,
+    "word": "around,",
+    "probability": 0.9971802234649658
+  },
+  {
+    "start": 79.76,
+    "end": 79.92,
+    "word": "turning",
+    "probability": 0.9968519806861877
+  },
+  {
+    "start": 79.92,
+    "end": 80.1,
+    "word": "your",
+    "probability": 0.9932842254638672
+  },
+  {
+    "start": 80.1,
+    "end": 80.42,
+    "word": "arteries",
+    "probability": 0.9989990592002869
+  },
+  {
+    "start": 80.42,
+    "end": 80.78,
+    "word": "into",
+    "probability": 0.993813157081604
+  },
+  {
+    "start": 80.78,
+    "end": 81.2,
+    "word": "concrete",
+    "probability": 0.9943931102752686
+  },
+  {
+    "start": 81.2,
+    "end": 81.6,
+    "word": "pipes.",
+    "probability": 0.997623860836029
+  },
+  {
+    "start": 81.6,
+    "end": 82.24,
+    "word": "So",
+    "probability": 0.6303405165672302
+  },
+  {
+    "start": 82.24,
+    "end": 82.36,
+    "word": "your",
+    "probability": 0.7203056216239929
+  },
+  {
+    "start": 82.36,
+    "end": 82.72,
+    "word": "skeleton",
+    "probability": 0.9762306213378906
+  },
+  {
+    "start": 82.72,
+    "end": 83.12,
+    "word": "wants",
+    "probability": 0.9620294570922852
+  },
+  {
+    "start": 83.12,
+    "end": 83.44,
+    "word": "vitamin",
+    "probability": 0.835196852684021
+  },
+  {
+    "start": 83.44,
+    "end": 84.1,
+    "word": "D3",
+    "probability": 0.9378210306167603
+  },
+  {
+    "start": 84.1,
+    "end": 84.54,
+    "word": "paired",
+    "probability": 0.9856714606285095
+  },
+  {
+    "start": 84.54,
+    "end": 84.72,
+    "word": "with",
+    "probability": 0.9980195760726929
+  },
+  {
+    "start": 84.72,
+    "end": 84.98,
+    "word": "vitamin",
+    "probability": 0.9397570490837097
+  },
+  {
+    "start": 84.98,
+    "end": 85.74,
+    "word": "K2.",
+    "probability": 0.9813549518585205
+  },
+  {
+    "start": 86.06,
+    "end": 86.48,
+    "word": "D3",
+    "probability": 0.9611554741859436
+  },
+  {
+    "start": 86.48,
+    "end": 86.84,
+    "word": "pulls",
+    "probability": 0.9932217597961426
+  },
+  {
+    "start": 86.84,
+    "end": 87.12,
+    "word": "calcium",
+    "probability": 0.9977846741676331
+  },
+  {
+    "start": 87.12,
+    "end": 87.6,
+    "word": "into",
+    "probability": 0.9949390888214111
+  },
+  {
+    "start": 87.6,
+    "end": 87.76,
+    "word": "your",
+    "probability": 0.9973655343055725
+  },
+  {
+    "start": 87.76,
+    "end": 88.02,
+    "word": "blood,",
+    "probability": 0.9975889921188354
+  },
+  {
+    "start": 88.34,
+    "end": 88.42,
+    "word": "and",
+    "probability": 0.9905670285224915
+  },
+  {
+    "start": 88.42,
+    "end": 88.96,
+    "word": "K2",
+    "probability": 0.9927274286746979
+  },
+  {
+    "start": 88.96,
+    "end": 89.44,
+    "word": "activates",
+    "probability": 0.9900873303413391
+  },
+  {
+    "start": 89.44,
+    "end": 89.68,
+    "word": "the",
+    "probability": 0.9709877371788025
+  },
+  {
+    "start": 89.68,
+    "end": 90.04,
+    "word": "proteins",
+    "probability": 0.995824933052063
+  },
+  {
+    "start": 90.04,
+    "end": 90.36,
+    "word": "that",
+    "probability": 0.997930645942688
+  },
+  {
+    "start": 90.36,
+    "end": 90.62,
+    "word": "steer",
+    "probability": 0.955289900302887
+  },
+  {
+    "start": 90.62,
+    "end": 90.78,
+    "word": "it",
+    "probability": 0.9843379855155945
+  },
+  {
+    "start": 90.78,
+    "end": 91.0,
+    "word": "into",
+    "probability": 0.9843646883964539
+  },
+  {
+    "start": 91.0,
+    "end": 91.1,
+    "word": "your",
+    "probability": 0.9944751858711243
+  },
+  {
+    "start": 91.1,
+    "end": 91.46,
+    "word": "bones",
+    "probability": 0.9986180067062378
+  },
+  {
+    "start": 91.46,
+    "end": 92.0,
+    "word": "instead",
+    "probability": 0.9419584274291992
+  },
+  {
+    "start": 92.0,
+    "end": 92.2,
+    "word": "of",
+    "probability": 0.9978134632110596
+  },
+  {
+    "start": 92.2,
+    "end": 92.3,
+    "word": "your",
+    "probability": 0.994178295135498
+  },
+  {
+    "start": 92.3,
+    "end": 92.72,
+    "word": "arteries.",
+    "probability": 0.9992108345031738
+  },
+  {
+    "start": 93.28,
+    "end": 93.92,
+    "word": "Your",
+    "probability": 0.8465073108673096
+  },
+  {
+    "start": 93.92,
+    "end": 94.18,
+    "word": "liver",
+    "probability": 0.9951679706573486
+  },
+  {
+    "start": 94.18,
+    "end": 94.56,
+    "word": "takes",
+    "probability": 0.997137188911438
+  },
+  {
+    "start": 94.56,
+    "end": 94.72,
+    "word": "a",
+    "probability": 0.993846595287323
+  },
+  {
+    "start": 94.72,
+    "end": 95.02,
+    "word": "daily",
+    "probability": 0.9974049925804138
+  },
+  {
+    "start": 95.02,
+    "end": 95.58,
+    "word": "beating,",
+    "probability": 0.9936398863792419
+  },
+  {
+    "start": 95.86,
+    "end": 96.2,
+    "word": "filtering",
+    "probability": 0.9875613451004028
+  },
+  {
+    "start": 96.2,
+    "end": 96.52,
+    "word": "out",
+    "probability": 0.997610330581665
+  },
+  {
+    "start": 96.52,
+    "end": 96.98,
+    "word": "toxins",
+    "probability": 0.9985188841819763
+  },
+  {
+    "start": 96.98,
+    "end": 97.3,
+    "word": "that",
+    "probability": 0.996833860874176
+  },
+  {
+    "start": 97.3,
+    "end": 97.6,
+    "word": "slowly",
+    "probability": 0.992393970489502
+  },
+  {
+    "start": 97.6,
+    "end": 98.34,
+    "word": "suffocate",
+    "probability": 0.9970633685588837
+  },
+  {
+    "start": 98.34,
+    "end": 98.56,
+    "word": "and",
+    "probability": 0.9919646978378296
+  },
+  {
+    "start": 98.56,
+    "end": 98.9,
+    "word": "scar",
+    "probability": 0.9801273345947266
+  },
+  {
+    "start": 98.9,
+    "end": 99.16,
+    "word": "it",
+    "probability": 0.8272730112075806
+  },
+  {
+    "start": 99.16,
+    "end": 99.4,
+    "word": "sells.",
+    "probability": 0.8110848069190979
+  },
+  {
+    "start": 99.96,
+    "end": 100.02,
+    "word": "To",
+    "probability": 0.9538630247116089
+  },
+  {
+    "start": 100.02,
+    "end": 100.32,
+    "word": "survive,",
+    "probability": 0.9981796741485596
+  },
+  {
+    "start": 100.74,
+    "end": 100.82,
+    "word": "it",
+    "probability": 0.9967858791351318
+  },
+  {
+    "start": 100.82,
+    "end": 101.04,
+    "word": "wants",
+    "probability": 0.9917548894882202
+  },
+  {
+    "start": 101.04,
+    "end": 101.58,
+    "word": "NAC,",
+    "probability": 0.7877596616744995
+  },
+  {
+    "start": 102.26,
+    "end": 102.26,
+    "word": "an",
+    "probability": 0.16331380605697632
+  },
+  {
+    "start": 102.26,
+    "end": 103.32,
+    "word": "acetylcysteine,",
+    "probability": 0.7162504136562348
+  },
+  {
+    "start": 103.5,
+    "end": 103.56,
+    "word": "the",
+    "probability": 0.9935156106948853
+  },
+  {
+    "start": 103.56,
+    "end": 103.84,
+    "word": "direct",
+    "probability": 0.9915087223052979
+  },
+  {
+    "start": 103.84,
+    "end": 104.14,
+    "word": "amino",
+    "probability": 0.9930645823478699
+  },
+  {
+    "start": 104.14,
+    "end": 104.54,
+    "word": "acid",
+    "probability": 0.9938528537750244
+  },
+  {
+    "start": 104.54,
+    "end": 104.84,
+    "word": "building",
+    "probability": 0.8478466272354126
+  },
+  {
+    "start": 104.84,
+    "end": 105.2,
+    "word": "block",
+    "probability": 0.9953824877738953
+  },
+  {
+    "start": 105.2,
+    "end": 105.42,
+    "word": "that",
+    "probability": 0.986480176448822
+  },
+  {
+    "start": 105.42,
+    "end": 105.76,
+    "word": "creates",
+    "probability": 0.9971154928207397
+  },
+  {
+    "start": 105.76,
+    "end": 106.5,
+    "word": "glutathione,",
+    "probability": 0.6925187930464745
+  },
+  {
+    "start": 106.88,
+    "end": 106.94,
+    "word": "the",
+    "probability": 0.9833196997642517
+  },
+  {
+    "start": 106.94,
+    "end": 107.34,
+    "word": "master",
+    "probability": 0.5621031522750854
+  },
+  {
+    "start": 107.34,
+    "end": 107.62,
+    "word": "detox",
+    "probability": 0.9947978258132935
+  },
+  {
+    "start": 107.62,
+    "end": 108.24,
+    "word": "molecule",
+    "probability": 0.9972259402275085
+  },
+  {
+    "start": 108.24,
+    "end": 108.9,
+    "word": "hospitals",
+    "probability": 0.6673822402954102
+  },
+  {
+    "start": 108.9,
+    "end": 109.4,
+    "word": "pump",
+    "probability": 0.9695732593536377
+  },
+  {
+    "start": 109.4,
+    "end": 109.66,
+    "word": "into",
+    "probability": 0.9739694595336914
+  },
+  {
+    "start": 109.66,
+    "end": 110.02,
+    "word": "people",
+    "probability": 0.9937396049499512
+  },
+  {
+    "start": 110.02,
+    "end": 110.2,
+    "word": "with",
+    "probability": 0.996483564376831
+  },
+  {
+    "start": 110.2,
+    "end": 110.7,
+    "word": "poisoned",
+    "probability": 0.9876476526260376
+  },
+  {
+    "start": 110.7,
+    "end": 111.16,
+    "word": "failing",
+    "probability": 0.49810752272605896
+  },
+  {
+    "start": 111.16,
+    "end": 111.66,
+    "word": "livers.",
+    "probability": 0.9783034026622772
+  },
+  {
+    "start": 112.14,
+    "end": 112.22,
+    "word": "And",
+    "probability": 0.9383547306060791
+  },
+  {
+    "start": 112.22,
+    "end": 112.54,
+    "word": "finally,",
+    "probability": 0.9781849384307861
+  },
+  {
+    "start": 112.94,
+    "end": 113.04,
+    "word": "your",
+    "probability": 0.9918509125709534
+  },
+  {
+    "start": 113.04,
+    "end": 113.36,
+    "word": "muscles",
+    "probability": 0.9875224232673645
+  },
+  {
+    "start": 113.36,
+    "end": 113.64,
+    "word": "run",
+    "probability": 0.9979748129844666
+  },
+  {
+    "start": 113.64,
+    "end": 113.86,
+    "word": "out",
+    "probability": 0.9988001585006714
+  },
+  {
+    "start": 113.86,
+    "end": 113.96,
+    "word": "of",
+    "probability": 0.9944007992744446
+  },
+  {
+    "start": 113.96,
+    "end": 114.24,
+    "word": "ATP,",
+    "probability": 0.991641640663147
+  },
+  {
+    "start": 114.96,
+    "end": 115.1,
+    "word": "their",
+    "probability": 0.9199333190917969
+  },
+  {
+    "start": 115.1,
+    "end": 115.42,
+    "word": "raw",
+    "probability": 0.9968761205673218
+  },
+  {
+    "start": 115.42,
+    "end": 115.92,
+    "word": "cellular",
+    "probability": 0.939578115940094
+  },
+  {
+    "start": 115.92,
+    "end": 116.28,
+    "word": "battery",
+    "probability": 0.9920073747634888
+  },
+  {
+    "start": 116.28,
+    "end": 116.74,
+    "word": "juice,",
+    "probability": 0.9853752851486206
+  },
+  {
+    "start": 116.76,
+    "end": 117.1,
+    "word": "within",
+    "probability": 0.9927366971969604
+  },
+  {
+    "start": 117.1,
+    "end": 117.64,
+    "word": "seconds",
+    "probability": 0.9980584979057312
+  },
+  {
+    "start": 117.64,
+    "end": 117.86,
+    "word": "of",
+    "probability": 0.9962702989578247
+  },
+  {
+    "start": 117.86,
+    "end": 118.02,
+    "word": "heavy",
+    "probability": 0.9983602166175842
+  },
+  {
+    "start": 118.02,
+    "end": 118.4,
+    "word": "lifting,",
+    "probability": 0.9948813915252686
+  },
+  {
+    "start": 118.78,
+    "end": 119.06,
+    "word": "leaving",
+    "probability": 0.9989120960235596
+  },
+  {
+    "start": 119.06,
+    "end": 119.22,
+    "word": "you",
+    "probability": 0.9992117881774902
+  },
+  {
+    "start": 119.22,
+    "end": 119.52,
+    "word": "weak",
+    "probability": 0.9993465542793274
+  },
+  {
+    "start": 119.52,
+    "end": 119.82,
+    "word": "and",
+    "probability": 0.9965614676475525
+  },
+  {
+    "start": 119.82,
+    "end": 120.24,
+    "word": "exhausted.",
+    "probability": 0.999219536781311
+  },
+  {
+    "start": 120.86,
+    "end": 121.06,
+    "word": "That's",
+    "probability": 0.9931467473506927
+  },
+  {
+    "start": 121.06,
+    "end": 121.18,
+    "word": "why",
+    "probability": 0.9991913437843323
+  },
+  {
+    "start": 121.18,
+    "end": 121.3,
+    "word": "they",
+    "probability": 0.9977102279663086
+  },
+  {
+    "start": 121.3,
+    "end": 121.48,
+    "word": "want",
+    "probability": 0.9983470439910889
+  },
+  {
+    "start": 121.48,
+    "end": 121.72,
+    "word": "creatine",
+    "probability": 0.9276523590087891
+  },
+  {
+    "start": 121.72,
+    "end": 122.26,
+    "word": "to",
+    "probability": 0.9329193234443665
+  },
+  {
+    "start": 122.26,
+    "end": 122.52,
+    "word": "rapidly",
+    "probability": 0.9992105960845947
+  },
+  {
+    "start": 122.52,
+    "end": 123.08,
+    "word": "refuel",
+    "probability": 0.9979944229125977
+  },
+  {
+    "start": 123.08,
+    "end": 123.36,
+    "word": "that",
+    "probability": 0.9935263395309448
+  },
+  {
+    "start": 123.36,
+    "end": 123.64,
+    "word": "energy",
+    "probability": 0.9985659718513489
+  },
+  {
+    "start": 123.64,
+    "end": 123.98,
+    "word": "so",
+    "probability": 0.8187275528907776
+  },
+  {
+    "start": 123.98,
+    "end": 124.1,
+    "word": "you",
+    "probability": 0.9917723536491394
+  },
+  {
+    "start": 124.1,
+    "end": 124.22,
+    "word": "can",
+    "probability": 0.9972319006919861
+  },
+  {
+    "start": 124.22,
+    "end": 124.36,
+    "word": "do",
+    "probability": 0.9985986351966858
+  },
+  {
+    "start": 124.36,
+    "end": 124.64,
+    "word": "more",
+    "probability": 0.9976356029510498
+  },
+  {
+    "start": 124.64,
+    "end": 124.9,
+    "word": "before",
+    "probability": 0.9983794689178467
+  },
+  {
+    "start": 124.9,
+    "end": 125.26,
+    "word": "giving",
+    "probability": 0.9975727200508118
+  },
+  {
+    "start": 125.26,
+    "end": 125.56,
+    "word": "out.",
+    "probability": 0.9976949095726013
+  },
+  {
+    "start": 125.9,
+    "end": 126.16,
+    "word": "In",
+    "probability": 0.6564128994941711
+  },
+  {
+    "start": 126.16,
+    "end": 126.32,
+    "word": "older",
+    "probability": 0.9852424263954163
+  },
+  {
+    "start": 126.32,
+    "end": 127.02,
+    "word": "adults,",
+    "probability": 0.9973456263542175
+  },
+  {
+    "start": 127.36,
+    "end": 127.82,
+    "word": "adding",
+    "probability": 0.9961646795272827
+  },
+  {
+    "start": 127.82,
+    "end": 128.16,
+    "word": "creatine",
+    "probability": 0.9961054921150208
+  },
+  {
+    "start": 128.16,
+    "end": 128.68,
+    "word": "to",
+    "probability": 0.9965271353721619
+  },
+  {
+    "start": 128.68,
+    "end": 128.98,
+    "word": "strength",
+    "probability": 0.9937771558761597
+  },
+  {
+    "start": 128.98,
+    "end": 129.44,
+    "word": "training",
+    "probability": 0.9831078052520752
+  },
+  {
+    "start": 129.44,
+    "end": 129.7,
+    "word": "built",
+    "probability": 0.9289423823356628
+  },
+  {
+    "start": 129.7,
+    "end": 130.04,
+    "word": "about",
+    "probability": 0.30865833163261414
+  },
+  {
+    "start": 130.04,
+    "end": 130.48,
+    "word": "three",
+    "probability": 0.6191364526748657
+  },
+  {
+    "start": 130.48,
+    "end": 130.92,
+    "word": "extra",
+    "probability": 0.9994463324546814
+  },
+  {
+    "start": 130.92,
+    "end": 131.28,
+    "word": "pounds",
+    "probability": 0.9899215698242188
+  },
+  {
+    "start": 131.28,
+    "end": 131.5,
+    "word": "of",
+    "probability": 0.9976108074188232
+  },
+  {
+    "start": 131.5,
+    "end": 131.66,
+    "word": "lean",
+    "probability": 0.9938323497772217
+  },
+  {
+    "start": 131.66,
+    "end": 132.08,
+    "word": "muscle.",
+    "probability": 0.9976087808609009
+  },
+  {
+    "start": 132.52,
+    "end": 132.68,
+    "word": "Just",
+    "probability": 0.9509377479553223
+  },
+  {
+    "start": 132.68,
+    "end": 132.98,
+    "word": "three",
+    "probability": 0.6852500438690186
+  },
+  {
+    "start": 132.98,
+    "end": 133.12,
+    "word": "to",
+    "probability": 0.9970545768737793
+  },
+  {
+    "start": 133.12,
+    "end": 133.36,
+    "word": "five",
+    "probability": 0.9756743311882019
+  },
+  {
+    "start": 133.36,
+    "end": 133.62,
+    "word": "grams",
+    "probability": 0.9938082098960876
+  },
+  {
+    "start": 133.62,
+    "end": 133.86,
+    "word": "a",
+    "probability": 0.9926082491874695
+  },
+  {
+    "start": 133.86,
+    "end": 134.06,
+    "word": "day",
+    "probability": 0.999009370803833
+  },
+  {
+    "start": 134.06,
+    "end": 134.32,
+    "word": "is",
+    "probability": 0.9439170956611633
+  },
+  {
+    "start": 134.32,
+    "end": 134.48,
+    "word": "all",
+    "probability": 0.9953373670578003
+  },
+  {
+    "start": 134.48,
+    "end": 134.6,
+    "word": "it",
+    "probability": 0.9941204190254211
+  },
+  {
+    "start": 134.6,
+    "end": 134.84,
+    "word": "takes.",
+    "probability": 0.9990801811218262
+  }
+]

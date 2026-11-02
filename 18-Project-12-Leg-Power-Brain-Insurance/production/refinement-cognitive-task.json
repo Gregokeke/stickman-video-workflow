@@ -1,0 +1,6 @@
+{
+  "id": "cognitive-task",
+  "prompt": "Change ONLY the blue square, yellow triangle and green star on the screen to saturated RED #ff0000 fills with black outlines and white highlights. Preserve all four shapes and exact positions, white screen, red monitor, COGNITION plaque, dimensional shading, framing and true transparency. Absolutely no blue/yellow/green anywhere. No other changes.",
+  "tool": "built-in ImageGen edit",
+  "output_path": "/workspace/scratch/da11170a9a63/generated_images/exec-5fd2275f-df21-441f-8bba-1c5948bf917e.png"
+}

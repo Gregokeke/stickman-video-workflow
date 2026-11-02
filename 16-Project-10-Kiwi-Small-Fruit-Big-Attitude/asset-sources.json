@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "actinidin",
+    "path": "assets/graphics/actinidin.png",
+    "purpose": "actinidin",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific folded globular protease enzyme, red ribbon/ball surface with a clear central active-site cleft, black contour and folded alpha/beta detail, integrated label ACTINIDIN. A protein, not a germ, face, scissors or pill.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "c50bfbb1235babfe0211ae75f195c03561f1fef2328b6e0e0bb732a67b4ca94d"
+  },
+  {
+    "id": "bedtime-kiwi",
+    "path": "assets/graphics/bedtime-kiwi.png",
+    "purpose": "two kiwis before bed",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone small bedside table with two red whole kiwis and one cut kiwi half on a plate, compact table legs and radial seeds. No bed, person or clock. House red/black style.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "ebe49e51b8af9e52a793564c75da6e34e12a7b20a4e4cb1b89c10a11f20e45f9"
+  },
+  {
+    "id": "brain",
+    "path": "assets/graphics/brain.png",
+    "purpose": "brain chemical",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Accurate sagittal section of human brain in red with black gyri and distinct cerebellum/brainstem, little midline posterior pineal structure visibly marked red/black, integrated label BRAIN. No arrows, face or body.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "7c721c7b8ce85856cb498737cea64877f52e9c24e3c3d46e56a072247fd4134a"
+  },
+  {
+    "id": "calendar",
+    "path": "assets/graphics/calendar.png",
+    "purpose": "a day",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone upright flip calendar with seven clearly separated blank day cells, red bound top, black rules and curled lower corner; no numbers, words or people.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "c52ffcf2d2867dbb0eaebc248c41276b179329227a5a7923a305fee745584444"
+  },
+  {
+    "id": "ceiling-awake",
+    "path": "assets/graphics/ceiling-awake.png",
+    "purpose": "staring at the ceiling",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Red stickman lying stiffly awake on red bed, eyes wide staring UP, hands flat on blanket, annoyed raised eyebrow, clear three-quarter view of mattress and rounded head. No clock, phone, ceiling or text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "47161918e82594a8c3bf9f935f4abe7f00e8a2ec712b1e1a9cfa7a37bbe958fa"
+  },
+  {
+    "id": "clock-3am",
+    "path": "assets/graphics/clock-3am.png",
+    "purpose": "3 am",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone red bedside digital alarm clock in three-quarter view, large black display with precisely legible white digits 3:00 and small AM. Chunky rounded red case and small feet. No person, bed or other numbers.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "66a18d9f21a52bf0ac378c3326fcc3ee12e3f5055e02651191f729f4e8c0140b"
+  },
+  {
+    "id": "clot-bloodstream-edit",
+    "path": "assets/graphics/clot-bloodstream-edit.png",
+    "purpose": "doesn't make you bleed out",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Remove only the complete left presenter, preserve the exact same vessel curvature, cross-section layers, cells, clot and tear. Restore only the occluded vessel edge. Keep true alpha. No new figure or label.",
+    "references": [
+      "references/bloodstream-original-edit-target.png"
+    ],
+    "correction": "Targeted user-requested removal, original vessel design retained.",
+    "sha256": "ea59f4e4d654a8fd59f2eaaa4e0669bebc197c24ab6d186ee21edb81138f7823"
+  },
+  {
+    "id": "coins",
+    "path": "assets/graphics/coins.png",
+    "purpose": "dirt cheap",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone short stack of three red coins with black circular borders and ONE loose coin leaning against stack, no currency symbol or text, bold readable money metaphor.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "0cfb984f1b891a15152618dba11cc914e5dda01c35de1aeb1edc13f52da1c947"
+  },
+  {
+    "id": "comfortable",
+    "path": "assets/graphics/comfortable.png",
+    "purpose": "abdominal comfort",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body same messy-haired red stickman standing relaxed, one hand lightly on belly and other giving thumbs up, delighted relieved eyebrows and smile, red detailed casual jacket. No props.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "72447ed91a2e47f705ff00a78ba466e272a10490d4f220e6e56fc68943668d21"
+  },
+  {
+    "id": "constipated",
+    "path": "assets/graphics/constipated.png",
+    "purpose": "constipation",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman uncomfortable with both hands pressing lower belly, knees bent together, frowning clenched mouth and worried brow; red casual shirt and trousers, no toilet or poop.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "9c0dbaa8a31eea4fe48eb1ef8560197a2116a5e2f554a1a9e6e15a10e96ecc3f"
+  },
+  {
+    "id": "crunch",
+    "path": "assets/graphics/crunch.png",
+    "purpose": "crunch on",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman with messy black hair, cheeks slightly puffed while chewing, holding half a red kiwi near mouth in coherent hand, one raised eyebrow; red detailed jacket, narrow rounded limbs. No dining table or other food.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "f6416f6d0b9aef76b352f91c778f497a80923b5c125df8d6f6ecca200b0796c5"
+  },
+  {
+    "id": "daily-kiwi",
+    "path": "assets/graphics/daily-kiwi.png",
+    "purpose": "eating two kiwis a day",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman happily holding a plate with two red kiwi halves and one whole red kiwi, fork held in other hand, optimistic eyebrows and relaxed red casual jacket. Coherent grip and clear fruit seeds. No text or table.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "dba468108363426b0ff62fbf846470909da777ec089d7c7b228f684f168df4bf"
+  },
+  {
+    "id": "dna",
+    "path": "assets/graphics/dna.png",
+    "purpose": "DNA",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Large upright DNA double helix with accurately paired ladder rungs connecting two twisting red backbones, black separation, integrated bold label DNA. No figure, no extra molecule or text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "ce1942234a525b3d14f821e12bb2a011640b809ce35d3c715eafb460c2dab8e0"
+  },
+  {
+    "id": "eat-kiwi",
+    "path": "assets/graphics/eat-kiwi.png",
+    "purpose": "Go eat",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body messy-haired red stickman taking a deliberate bite from half a red kiwi in coherent hand, other hand giving thumbs-up, humorous satisfied eyes, red jacket, narrow rounded legs, no table or text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "d4af1540da51ba3682f4ba5384ba38125ab2dab4709a1c8aa182f3732b8478d3"
+  },
+  {
+    "id": "fiber-mesh",
+    "path": "assets/graphics/fiber-mesh.png",
+    "purpose": "fiber",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Magnified dietary fiber network of long intertwined red plant-cell fibers and thin black strands, loose porous texture with clear negative spaces, integrated label DIETARY FIBER. No germs, pills, person or droplets.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "326cf128a31c291d873bfae26085e28c377dd06a7cb3a660dd4b6338e07712f3"
+  },
+  {
+    "id": "fiber-portions",
+    "path": "assets/graphics/fiber-portions.png",
+    "purpose": "4 grams of fiber",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "A standalone plate holding TWO cut red kiwi halves and ONE whole red kiwi, clean oval plate and radial black seeds. This image represents the food serving; do not print quantities or captions. No person.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "9ccadd5026932c7685713f859dfdc97d87ef3f39a8834ebecb7b972d213b6de3"
+  },
+  {
+    "id": "folate",
+    "path": "assets/graphics/folate.png",
+    "purpose": "folate",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific folate molecule schematic, pteridine ring group connected through para-aminobenzoate to glutamate tail, red ball-and-stick, black bonds, integrated clear label FOLATE and smaller VITAMIN B9. Avoid human/mascot/pills.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "1e4e79fda9a66fcf748aee79d169e17fbf007936d83a8031f01177fedd06888a"
+  },
+  {
+    "id": "fruit-basket",
+    "path": "assets/graphics/fruit-basket.png",
+    "purpose": "Almost zero fruits",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "A standalone wire fruit bowl filled with identifiable apple, banana, citrus and grapes, all saturated red with bold black contour and species-specific texture, no kiwi, no E symbol or text. Rich detail but clean silhouette.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "73b019ba294e5fe82f16270db175256fdd85f0bc6e98fe006981384d15ea6103"
+  },
+  {
+    "id": "fuzzy-egg",
+    "path": "assets/graphics/fuzzy-egg.png",
+    "purpose": "fuzzy green egg",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Single oval fuzzy kiwi fruit in egg-like upright orientation, one wedge cut away to reveal black seed ring and pale center, red saturated house palette with intricate fine black fuzz, no shell, face, arms, text or plate.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "31e6599265a38b8a4004b6db5e591f51935b3707703b9d64d723e2efd2a778f3"
+  },
+  {
+    "id": "garbage",
+    "path": "assets/graphics/garbage.png",
+    "purpose": "garbage",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body messy-haired red stickman guiltily eating a doughnut beside a small open trash bin filled with crumpled takeaway cartons, eyebrows caught-in-the-act, detailed red jacket; coherent single interaction, no text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "59e79a1760185e5e1673c4a7120d3d1dc667d911e697663e0b11deb87fa7a455"
+  },
+  {
+    "id": "glucose",
+    "path": "assets/graphics/glucose.png",
+    "purpose": "fast-burning carbs",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific GLUCOSE molecular identity, six-member glucopyranose ring including one oxygen, hydroxyl groups and CH2OH substituent, bold red ball-and-stick, black bonds, integrated label GLUCOSE. No flame, person, pill or unrelated molecule.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "9f19bd4b3752a215277c9247db422cd5c28953e207b0cc432cd12abf5b3bf6f6"
+  },
+  {
+    "id": "grocery",
+    "path": "assets/graphics/grocery.png",
+    "purpose": "grocery store",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Compact red supermarket produce stand in three-quarter view, open crate overflowing with whole and halved red kiwis, a small shopping basket beside crate and striped awning above. No people, prices, lettering or extraneous food.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "531af8fa0f74531ae298b4dd66d8e75b0ef7fc62e3fbe669b09d7179b79a919e"
+  },
+  {
+    "id": "gym",
+    "path": "assets/graphics/gym.png",
+    "purpose": "pre-workout",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body sporty red stickman in detailed red zip jacket and shorts, black sweatband, standing beside one red dumbbell on ground while preparing for workout, eager arched brow and determined smirk. Rounded narrow stick limbs, not muscular human anatomy.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "6f4937c54bb71ee8d1aba4b9a5eca7c8a06c1974b877f6094ec3e4f40d9c9d17"
+  },
+  {
+    "id": "heart",
+    "path": "assets/graphics/heart.png",
+    "purpose": "heart",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Anatomically recognizable human HEART with four visible main vessels, red rounded ventricles and black coronary detail, slight three-quarter view, integrated label HEART. No face, ECG or symbols.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "ea0c0a2652a938f044f7dbc9701728e65fc73f29c3a7404e0e71629c48ff8231"
+  },
+  {
+    "id": "instructor-straight",
+    "path": "assets/graphics/instructor-straight.png",
+    "generation": "Approved existing supplied instructor pose",
+    "source": "Project6 approved instructor reference",
+    "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62"
+  },
+  {
+    "id": "instructor-up",
+    "path": "assets/graphics/instructor-up.png",
+    "generation": "Approved existing supplied instructor pose",
+    "source": "Project6 approved instructor reference",
+    "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7"
+  },
+  {
+    "id": "kiwi-boxer",
+    "path": "assets/graphics/kiwi-boxer.png",
+    "purpose": "kiwi boxer",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Exactly ONE anthropomorphic KIWI fruit boxer, STRICT SIDE VIEW facing RIGHT. Fuzzy oval whole red kiwi body with one small cutaway oval patch showing radial seeds so unmistakably kiwi. Sharp confident black triangular eyes looking RIGHT. TWO tiny thin legs and tiny rounded feet, TWO coherent red boxing gloves held in a fighting guard, black glove seams. Entire silhouette visible. No mask, no ring, no opponent, no text. Will be duplicated twice on screen; generate one only.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "472797d08d98e88fede67ad5f3fe2af0a9217dfbc888574b764ed14805f66b74"
+  },
+  {
+    "id": "kiwi-hero",
+    "path": "assets/graphics/kiwi-hero.png",
+    "purpose": "kiwi hero",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Whole and halved kiwi, red house palette, true alpha.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "289d6424d71326dc71af4d8f437536fa082df9ca8d57f6e3d0c609efab237ac3"
+  },
+  {
+    "id": "kiwi-schemer",
+    "path": "assets/graphics/kiwi-schemer.png",
+    "purpose": "cheat the system",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "ONE oval fuzzy red kiwi fruit with a cut slice face of black radial seeds, sassy sharp eyes, tiny legs and two tiny gloved hands steepled together, sneaky grin, three-quarter view. No boxing gloves, text or mask.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "75b8e04b0149a9dd01bc808c7f085e321e2127d6f87e6ded830160d2c430e3b1"
+  },
+  {
+    "id": "kiwi-seeds",
+    "path": "assets/graphics/kiwi-seeds.png",
+    "purpose": "tiny black seeds",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Macro kiwi cross-section wedge: curved fuzzy red peel, radial lines and a sharply detailed ring of black teardrop seeds around pale center. One wedge only. No characters or floating oil drops.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "521ba615d1e6eceb19d14ffa69e10c549d4191b5311cc2065b17f0c1da3b478d"
+  },
+  {
+    "id": "lipid-solo",
+    "path": "assets/graphics/lipid-solo.png",
+    "purpose": "fat-soluble",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific triglyceride schematic: glycerol stem and THREE long zigzag fatty-acid tails, red molecular beads and black bonds, integrated label LIPID. No face or fat mascot, no liquid drop.",
+    "references": [
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png",
+      "assets/graphics/membrane.png"
+    ],
+    "correction": "Isolated scientific object generation; explicitly no person, hand, face or mascot.",
+    "sha256": "ce6ecb084adc0574b26fd7a3894223e03052e5587e10a2b57b64ed1f4c23593b"
+  },
+  {
+    "id": "low-fiber-person",
+    "path": "assets/graphics/low-fiber-person.png",
+    "purpose": "critically deficient in fiber",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman seated tiredly on small stool, slumped shoulders, empty red plate in lap, concerned expression and one palm upward. Detailed jacket, simplified rounded legs. No numbers or supplements.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "1c3890ca1d7dfc95c6e0fc7827e17c7457f6e573c4518c0baab4ee7096219587"
+  },
+  {
+    "id": "matters",
+    "path": "assets/graphics/matters.png",
+    "purpose": "this actually matters",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman leaning toward camera with serious raised index finger, other fist at hip, firm knowing eyes, half smirk, detailed red jacket and straight rounded limbs. No props.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "b1337a8660a083d3f0c0d1d5a7a0c6289977582d0b38e15b31adaaf873a1aa3a"
+  },
+  {
+    "id": "medal",
+    "path": "assets/graphics/medal.png",
+    "purpose": "gold standard",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone medal on a red ribbon, thick black contours, central simple star embossed on red round medallion. All red/black, no literal gold fill, no words, no human.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "43600b646eac730d04d3fe5352853043f5e9640afe19d28a42e1ae865b1a15bc"
+  },
+  {
+    "id": "melatonin",
+    "path": "assets/graphics/melatonin.png",
+    "purpose": "melatonin",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific MELATONIN molecule schematic: fused indole ring with methoxy substituent and two-carbon N-acetyl side chain, red molecular spheres and black bonds, integrated label MELATONIN. No moon, face, pill or bottle.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "bcf240570ed280a09c5abc541298af77d3b7d3e456eebfb240a3b4ab743cdff7"
+  },
+  {
+    "id": "membrane",
+    "path": "assets/graphics/membrane.png",
+    "purpose": "cell membranes",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific cell membrane oblique cutaway: two parallel layers of round red phospholipid heads with paired black/red tails pointing toward each other, several embedded proteins. Accurate bilayer morphology, integrated label CELL MEMBRANE. No human, arrows or extra objects.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "881fc6b7a7f504a520ddc7a6e95c2dfa1d6ea00ac8bdb92bba35ec2cb62ff00e"
+  },
+  {
+    "id": "moon",
+    "path": "assets/graphics/moon.png",
+    "purpose": "sleep",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone red crescent moon with black contour, three small four-point star accents as one coherent night icon. No face, text or scene.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "1dc73240fe92c9148162fd779aa5cdb438e2f8532eba6e4ae775ee9837d42b4a"
+  },
+  {
+    "id": "muscle",
+    "path": "assets/graphics/muscle.png",
+    "purpose": "fast-burning",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific schematic skeletal muscle fiber bundle in red, bundled parallel striated fibers and black contour detail, integrated label MUSCLE. No bicep-shaped human or energy symbols.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "768f5689448be569ce388eddb520c2b888a56625a60141288380c2badb13d299"
+  },
+  {
+    "id": "narrator-sass",
+    "path": "assets/graphics/narrator-sass.png",
+    "purpose": "narrator sass",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body messy black-haired red stickman in detailed red casual jacket, smirking confidently to camera, one hand confidently on hip and other hand making dismissive palm-out 'not even close' gesture. Bent eyebrow, smug mouth, rounded simplified body and feet.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "1a84970f11de7e2b08a6fc122f97172584ab6f08d156fab5bdd644bc0a4e22e4"
+  },
+  {
+    "id": "no-fat-narrator",
+    "path": "assets/graphics/no-fat-narrator.png",
+    "purpose": "fruit usually has no fat",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body lean red stickman holding both empty open palms and looking unimpressed, one brow arched, skinny rounded torso under red open jacket, straight narrow legs; do not draw overweight figure or prop.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "7c5df266ce7a7d66ad438ecb3f691cca50abe226b5bad887d79fc3889d493dde"
+  },
+  {
+    "id": "nutrition-cutaway",
+    "path": "assets/graphics/nutrition-cutaway.png",
+    "purpose": "nutrition cutaway",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone detailed kiwi fruit half in exploded cutaway: oval fuzzy red skin, radial black seeds, pale center and several separated readable concentric flesh layers. Clean educational illustration, no characters, no letters.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "ed7dd069985738b6b819bf114081a020ccefa5486a0b270055fd9229a9ee6065"
+  },
+  {
+    "id": "orange-boxer",
+    "path": "assets/graphics/orange-boxer.png",
+    "purpose": "orange boxer",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Exactly ONE anthropomorphic ORANGE FRUIT boxer, STRICT SIDE VIEW facing LEFT, toward an opponent outside image. Round RED orange with black dimpled peel texture, small stem with one leaf. Squinting black eyes, nervous defiant mouth. Two tiny thin legs and rounded feet. Two red boxing gloves in fighting guard with black seams. Not a kiwi, no kiwi seeds. No mask, no ring, no other fruit, no text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "bf9bee33219efb14482312bd3bde440b9469ceebfd4b7931b113dc9e8c18418e"
+  },
+  {
+    "id": "overrate",
+    "path": "assets/graphics/overrate.png",
+    "purpose": "Overrate them",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body confident messy-haired red stickman pointing directly toward viewer with one hand and holding one red kiwi in other, knowing smirk, one eyebrow raised, detailed red casual jacket, straight stick limbs and rounded feet. No captions.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "bef21caabcd6e1cd2c47cfec984d7a1679430893235bb42fbb4e7c898e0edbb5"
+  },
+  {
+    "id": "oxidation-solo",
+    "path": "assets/graphics/oxidation-solo.png",
+    "purpose": "rusting to death",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific membrane fragment showing oxidative damage: several disrupted red phospholipid heads and broken tails on one edge, tiny black radical marks adjacent, integrated label OXIDATIVE DAMAGE. No rust-colored palette, no faces, no literal metal.",
+    "references": [
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png",
+      "assets/graphics/membrane.png"
+    ],
+    "correction": "Isolated scientific object generation; explicitly no person, hand, face or mascot.",
+    "sha256": "b909692320f290b0cd9d0a8cb8dc61fe2d8eb552611d01c40d7624621ba44de3"
+  },
+  {
+    "id": "paper-cut",
+    "path": "assets/graphics/paper-cut.png",
+    "purpose": "paper cut",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Close illustration of red stickman hand with rounded coherent thumb and fingers holding a thin white paper sheet, tiny shallow paper cut at fingertip, one small red droplet only, expressive gesture, black contours. No gore, no face, no background.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "d9e5eb0fb1e58ae00ea4e4b38e46f7916c8adcf0acc910d1b823cde0fd8ca348"
+  },
+  {
+    "id": "passed-out",
+    "path": "assets/graphics/passed-out.png",
+    "purpose": "pass out",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Red stickman deeply asleep in red bed, mouth slightly open and one limp arm hanging relaxed beside bed, red pajama sleeve and pillow, comic but peaceful. No letters, clock or background scene.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "0bee0cb63dcbcc6e7db77655ec69672e87c6d3971e7d1c3bec2b03549b208c41"
+  },
+  {
+    "id": "peptides",
+    "path": "assets/graphics/peptides.png",
+    "purpose": "chop up",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "THREE separate short red peptide chains, each a small distinct strand of connected red beads with black peptide connectors, laid out with clear gaps diagonally. Integrated single label PEPTIDES. No person or enzyme.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "b926a818b3c41159abc00cbca7b84267b1425cde8ba07649b0ffafd8734850c1"
+  },
+  {
+    "id": "pineal",
+    "path": "assets/graphics/pineal.png",
+    "purpose": "pineal gland",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific close-up of pineal gland in anatomical brain midline context, small rounded gland at posterior roof of third ventricle above superior colliculi; gland prominent in red while small surrounding sagittal structures black outlines; integrated label PINEAL GLAND. No mascot or extra parts.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "d4e72ce167d2a7e6d98d7a72e5dcf40e48cc84f0d3387d5c588a522616a9e0f7"
+  },
+  {
+    "id": "poop-shrine",
+    "path": "assets/graphics/poop-shrine.png",
+    "purpose": "higher power",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Exactly one small humorous shrine, THREE-QUARTER VIEW with open FRONT facing LEFT toward a praying person outside image. Solid red roof and thick side walls with black contours visibly show 3D depth; open central alcove clearly reveals a SMALL RED CARTOON POOP SWIRL on a pedestal inside. Compact temple-like construction, front and left interior visible, not a flat icon. No person, religious symbols, text or toilet. No photorealism, no disgust detail.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "7e74266c63cab96106fe1cbbd728d444e0df96fb3b9f6a39374cbe4add62ec3b"
+  },
+  {
+    "id": "post-meal",
+    "path": "assets/graphics/post-meal.png",
+    "purpose": "meal you eat after training",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body sporty red stickman seated eating chicken/rice plate with fork, red zip jacket open, gym sweatband, satisfied expressive eyes and eyebrow. Coherent hands, red chair and narrow stick legs. No text, dumbbell or unrelated foods.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "f3701199e36c5013a999f6aec89d332ac2b58141e6ac126a780a5fb4c8fe673f"
+  },
+  {
+    "id": "potassium",
+    "path": "assets/graphics/potassium.png",
+    "purpose": "potassium",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific POTASSIUM identity: large red sphere marked black K with a simple atomic orbital behind it and the integrated label POTASSIUM. Element K, never vitamin K. No face, hands or bottle.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "066595d1140f2a4355dbf7e932794efaa0719ed785a6eaf587a1d75e6d1a65a0"
+  },
+  {
+    "id": "praying",
+    "path": "assets/graphics/praying.png",
+    "purpose": "praying to a higher power",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Separate FULL-BODY rounded red stickman kneeling on both knees in THREE-QUARTER SIDE VIEW FACING RIGHT, both palms pressed together in earnest prayer, eyes squeezed shut, sassy despairing raised brows, red detailed casual jacket, coherent hands and knees, complete rounded feet. No shrine, toilet, poop or other props.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "7e07ef30390d2f29874dc94da16e70d19508f6b664fbfa9501c97ccc46914611"
+  },
+  {
+    "id": "protein",
+    "path": "assets/graphics/protein.png",
+    "purpose": "heavy proteins",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific folded long polypeptide chain: red bead chain loops with black peptide-bond connectors, one clean accessible extended central chain section; integrated label PROTEIN. No scissors, enzyme or background.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "dac8ce523c9dc9e1e236af0bff25f41768ccf1f73ca7027d2e060977bcc71d0b"
+  },
+  {
+    "id": "quiet-kiwi",
+    "path": "assets/graphics/quiet-kiwi.png",
+    "purpose": "nobody talks about them",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman quietly looking sideways while making shushing finger near lips, other hand presenting one red kiwi half, raised skeptical brow, detailed red casual jacket, rounded anatomy. No words or symbols.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "670e3a178be3651e480473b5f6c99326c19ecaed11ce5d8342cea8e197a58a2e"
+  },
+  {
+    "id": "referee",
+    "path": "assets/graphics/referee.png",
+    "purpose": "unfair",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body bald round red stickman referee with black bowtie, red collared shirt, trousers, hands spread toward two opponents outside image, hilarious tilted skeptical eyebrow and side-eye. Facing camera. No fruit or boxing ring.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "bdfa4a810c001af817a4911056139f026a2775c00d73d7024489c473f9ba542a"
+  },
+  {
+    "id": "scientist",
+    "path": "assets/graphics/scientist.png",
+    "purpose": "clinical science",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman scientist wearing red lab coat with black seams over red shirt, black round spectacles, holding small research clipboard and looking thoughtfully to side. Rounded stick limbs, no realistic hands. No lab scenery or text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "7af5da4288599c881d27c9271dd443f40649aa77ad80f3ba603856c9bf6f810a"
+  },
+  {
+    "id": "scissors",
+    "path": "assets/graphics/scissors.png",
+    "purpose": "chemical scissors",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone oversized red scissors in three-quarter view, two red loop handles with black contour and blades open at45 degrees, black hinge detail. No hands, protein, text or sparkle.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "427aa59207347fc7476450f47bebbed2fc76fd445406c360e1d5949d536bb8b7"
+  },
+  {
+    "id": "seed-oil",
+    "path": "assets/graphics/seed-oil.png",
+    "purpose": "natural oils",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "One enlarged black kiwi seed split lengthwise, red inner storage tissue visible inside, a SINGLE red oil drop emerging at its tip. Schematic clear seed anatomy and integrated label SEED OIL. No faces or hands.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "9e6f0a8fccf749db5e2b25fe6f7f95b940259933e3b55c919c38ad6c27813a1c"
+  },
+  {
+    "id": "serotonin",
+    "path": "assets/graphics/serotonin.png",
+    "purpose": "serotonin",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific SEROTONIN molecular identity: planar fused six-member benzene and five-member pyrrole indole rings, 5-hydroxyl substituent, two-carbon primary amine side chain. Bold red molecular spheres and black sticks, integrated label SEROTONIN. Correct recognizable topology, no humans or pills.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "85c27a1001cfe95b7b8d79ad2b1c702655134e592b8e4eaadfec060ab7af9df2"
+  },
+  {
+    "id": "shield",
+    "path": "assets/graphics/shield.png",
+    "purpose": "antioxidant",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "A single standalone imposing red shield with bold black edge and an abstract small star impact at its outer edge, an open palm-like broad protective silhouette. No text or letters, no body or face.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "a99c98df5aca27c5a3887ab187ef2db8b61df7273df8a56108806a324696746d"
+  },
+  {
+    "id": "sleep-quality",
+    "path": "assets/graphics/sleep-quality.png",
+    "purpose": "upgrade your sleep quality",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Red stickman resting comfortably on pillow in red bed, body covered by red blanket to chest, simplified round face with peaceful smile and closed eyes, one hand relaxed on blanket. No Z letters, clock, moon or scene.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "2fd4fcb477134678d34f307a2a25b14e49c0eebd91915f12fe8dedc2b773eb16"
+  },
+  {
+    "id": "sleepy",
+    "path": "assets/graphics/sleepy.png",
+    "purpose": "sleep is underrated",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman in red pajamas yawning into one hand, other holding a small pillow, drooping eyelids and tired expressive brow, relaxed slouch, rounded simplified body. No bed or clock.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "486cfe326f109de5f16a060f7e9d06558068f70c9f0106fd1dbcef0c93e12b8f"
+  },
+  {
+    "id": "sponge",
+    "path": "assets/graphics/sponge.png",
+    "purpose": "like a sponge",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone three-quarter red household sponge with rounded rectangular shape, large black-rimmed pores, compressed slightly at one edge; no hands, water, text or face. Porous structure readable.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "643a9ac388ea62d6822216f24287ccbd9cc6f0a800f0293d7b2ec92a473a9fab"
+  },
+  {
+    "id": "stomach",
+    "path": "assets/graphics/stomach.png",
+    "purpose": "stomach",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Anatomically recognizable stomach organ with esophagus entering upper left and duodenum exit lower right, oblique red cutaway showing gastric folds, black contour and integrated label STOMACH. No human, face, food or arrows.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "6e7142aaca855bf401e2415d4aa040ddaa3a1ea4eda7749df515506213a87b47"
+  },
+  {
+    "id": "sweeping-gut",
+    "path": "assets/graphics/sweeping-gut.png",
+    "purpose": "sweep your intestines clean",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Educational curved segment of large intestine cut open, a soft fibrous red bolus inside with a clear channel around it; black interior fold lines. Integrated label COLON. No literal broom, no harsh scrubbing, no human.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "ba9b06628b2d8eea8cfc279f861f483a66c7c6665f0fb2a170f7d1a0c00850ab"
+  },
+  {
+    "id": "toilet-sitter",
+    "path": "assets/graphics/toilet-sitter.png",
+    "purpose": "40 minutes on the toilet",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Red stickman fully clothed sitting on a simple red toilet, hunched elbows on knees, cheek resting in one hand with exhausted annoyed eyes and mouth, narrow trousers and rounded feet. No exposed genitals, no text, no clock or other objects.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "72510a2fa970acc8d77b00a3d6fcb99517b1e671b0c371a94cde46dadc4199a6"
+  },
+  {
+    "id": "tragic-gut",
+    "path": "assets/graphics/tragic-gut.png",
+    "purpose": "tragic gut",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body red stickman doubled slightly forward, hand pressing lower belly and other hand pleading, comedic pained expression, black eyebrows and sweat bead, detailed red casual jacket, no organs outside body.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "73a8071b6d3b223518fc6c8df48ae89600fc39d49ccc2481a0fca937b5c7ff5a"
+  },
+  {
+    "id": "trial-document",
+    "path": "assets/graphics/trial-document.png",
+    "purpose": "randomized controlled trial",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone research clipboard at slight three-quarter angle with a clean paper showing small random assignment branching into two clear groups of round participant icons; black lines and red nodes, integrated title RCT only. No invented results, percentages, other text or figure.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "94e2cbddbfcabdfb07a209a46e58fd8c07186bd2b727d3facd35f514f937ee5b"
+  },
+  {
+    "id": "vitamin-c",
+    "path": "assets/graphics/vitamin-c.png",
+    "purpose": "vitamin C",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific identity illustration: L-ASCORBIC ACID, vitamin C. Recognizable red molecular ball-and-stick schematic with five-member lactone ring and hydroxyl groups, black bond detail, no atom-count decorations. Large integrated label VITAMIN C with smaller ASCORBIC ACID. No person or pill.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "ae107294504d4419386db5737a729d028ad8f5cf1fd4b4adc79fb98055b68b76"
+  },
+  {
+    "id": "vitamin-e-solo",
+    "path": "assets/graphics/vitamin-e-solo.png",
+    "purpose": "vitamin E",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific alpha-TOCOPHEROL identity: chromanol ring head with hydroxyl and long branched hydrocarbon tail. Red ball-and-stick schematic and black bond detail; large integrated label VITAMIN E with smaller TOCOPHEROL. No mascot or pills.",
+    "references": [
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png",
+      "assets/graphics/membrane.png"
+    ],
+    "correction": "Isolated scientific object generation; explicitly no person, hand, face or mascot.",
+    "sha256": "0f2fd271d055565d90fabdf7d8dab29a5569cbac24df22b730946b181f83a17f"
+  },
+  {
+    "id": "vitamin-k-solo",
+    "path": "assets/graphics/vitamin-k-solo.png",
+    "purpose": "vitamin K",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Scientific phylloquinone identity, naphthoquinone double-ring head and long branched phytyl tail, bold red/black simplified structural diagram, integrated label VITAMIN K1. No potassium K sphere or pill.",
+    "references": [
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png",
+      "assets/graphics/membrane.png"
+    ],
+    "correction": "Isolated scientific object generation; explicitly no person, hand, face or mascot.",
+    "sha256": "27018bcc0f3d010e79c8873d47a9c08cc54ae93a310461e7a72b690398d12216"
+  },
+  {
+    "id": "water-drop",
+    "path": "assets/graphics/water-drop.png",
+    "purpose": "water",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Single large teardrop of water in red-and-black house palette, clean transparent shine shapes and thick black contour, simple round lower body, no text, face, seeds or extra drops.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "37d1fe93ba5dcb6a9ae0af53d31d7ba709698b37c3a77021e76616d1634fd74b"
+  },
+  {
+    "id": "weird-narrator",
+    "path": "assets/graphics/weird-narrator.png",
+    "purpose": "weirdest one",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Full-body messy-haired red stickman squinting one eye, head tilted, rubbing chin and pointing sideways, comically suspicious; bold expressive black brows, detailed red casual jacket. No objects.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "b931920b3458a709ef764c8725692c334efeb52492c8e49fcb5516545955d5b9"
+  },
+  {
+    "id": "wet-brick",
+    "path": "assets/graphics/wet-brick.png",
+    "purpose": "wet brick",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "ONE heavy rectangular red brick in three-quarter view with black pitted surface, mortar ridges and a few red water droplets sliding down its side. No face, gut, text or person.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "30fa4f3cb0c3a6585ddd381a6ef81be889b5a11c7e3a1f4489c46fd465fbb26c"
+  },
+  {
+    "id": "workout-kiwi",
+    "path": "assets/graphics/workout-kiwi.png",
+    "purpose": "snacks",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone small gym snack plate with two red kiwi halves and a whole kiwi, beside a simple folded red gym towel, fine radial seeds, no person, dumbbell or lettering.",
+    "references": [
+      "assets/graphics/kiwi-hero.png",
+      "assets/graphics/folate.png",
+      "assets/graphics/dna.png"
+    ],
+    "sha256": "2ed24102984d2c1d5f0f3e4b3faa0d864a5d22e81ce9748c3579cd115951e246"
+  },
+  {
+    "id": "world",
+    "path": "assets/graphics/world.png",
+    "purpose": "world",
+    "generation": "Built-in ImageGen",
+    "style_spec": "Expressive saturated red/black rounded graphic illustrations; true alpha; one independent narrative asset per prompt; generous transparent margins, no backing or baked shadows. Main people match detailed Manipulator clothing and sass, simplified rounded stick anatomy. Scientific objects are standalone and identity-labeled, never nutrient mascots.",
+    "prompt": "Standalone detailed red globe with black continents and latitude/longitude lines, recognizably Earth, oblique view of Europe/Africa/Americas; no pedestal, people or text.",
+    "references": [
+      "references/style-eater.png",
+      "references/schemer.png",
+      "references/self-idea.png"
+    ],
+    "sha256": "b9065d2ea489b2c3f60973e6f774e2108c6cadcff22f790e3ea27dc7013d0e67"
+  },
+  {
+    "id": "kiwi-underrated-sad",
+    "path": "assets/graphics/kiwi-underrated-sad.png",
+    "purpose": "Sad underrated boxer",
+    "generation": "Built-in ImageGen targeted edit",
+    "prompt": "Change pose/expression only: drooping shoulders, slouch, downcast open eyes, sad closed mouth, both red boxing gloves hanging low; preserve red/black fuzzy kiwi identity and small legs/shoes.",
+    "references": [
+      "references/revision-kiwi-champion-edit-target.png"
+    ],
+    "sha256": "d2f905c8ce150004db57583bade0081928ee31b03cb3f59cef0028e574597dbb"
+  },
+  {
+    "id": "tarantula-larger-abdomen",
+    "path": "assets/graphics/tarantula-larger-abdomen.png",
+    "purpose": "Larger tarantula abdomen",
+    "generation": "Built-in ImageGen targeted edit",
+    "prompt": "Enlarge only rear abdomen approximately18%; preserve face, all legs, orientation, red/black contours, isolated alpha.",
+    "references": [
+      "references/revision-tarantula-edit-target.png"
+    ],
+    "sha256": "a9c326317b0c23e13a1923f03b2986a4a2465d28ae2748a8c825ebf2e8b714ef"
+  }
+]

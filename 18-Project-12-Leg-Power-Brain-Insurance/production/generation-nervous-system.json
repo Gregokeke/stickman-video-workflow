@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 14,
+    "id": "nervous-system",
+    "output_filename": "nervous-system.png",
+    "output_path": "images/nervous-system.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "that keep your nervous system firing",
+    "video_cue_seconds": 103.18,
+    "references": [
+      "references/current/brain.png",
+      "references/current/neural-network.png",
+      "references/current/lower-body-anatomy.png"
+    ],
+    "prompt": "Use case: scientific-educational.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE standalone stylized educational NERVOUS SYSTEM teaching model: a red anatomically recognizable brain at top, a central spinal cord descending beneath it, and paired branching peripheral nerves spreading bilaterally into a torso-and-limb-shaped network. No human skin, body outline, face, eyes, clothes, skeleton, muscles or stickman behind/inside it. Only the neural structures and one integrated red plaque reading NERVOUS SYSTEM. Keep the spinal cord and branch relationships coherent; do not draw arbitrary spaghetti. Red neural structures with strong black contours on true transparency, complete terminals and no cropped branches.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "7e8cfa50f27527ae1dfc2f21fb438674615ff02a1f8db9f63992025450677408"
+}

@@ -1,0 +1,24 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 10,
+    "id": "squat-exercise",
+    "output_filename": "squat-exercise.png",
+    "output_path": "images/squat-exercise.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "Movements like squats,",
+    "video_cue_seconds": 96.34,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/loaded-squat.png",
+      "references/style/style-eater.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current rounded red gym character in a red training shirt with black accents/undershirt, red shorts and rounded gym shoes. Correct UNLOADED squat, clearly in SIDE VIEW: heels flat and grounded, knees tracking in line with feet, hips lowered back, chest upright with neutral spine, arms extended forward naturally for balance. Match gym-hero.png identity and sturdy simple limbs. loaded-squat.png is proportion/finish reference only: NO dumbbell or other load in this output. Entire hands, feet and head visible. No realistic bodybuilding anatomy, equipment or text.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": [
+      "Refined side profile squat"
+    ]
+  },
+  "sha256": "e6c3c6c01953035665e9b65f9827652a7d16aa9f50b03b81b2a4898637fffda8"
+}

@@ -1,0 +1,16 @@
+{
+  "samples": 73,
+  "held_prop_collisions": [],
+  "ui_conflicts": [],
+  "intentional_contacts": [
+    {
+      "t": 67.345,
+      "a": "echo-chamber-friends",
+      "b": "echo-padlock",
+      "fraction_of_smaller": 0.14034021871202917,
+      "reason": "Independent padlock deliberately attached to the chamber door latch"
+    }
+  ],
+  "guide": "references/red-zone-canvas.png",
+  "method": "opaque-alpha intersection; teacher head regions checked separately; purposeful cane contact excluded"
+}

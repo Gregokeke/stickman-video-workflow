@@ -66,3 +66,8 @@ The latest follow-up removed the previously inserted 600 ms pause. The authorita
 - Count newly created independent assets separately from appearances, reuse, presenters and clipped parts. Archive prose and storyboard counts can use different definitions; do not inflate original-art counts with duplicates or layer splits.
 
 Existing global narration, sound, illustration originality, provenance, scientific accuracy and full-study requirements remain applicable. No new instructor poses were generated in this documentation update.
+
+
+## Repository import completed — 2 November 2026
+
+The user subsequently requested these five as actual reference projects. They are now references 8–12, fully expanded in repository folders 14–18, with every original archive member byte-identical. This supersedes the earlier supporting-only/not-included status above. Read [REFERENCE-PROJECTS.md](../REFERENCE-PROJECTS.md) and workflow section 32. No new normal-speed audiovisual review or motion QA is claimed by this import; the original study-method limitations still apply.

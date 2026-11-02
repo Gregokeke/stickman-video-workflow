@@ -1,0 +1,1 @@
+Isolated symbolic antioxidant molecule, compact red beads/rods, large exact label LUTEIN / ZEAXANTHIN, no people, no invented exact chemistry, red black white transparent PNG. Replaces thin source chains for legibility.

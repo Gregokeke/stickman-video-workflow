@@ -1,0 +1,19 @@
+{
+  "references/style/style-eater.png": "references/style-eater.png",
+  "references/style/schemer.png": "references/schemer.png",
+  "references/style/self-idea.png": "references/self-idea.png",
+  "references/current/adult-host.png": "assets/graphics/dismissive-host.png",
+  "references/current/gym-hero.png": "assets/graphics/strong-legs-summary.png",
+  "references/current/loaded-squat.png": "assets/graphics/squat-athlete.png",
+  "references/current/older-thoughtful.png": "assets/graphics/older-self.png",
+  "references/current/older-cautious.png": "assets/graphics/paranoid-step.png",
+  "references/current/older-moustache.png": "assets/graphics/eighty-year-old.png",
+  "references/current/brain.png": "assets/graphics/brain.png",
+  "references/current/neural-network.png": "assets/graphics/neural-network.png",
+  "references/current/lower-body-anatomy.png": "assets/graphics/lower-body.png",
+  "references/current/calendar.png": "assets/graphics/follow-up-calendar.png",
+  "references/current/dumbbell.png": "assets/graphics/resistance-weight.png",
+  "references/current/study-report.png": "assets/graphics/study-report.png",
+  "references/current/mobility-walker.png": "assets/graphics/walker.png",
+  "references/current/cognitive-monitor.png": "assets/graphics/cognitive-task.png"
+}

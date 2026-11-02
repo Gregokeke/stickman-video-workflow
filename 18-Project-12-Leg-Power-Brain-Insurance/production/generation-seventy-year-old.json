@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 5,
+    "id": "seventy-year-old",
+    "output_filename": "seventy-year-old.png",
+    "output_path": "images/seventy-year-old.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "Plenty of 70 and 80-year-olds",
+    "video_cue_seconds": 83.28,
+    "references": [
+      "references/current/older-thoughtful.png",
+      "references/current/older-cautious.png",
+      "references/current/older-moustache.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body older male rounded stickman representing the 70-year-old side of a later comparison. Match the face family and red wardrobe of older-thoughtful.png, with short sparse gray hair, a few simple cartoon cheek creases, red zip cardigan over black shirt and straight red trousers. Upright standing pose, hands relaxed by sides, gently worried eyes. Distinguish him from older-moustache.png: NO moustache for this character. No age number, walker, cane or other object. No realistic human skin.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "fab28c9ea013289ba82395e2eb1d1e5ae6d9e74b8d62d70ca5636efd434299a8"
+}

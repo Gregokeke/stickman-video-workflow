@@ -1,0 +1,159 @@
+{
+  "samples": 139,
+  "method": "Supplied red-zone alpha/red mask rescaled to1080x1920; ordinary foreground red pixels",
+  "intentional_exceptions": "User-requested large presenter crops and fruit-holder waist crop; working faces/grips/tips checked separately.",
+  "initial_flags": [
+    {
+      "t": 11.23,
+      "pixels": 14552
+    },
+    {
+      "t": 11.265,
+      "pixels": 17180
+    },
+    {
+      "t": 12.904,
+      "pixels": 18218
+    },
+    {
+      "t": 13.31,
+      "pixels": 16286
+    },
+    {
+      "t": 13.364,
+      "pixels": 16199
+    },
+    {
+      "t": 13.675,
+      "pixels": 16230
+    },
+    {
+      "t": 14.18,
+      "pixels": 16394
+    },
+    {
+      "t": 14.605,
+      "pixels": 16330
+    },
+    {
+      "t": 17.31,
+      "pixels": 10945
+    },
+    {
+      "t": 17.54,
+      "pixels": 10936
+    },
+    {
+      "t": 17.65,
+      "pixels": 7970
+    },
+    {
+      "t": 32.545,
+      "pixels": 277
+    },
+    {
+      "t": 47.703,
+      "pixels": 1651
+    },
+    {
+      "t": 47.74,
+      "pixels": 1651
+    },
+    {
+      "t": 64.807,
+      "pixels": 2294
+    },
+    {
+      "t": 65.807,
+      "pixels": 5279
+    },
+    {
+      "t": 82.117,
+      "pixels": 118
+    },
+    {
+      "t": 97.785,
+      "pixels": 2679
+    },
+    {
+      "t": 99.171,
+      "pixels": 585
+    },
+    {
+      "t": 100.56,
+      "pixels": 850
+    }
+  ],
+  "corrections": "Raised/refit referee and heart; narrowed large waist-cropped fruit holder; fitted oxidation, gut, symptoms, melatonin and protein fragments inside UI space. Route and pointer coordinates remapped to colon actual geometry.",
+  "final_affected_held_samples": [
+    {
+      "t": 13.6,
+      "pixels": 0
+    },
+    {
+      "t": 17.31,
+      "pixels": 125
+    },
+    {
+      "t": 17.54,
+      "pixels": 123
+    },
+    {
+      "t": 17.7,
+      "pixels": 0
+    },
+    {
+      "t": 32.545,
+      "pixels": 16
+    },
+    {
+      "t": 47.7,
+      "pixels": 0
+    },
+    {
+      "t": 48.3,
+      "pixels": 0
+    },
+    {
+      "t": 64.8,
+      "pixels": 0
+    },
+    {
+      "t": 65.8,
+      "pixels": 0
+    },
+    {
+      "t": 82.117,
+      "pixels": 0
+    },
+    {
+      "t": 99.6,
+      "pixels": 53
+    },
+    {
+      "t": 100.56,
+      "pixels": 53
+    }
+  ],
+  "transitions": "Directional entrances/exits may cross frame/UI zones briefly; approved instructor and fruit-holder body crops are intentional.",
+  "reviewed_minor_fringe": [
+    {
+      "t": 17.31,
+      "pixels": 125
+    },
+    {
+      "t": 17.54,
+      "pixels": 123
+    },
+    {
+      "t": 99.6,
+      "pixels": 53
+    },
+    {
+      "t": 100.56,
+      "pixels": 53
+    }
+  ],
+  "unresolved_held_flags": [],
+  "fringe_review": "Remaining125px heart emphasis and53px split-protein edge intersections are under0.01% of the frame, with critical silhouettes/labels clear. No meaningful subject obscuration. These are recorded rather than represented as zero."
+}

@@ -1,0 +1,664 @@
+{
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 66,
+  "infoCount": 0,
+  "findings": [
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 27 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 2 has 18 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 3 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html"
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"science-host\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "science-host",
+      "fixHint": "Move <div id=\"science-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 446
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"best-friends-hook\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "best-friends-hook",
+      "fixHint": "Move <div id=\"best-friends-hook\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 796
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"sync-brain-pair\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "sync-brain-pair",
+      "fixHint": "Move <div id=\"sync-brain-pair\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 1191
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"bluetooth-hub\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "bluetooth-hub",
+      "fixHint": "Move <div id=\"bluetooth-hub\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 1534
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"shared-braincell-duo\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "shared-braincell-duo",
+      "fixHint": "Move <div id=\"shared-braincell-duo\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 1860
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"single-brain-cell\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "single-brain-cell",
+      "fixHint": "Move <div id=\"single-brain-cell\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 2271
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neurosynchrony-board\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neurosynchrony-board",
+      "fixHint": "Move <div id=\"neurosynchrony-board\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 2613
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"knowing-host\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "knowing-host",
+      "fixHint": "Move <div id=\"knowing-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 3001
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"sentence-speaker\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "sentence-speaker",
+      "fixHint": "Move <div id=\"sentence-speaker\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 3361
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"sentence-finisher\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "sentence-finisher",
+      "fixHint": "Move <div id=\"sentence-finisher\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 3725
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"sentence-bubbles\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "sentence-bubbles",
+      "fixHint": "Move <div id=\"sentence-bubbles\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 4085
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"glance-left\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "glance-left",
+      "fixHint": "Move <div id=\"glance-left\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 4423
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"glance-right\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "glance-right",
+      "fixHint": "Move <div id=\"glance-right\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 4801
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"crowded-room\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "crowded-room",
+      "fixHint": "Move <div id=\"crowded-room\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 5162
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"laughing-friends\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "laughing-friends",
+      "fixHint": "Move <div id=\"laughing-friends\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 5491
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"dark-joke-phone\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "dark-joke-phone",
+      "fixHint": "Move <div id=\"dark-joke-phone\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 5862
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cancelled-stamp\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cancelled-stamp",
+      "fixHint": "Move <div id=\"cancelled-stamp\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 6230
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"hanging-out-time\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "hanging-out-time",
+      "fixHint": "Move <div id=\"hanging-out-time\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 6565
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"friendship-calendar\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "friendship-calendar",
+      "fixHint": "Move <div id=\"friendship-calendar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 6941
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"aligned-brains\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "aligned-brains",
+      "fixHint": "Move <div id=\"aligned-brains\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 7299
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brainwave-scope\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brainwave-scope",
+      "fixHint": "Move <div id=\"brainwave-scope\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 7704
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mirror-neuron\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mirror-neuron",
+      "fixHint": "Move <div id=\"mirror-neuron\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 8069
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neuron-cell-body\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neuron-cell-body",
+      "fixHint": "Move <div id=\"neuron-cell-body\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 8442
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mirror-leader\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mirror-leader",
+      "fixHint": "Move <div id=\"mirror-leader\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 8799
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mirror-follower\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mirror-follower",
+      "fixHint": "Move <div id=\"mirror-follower\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 9151
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mirrored-hands\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mirrored-hands",
+      "fixHint": "Move <div id=\"mirrored-hands\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 9501
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"shared-feelings\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "shared-feelings",
+      "fixHint": "Move <div id=\"shared-feelings\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 9838
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neuroscientist\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neuroscientist",
+      "fixHint": "Move <div id=\"neuroscientist\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 10207
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mri-scanner\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mri-scanner",
+      "fixHint": "Move <div id=\"mri-scanner\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 10573
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stimulus-screen\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stimulus-screen",
+      "fixHint": "Move <div id=\"stimulus-screen\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 10924
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"scanner-console\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "scanner-console",
+      "fixHint": "Move <div id=\"scanner-console\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 11251
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"spike-display\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "spike-display",
+      "fixHint": "Move <div id=\"spike-display\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 11618
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"matched-brain-regions\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "matched-brain-regions",
+      "fixHint": "Move <div id=\"matched-brain-regions\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 12033
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"millisecond-timer\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "millisecond-timer",
+      "fixHint": "Move <div id=\"millisecond-timer\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 12441
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"amygdala-model\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "amygdala-model",
+      "fixHint": "Move <div id=\"amygdala-model\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 12796
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"emotion-masks\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "emotion-masks",
+      "fixHint": "Move <div id=\"emotion-masks\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 13157
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"prefrontal-model\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "prefrontal-model",
+      "fixHint": "Move <div id=\"prefrontal-model\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 13489
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"decision-fork\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "decision-fork",
+      "fixHint": "Move <div id=\"decision-fork\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 13867
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"terrible-life-choices\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "terrible-life-choices",
+      "fixHint": "Move <div id=\"terrible-life-choices\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 14203
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"empathy-neural-network\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "empathy-neural-network",
+      "fixHint": "Move <div id=\"empathy-neural-network\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 14569
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"empathy-comfort\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "empathy-comfort",
+      "fixHint": "Move <div id=\"empathy-comfort\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 14943
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"weirdo-besties\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "weirdo-besties",
+      "fixHint": "Move <div id=\"weirdo-besties\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 15277
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"paired-nervous-systems\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "paired-nervous-systems",
+      "fixHint": "Move <div id=\"paired-nervous-systems\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 15679
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"echo-chamber-friends\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "echo-chamber-friends",
+      "fixHint": "Move <div id=\"echo-chamber-friends\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 16055
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"echo-padlock\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "echo-padlock",
+      "fixHint": "Move <div id=\"echo-padlock\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 16423
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"alarmed-host\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "alarmed-host",
+      "fixHint": "Move <div id=\"alarmed-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 16756
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"warning-siren\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "warning-siren",
+      "fixHint": "Move <div id=\"warning-siren\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 17105
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"circle-chooser\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "circle-chooser",
+      "fixHint": "Move <div id=\"circle-chooser\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 17441
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"healthy-friend-circle\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "healthy-friend-circle",
+      "fixHint": "Move <div id=\"healthy-friend-circle\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 17817
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"wise-compass\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "wise-compass",
+      "fixHint": "Move <div id=\"wise-compass\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 18186
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"bad-influence-friend\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "bad-influence-friend",
+      "fixHint": "Move <div id=\"bad-influence-friend\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 18510
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"empty-wallet\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "empty-wallet",
+      "fixHint": "Move <div id=\"empty-wallet\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 18916
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"toxic-speech\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "toxic-speech",
+      "fixHint": "Move <div id=\"toxic-speech\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 19274
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"ambition-gauge\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "ambition-gauge",
+      "fixHint": "Move <div id=\"ambition-gauge\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 19625
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"influenced-brain\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "influenced-brain",
+      "fixHint": "Move <div id=\"influenced-brain\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 19962
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"casual-hangout\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "casual-hangout",
+      "fixHint": "Move <div id=\"casual-hangout\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 20339
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neural-download-console\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neural-download-console",
+      "fixHint": "Move <div id=\"neural-download-console\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 20684
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"broken-neuron-wiring\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "broken-neuron-wiring",
+      "fixHint": "Move <div id=\"broken-neuron-wiring\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 21086
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"rewriting-neural-network\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "rewriting-neural-network",
+      "fixHint": "Move <div id=\"rewriting-neural-network\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 21451
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"future-self-choice\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "future-self-choice",
+      "fixHint": "Move <div id=\"future-self-choice\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 21841
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-neurosynchrony\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-neurosynchrony",
+      "fixHint": "Move <div id=\"guide-neurosynchrony\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 22204
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-mirror\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-mirror",
+      "fixHint": "Move <div id=\"guide-mirror\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 22630
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-emotion-planning\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-emotion-planning",
+      "fixHint": "Move <div id=\"guide-emotion-planning\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/fifth-video/index.html",
+      "line": 68,
+      "column": 23060
+    }
+  ],
+  "filesScanned": 1,
+  "_meta": {
+    "version": "0.8.217",
+    "updateAvailable": false
+  }
+}

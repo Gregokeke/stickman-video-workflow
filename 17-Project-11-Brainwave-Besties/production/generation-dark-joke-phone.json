@@ -1,0 +1,11 @@
+{
+  "id": "dark-joke-phone",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: dark, twisted stuff that would get you both. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: Standalone chunky red smartphone in slight three-quarter angle with a black skull inside one speech balloon on white screen and a tiny second blank response balloon. No words, hands or people. Clearly a dark-joke metaphor.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/dark-joke-phone.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-000ab9ba-2f48-440b-a0e7-f3ba4e2f5a70.png"
+}

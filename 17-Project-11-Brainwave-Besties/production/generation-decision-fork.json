@@ -1,0 +1,11 @@
+{
+  "id": "decision-fork",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: decision making,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone physical red forked road sign/post in three-quarter view with two clearly different branching arrows, one pointing LEFT and one RIGHT, blank arrows without words. Red/black chunky tactile illustration. No person, brain or numbers.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/decision-fork.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-c3679139-2197-40a0-8b09-a94c1027be26.png"
+}

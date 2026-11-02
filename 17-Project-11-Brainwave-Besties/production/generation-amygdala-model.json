@@ -1,0 +1,11 @@
+{
+  "id": "amygdala-model",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: amygdala, which processes raw emotion,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone educational illustration of the paired AMYGDALA structures: two almond-shaped red neural nuclei with fine biological texture and short neural fibers, bold integrated AMYGDALA label. Anatomical model rather than a food nut. No whole human, cartoon face or limbs.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/amygdala-model.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-70fecd04-f38b-4b71-b255-b6e8052af775.png"
+}

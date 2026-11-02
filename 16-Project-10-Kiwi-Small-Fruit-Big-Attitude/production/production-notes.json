@@ -1,0 +1,43 @@
+{
+  "title": "Kiwi \u00b7 Small Fruit, Big Attitude",
+  "source_duration": 120.18939583333334,
+  "tightened_audio_duration": 112.82522916666667,
+  "minimum_visual_count": 75,
+  "planned_distinct_visual_count": 78,
+  "planned_new_imagegen_illustrations": 76,
+  "approved_instructor_reuses": 2,
+  "duplicate_boxer_counted_once": true,
+  "master_duration": 114.6,
+  "main_references": [
+    "Project6 Sugar \u00b7 Two Weeks final19-fix revision",
+    "The Subtle Manipulator",
+    "Last Meal Tonight final approved",
+    "Zinc latest instructor revision"
+  ],
+  "motion": [
+    "center-to-side and return",
+    "large lateral travel",
+    "behind-to-front emergence",
+    "finite push-ins",
+    "quick precise instructor retargeting",
+    "early travelling fades"
+  ],
+  "provenance": "Built-in ImageGen with attached actual three-image style references, one independent asset per prompt. Supplied narration, local speech alignment, protected true-silence cuts only. No paid speech generation.",
+  "notes": "Do not count micro SVG accents, duplicated kiwi or reappearances as distinct illustrations.",
+  "used_distinct_visual_count": 78,
+  "discarded_redundant": [
+    "heart-calm",
+    "processed-food",
+    "steady-fiber"
+  ],
+  "art_rule": "No people baked into nutrient/cell assets; approved heart character retained; exact bloodstream design edited only to remove its man.",
+  "used_new_imagegen_illustrations": 76,
+  "instructor_poses": [
+    "instructor-straight",
+    "instructor-up"
+  ],
+  "revision": "Basket+2.5%/up90px; horizontal top slice/split; concurrent C arrow; pause removed",
+  "duration": 114.6,
+  "frames": 3438,
+  "narration": "Original naturally tightened narration restored: removed only600ms of inserted zeros; all remaining voice samples identical."
+}

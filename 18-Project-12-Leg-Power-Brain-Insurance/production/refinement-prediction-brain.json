@@ -1,0 +1,6 @@
+{
+  "id": "prediction-brain",
+  "prompt": "Remove ONLY all yellow plaque-like beads/clumps inside the magnifying lens. Replace those clumps with uninterrupted healthy red cortical gyri/sulci consistent with the adjacent red brain tissue, magnified through the lens. Preserve exact brain shape, lens, handle, red/black/white style, all other art and true transparency. No disease particles or yellow anywhere.",
+  "tool": "built-in ImageGen edit",
+  "output_path": "/workspace/scratch/da11170a9a63/generated_images/exec-63c9852d-2a15-4ad0-9a36-c1cd4901990c.png"
+}

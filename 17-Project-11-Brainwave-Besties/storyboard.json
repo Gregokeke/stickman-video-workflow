@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "science-host",
+    "asset": "science-host",
+    "start": 0.0,
+    "handoff": 2.16,
+    "end": 2.4000000000000004,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 1.32,
+        "x": -180,
+        "y": 120,
+        "scale": 0.68,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "Science shows that your brain and your",
+    "description": "Curious confident male rounded stickman, black messy hair, red open jacket over black tee and shorts, broad forearms/calves, holds a compact research clipboard close to chest, other hand raised explaining. Full body. No brain, floating icons or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "best-friends-hook",
+    "asset": "best-friends-hook",
+    "start": 2.16,
+    "handoff": 5.69256,
+    "end": 5.882560000000001,
+    "layout": [
+      420,
+      1310,
+      560,
+      580
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 3.6,
+        "x": -140,
+        "y": 0,
+        "scale": 0.82,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "best friend's brain literally sync up together like Bluetooth,",
+    "description": "Two expressive rounded red stickman best friends, one messy-haired red jacket/black tee and shorts, the other short black hair rolled red shirt and shorts, friendly shoulder-to-shoulder confident grin with clear coherent friendly arm contact. Full bodies, both broad exposed arms/calves. No brains, icon or lettering.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "sync-brain-pair",
+    "asset": "sync-brain-pair",
+    "start": 1.32,
+    "handoff": 5.69256,
+    "end": 5.882560000000001,
+    "layout": [
+      620,
+      820,
+      480,
+      330
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "sync up together like Bluetooth,",
+    "description": "Standalone TWO anatomically recognizable human brains in matching lateral views, facing each other with a wide clear white/transparent gap. Red cortex folds/black detail and cerebellum, sparse integrated label BRAIN SYNC. No people, eyes, limbs or drawn connecting lines.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "bluetooth-hub",
+    "asset": "bluetooth-hub",
+    "start": 4.96,
+    "handoff": 5.69256,
+    "end": 5.882560000000001,
+    "layout": [
+      700,
+      1260,
+      270,
+      230
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "Bluetooth,",
+    "description": "Standalone chunky red wireless communication hub with two small antennae, correct simple black Bluetooth symbol on front, large integrated BLUETOOTH label. Three-quarter depth. No brain, human or motion marks.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "shared-braincell-duo",
+    "asset": "shared-braincell-duo",
+    "start": 5.79256,
+    "handoff": 9.94896,
+    "end": 10.18896,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 8.25256,
+        "x": -170,
+        "y": 130,
+        "scale": 0.67,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "which explains how the two of you managed to share a single functioning brain cell.",
+    "description": "Coherent funny scene: two broad-limbed red rounded stickman best friends slouch on a compact red sofa, one holds game controller, the other stares blankly with crooked grin; both visibly clueless. Messy-haired jacket friend and short-haired red shirt friend. No brain, cell, floating icon or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "single-brain-cell",
+    "asset": "single-brain-cell",
+    "start": 9.01256,
+    "handoff": 9.94896,
+    "end": 10.18896,
+    "layout": [
+      650,
+      840,
+      430,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "brain cell.",
+    "description": "ONE standalone anatomically recognizable red neuron with branching dendrites, round soma/nucleus, long myelinated axon and terminal branches; large integrated ONE BRAIN CELL label. No human, mascot, eyes or limbs.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "neurosynchrony-board",
+    "asset": "neurosynchrony-board",
+    "start": 9.94896,
+    "handoff": 12.45335,
+    "end": 12.69335,
+    "layout": [
+      610,
+      900,
+      500,
+      450
+    ],
+    "route": "diagonal",
+    "z": 10,
+    "moves": [],
+    "phrase": "In neuroscience, it's called neurosynchrony,",
+    "description": "Standalone red scientific display panel with TWO detailed red human brain outlines side by side, wide gap and two empty white horizontal waveform windows underneath, bold integrated NEUROSYNCHRONY label. No graph waveforms, clinical numbers, people or faces. White internal screen, red/black frame.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "knowing-host",
+    "asset": "knowing-host",
+    "start": 12.45335,
+    "handoff": 14.41335,
+    "end": 14.65335,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "and it's the biological reason you can",
+    "description": "Full-body sly explanatory red rounded stickman, messy black hair, open red jacket/black tee, broad exposed forearms/calves, one hand at chin and other palm open, confident eyebrow. No brain or props.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "sentence-speaker",
+    "asset": "sentence-speaker",
+    "start": 14.41335,
+    "handoff": 16.17335,
+    "end": 16.413349999999998,
+    "layout": [
+      280,
+      1110,
+      350,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "finish each other's sentences,",
+    "description": "ONE red rounded stickman best friend, messy black hair and open red jacket/black tee, broad limbs, mid-sentence speaking with one palm open toward RIGHT, amused expectant eyes. Full body, no bubbles, writing, brain or companion.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "sentence-finisher",
+    "asset": "sentence-finisher",
+    "start": 14.75335,
+    "handoff": 16.17335,
+    "end": 16.413349999999998,
+    "layout": [
+      680,
+      1230,
+      350,
+      650
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "each other's sentences,",
+    "description": "ONE red rounded stickman second friend, short black hair, rolled red shirt and shorts, broad forearms/calves, knowingly answering toward LEFT, one finger raised in recognition and delighted half-smile. Full body, no companion, bubbles, brain or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "sentence-bubbles",
+    "asset": "sentence-bubbles",
+    "start": 15.23335,
+    "handoff": 16.17335,
+    "end": 16.413349999999998,
+    "layout": [
+      480,
+      650,
+      450,
+      180
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "sentences,",
+    "description": "Standalone TWO chunky red speech balloons with puzzle-tab edges that nearly fit together but are separated by a clear gap, black outline, completely blank interiors. Three-quarter thickness, no words or people.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "glance-left",
+    "asset": "glance-left",
+    "start": 16.17335,
+    "handoff": 19.69065,
+    "end": 19.93065,
+    "layout": [
+      270,
+      1100,
+      360,
+      470
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "communicate with a single unhinged glance across a crowded room,",
+    "description": "Large expressive cropped red rounded stickman portrait, black messy hair, red jacket collar, deeply arched eyebrows and sideways unhinged conspiratorial eyes looking RIGHT, lips held in wicked knowing smirk. No companion, brain, text or icons.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "glance-right",
+    "asset": "glance-right",
+    "start": 17.01335,
+    "handoff": 19.69065,
+    "end": 19.93065,
+    "layout": [
+      680,
+      1100,
+      360,
+      470
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "single unhinged glance across a crowded room,",
+    "description": "Large expressive cropped second red rounded stickman portrait, short black hair, red shirt collar, matching wildly amused conspiratorial sideways glance toward LEFT, one eyebrow very high and mischievous compressed grin. No companion, brain or writing.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "crowded-room",
+    "asset": "crowded-room",
+    "start": 18.85335,
+    "handoff": 19.69065,
+    "end": 19.93065,
+    "layout": [
+      480,
+      1460,
+      610,
+      180
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "crowded room,",
+    "description": "Standalone simple red/black background crowd: six rounded stickman silhouettes at a party, small varied heads/shoulders with minimal faces, two staggered rows, no detailed foreground protagonist, no words or room wall. Wide compact group.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "laughing-friends",
+    "asset": "laughing-friends",
+    "start": 19.97065,
+    "handoff": 22.83065,
+    "end": 23.070649999999997,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 21.41065,
+        "x": -160,
+        "y": 130,
+        "scale": 0.69,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "laugh at the exact same dark, twisted stuff",
+    "description": "Coherent full-body two red rounded best friends doubled over laughing, one messy-haired jacket friend holds belly, short-haired red-shirt friend wipes a laugh tear. Broad limbs, distinct hands, clean separation apart from one intentional shoulder touch. No brain, skull, phone or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "dark-joke-phone",
+    "asset": "dark-joke-phone",
+    "start": 21.41065,
+    "handoff": 23.77065,
+    "end": 24.01065,
+    "layout": [
+      650,
+      840,
+      430,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "dark, twisted stuff that would get you both",
+    "description": "Standalone chunky red smartphone in slight three-quarter angle with a black skull inside one speech balloon on white screen and a tiny second blank response balloon. No words, hands or people. Clearly a dark-joke metaphor.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "cancelled-stamp",
+    "asset": "cancelled-stamp",
+    "start": 23.77065,
+    "handoff": 24.66265,
+    "end": 24.902649999999998,
+    "layout": [
+      480,
+      1110,
+      700,
+      370
+    ],
+    "route": "diagonal",
+    "z": 10,
+    "moves": [],
+    "phrase": "cancelled.",
+    "description": "ONE bold red rubber-stamp impression as a standalone graphic prop, strong black outline, large perfectly spelled CANCELLED lettering in a red rectangular stamp with slightly worn ink edges. No person, other text or background.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "hanging-out-time",
+    "asset": "hanging-out-time",
+    "start": 24.66265,
+    "handoff": 27.36265,
+    "end": 27.602649999999997,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 25.95265,
+        "x": -170,
+        "y": 110,
+        "scale": 0.69,
+        "d": 0.32,
+        "rotation": 0
+      }
+    ],
+    "phrase": "See, when you spend enough time around someone,",
+    "description": "Coherent full-body two red rounded best friends casually chat on a small park bench, messy-haired red jacket friend gestures and short-haired rolled-shirt friend listens with warm smile. Broad visible limbs, simple bench only, no scenery, brain or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "friendship-calendar",
+    "asset": "friendship-calendar",
+    "start": 26.00265,
+    "handoff": 27.36265,
+    "end": 27.602649999999997,
+    "layout": [
+      650,
+      840,
+      430,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "time around someone,",
+    "description": "Standalone red desk calendar with clear binding rings, three stacked pages and one simple bold TIME label; black orderly date grid without tiny numbers. No person, arrows or face.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "aligned-brains",
+    "asset": "aligned-brains",
+    "start": 27.36265,
+    "handoff": 31.80265,
+    "end": 32.04265,
+    "layout": [
+      620,
+      820,
+      470,
+      330
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "your brains actually physically align their electrical rhythms, called brain waves,",
+    "description": "Standalone paired anatomical red human brains in matching side views, separated horizontally by substantial empty space; detailed folds and cerebellum, integrated BRAINWAVES label. Two tiny clear black terminal dots near inner edge for later overlay connection. No humans, faces, limbs or drawn path.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "brainwave-scope",
+    "asset": "brainwave-scope",
+    "start": 29.54265,
+    "handoff": 31.80265,
+    "end": 32.04265,
+    "layout": [
+      650,
+      1270,
+      450,
+      300
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "electrical rhythms, called brain waves,",
+    "description": "Standalone thick red dual-channel oscilloscope/monitor, front view, TWO completely blank white long horizontal graph windows with a shared left border and simple ticks, no waveforms, numbers or clinical claims. Large BRAINWAVES label on casing. No human or brain.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "mirror-neuron",
+    "asset": "mirror-neuron",
+    "start": 32.02265,
+    "handoff": 34.80035,
+    "end": 35.040350000000004,
+    "layout": [
+      650,
+      850,
+      450,
+      400
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "mirror neurons, which are specialized brain cells that",
+    "description": "Standalone anatomically recognizable red pyramidal neuron: branched dendrites, soma/nucleus, myelinated axon and terminal branches. Large integrated MIRROR NEURON label. Representative neuron morphology, no special mirrored face, no people/eyes/limbs.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "neuron-cell-body",
+    "asset": "neuron-cell-body",
+    "start": 33.36035,
+    "handoff": 34.80035,
+    "end": 35.040350000000004,
+    "layout": [
+      650,
+      1280,
+      360,
+      290
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "specialized brain cells that",
+    "description": "Standalone biological close-up of a neuron soma: red cytoplasm with visible central nucleus and nucleolus, several dendrites extending outward, fine black cellular detail. Large CELL BODY label. No faces, eyes, people or mascot limbs.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "mirror-leader",
+    "asset": "mirror-leader",
+    "start": 34.80035,
+    "handoff": 36.80035,
+    "end": 37.040350000000004,
+    "layout": [
+      270,
+      1120,
+      340,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "copy and mimic the exact behavior",
+    "description": "ONE full-body red rounded stickman, messy hair, jacket/black tee/shorts, broad limbs, raises right open palm near shoulder while leaning slightly toward RIGHT, relaxed grin. No mirror, neuron, companion, text or icons.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "mirror-follower",
+    "asset": "mirror-follower",
+    "start": 35.46035,
+    "handoff": 36.80035,
+    "end": 37.040350000000004,
+    "layout": [
+      680,
+      1120,
+      340,
+      650
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "mimic the exact behavior",
+    "description": "ONE full-body short-haired red rounded second stickman, rolled shirt/shorts and broad limbs, faces LEFT and raises mirrored left open palm at shoulder to match a partner, knowing grin. No mirror, neuron, companion or text.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "mirrored-hands",
+    "asset": "mirrored-hands",
+    "start": 35.98035,
+    "handoff": 36.80035,
+    "end": 37.040350000000004,
+    "layout": [
+      480,
+      650,
+      300,
+      180
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "exact behavior",
+    "description": "Standalone small freestanding red-framed tabletop mirror showing one broad red cartoon hand reflected as its matching opposite hand; coherent five-digit hands, black line detail. No full human, brain or words.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "shared-feelings",
+    "asset": "shared-feelings",
+    "start": 37.14035,
+    "handoff": 39.74106,
+    "end": 39.98106,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "feelings of the person sitting next to you.",
+    "description": "Coherent two full-body red rounded best friends seated beside each other, one visibly worried with drooping eyes, other matches concerned expression and places a supportive hand on shoulder. Messy-haired jacket/short-haired shirt, broad limbs, compact simple stools. No heart, brain, cells or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "neuroscientist",
+    "asset": "neuroscientist",
+    "start": 39.74106,
+    "handoff": 41.72106,
+    "end": 41.96106,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 41.72106,
+        "x": -210,
+        "y": 120,
+        "scale": 0.62,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "When neuroscientists threw best friends into",
+    "description": "Full-body red rounded stickman neuroscientist in a red lab coat, simple black glasses, broad exposed forearms/calves, holds clipboard and gestures RIGHT toward an absent scanner. No brain, cells, scanner, floating symbols or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "mri-scanner",
+    "asset": "mri-scanner",
+    "start": 41.72106,
+    "handoff": 43.06106,
+    "end": 43.26106,
+    "layout": [
+      600,
+      1010,
+      520,
+      550
+    ],
+    "route": "diagonal",
+    "z": 10,
+    "moves": [
+      {
+        "t": 42.98106,
+        "x": -290,
+        "y": 180,
+        "scale": 0.67,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "brain scanners, they found identical,",
+    "description": "Standalone recognizable red MRI scanner: large circular magnet bore, long sliding patient table, strong black contours, three-quarter perspective, NO person inside or beside it. Sparse integrated MRI label. No x-ray bones, data, waves or radiation symbol.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "stimulus-screen",
+    "asset": "stimulus-screen",
+    "start": 42.98106,
+    "handoff": 44.24106,
+    "end": 44.48106,
+    "layout": [
+      690,
+      740,
+      350,
+      230
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "found identical,",
+    "description": "Standalone red widescreen video display showing one simple black/red landscape movie frame of mountains, river and sun, a small play triangle in corner; integrated STIMULUS label. No people, numbers, waveform, research results or brand.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "scanner-console",
+    "asset": "scanner-console",
+    "start": 43.24106,
+    "handoff": 44.08106,
+    "end": 44.281060000000004,
+    "layout": [
+      480,
+      1160,
+      720,
+      540
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "identical, synchronized electrical spikes",
+    "description": "Standalone red scientific scanner console, front-facing large screen divided into TWO EMPTY white panels, red control deck with a few knobs, integrated SCHEMATIC label. No brain, waveforms, numeric results or human.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "spike-display",
+    "asset": "spike-display",
+    "start": 44.24106,
+    "handoff": 49.94106,
+    "end": 50.18106,
+    "layout": [
+      480,
+      1320,
+      720,
+      340
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "synchronized electrical spikes lighting up the exact same regions at the exact same millisecond.",
+    "description": "Standalone red dual-channel scientific monitor with TWO long empty white graph tracks stacked vertically, blank axes with no numerical values, thick black/red casing, integrated SCHEMATIC label. NO traces or waveforms, humans or brains; traces will be independent animation.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "matched-brain-regions",
+    "asset": "matched-brain-regions",
+    "start": 45.92106,
+    "handoff": 49.94106,
+    "end": 50.18106,
+    "layout": [
+      480,
+      810,
+      710,
+      350
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "lighting up the exact same regions at the exact same millisecond.",
+    "description": "Standalone TWO detailed red human brain views side by side with a large clear gap, cortical folds and THREE sparse white region windows per brain for schematic highlighting. No lit colored areas, people, faces or wave traces. Large BRAIN REGIONS label.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "millisecond-timer",
+    "asset": "millisecond-timer",
+    "start": 48.34106,
+    "handoff": 49.94106,
+    "end": 50.18106,
+    "layout": [
+      480,
+      1050,
+      250,
+      120
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "exact same millisecond.",
+    "description": "Standalone small chunky red digital precision timer, black face and exact white digits 00:001; three-quarter case depth. No other text, person, brain or extra objects.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "amygdala-model",
+    "asset": "amygdala-model",
+    "start": 50.36106,
+    "handoff": 52.84206,
+    "end": 53.08206,
+    "layout": [
+      650,
+      850,
+      440,
+      330
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "amygdala, which processes raw emotion,",
+    "description": "Standalone educational illustration of the paired AMYGDALA structures: two almond-shaped red neural nuclei with fine biological texture and short neural fibers, bold integrated AMYGDALA label. Anatomical model rather than a food nut. No whole human, cartoon face or limbs.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "emotion-masks",
+    "asset": "emotion-masks",
+    "start": 51.70106,
+    "handoff": 52.84206,
+    "end": 53.08206,
+    "layout": [
+      650,
+      1260,
+      350,
+      280
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "raw emotion,",
+    "description": "Standalone pair of bold red theatrical emotion masks, one fearful and one joyful, black expressive cutout eyes/mouth, slightly overlapping deliberate physical stack. No human bodies, brain or lettering.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "prefrontal-model",
+    "asset": "prefrontal-model",
+    "start": 52.90206,
+    "handoff": 55.72206,
+    "end": 55.96206,
+    "layout": [
+      650,
+      850,
+      450,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "prefrontal cortex, which handles decision making,",
+    "description": "Standalone detailed red human brain lateral view, frontal lobe at RIGHT and cerebellum lower LEFT; a clear thin black perimeter outlines the anterior frontal region at far right. Bold integrated PREFRONTAL CORTEX label with a short leader ending in that anterior frontal region. No people, face, hands or chart.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "decision-fork",
+    "asset": "decision-fork",
+    "start": 54.52206,
+    "handoff": 55.72206,
+    "end": 55.96206,
+    "layout": [
+      650,
+      1270,
+      330,
+      300
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "decision making,",
+    "description": "Standalone physical red forked road sign/post in three-quarter view with two clearly different branching arrows, one pointing LEFT and one RIGHT, blank arrows without words. Red/black chunky tactile illustration. No person, brain or numbers.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "terrible-life-choices",
+    "asset": "terrible-life-choices",
+    "start": 56.76206,
+    "handoff": 58.10996,
+    "end": 58.34996,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "terrible life choices,",
+    "description": "Coherent comic full-body scene of two red rounded stickman best friends making a ridiculous harmless choice: one wears a cooking-pot helmet and sits awkwardly in a small shopping cart while the other proudly presents a banana as a steering wheel. Broad arms/calves, detailed red clothes, knowingly foolish faces. No brain, gore, money, alcohol or text.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "empathy-neural-network",
+    "asset": "empathy-neural-network",
+    "start": 58.52996,
+    "handoff": 60.42535,
+    "end": 60.665350000000004,
+    "layout": [
+      650,
+      850,
+      450,
+      360
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "neural circuits for empathy.",
+    "description": "Standalone red biological network of three clearly recognizable connected neurons, dendrites/soma/axons, with sparse integrated EMPATHY CIRCUITS and smaller SCHEMATIC label. No whole human, face, eyes, hearts or mascot limbs. Clear open spaces between branches.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "empathy-comfort",
+    "asset": "empathy-comfort",
+    "start": 59.40996,
+    "handoff": 60.42535,
+    "end": 60.665350000000004,
+    "layout": [
+      380,
+      1320,
+      540,
+      520
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "empathy.",
+    "description": "Coherent full-body red rounded friend helping a sad friend stand upright, one natural supporting arm on shoulder, warm gentle smile, sad friend gradually reassured in pose. Red casual jackets/shirts and shorts, broad limbs. No brain, nerve, cell or writing.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "weirdo-besties",
+    "asset": "weirdo-besties",
+    "start": 60.42535,
+    "handoff": 64.30535,
+    "end": 64.54535,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "It explains why you and your best friend are such insufferable weirdos together,",
+    "description": "Coherent full-body two expressive red rounded stickman best friends clowning together: messy-haired friend wears a colander like a crown, short-haired friend makes a dramatic goofy lunge and both grin wildly. Red detailed clothes, broad rounded limbs, clean intentional companionship. No brain, nerve, charts or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "paired-nervous-systems",
+    "asset": "paired-nervous-systems",
+    "start": 64.88535,
+    "handoff": 66.24535,
+    "end": 66.48535,
+    "layout": [
+      480,
+      770,
+      710,
+      280
+    ],
+    "route": "down",
+    "z": 10,
+    "moves": [],
+    "phrase": "nervous systems are literally",
+    "description": "Standalone TWO branching peripheral nerve trees with thick central nerve trunks and finer red axon bundles, side by side with a wide clean gap, biological black details. Integrated NERVOUS SYSTEMS label. No human outline, people, faces, limbs or bones.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "echo-chamber-friends",
+    "asset": "echo-chamber-friends",
+    "start": 66.24535,
+    "handoff": 67.93715,
+    "end": 68.17715,
+    "layout": [
+      440,
+      1260,
+      650,
+      600
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "trapped in an echo chamber.",
+    "description": "Coherent conceptual scene: TWO full-body red rounded best friends stand in a red open-front acoustic chamber with two thick sidewalls and a clear door latch on right; both cup hands beside ears, amused and trapped. Chamber has depth and visible interior, minimal acoustic panels; broad limbs and detailed red clothes. NO drawn wave paths, padlock, brain, nerves or words.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "echo-padlock",
+    "asset": "echo-padlock",
+    "start": 66.94535,
+    "handoff": 67.93715,
+    "end": 68.17715,
+    "layout": [
+      760,
+      1275,
+      130,
+      155
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "an echo chamber.",
+    "description": "Standalone chunky closed red padlock with thick black shackle, strong keyhole and no lettering, three-quarter depth. No hand, chain, human or brain.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "alarmed-host",
+    "asset": "alarmed-host",
+    "start": 67.93715,
+    "handoff": 70.05385,
+    "end": 70.29384999999999,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 68.89715,
+        "x": -170,
+        "y": 120,
+        "scale": 0.7,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "But here is the terrifying part.",
+    "description": "Full-body red rounded narrator, messy hair/red jacket/black tee/shorts, broad limbs, suddenly serious wide eyes, one raised stop palm and the other at chest. No light, brain, cell, floating symbols or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "warning-siren",
+    "asset": "warning-siren",
+    "start": 68.89715,
+    "handoff": 70.05385,
+    "end": 70.29384999999999,
+    "layout": [
+      650,
+      840,
+      430,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "terrifying part.",
+    "description": "Standalone red rotating warning beacon in three-quarter view, clear dome, black base and bulb/reflector inside. No light rays, emergency words, human, brain or numbers.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "circle-chooser",
+    "asset": "circle-chooser",
+    "start": 70.05385,
+    "handoff": 72.99556,
+    "end": 73.23555999999999,
+    "layout": [
+      480,
+      1100,
+      720,
+      880
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 71.41385,
+        "x": -215,
+        "y": 140,
+        "scale": 0.67,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "It also proves you need to choose your circle wisely.",
+    "description": "ONE thoughtful red rounded stickman choosing company, messy hair/red jacket/black tee/shorts, broad limbs, one hand at chin and other open palm toward RIGHT, calm serious eyes. Full body, no other people, circles, brain or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "healthy-friend-circle",
+    "asset": "healthy-friend-circle",
+    "start": 71.41385,
+    "handoff": 72.99556,
+    "end": 73.23555999999999,
+    "layout": [
+      680,
+      950,
+      370,
+      500
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "choose your circle wisely.",
+    "description": "Standalone close-knit group of THREE red rounded stickman friends in detailed red casual clothes, supportive confident posture, two share a purposeful shoulder touch, warm clear expressions, broad exposed forearms/calves. Full bodies, no surrounding literal circle, brain, icons or words.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "wise-compass",
+    "asset": "wise-compass",
+    "start": 72.25385,
+    "handoff": 72.99556,
+    "end": 73.23555999999999,
+    "layout": [
+      670,
+      1360,
+      260,
+      240
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "wisely.",
+    "description": "Standalone chunky red compass in three-quarter view, clear black four-point compass rose and prominent NORTH arrow, one simple integrated CHOOSE WISELY label. No tiny degrees, human or brain.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "bad-influence-friend",
+    "asset": "bad-influence-friend",
+    "start": 72.99556,
+    "handoff": 76.81556,
+    "end": 77.05556,
+    "layout": [
+      290,
+      1220,
+      370,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "If your best friend is a broke, toxic disaster with zero ambition,",
+    "description": "ONE full-body red rounded stickman bad-influence friend, short black hair, slouched red hoodie/shorts, broad calves/forearms, dismissive sneer, arms casually open and listless posture. No wallet, speech balloon, gauge, brain or other person.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "empty-wallet",
+    "asset": "empty-wallet",
+    "start": 74.21556,
+    "handoff": 76.81556,
+    "end": 77.05556,
+    "layout": [
+      680,
+      800,
+      320,
+      240
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "broke, toxic disaster with zero ambition,",
+    "description": "Standalone open empty red wallet in three-quarter view, clearly vacant bill pocket and empty card slots, black lining, sparse white highlights. No hands, person, money amount, brain or text.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "toxic-speech",
+    "asset": "toxic-speech",
+    "start": 74.63556,
+    "handoff": 76.81556,
+    "end": 77.05556,
+    "layout": [
+      680,
+      1100,
+      300,
+      240
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "toxic disaster with zero ambition,",
+    "description": "Standalone chunky red jagged speech balloon containing only bold black comic insult marks #!* and a thorn-like outline; clearly a rude speech metaphor, not actual poison. No people, brain, skull, chemical, face or other words.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "ambition-gauge",
+    "asset": "ambition-gauge",
+    "start": 75.99556,
+    "handoff": 76.81556,
+    "end": 77.05556,
+    "layout": [
+      680,
+      1400,
+      310,
+      240
+    ],
+    "route": "rise",
+    "z": 10,
+    "moves": [],
+    "phrase": "zero ambition,",
+    "description": "Standalone compact red semicircular gauge housing with white face and broad ticks, large AMBITION label and exact 0 at left, NO needle. The needle will be a separately animated part. No human, brain or clinical measurement.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "influenced-brain",
+    "asset": "influenced-brain",
+    "start": 76.81556,
+    "handoff": 79.66665,
+    "end": 79.90665,
+    "layout": [
+      650,
+      850,
+      450,
+      380
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "your brain isn't just hanging out with them.",
+    "description": "Standalone anatomically recognizable red human brain in lateral view with fine black cortical folds and a subtle blank white inset window at lower-right cortex for schematic emphasis. Integrated YOUR BRAIN label. No faces, people, limbs, circuit ports or lines.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "casual-hangout",
+    "asset": "casual-hangout",
+    "start": 78.31556,
+    "handoff": 79.66665,
+    "end": 79.90665,
+    "layout": [
+      370,
+      1270,
+      550,
+      500
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "hanging out with them.",
+    "description": "Coherent full-body two red rounded friends lounging on a compact red sofa, one gestures casually while the other listens half-heartedly, broad limbs, detailed casual clothes. No brain, phone, circuitry, lines or text. A rejected casual-hangout metaphor, keep it uncluttered.",
+    "entry_duration": 0.25,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "neural-download-console",
+    "asset": "neural-download-console",
+    "start": 79.66665,
+    "handoff": 82.50665,
+    "end": 82.74664999999999,
+    "layout": [
+      480,
+      1110,
+      730,
+      600
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [
+      {
+        "t": 81.28665,
+        "x": -200,
+        "y": 150,
+        "scale": 0.64,
+        "d": 0.34,
+        "rotation": 0
+      }
+    ],
+    "phrase": "It is actively downloading their broken neural wiring",
+    "description": "Standalone chunky red laptop-like metaphorical learning console, screen with a small red anatomical brain thumbnail at top and ONE EMPTY white horizontal progress track underneath, integrated DOWNLOAD label. No actual waveforms, percentages, human or mascot brain face.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "broken-neuron-wiring",
+    "asset": "broken-neuron-wiring",
+    "start": 81.28665,
+    "handoff": 82.90665,
+    "end": 83.14665,
+    "layout": [
+      680,
+      820,
+      370,
+      350
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "broken neural wiring and",
+    "description": "Standalone red anatomical neuron axon with clearly separated frayed terminals and a visible narrow gap, dendrites/soma on left and myelin sheath segments. Integrated NEURAL WIRING label. Metaphorical schematic, no people, faces, electric plugs or sparks.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "rewriting-neural-network",
+    "asset": "rewriting-neural-network",
+    "start": 82.90665,
+    "handoff": 86.23333333333333,
+    "end": 86.23333333333333,
+    "layout": [
+      650,
+      770,
+      430,
+      370
+    ],
+    "route": "right",
+    "z": 10,
+    "moves": [],
+    "phrase": "rewriting who you are going to become.",
+    "description": "Standalone detailed red biological network of several branching neurons with somata and myelinated axons, open clear spaces for overlay signals, bold integrated NEURAL NETWORK label. No humans, faces, limbs, actual electrical circuit board, words beyond label or clinical data.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "future-self-choice",
+    "asset": "future-self-choice",
+    "start": 83.36665,
+    "handoff": 86.23333333333333,
+    "end": 86.23333333333333,
+    "layout": [
+      330,
+      1310,
+      470,
+      650
+    ],
+    "route": "left",
+    "z": 10,
+    "moves": [],
+    "phrase": "who you are going to become.",
+    "description": "ONE full-body thoughtful red rounded stickman in red jacket/black tee/shorts, broad exposed forearms/calves, holds a simple blank portrait card of his own face and looks at it seriously, upright reflective pose. No brain, neuron, abstract circuitry, extra people or lettering.",
+    "entry_duration": 0.38,
+    "exit_duration": 0.17
+  },
+  {
+    "id": "guide-neurosynchrony",
+    "asset": "instructor-diagonal",
+    "start": 10.18896,
+    "handoff": 12.35335,
+    "end": 12.55335,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 55,
+    "moves": [],
+    "phrase": "Accurately registered instructor demonstration",
+    "targets": [
+      [
+        10.18896,
+        770,
+        860,
+        700
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false,
+    "entry_duration": 0.24,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "guide-mirror",
+    "asset": "instructor-straight",
+    "start": 32.27265,
+    "handoff": 34.72035,
+    "end": 34.920350000000006,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 55,
+    "moves": [],
+    "phrase": "Accurately registered instructor demonstration",
+    "targets": [
+      [
+        32.27265,
+        666.24,
+        797.07,
+        1200
+      ],
+      [
+        33.36035,
+        650,
+        1260,
+        750,
+        0.24
+      ]
+    ],
+    "tip_source": [
+      525,
+      52
+    ],
+    "flip": true,
+    "entry_duration": 0.24,
+    "exit_duration": 0.14
+  },
+  {
+    "id": "guide-emotion-planning",
+    "asset": "instructor-up",
+    "start": 50.601060000000004,
+    "handoff": 55.62206,
+    "end": 55.82206,
+    "layout": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "presenter",
+    "z": 55,
+    "moves": [],
+    "phrase": "Accurately registered instructor demonstration",
+    "targets": [
+      [
+        50.601060000000004,
+        750.29,
+        867.05,
+        1200
+      ],
+      [
+        51.70106,
+        650,
+        1240,
+        780,
+        0.24
+      ],
+      [
+        52.90206,
+        783.84,
+        785.97,
+        1200,
+        0.24
+      ],
+      [
+        54.52206,
+        650,
+        1250,
+        780,
+        0.24
+      ]
+    ],
+    "tip_source": [
+      449,
+      43
+    ],
+    "flip": true,
+    "entry_duration": 0.24,
+    "exit_duration": 0.14
+  }
+]

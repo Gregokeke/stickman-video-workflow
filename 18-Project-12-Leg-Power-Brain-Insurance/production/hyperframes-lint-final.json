@@ -1,0 +1,1621 @@
+{
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 161,
+  "infoCount": 0,
+  "findings": [
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=assets/graphics/brain.png data-start= data-duration=",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html"
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"aging-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "aging-host",
+      "fixHint": "Move <div id=\"aging-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 1681
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"biceps-poser\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "biceps-poser",
+      "fixHint": "Move <div id=\"biceps-poser\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 2042
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"chest-diagram\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "chest-diagram",
+      "fixHint": "Move <div id=\"chest-diagram\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 2423
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"dismissive-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "dismissive-host",
+      "fixHint": "Move <div id=\"dismissive-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 2824
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"bench-press\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "bench-press",
+      "fixHint": "Move <div id=\"bench-press\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 3206
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"five-day-calendar\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "five-day-calendar",
+      "fixHint": "Move <div id=\"five-day-calendar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 3584
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"toothpick-walker\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "toothpick-walker",
+      "fixHint": "Move <div id=\"toothpick-walker\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 3983
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"leg-reveal\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "leg-reveal",
+      "fixHint": "Move <div id=\"leg-reveal\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 4389
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"lower-body\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "lower-body",
+      "fixHint": "Move <div id=\"lower-body\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 4768
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"confident-mirror\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "confident-mirror",
+      "fixHint": "Move <div id=\"confident-mirror\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 5148
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"energetic-stride\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "energetic-stride",
+      "fixHint": "Move <div id=\"energetic-stride\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 5544
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"agility-step\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "agility-step",
+      "fixHint": "Move <div id=\"agility-step\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 5943
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"two-decade-calendar\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "two-decade-calendar",
+      "fixHint": "Move <div id=\"two-decade-calendar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 6345
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"casual-watcher\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "casual-watcher",
+      "fixHint": "Move <div id=\"casual-watcher\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 6752
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"crumbling-peer\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "crumbling-peer",
+      "fixHint": "Move <div id=\"crumbling-peer\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 7141
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"study-report\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "study-report",
+      "fixHint": "Move <div id=\"study-report\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 7531
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"ten-year-timeline\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "ten-year-timeline",
+      "fixHint": "Move <div id=\"ten-year-timeline\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 7919
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"female-cohort\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "female-cohort",
+      "fixHint": "Move <div id=\"female-cohort\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 8306
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"twins-baseline\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "twins-baseline",
+      "fixHint": "Move <div id=\"twins-baseline\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 8696
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"age-55\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "age-55",
+      "fixHint": "Move <div id=\"age-55\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 9088
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"leg-power-test\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "leg-power-test",
+      "fixHint": "Move <div id=\"leg-power-test\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 9458
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"prediction-brain\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "prediction-brain",
+      "fixHint": "Move <div id=\"prediction-brain\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 9851
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-decay-metaphor\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-decay-metaphor",
+      "fixHint": "Move <div id=\"brain-decay-metaphor\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 10251
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"wild-results-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "wild-results-host",
+      "fixHint": "Move <div id=\"wild-results-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 10661
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"powerful-twins\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "powerful-twins",
+      "fixHint": "Move <div id=\"powerful-twins\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 11058
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cognitive-task\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cognitive-task",
+      "fixHint": "Move <div id=\"cognitive-task\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 11449
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"follow-up-calendar\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "follow-up-calendar",
+      "fixHint": "Move <div id=\"follow-up-calendar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 11857
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mri-scanner\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mri-scanner",
+      "fixHint": "Move <div id=\"mri-scanner\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 12263
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mri-brain-images\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mri-brain-images",
+      "fixHint": "Move <div id=\"mri-brain-images\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 12645
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"gray-matter\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "gray-matter",
+      "fixHint": "Move <div id=\"gray-matter\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 13071
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-tissue\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-tissue",
+      "fixHint": "Move <div id=\"brain-tissue\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 13468
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"tissue-neuron\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "tissue-neuron",
+      "fixHint": "Move <div id=\"tissue-neuron\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 13854
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"forgetful-parent\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "forgetful-parent",
+      "fixHint": "Move <div id=\"forgetful-parent\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 14244
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"family-photo\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "family-photo",
+      "fixHint": "Move <div id=\"family-photo\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 14641
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"strong-legs-summary\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "strong-legs-summary",
+      "fixHint": "Move <div id=\"strong-legs-summary\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 15028
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain",
+      "fixHint": "Move <div id=\"brain\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 15436
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"question-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "question-host",
+      "fixHint": "Move <div id=\"question-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 15803
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"squat-athlete\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "squat-athlete",
+      "fixHint": "Move <div id=\"squat-athlete\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 16212
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"leg-muscle\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "leg-muscle",
+      "fixHint": "Move <div id=\"leg-muscle\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 16599
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"resistance-weight\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "resistance-weight",
+      "fixHint": "Move <div id=\"resistance-weight\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 16981
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"myokines\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "myokines",
+      "fixHint": "Move <div id=\"myokines\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 17397
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"bdnf\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "bdnf",
+      "fixHint": "Move <div id=\"bdnf\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 17750
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"growth-metaphor\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "growth-metaphor",
+      "fixHint": "Move <div id=\"growth-metaphor\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 18112
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-cell-source\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-cell-source",
+      "fixHint": "Move <div id=\"brain-cell-source\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 18485
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neuron\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neuron",
+      "fixHint": "Move <div id=\"neuron\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 18877
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"neural-network\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "neural-network",
+      "fixHint": "Move <div id=\"neural-network\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 19544
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"shrinking-brain-contrast\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "shrinking-brain-contrast",
+      "fixHint": "Move <div id=\"shrinking-brain-contrast\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 20310
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"alarmed-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "alarmed-host",
+      "fixHint": "Move <div id=\"alarmed-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 20946
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"identical-twins-control\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "identical-twins-control",
+      "fixHint": "Move <div id=\"identical-twins-control\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 21330
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"genetic-helix\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "genetic-helix",
+      "fixHint": "Move <div id=\"genetic-helix\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 21747
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"childhood-photo\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "childhood-photo",
+      "fixHint": "Move <div id=\"childhood-photo\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 22357
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"horoscope-wheel\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "horoscope-wheel",
+      "fixHint": "Move <div id=\"horoscope-wheel\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 22961
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"raw-leg-power\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "raw-leg-power",
+      "fixHint": "Move <div id=\"raw-leg-power\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 23570
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"power-difference\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "power-difference",
+      "fixHint": "Move <div id=\"power-difference\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 23971
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"common-sense-host\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "common-sense-host",
+      "fixHint": "Move <div id=\"common-sense-host\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 25433
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"older-self\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "older-self",
+      "fixHint": "Move <div id=\"older-self\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 25847
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"mental-tax\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "mental-tax",
+      "fixHint": "Move <div id=\"mental-tax\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 26253
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"balance-walk\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "balance-walk",
+      "fixHint": "Move <div id=\"balance-walk\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 26634
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"seventy-year-old\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "seventy-year-old",
+      "fixHint": "Move <div id=\"seventy-year-old\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 27017
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"eighty-year-old\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "eighty-year-old",
+      "fixHint": "Move <div id=\"eighty-year-old\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 27429
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"walker\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "walker",
+      "fixHint": "Move <div id=\"walker\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 27836
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"paranoid-step\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "paranoid-step",
+      "fixHint": "Move <div id=\"paranoid-step\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 28206
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"stairs\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "stairs",
+      "fixHint": "Move <div id=\"stairs\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 28593
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"misstep\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "misstep",
+      "fixHint": "Move <div id=\"misstep\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 28963
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"hip-fracture\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "hip-fracture",
+      "fixHint": "Move <div id=\"hip-fracture\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 29335
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"afterlife-ticket\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "afterlife-ticket",
+      "fixHint": "Move <div id=\"afterlife-ticket\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 29720
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"squat-exercise\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "squat-exercise",
+      "fixHint": "Move <div id=\"squat-exercise\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 30120
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"hip-thrust\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "hip-thrust",
+      "fixHint": "Move <div id=\"hip-thrust\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 30510
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"lunge\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "lunge",
+      "fixHint": "Move <div id=\"lunge\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 30890
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"shorts-confidence\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "shorts-confidence",
+      "fixHint": "Move <div id=\"shorts-confidence\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 31270
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"insurance-policy\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "insurance-policy",
+      "fixHint": "Move <div id=\"insurance-policy\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 31681
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"nervous-system\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "nervous-system",
+      "fixHint": "Move <div id=\"nervous-system\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 32093
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"brain-intact\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "brain-intact",
+      "fixHint": "Move <div id=\"brain-intact\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 32499
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"working-brain\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "working-brain",
+      "fixHint": "Move <div id=\"working-brain\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 32886
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"eighty-calendar\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "eighty-calendar",
+      "fixHint": "Move <div id=\"eighty-calendar\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 33290
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"nursing-home\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "nursing-home",
+      "fixHint": "Move <div id=\"nursing-home\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 33698
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"leg-day-finale\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "leg-day-finale",
+      "fixHint": "Move <div id=\"leg-day-finale\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 34084
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-cognition\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-cognition",
+      "fixHint": "Move <div id=\"guide-cognition\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 34476
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-tissue\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-tissue",
+      "fixHint": "Move <div id=\"guide-tissue\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 34762
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-protein\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-protein",
+      "fixHint": "Move <div id=\"guide-protein\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 35043
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"guide-final-brain\"> is a timeline element that contains nested <img>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "guide-final-brain",
+      "fixHint": "Move <div id=\"guide-final-brain\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 35325
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-0\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-0",
+      "fixHint": "Move <div id=\"cap-0\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 35625
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-1\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-1",
+      "fixHint": "Move <div id=\"cap-1\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 35807
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-2\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-2",
+      "fixHint": "Move <div id=\"cap-2\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36021
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-3\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-3",
+      "fixHint": "Move <div id=\"cap-3\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36206
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-4\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-4",
+      "fixHint": "Move <div id=\"cap-4\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36385
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-5\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-5",
+      "fixHint": "Move <div id=\"cap-5\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36588
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-6\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-6",
+      "fixHint": "Move <div id=\"cap-6\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36770
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-7\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-7",
+      "fixHint": "Move <div id=\"cap-7\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 36958
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-8\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-8",
+      "fixHint": "Move <div id=\"cap-8\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 37144
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-9\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-9",
+      "fixHint": "Move <div id=\"cap-9\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 37341
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-10\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-10",
+      "fixHint": "Move <div id=\"cap-10\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 37528
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-11\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-11",
+      "fixHint": "Move <div id=\"cap-11\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 37708
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-12\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-12",
+      "fixHint": "Move <div id=\"cap-12\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 37886
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-13\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-13",
+      "fixHint": "Move <div id=\"cap-13\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 38073
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-14\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-14",
+      "fixHint": "Move <div id=\"cap-14\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 38257
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-15\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-15",
+      "fixHint": "Move <div id=\"cap-15\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 38451
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-16\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-16",
+      "fixHint": "Move <div id=\"cap-16\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 38629
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-17\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-17",
+      "fixHint": "Move <div id=\"cap-17\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 38841
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-18\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-18",
+      "fixHint": "Move <div id=\"cap-18\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 39055
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-19\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-19",
+      "fixHint": "Move <div id=\"cap-19\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 39250
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-20\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-20",
+      "fixHint": "Move <div id=\"cap-20\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 39463
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-21\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-21",
+      "fixHint": "Move <div id=\"cap-21\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 39631
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-22\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-22",
+      "fixHint": "Move <div id=\"cap-22\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 39856
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-23\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-23",
+      "fixHint": "Move <div id=\"cap-23\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40027
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-24\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-24",
+      "fixHint": "Move <div id=\"cap-24\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40197
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-25\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-25",
+      "fixHint": "Move <div id=\"cap-25\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40394
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-26\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-26",
+      "fixHint": "Move <div id=\"cap-26\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40574
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-27\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-27",
+      "fixHint": "Move <div id=\"cap-27\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40774
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-28\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-28",
+      "fixHint": "Move <div id=\"cap-28\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 40965
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-29\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-29",
+      "fixHint": "Move <div id=\"cap-29\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 41160
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-30\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-30",
+      "fixHint": "Move <div id=\"cap-30\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 41359
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-31\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-31",
+      "fixHint": "Move <div id=\"cap-31\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 41541
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-32\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-32",
+      "fixHint": "Move <div id=\"cap-32\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 41751
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-33\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-33",
+      "fixHint": "Move <div id=\"cap-33\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 41951
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-34\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-34",
+      "fixHint": "Move <div id=\"cap-34\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 42124
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-35\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-35",
+      "fixHint": "Move <div id=\"cap-35\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 42305
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-36\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-36",
+      "fixHint": "Move <div id=\"cap-36\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 42507
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-37\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-37",
+      "fixHint": "Move <div id=\"cap-37\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 42701
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-38\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-38",
+      "fixHint": "Move <div id=\"cap-38\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 42916
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-39\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-39",
+      "fixHint": "Move <div id=\"cap-39\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 43100
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-40\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-40",
+      "fixHint": "Move <div id=\"cap-40\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 43281
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-41\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-41",
+      "fixHint": "Move <div id=\"cap-41\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 43462
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-42\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-42",
+      "fixHint": "Move <div id=\"cap-42\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 43643
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-43\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-43",
+      "fixHint": "Move <div id=\"cap-43\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 43870
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-44\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-44",
+      "fixHint": "Move <div id=\"cap-44\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 44043
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-45\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-45",
+      "fixHint": "Move <div id=\"cap-45\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 44267
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-46\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-46",
+      "fixHint": "Move <div id=\"cap-46\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 44457
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-47\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-47",
+      "fixHint": "Move <div id=\"cap-47\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 44659
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-48\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-48",
+      "fixHint": "Move <div id=\"cap-48\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 44877
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-49\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-49",
+      "fixHint": "Move <div id=\"cap-49\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 45055
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-50\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-50",
+      "fixHint": "Move <div id=\"cap-50\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 45252
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-51\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-51",
+      "fixHint": "Move <div id=\"cap-51\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 45436
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-52\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-52",
+      "fixHint": "Move <div id=\"cap-52\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 45623
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-53\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-53",
+      "fixHint": "Move <div id=\"cap-53\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 45825
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-54\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-54",
+      "fixHint": "Move <div id=\"cap-54\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 46002
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-55\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-55",
+      "fixHint": "Move <div id=\"cap-55\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 46194
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-56\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-56",
+      "fixHint": "Move <div id=\"cap-56\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 46379
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-57\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-57",
+      "fixHint": "Move <div id=\"cap-57\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 46592
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-58\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-58",
+      "fixHint": "Move <div id=\"cap-58\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 46805
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-59\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-59",
+      "fixHint": "Move <div id=\"cap-59\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47016
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-60\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-60",
+      "fixHint": "Move <div id=\"cap-60\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47206
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-61\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-61",
+      "fixHint": "Move <div id=\"cap-61\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47383
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-62\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-62",
+      "fixHint": "Move <div id=\"cap-62\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47581
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-63\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-63",
+      "fixHint": "Move <div id=\"cap-63\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47784
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-64\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-64",
+      "fixHint": "Move <div id=\"cap-64\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 47974
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-65\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-65",
+      "fixHint": "Move <div id=\"cap-65\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 48177
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-66\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-66",
+      "fixHint": "Move <div id=\"cap-66\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 48352
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-67\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-67",
+      "fixHint": "Move <div id=\"cap-67\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 48538
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-68\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-68",
+      "fixHint": "Move <div id=\"cap-68\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 48768
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-69\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-69",
+      "fixHint": "Move <div id=\"cap-69\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 48947
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-70\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-70",
+      "fixHint": "Move <div id=\"cap-70\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 49131
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-71\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-71",
+      "fixHint": "Move <div id=\"cap-71\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 49315
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-72\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-72",
+      "fixHint": "Move <div id=\"cap-72\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 49539
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-73\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-73",
+      "fixHint": "Move <div id=\"cap-73\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 49757
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-74\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-74",
+      "fixHint": "Move <div id=\"cap-74\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 49961
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-75\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-75",
+      "fixHint": "Move <div id=\"cap-75\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 50143
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-76\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-76",
+      "fixHint": "Move <div id=\"cap-76\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 50360
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-77\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-77",
+      "fixHint": "Move <div id=\"cap-77\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 50555
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<div id=\"cap-78\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "cap-78",
+      "fixHint": "Move <div id=\"cap-78\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/scratch/da11170a9a63/restored-full/source/Leg-Power-Brain-Insurance/index.html",
+      "line": 1,
+      "column": 50735
+    }
+  ],
+  "filesScanned": 1,
+  "_meta": {
+    "version": "0.8.217",
+    "updateAvailable": false
+  }
+}

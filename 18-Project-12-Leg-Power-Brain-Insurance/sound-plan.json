@@ -1,0 +1,500 @@
+[
+  [
+    0.09,
+    "B20",
+    -18.5,
+    "Character or scene arrival: aging-host"
+  ],
+  [
+    2.81,
+    "B31",
+    -18.5,
+    "Character or scene arrival: biceps-poser"
+  ],
+  [
+    3.6599999999999997,
+    "A11",
+    -17.5,
+    "Detail emerges from biceps-poser"
+  ],
+  [
+    5.34,
+    "B02",
+    -19,
+    "Supporting prop resolves: dismissive-host"
+  ],
+  [
+    5.95,
+    "B27",
+    -19,
+    "Supporting prop resolves: bench-press"
+  ],
+  [
+    6.56,
+    "B16",
+    -17.5,
+    "Detail emerges from bench-press"
+  ],
+  [
+    7.6899999999999995,
+    "B20",
+    -18.5,
+    "Character or scene arrival: toothpick-walker"
+  ],
+  [
+    10.25,
+    "B31",
+    -18.5,
+    "Character or scene arrival: leg-reveal"
+  ],
+  [
+    11.16,
+    "B15",
+    -17.5,
+    "Detail emerges from leg-reveal"
+  ],
+  [
+    12.79,
+    "B02",
+    -19,
+    "Supporting prop resolves: confident-mirror"
+  ],
+  [
+    13.26,
+    "B27",
+    -19,
+    "Supporting prop resolves: energetic-stride"
+  ],
+  [
+    13.97,
+    "B18",
+    -19,
+    "Supporting prop resolves: agility-step"
+  ],
+  [
+    16.01,
+    "B31",
+    -18.5,
+    "Character or scene arrival: casual-watcher"
+  ],
+  [
+    18.23,
+    "O01",
+    -18.5,
+    "Character or scene arrival: crumbling-peer"
+  ],
+  [
+    20.02,
+    "B02",
+    -19,
+    "Supporting prop resolves: study-report"
+  ],
+  [
+    21.32,
+    "B18",
+    -19,
+    "Supporting prop resolves: female-cohort"
+  ],
+  [
+    22.4,
+    "A11",
+    -17.5,
+    "Detail emerges from female-cohort"
+  ],
+  [
+    23.46,
+    "B27",
+    -19,
+    "Supporting prop resolves: age-55"
+  ],
+  [
+    25.44,
+    "O01",
+    -18.5,
+    "Character or scene arrival: leg-power-test"
+  ],
+  [
+    26.85,
+    "B16",
+    -17.5,
+    "Detail emerges from leg-power-test"
+  ],
+  [
+    28.53,
+    "A11",
+    -17.5,
+    "Detail emerges from prediction-brain"
+  ],
+  [
+    29.34,
+    "O01",
+    -18.5,
+    "Character or scene arrival: wild-results-host"
+  ],
+  [
+    31.11,
+    "B20",
+    -18.5,
+    "Character or scene arrival: powerful-twins"
+  ],
+  [
+    34.07,
+    "B27",
+    -19,
+    "Supporting prop resolves: cognitive-task"
+  ],
+  [
+    34.34,
+    "B06",
+    -20,
+    "Instruction guide arrives"
+  ],
+  [
+    35.59,
+    "B18",
+    -19,
+    "Supporting prop resolves: follow-up-calendar"
+  ],
+  [
+    37.64,
+    "B20",
+    -18.5,
+    "Character or scene arrival: mri-scanner"
+  ],
+  [
+    40.150000000000006,
+    "B16",
+    -17.5,
+    "Detail emerges from mri-brain-images"
+  ],
+  [
+    40.56,
+    "B06",
+    -20,
+    "Instruction guide arrives"
+  ],
+  [
+    41.71,
+    "A11",
+    -17.5,
+    "Detail emerges from gray-matter"
+  ],
+  [
+    43.35,
+    "B08",
+    -17.5,
+    "Detail emerges from brain-tissue"
+  ],
+  [
+    44.63,
+    "O01",
+    -18.5,
+    "Character or scene arrival: forgetful-parent"
+  ],
+  [
+    45.52,
+    "B16",
+    -17.5,
+    "Detail emerges from forgetful-parent"
+  ],
+  [
+    46.49,
+    "B31",
+    -18.5,
+    "Character or scene arrival: strong-legs-summary"
+  ],
+  [
+    48.77,
+    "B08",
+    -17.5,
+    "Detail emerges from strong-legs-summary"
+  ],
+  [
+    49.43000000000001,
+    "B20",
+    -18.5,
+    "Character or scene arrival: question-host"
+  ],
+  [
+    49.96,
+    "B31",
+    -18.5,
+    "Character or scene arrival: squat-athlete"
+  ],
+  [
+    51.13,
+    "A11",
+    -17.5,
+    "Detail emerges from squat-athlete"
+  ],
+  [
+    51.64,
+    "B02",
+    -18,
+    "Finite muscle contraction"
+  ],
+  [
+    52.400000000000006,
+    "B02",
+    -19,
+    "Supporting prop resolves: resistance-weight"
+  ],
+  [
+    53.71,
+    "B15",
+    -17.5,
+    "Detail emerges from leg-muscle"
+  ],
+  [
+    57.32,
+    "B16",
+    -17.5,
+    "Detail emerges from myokines"
+  ],
+  [
+    57.81,
+    "B06",
+    -20,
+    "Instruction guide arrives"
+  ],
+  [
+    59.6,
+    "B02",
+    -19,
+    "Supporting prop resolves: growth-metaphor"
+  ],
+  [
+    60.68000000000001,
+    "B27",
+    -19,
+    "Supporting prop resolves: brain-cell-source"
+  ],
+  [
+    62.04,
+    "B02",
+    -22,
+    "Axon signal begins"
+  ],
+  [
+    63.21,
+    "B16",
+    -17.5,
+    "Detail emerges from neuron"
+  ],
+  [
+    63.84,
+    "C14",
+    -22,
+    "Neural pathway resolves"
+  ],
+  [
+    64.69,
+    "B27",
+    -19,
+    "Supporting prop resolves: shrinking-brain-contrast"
+  ],
+  [
+    66.08,
+    "O01",
+    -18.5,
+    "Character or scene arrival: alarmed-host"
+  ],
+  [
+    68.14,
+    "B20",
+    -18.5,
+    "Character or scene arrival: identical-twins-control"
+  ],
+  [
+    70.96000000000001,
+    "B16",
+    -17.5,
+    "Detail emerges from identical-twins-control"
+  ],
+  [
+    71.72,
+    "B18",
+    -19,
+    "Supporting prop resolves: childhood-photo"
+  ],
+  [
+    72.86,
+    "B02",
+    -19,
+    "Supporting prop resolves: horoscope-wheel"
+  ],
+  [
+    73.02,
+    "C18",
+    -23,
+    "Horoscope excuse rejected"
+  ],
+  [
+    73.99000000000001,
+    "B31",
+    -18.5,
+    "Character or scene arrival: raw-leg-power"
+  ],
+  [
+    75.39,
+    "B18",
+    -19,
+    "Supporting prop resolves: power-difference"
+  ],
+  [
+    77.4,
+    "B20",
+    -18.5,
+    "Character or scene arrival: common-sense-host"
+  ],
+  [
+    78.21000000000001,
+    "B31",
+    -18.5,
+    "Character or scene arrival: older-self"
+  ],
+  [
+    80.14,
+    "B15",
+    -17.5,
+    "Detail emerges from older-self"
+  ],
+  [
+    81.36,
+    "B20",
+    -18.5,
+    "Character or scene arrival: balance-walk"
+  ],
+  [
+    83.37,
+    "B31",
+    -18.5,
+    "Character or scene arrival: seventy-year-old"
+  ],
+  [
+    83.96000000000001,
+    "O01",
+    -18.5,
+    "Character or scene arrival: eighty-year-old"
+  ],
+  [
+    85.36,
+    "B15",
+    -17.5,
+    "Detail emerges from eighty-year-old"
+  ],
+  [
+    86.93,
+    "B31",
+    -18.5,
+    "Character or scene arrival: paranoid-step"
+  ],
+  [
+    90.41,
+    "B18",
+    -19,
+    "Supporting prop resolves: stairs"
+  ],
+  [
+    91.69,
+    "B20",
+    -18.5,
+    "Character or scene arrival: misstep"
+  ],
+  [
+    92.92,
+    "B15",
+    -17.5,
+    "Detail emerges from misstep"
+  ],
+  [
+    93.04,
+    "C20",
+    -18,
+    "Hip-fracture diagram emphasis"
+  ],
+  [
+    94.03,
+    "B16",
+    -17.5,
+    "Detail emerges from hip-fracture"
+  ],
+  [
+    96.01,
+    "B20",
+    -18.5,
+    "Character or scene arrival: squat-exercise"
+  ],
+  [
+    97.33,
+    "B27",
+    -19,
+    "Supporting prop resolves: hip-thrust"
+  ],
+  [
+    98.11,
+    "O01",
+    -18.5,
+    "Character or scene arrival: lunge"
+  ],
+  [
+    99.74000000000001,
+    "B20",
+    -18.5,
+    "Character or scene arrival: shorts-confidence"
+  ],
+  [
+    101.71000000000001,
+    "A11",
+    -17.5,
+    "Detail emerges from shorts-confidence"
+  ],
+  [
+    103.27000000000001,
+    "B08",
+    -17.5,
+    "Detail emerges from shorts-confidence"
+  ],
+  [
+    104.95,
+    "B15",
+    -17.5,
+    "Detail emerges from nervous-system"
+  ],
+  [
+    106.00999999999999,
+    "B06",
+    -20,
+    "Instruction guide arrives"
+  ],
+  [
+    107.10000000000001,
+    "B16",
+    -17.5,
+    "Detail emerges from brain-intact"
+  ],
+  [
+    107.82000000000001,
+    "B18",
+    -19,
+    "Supporting prop resolves: eighty-calendar"
+  ],
+  [
+    109.05,
+    "B20",
+    -18.5,
+    "Character or scene arrival: nursing-home"
+  ],
+  [
+    111.17,
+    "B31",
+    -18.5,
+    "Character or scene arrival: leg-day-finale"
+  ],
+  [
+    112.0,
+    "C14",
+    -20,
+    "Leg-day closing resolution"
+  ]
+]

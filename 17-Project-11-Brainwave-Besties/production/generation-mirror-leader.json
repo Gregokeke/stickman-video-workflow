@@ -1,0 +1,11 @@
+{
+  "id": "mirror-leader",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: copy and mimic the exact behavior. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: ONE full-body red rounded stickman, messy hair, jacket/black tee/shorts, broad limbs, raises right open palm near shoulder while leaning slightly toward RIGHT, relaxed grin. No mirror, neuron, companion, text or icons.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/mirror-leader.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-49bf672e-e1da-4e09-907b-2a60a326e3ec.png"
+}

@@ -1,0 +1,962 @@
+[
+  {
+    "path": "DESIGN.md",
+    "size": 2611,
+    "sha256": "ef93baba50934c4bcdc4f5d7c5924a20b969119c493cbaa20de7e91168721be0"
+  },
+  {
+    "path": "README.md",
+    "size": 6152,
+    "sha256": "d8a9562f83087a88d6a223b0fef4a045daef06517899499fba5cd3bb80046c3a"
+  },
+  {
+    "path": "SFX-CREDITS.md",
+    "size": 841,
+    "sha256": "e67e58ecad45d40e0fb7e9232eb2e4b7df8271a6d924ba22644ef7375edcb6bd"
+  },
+  {
+    "path": "animation.js",
+    "size": 1964,
+    "sha256": "bbe39e867e65dcc3664e33ab8e7633e44a6a63fddd7b31588ef2dfaf015a63ec"
+  },
+  {
+    "path": "asset-inventory.json",
+    "size": 12466,
+    "sha256": "08dfb4fb08c00ca9191a8ee2380a235ee8e0cec80da58b5caffea8f57ad526c6"
+  },
+  {
+    "path": "asset-plan.json",
+    "size": 73870,
+    "sha256": "ac73a6b2ec865f70331280e03a03f5fd492e4f97665d860180b143b4ec1819e6"
+  },
+  {
+    "path": "asset-sources.json",
+    "size": 73870,
+    "sha256": "ac73a6b2ec865f70331280e03a03f5fd492e4f97665d860180b143b4ec1819e6"
+  },
+  {
+    "path": "assets/audio/effects.wav",
+    "size": 33004844,
+    "sha256": "a5193301ccb721d1c5c8ec1d9677785f6d49ad7d1eaa6d7503680385f37f59b8"
+  },
+  {
+    "path": "assets/audio/mix.wav",
+    "size": 33004844,
+    "sha256": "f951bbc775f8c84e0bace34c6fbda9c2a72137082ed83ebcc1d6086696e28ef6"
+  },
+  {
+    "path": "assets/audio/narration.wav",
+    "size": 16246877,
+    "sha256": "0a663f933b5f2bb3a57f249d2a22d39cd0d267f27dc8b5da0494da60d50ab862"
+  },
+  {
+    "path": "assets/audio/source-narration.mp3",
+    "size": 1939967,
+    "sha256": "d55f1b559a6e40517a6b505adf4f98686fc33479f3116f55f77291549101f62e"
+  },
+  {
+    "path": "assets/fonts/caption-bold.ttf",
+    "size": 147264,
+    "sha256": "27da758f4dcac9a65abe914c13b463b42982b9909bc65713424099f4810bd1e6"
+  },
+  {
+    "path": "assets/graphics/actinidin.png",
+    "size": 1270645,
+    "sha256": "c50bfbb1235babfe0211ae75f195c03561f1fef2328b6e0e0bb732a67b4ca94d"
+  },
+  {
+    "path": "assets/graphics/bedtime-kiwi.png",
+    "size": 951838,
+    "sha256": "ebe49e51b8af9e52a793564c75da6e34e12a7b20a4e4cb1b89c10a11f20e45f9"
+  },
+  {
+    "path": "assets/graphics/brain.png",
+    "size": 1319514,
+    "sha256": "7c721c7b8ce85856cb498737cea64877f52e9c24e3c3d46e56a072247fd4134a"
+  },
+  {
+    "path": "assets/graphics/calendar.png",
+    "size": 1019425,
+    "sha256": "c52ffcf2d2867dbb0eaebc248c41276b179329227a5a7923a305fee745584444"
+  },
+  {
+    "path": "assets/graphics/ceiling-awake.png",
+    "size": 1085617,
+    "sha256": "47161918e82594a8c3bf9f935f4abe7f00e8a2ec712b1e1a9cfa7a37bbe958fa"
+  },
+  {
+    "path": "assets/graphics/clock-3am.png",
+    "size": 1273862,
+    "sha256": "66a18d9f21a52bf0ac378c3326fcc3ee12e3f5055e02651191f729f4e8c0140b"
+  },
+  {
+    "path": "assets/graphics/clot-bloodstream-edit.png",
+    "size": 746733,
+    "sha256": "ea59f4e4d654a8fd59f2eaaa4e0669bebc197c24ab6d186ee21edb81138f7823"
+  },
+  {
+    "path": "assets/graphics/coins.png",
+    "size": 913445,
+    "sha256": "0cfb984f1b891a15152618dba11cc914e5dda01c35de1aeb1edc13f52da1c947"
+  },
+  {
+    "path": "assets/graphics/comfortable.png",
+    "size": 1189087,
+    "sha256": "72447ed91a2e47f705ff00a78ba466e272a10490d4f220e6e56fc68943668d21"
+  },
+  {
+    "path": "assets/graphics/constipated.png",
+    "size": 1127141,
+    "sha256": "9c0dbaa8a31eea4fe48eb1ef8560197a2116a5e2f554a1a9e6e15a10e96ecc3f"
+  },
+  {
+    "path": "assets/graphics/crunch.png",
+    "size": 1203029,
+    "sha256": "f6416f6d0b9aef76b352f91c778f497a80923b5c125df8d6f6ecca200b0796c5"
+  },
+  {
+    "path": "assets/graphics/daily-kiwi.png",
+    "size": 1313301,
+    "sha256": "dba468108363426b0ff62fbf846470909da777ec089d7c7b228f684f168df4bf"
+  },
+  {
+    "path": "assets/graphics/dna.png",
+    "size": 558956,
+    "sha256": "ce1942234a525b3d14f821e12bb2a011640b809ce35d3c715eafb460c2dab8e0"
+  },
+  {
+    "path": "assets/graphics/eat-kiwi.png",
+    "size": 1169497,
+    "sha256": "d4af1540da51ba3682f4ba5384ba38125ab2dab4709a1c8aa182f3732b8478d3"
+  },
+  {
+    "path": "assets/graphics/fiber-mesh.png",
+    "size": 1257237,
+    "sha256": "326cf128a31c291d873bfae26085e28c377dd06a7cb3a660dd4b6338e07712f3"
+  },
+  {
+    "path": "assets/graphics/fiber-portions.png",
+    "size": 957601,
+    "sha256": "9ccadd5026932c7685713f859dfdc97d87ef3f39a8834ebecb7b972d213b6de3"
+  },
+  {
+    "path": "assets/graphics/folate.png",
+    "size": 1213146,
+    "sha256": "1e4e79fda9a66fcf748aee79d169e17fbf007936d83a8031f01177fedd06888a"
+  },
+  {
+    "path": "assets/graphics/fruit-basket.png",
+    "size": 745757,
+    "sha256": "73b019ba294e5fe82f16270db175256fdd85f0bc6e98fe006981384d15ea6103"
+  },
+  {
+    "path": "assets/graphics/fuzzy-egg.png",
+    "size": 1544919,
+    "sha256": "31e6599265a38b8a4004b6db5e591f51935b3707703b9d64d723e2efd2a778f3"
+  },
+  {
+    "path": "assets/graphics/garbage.png",
+    "size": 949000,
+    "sha256": "59e79a1760185e5e1673c4a7120d3d1dc667d911e697663e0b11deb87fa7a455"
+  },
+  {
+    "path": "assets/graphics/glucose.png",
+    "size": 519293,
+    "sha256": "9f19bd4b3752a215277c9247db422cd5c28953e207b0cc432cd12abf5b3bf6f6"
+  },
+  {
+    "path": "assets/graphics/grocery.png",
+    "size": 1568280,
+    "sha256": "531af8fa0f74531ae298b4dd66d8e75b0ef7fc62e3fbe669b09d7179b79a919e"
+  },
+  {
+    "path": "assets/graphics/gym.png",
+    "size": 624342,
+    "sha256": "6f4937c54bb71ee8d1aba4b9a5eca7c8a06c1974b877f6094ec3e4f40d9c9d17"
+  },
+  {
+    "path": "assets/graphics/heart.png",
+    "size": 811642,
+    "sha256": "ea0c0a2652a938f044f7dbc9701728e65fc73f29c3a7404e0e71629c48ff8231"
+  },
+  {
+    "path": "assets/graphics/instructor-straight.png",
+    "size": 362040,
+    "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62"
+  },
+  {
+    "path": "assets/graphics/instructor-up.png",
+    "size": 392757,
+    "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7"
+  },
+  {
+    "path": "assets/graphics/kiwi-boxer.png",
+    "size": 765010,
+    "sha256": "472797d08d98e88fede67ad5f3fe2af0a9217dfbc888574b764ed14805f66b74"
+  },
+  {
+    "path": "assets/graphics/kiwi-hero.png",
+    "size": 1305402,
+    "sha256": "289d6424d71326dc71af4d8f437536fa082df9ca8d57f6e3d0c609efab237ac3"
+  },
+  {
+    "path": "assets/graphics/kiwi-schemer.png",
+    "size": 819404,
+    "sha256": "75b8e04b0149a9dd01bc808c7f085e321e2127d6f87e6ded830160d2c430e3b1"
+  },
+  {
+    "path": "assets/graphics/kiwi-seeds.png",
+    "size": 1057035,
+    "sha256": "521ba615d1e6eceb19d14ffa69e10c549d4191b5311cc2065b17f0c1da3b478d"
+  },
+  {
+    "path": "assets/graphics/kiwi-underrated-sad.png",
+    "size": 784415,
+    "sha256": "d2f905c8ce150004db57583bade0081928ee31b03cb3f59cef0028e574597dbb"
+  },
+  {
+    "path": "assets/graphics/lipid-solo.png",
+    "size": 1376529,
+    "sha256": "ce6ecb084adc0574b26fd7a3894223e03052e5587e10a2b57b64ed1f4c23593b"
+  },
+  {
+    "path": "assets/graphics/low-fiber-person.png",
+    "size": 748021,
+    "sha256": "1c3890ca1d7dfc95c6e0fc7827e17c7457f6e573c4518c0baab4ee7096219587"
+  },
+  {
+    "path": "assets/graphics/matters.png",
+    "size": 1165085,
+    "sha256": "b1337a8660a083d3f0c0d1d5a7a0c6289977582d0b38e15b31adaaf873a1aa3a"
+  },
+  {
+    "path": "assets/graphics/medal.png",
+    "size": 775510,
+    "sha256": "43600b646eac730d04d3fe5352853043f5e9640afe19d28a42e1ae865b1a15bc"
+  },
+  {
+    "path": "assets/graphics/melatonin.png",
+    "size": 1219354,
+    "sha256": "bcf240570ed280a09c5abc541298af77d3b7d3e456eebfb240a3b4ab743cdff7"
+  },
+  {
+    "path": "assets/graphics/membrane.png",
+    "size": 1388363,
+    "sha256": "881fc6b7a7f504a520ddc7a6e95c2dfa1d6ea00ac8bdb92bba35ec2cb62ff00e"
+  },
+  {
+    "path": "assets/graphics/moon.png",
+    "size": 711077,
+    "sha256": "1dc73240fe92c9148162fd779aa5cdb438e2f8532eba6e4ae775ee9837d42b4a"
+  },
+  {
+    "path": "assets/graphics/muscle.png",
+    "size": 1579518,
+    "sha256": "768f5689448be569ce388eddb520c2b888a56625a60141288380c2badb13d299"
+  },
+  {
+    "path": "assets/graphics/narrator-sass.png",
+    "size": 1208290,
+    "sha256": "1a84970f11de7e2b08a6fc122f97172584ab6f08d156fab5bdd644bc0a4e22e4"
+  },
+  {
+    "path": "assets/graphics/no-fat-narrator.png",
+    "size": 1164650,
+    "sha256": "7c5df266ce7a7d66ad438ecb3f691cca50abe226b5bad887d79fc3889d493dde"
+  },
+  {
+    "path": "assets/graphics/nutrition-cutaway.png",
+    "size": 1122783,
+    "sha256": "ed7dd069985738b6b819bf114081a020ccefa5486a0b270055fd9229a9ee6065"
+  },
+  {
+    "path": "assets/graphics/orange-boxer.png",
+    "size": 737552,
+    "sha256": "bf9bee33219efb14482312bd3bde440b9469ceebfd4b7931b113dc9e8c18418e"
+  },
+  {
+    "path": "assets/graphics/overrate.png",
+    "size": 1242890,
+    "sha256": "bef21caabcd6e1cd2c47cfec984d7a1679430893235bb42fbb4e7c898e0edbb5"
+  },
+  {
+    "path": "assets/graphics/oxidation-solo.png",
+    "size": 1508417,
+    "sha256": "b909692320f290b0cd9d0a8cb8dc61fe2d8eb552611d01c40d7624621ba44de3"
+  },
+  {
+    "path": "assets/graphics/paper-cut.png",
+    "size": 690876,
+    "sha256": "d9e5eb0fb1e58ae00ea4e4b38e46f7916c8adcf0acc910d1b823cde0fd8ca348"
+  },
+  {
+    "path": "assets/graphics/passed-out.png",
+    "size": 896893,
+    "sha256": "0bee0cb63dcbcc6e7db77655ec69672e87c6d3971e7d1c3bec2b03549b208c41"
+  },
+  {
+    "path": "assets/graphics/peptides.png",
+    "size": 728845,
+    "sha256": "b926a818b3c41159abc00cbca7b84267b1425cde8ba07649b0ffafd8734850c1"
+  },
+  {
+    "path": "assets/graphics/pineal.png",
+    "size": 1130136,
+    "sha256": "d4e72ce167d2a7e6d98d7a72e5dcf40e48cc84f0d3387d5c588a522616a9e0f7"
+  },
+  {
+    "path": "assets/graphics/poop-shrine.png",
+    "size": 1033727,
+    "sha256": "7e74266c63cab96106fe1cbbd728d444e0df96fb3b9f6a39374cbe4add62ec3b"
+  },
+  {
+    "path": "assets/graphics/post-meal.png",
+    "size": 833257,
+    "sha256": "f3701199e36c5013a999f6aec89d332ac2b58141e6ac126a780a5fb4c8fe673f"
+  },
+  {
+    "path": "assets/graphics/potassium.png",
+    "size": 732894,
+    "sha256": "066595d1140f2a4355dbf7e932794efaa0719ed785a6eaf587a1d75e6d1a65a0"
+  },
+  {
+    "path": "assets/graphics/praying.png",
+    "size": 717471,
+    "sha256": "7e07ef30390d2f29874dc94da16e70d19508f6b664fbfa9501c97ccc46914611"
+  },
+  {
+    "path": "assets/graphics/protein.png",
+    "size": 1475958,
+    "sha256": "dac8ce523c9dc9e1e236af0bff25f41768ccf1f73ca7027d2e060977bcc71d0b"
+  },
+  {
+    "path": "assets/graphics/quiet-kiwi.png",
+    "size": 1265080,
+    "sha256": "670e3a178be3651e480473b5f6c99326c19ecaed11ce5d8342cea8e197a58a2e"
+  },
+  {
+    "path": "assets/graphics/referee.png",
+    "size": 692460,
+    "sha256": "bdfa4a810c001af817a4911056139f026a2775c00d73d7024489c473f9ba542a"
+  },
+  {
+    "path": "assets/graphics/scientist.png",
+    "size": 1217722,
+    "sha256": "7af5da4288599c881d27c9271dd443f40649aa77ad80f3ba603856c9bf6f810a"
+  },
+  {
+    "path": "assets/graphics/scissors.png",
+    "size": 666759,
+    "sha256": "427aa59207347fc7476450f47bebbed2fc76fd445406c360e1d5949d536bb8b7"
+  },
+  {
+    "path": "assets/graphics/seed-oil.png",
+    "size": 653450,
+    "sha256": "9e6f0a8fccf749db5e2b25fe6f7f95b940259933e3b55c919c38ad6c27813a1c"
+  },
+  {
+    "path": "assets/graphics/serotonin.png",
+    "size": 1165997,
+    "sha256": "85c27a1001cfe95b7b8d79ad2b1c702655134e592b8e4eaadfec060ab7af9df2"
+  },
+  {
+    "path": "assets/graphics/shield.png",
+    "size": 817524,
+    "sha256": "a99c98df5aca27c5a3887ab187ef2db8b61df7273df8a56108806a324696746d"
+  },
+  {
+    "path": "assets/graphics/sleep-quality.png",
+    "size": 1074560,
+    "sha256": "2fd4fcb477134678d34f307a2a25b14e49c0eebd91915f12fe8dedc2b773eb16"
+  },
+  {
+    "path": "assets/graphics/sleepy.png",
+    "size": 1179688,
+    "sha256": "486cfe326f109de5f16a060f7e9d06558068f70c9f0106fd1dbcef0c93e12b8f"
+  },
+  {
+    "path": "assets/graphics/sponge.png",
+    "size": 1245186,
+    "sha256": "643a9ac388ea62d6822216f24287ccbd9cc6f0a800f0293d7b2ec92a473a9fab"
+  },
+  {
+    "path": "assets/graphics/stomach.png",
+    "size": 1237557,
+    "sha256": "6e7142aaca855bf401e2415d4aa040ddaa3a1ea4eda7749df515506213a87b47"
+  },
+  {
+    "path": "assets/graphics/sweeping-gut.png",
+    "size": 870120,
+    "sha256": "ba9b06628b2d8eea8cfc279f861f483a66c7c6665f0fb2a170f7d1a0c00850ab"
+  },
+  {
+    "path": "assets/graphics/tarantula-larger-abdomen.png",
+    "size": 786279,
+    "sha256": "a9c326317b0c23e13a1923f03b2986a4a2465d28ae2748a8c825ebf2e8b714ef"
+  },
+  {
+    "path": "assets/graphics/toilet-sitter.png",
+    "size": 779272,
+    "sha256": "72510a2fa970acc8d77b00a3d6fcb99517b1e671b0c371a94cde46dadc4199a6"
+  },
+  {
+    "path": "assets/graphics/tragic-gut.png",
+    "size": 1312063,
+    "sha256": "73a8071b6d3b223518fc6c8df48ae89600fc39d49ccc2481a0fca937b5c7ff5a"
+  },
+  {
+    "path": "assets/graphics/trial-document.png",
+    "size": 1152434,
+    "sha256": "94e2cbddbfcabdfb07a209a46e58fd8c07186bd2b727d3facd35f514f937ee5b"
+  },
+  {
+    "path": "assets/graphics/vitamin-c.png",
+    "size": 707958,
+    "sha256": "ae107294504d4419386db5737a729d028ad8f5cf1fd4b4adc79fb98055b68b76"
+  },
+  {
+    "path": "assets/graphics/vitamin-e-solo.png",
+    "size": 597067,
+    "sha256": "0f2fd271d055565d90fabdf7d8dab29a5569cbac24df22b730946b181f83a17f"
+  },
+  {
+    "path": "assets/graphics/vitamin-k-solo.png",
+    "size": 599194,
+    "sha256": "27018bcc0f3d010e79c8873d47a9c08cc54ae93a310461e7a72b690398d12216"
+  },
+  {
+    "path": "assets/graphics/water-drop.png",
+    "size": 652073,
+    "sha256": "37d1fe93ba5dcb6a9ae0af53d31d7ba709698b37c3a77021e76616d1634fd74b"
+  },
+  {
+    "path": "assets/graphics/weird-narrator.png",
+    "size": 1192142,
+    "sha256": "b931920b3458a709ef764c8725692c334efeb52492c8e49fcb5516545955d5b9"
+  },
+  {
+    "path": "assets/graphics/wet-brick.png",
+    "size": 1617002,
+    "sha256": "30fa4f3cb0c3a6585ddd381a6ef81be889b5a11c7e3a1f4489c46fd465fbb26c"
+  },
+  {
+    "path": "assets/graphics/workout-kiwi.png",
+    "size": 1582484,
+    "sha256": "2ed24102984d2c1d5f0f3e4b3faa0d864a5d22e81ce9748c3579cd115951e246"
+  },
+  {
+    "path": "assets/graphics/world.png",
+    "size": 680480,
+    "sha256": "b9065d2ea489b2c3f60973e6f774e2108c6cadcff22f790e3ea27dc7013d0e67"
+  },
+  {
+    "path": "assets/sfx/A02_Slap_Clap_Reverb_01.wav",
+    "size": 371046,
+    "sha256": "98a4c218efa5011d50525bcca9246bbbe609b0d480fbd49ab25e3d7acdbdfed2"
+  },
+  {
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "size": 82182,
+    "sha256": "c41ab00bbd9df6720dbb61cefe98f59535f71145459cc54c205cf61b8b2d9d7c"
+  },
+  {
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "size": 89958,
+    "sha256": "181659ac2b54a24cd8763cef976f10c860e30d8ed54aca5bdcd4ff6abd0fade8"
+  },
+  {
+    "path": "assets/sfx/B04_Crunchy_Shutter_Burst_01.wav",
+    "size": 134310,
+    "sha256": "a1fb29cbcd1284f64d64ca1e574a65abc271e2676bfe845f017369f46121116a"
+  },
+  {
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "size": 143814,
+    "sha256": "2ef83770d54b33aa4563c6d9074771ead42f319bf1c8b174af699638a5f51f26"
+  },
+  {
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "size": 68934,
+    "sha256": "62f51515854826b0777871d1e3aae3c6c1e32f4d6341ca0323be4fc15c2ca193"
+  },
+  {
+    "path": "assets/sfx/B13_Keyboard_Run_03.wav",
+    "size": 273990,
+    "sha256": "10724fadd4dc7cb3f3785ba44b28341e022dc4f0da706a635b38d89847a825ad"
+  },
+  {
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "size": 98598,
+    "sha256": "201f78068cadbdb4e1586dff169b98903091a22a2e70d296e73497b17531e34e"
+  },
+  {
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "size": 81318,
+    "sha256": "3a515a732379dcae0f6cd4657bdcae86964109324e9eca3014899ff35d50778c"
+  },
+  {
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "size": 59430,
+    "sha256": "056fb7867202141442e408f5288319b50637be71292b2bbaa398111adb186f39"
+  },
+  {
+    "path": "assets/sfx/B19b_Metallic_Ting_Ring_01.wav",
+    "size": 472710,
+    "sha256": "119e22822431b72e13a1e1f9576427e3fb037a9868054e01a07b35e85776c5e9"
+  },
+  {
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "size": 155622,
+    "sha256": "02cdc66718e48e581c43fb2f1933215bc28a39f05f3f5a490321f1d7fa573040"
+  },
+  {
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "size": 87942,
+    "sha256": "39b9cf6688a9ba9d32348df709e0f55b30e03fba68118ef1bdf742459e9f2120"
+  },
+  {
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "size": 260742,
+    "sha256": "d652161774c8419aa204602637e4ec64fe653f40e6dba915320e825d4f36f70c"
+  },
+  {
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "size": 459996,
+    "sha256": "ce9113282c608486bdd5b02b21cb627e3d674ab2d62cf9000856cbe48cffd01d"
+  },
+  {
+    "path": "assets/sfx/C01_Gear_Ratchet_Crank_01.wav",
+    "size": 699654,
+    "sha256": "0181a98e556d7678df0027b1250844f8836f1cf5198f4c2aaeaba3181ae70d44"
+  },
+  {
+    "path": "assets/sfx/C04_Digital_Rewind_Stutter_02.wav",
+    "size": 219846,
+    "sha256": "950f3ba20f5851b62ac1eb7ad6881b0d3d0f2fa105adad67ff399449f54cee8a"
+  },
+  {
+    "path": "assets/sfx/C09_Liquid_Boing_Plop_01.wav",
+    "size": 367590,
+    "sha256": "cb8394e49fb522f74121ff17c068911156b104dd04e730b162944dc214ff5c54"
+  },
+  {
+    "path": "assets/sfx/C10_Short_Cartoon_Plop_Swoop_01.wav",
+    "size": 87078,
+    "sha256": "574663669d88ccb3360d2853cd613ca188dcc2320b2ecac170ea87eaab8cc52b"
+  },
+  {
+    "path": "assets/sfx/C12_Comic_Grunt_Reaction_01.wav",
+    "size": 320934,
+    "sha256": "5b2313d7e3d704fbd40c51d2f6deecc7ea501ddc2d2663dc47810a4dc0da0889"
+  },
+  {
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "size": 267654,
+    "sha256": "4b160779a193fe9b0e2897cda9cc4dbb25018b8c98ae7f0ace0b03b3e482ca8b"
+  },
+  {
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "size": 385158,
+    "sha256": "5ae8fff924af70a7e30281a003a96a6876827576b5357e52b410e3e976400d65"
+  },
+  {
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "size": 172326,
+    "sha256": "b898ae98e91203488dba0d6620e3326c79b120a290193f0439e5c5e7eb74a0cb"
+  },
+  {
+    "path": "assets/sfx/Manifest.json",
+    "size": 17594,
+    "sha256": "35b74775857053af985b62e04931aa9ab0044360c784a8ab42a4d6affa42adf5"
+  },
+  {
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "size": 123942,
+    "sha256": "0eda27faa3e38ec3d06e273013ca685fbfd32ecefc75be13587c5c38973a2968"
+  },
+  {
+    "path": "assets/vendor/gsap.min.js",
+    "size": 72927,
+    "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+  },
+  {
+    "path": "audio-edits.json",
+    "size": 1639,
+    "sha256": "5558e5a3bd8696a867478a30552b070caa0543184ff7fb453da7c4494e1bf5f0"
+  },
+  {
+    "path": "audit-revision.mjs",
+    "size": 2154,
+    "sha256": "07397969afa7a61c6c7a0f8af0d4348eadfe27bffd186103030799da460dc83a"
+  },
+  {
+    "path": "audit-safe.mjs",
+    "size": 1202,
+    "sha256": "e27cc951c28852fe6208d773efc99acef4b84233431dd332b883d36088b5bdd2"
+  },
+  {
+    "path": "browser-path.mjs",
+    "size": 869,
+    "sha256": "b91ed342a95b633a5bb467a4ceb23a6a7f40db887ddcea6936dbde7040eca285"
+  },
+  {
+    "path": "build-sound-plan.py",
+    "size": 2278,
+    "sha256": "15a6e5521862a2a927bc7be25c8c576264850f6c618face98218c5c0c9b3a280"
+  },
+  {
+    "path": "build.py",
+    "size": 6679,
+    "sha256": "782b8653e6d204b3f358cb625aa24613dde2a28001f15e76e26a51db64b402d9"
+  },
+  {
+    "path": "captions.json",
+    "size": 6758,
+    "sha256": "ac1973d33f10e1e98d66eb07634c5abb52dfe9466f541cb24602bf994516a9d0"
+  },
+  {
+    "path": "index.html",
+    "size": 123958,
+    "sha256": "506fba119e8bd1a1f16dbd6c517639563e2cca52ad312c62284338e50ec965fa"
+  },
+  {
+    "path": "micro.css",
+    "size": 446,
+    "sha256": "22a7ee42d3e9ad8e3761e62281b7cc9a52cedb2c191309e91be4d8c764a18aba"
+  },
+  {
+    "path": "micro.html",
+    "size": 8008,
+    "sha256": "1dba1ef673da44bffaa635eb9cf69ebed95439904a673feb0433906f4d8020dc"
+  },
+  {
+    "path": "micro.js",
+    "size": 3273,
+    "sha256": "e9ab146db8975c8639e2497bbf93e8d587dbbcb03fcc8aad57335a6c3447f7b9"
+  },
+  {
+    "path": "mix_audio.py",
+    "size": 3657,
+    "sha256": "24af4e247a91f257b1989c0bf5f930dc29b7e0e648fc6de2fa1933f47858603d"
+  },
+  {
+    "path": "package-lock.json",
+    "size": 33270,
+    "sha256": "bd4a77490bfec7130c4629ff638ab572c5f8a3588dc3823f91bbf0687734667f"
+  },
+  {
+    "path": "package.json",
+    "size": 373,
+    "sha256": "bd218f370a10a32e52f5f396ed058f3c0af4582a5aa9b5419bcd39274f34bfa7"
+  },
+  {
+    "path": "package_project.py",
+    "size": 3163,
+    "sha256": "eba1380e040c6e158582da4b6e1d6159e1c79b0e6c153ef9d18adf67871122c0"
+  },
+  {
+    "path": "prepare_audio.py",
+    "size": 2529,
+    "sha256": "b09518c6b67efb74a62d01126bd0f72b8c12cbe841a9b161fe1c0102de45b09d"
+  },
+  {
+    "path": "production/FINAL-VERIFICATION.json",
+    "size": 2025,
+    "sha256": "9ed65121a814dfe346cfbf107ae715995db6013e26e55e89b742bb98cd33a750"
+  },
+  {
+    "path": "production/REFERENCE-STUDY.md",
+    "size": 1302,
+    "sha256": "9eea92efe1ac4c82e8cb38961a489e9623295b41bd357b3fa65392fb044374f9"
+  },
+  {
+    "path": "production/REVISION-24-FIXES.md",
+    "size": 5892,
+    "sha256": "db518961351e3ba76b43371b29d742cba42ed16565e3bcc760be6d0aba8bc678"
+  },
+  {
+    "path": "production/SCIENTIFIC-NOTES.md",
+    "size": 2281,
+    "sha256": "32b2dc0b91c03a6e4c339d8ad07f827284b5ed3f6e8decbdb83a0eff91d4271f"
+  },
+  {
+    "path": "production/audio-export-verification.json",
+    "size": 2219,
+    "sha256": "446236af89de56d2ba2d65b7861a16531d4ede9b4a4ca7689e900160f08fa341"
+  },
+  {
+    "path": "production/audio-mastering.json",
+    "size": 710,
+    "sha256": "f1798a711a81a76ea256d9def45669dbd3f5af615f372c2f656a44775b8b231f"
+  },
+  {
+    "path": "production/check-summary.json",
+    "size": 493,
+    "sha256": "4b279cb5e5783fa03a80fece6ed9820417f30a4753f9679b5ed90cc2832b6c01"
+  },
+  {
+    "path": "production/continuity-review.json",
+    "size": 3420,
+    "sha256": "190dda427ab3845079533de193087efaa6a27b2531a9b6d6f85f5976674120a9"
+  },
+  {
+    "path": "production/export-verification.json",
+    "size": 548,
+    "sha256": "caa9e35dbb88eefc9cec33171e520b1cc952660d724fd00dbf741a55d1767a7c"
+  },
+  {
+    "path": "production/final-media.json",
+    "size": 346,
+    "sha256": "5e2747a2da57de86ec8d42fbc3461e16c5469e49eb74aba9144c2ead1f6eb6a3"
+  },
+  {
+    "path": "production/final-schedule.json",
+    "size": 54715,
+    "sha256": "04bd6cbba7ae1ba04055ca533acac3222259c1a42c4c3efaef5acf70d032b664"
+  },
+  {
+    "path": "production/generation-prompts.md",
+    "size": 18046,
+    "sha256": "a54fc21478250cb051a23be7044485d490cb175839f59b96bf3deea28d339da9"
+  },
+  {
+    "path": "production/hyperframes-check.json",
+    "size": 95138,
+    "sha256": "fe64dc8cdecb7b337aabda62480b754f6f407c68d85ed507cb9ec9369224ab28"
+  },
+  {
+    "path": "production/production-notes.json",
+    "size": 1775,
+    "sha256": "7a61ea8d516eab9fa72954bc51706f02eecd1871f6afbc198d5805a2c09fb94b"
+  },
+  {
+    "path": "production/review-final.json",
+    "size": 3420,
+    "sha256": "190dda427ab3845079533de193087efaa6a27b2531a9b6d6f85f5976674120a9"
+  },
+  {
+    "path": "production/review-polish.json",
+    "size": 3420,
+    "sha256": "190dda427ab3845079533de193087efaa6a27b2531a9b6d6f85f5976674120a9"
+  },
+  {
+    "path": "production/revision-verification.json",
+    "size": 2334,
+    "sha256": "f88419cd7f99601e6b61c9aa0cc7f0e074b5f1995852ba36e04bad39a8d5e697"
+  },
+  {
+    "path": "production/safe-area-main.json",
+    "size": 2881,
+    "sha256": "8ed051e6887029d1ec27bc02d4893d1b0ca70a6dacedbc0a432d56ca5c3b4c54"
+  },
+  {
+    "path": "references/01-diagonal.png",
+    "size": 368290,
+    "sha256": "c761b375988871379b2f7de0f366f1fcd44df1a2a787e8181d352c8e1f34d990"
+  },
+  {
+    "path": "references/02-upward.png",
+    "size": 392757,
+    "sha256": "22a1e635ef8c539e29dff320823bfd31ee5435eb76cd045a4eb6df5c35e1b0e7"
+  },
+  {
+    "path": "references/03-straight-head-tilt.png",
+    "size": 362040,
+    "sha256": "90bc6367aea102cad65393317a33cb611e95999b93bfd89827e0d33ffeda3a62"
+  },
+  {
+    "path": "references/Animation-Sheet.md",
+    "size": 5964,
+    "sha256": "8217bc03ca1fe8583a1a997379a539f2e9ef1348987a69ed6e89832c4069a23b"
+  },
+  {
+    "path": "references/Bouncy-UI-3D-Addendum.md",
+    "size": 9671,
+    "sha256": "56f1d1accec96233b1f0ffa880bf70d5669e9b3861b676e5363f7080555601c3"
+  },
+  {
+    "path": "references/Bouncy-UI-Animation.md",
+    "size": 21403,
+    "sha256": "c16a5cc2feedb952b279923ee0a87d29790d916af7dda878dceec1f83509f4be"
+  },
+  {
+    "path": "references/Instructor-Guide.md",
+    "size": 2876,
+    "sha256": "eff4c33ecad4fbf9b853e9ce84c50f8212c25becd0704054045a8e6f20df815a"
+  },
+  {
+    "path": "references/Micro-Explanation-Animation-Study.md",
+    "size": 11236,
+    "sha256": "9357188292f740781a4e712146a6f6b0840567348a5555aaf3d1f1ea7fe13409"
+  },
+  {
+    "path": "references/OG-MOTION-STUDY.md",
+    "size": 2630,
+    "sha256": "0048e2678c2e3f47102247466d6c8fad56a1ff7917192a6ff8c75a197dcc2971"
+  },
+  {
+    "path": "references/Sound-Effects-Usage.md",
+    "size": 681,
+    "sha256": "862924957b0f9d8bed69b7c9eddad2a9eed1ef29f5388b1c131eed5d610b313b"
+  },
+  {
+    "path": "references/bloodstream-original-edit-target.png",
+    "size": 1078275,
+    "sha256": "2b8b6613b0b865c22c7232a28f516ead3388d9a6d6df5e137869bd191bd4399a"
+  },
+  {
+    "path": "references/red-zone-canvas.png",
+    "size": 537660,
+    "sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b"
+  },
+  {
+    "path": "references/revision-kiwi-champion-edit-target.png",
+    "size": 739077,
+    "sha256": "373cc9a146c762fcc2a57ac81a2744334c5a84189ba34b6a6236fc3b9fbb5c84"
+  },
+  {
+    "path": "references/revision-tarantula-edit-target.png",
+    "size": 723662,
+    "sha256": "e185d8e0369cf0541280fdd2cb39cb20091e67f7c955664f3bc400eba31d81af"
+  },
+  {
+    "path": "references/scene-examples/116-9.jpg",
+    "size": 145790,
+    "sha256": "e7cd7ac17b81586f196fa4579e539e9244a22a3222fb51a4243c713e0afedcdb"
+  },
+  {
+    "path": "references/scene-examples/20-4.jpg",
+    "size": 114522,
+    "sha256": "be462c811a0c368832df9c007a51ddd974feb243f21decf91b85957c2558adc9"
+  },
+  {
+    "path": "references/scene-examples/22-3.jpg",
+    "size": 127704,
+    "sha256": "51dd4415807d60ad7b2f467e85179b6276f231b01f90d2245cc94444aaa12b81"
+  },
+  {
+    "path": "references/scene-examples/53-5.jpg",
+    "size": 138080,
+    "sha256": "b27a2cc521ca27bf08dd78deac5cb219acf8c75c8d1ac014fff48287180c640d"
+  },
+  {
+    "path": "references/scene-examples/55-8.jpg",
+    "size": 128499,
+    "sha256": "8a42c554e84e9bc8548fb9fe36058252c3a645b053ec8520109bfddae9ffc04d"
+  },
+  {
+    "path": "references/scene-examples/72-6.jpg",
+    "size": 135144,
+    "sha256": "cbaf37bd71c0fe44d8748a0db59721527463bdec78a2d46d5bf36f422842b7c7"
+  },
+  {
+    "path": "references/scene-examples/81-4.jpg",
+    "size": 159882,
+    "sha256": "0be9e60f831fe49b80b632af232449028e989e2432f19b53a85ccb4a301a51c2"
+  },
+  {
+    "path": "references/schemer.png",
+    "size": 763427,
+    "sha256": "acc7012e81b45713cd82d5c8549c4d717f9d36f76bc45d6ad4f946cf58589978"
+  },
+  {
+    "path": "references/self-idea.png",
+    "size": 754814,
+    "sha256": "c3a265ecb31a39c865bb004e7a3e61a53ebbde2cf7239b353531d87311a59d8b"
+  },
+  {
+    "path": "references/style-eater.png",
+    "size": 955193,
+    "sha256": "4bf439a02ef6bfa9066154518cd52c0c4ac949b0c60f3991361e1f55c88bc3cd"
+  },
+  {
+    "path": "references/style-glucose.png",
+    "size": 583794,
+    "sha256": "a53a4a56dc4c3966e8b03b958de5097a96621084a9acedf9b152494c420513b7"
+  },
+  {
+    "path": "references/understood.png",
+    "size": 1285513,
+    "sha256": "87e2c52518a2c4a36693b8e8183d951e50553cffd784133092acc153ec98a92e"
+  },
+  {
+    "path": "references/workflow.md",
+    "size": 82797,
+    "sha256": "bba0d93daa23bd7f42d5208f3212f719e27efc16d1a043166ff764af6f2adbc2"
+  },
+  {
+    "path": "render.mjs",
+    "size": 3838,
+    "sha256": "9067f96656ed0bac5461de1b9465b12c0e74ad3214bf346ce61e0228c546d584"
+  },
+  {
+    "path": "renders/Kiwi-Small-Fruit-Big-Attitude.mp4",
+    "size": 28421699,
+    "sha256": "189c89543b1d4abe2db87f5b0dd36ed09418373f0ecfd717621bf435efc25695"
+  },
+  {
+    "path": "requirements.txt",
+    "size": 23,
+    "sha256": "77ace47b28c1a00c8b5a52e2a20636ded24900a790f9da0ffaa7dfe0ae58224e"
+  },
+  {
+    "path": "review.mjs",
+    "size": 2759,
+    "sha256": "703f4d58dc29151357f90c9a613e1af9bc58d226cb2b0ae3e5c00722743af8e9"
+  },
+  {
+    "path": "revision-motion.js",
+    "size": 720,
+    "sha256": "8bfa94e325836373de359a319d1733c305956a86a31a588bd18f35c8f1ed0ac5"
+  },
+  {
+    "path": "script.txt",
+    "size": 2034,
+    "sha256": "2573dfcfb251318605b1a9bae3a39380975b48de3d33d85d69d79d4badf182ce"
+  },
+  {
+    "path": "sound-cues.json",
+    "size": 24946,
+    "sha256": "65c315165c1865c58036f4ff2d4173c1a5d0c1561cf4cfda0dfff4e45b5f6722"
+  },
+  {
+    "path": "sound-plan.json",
+    "size": 6699,
+    "sha256": "95b0a33527cc5ee16831f87e30c16a735a596f63a7144dbb5c70f3878265005c"
+  },
+  {
+    "path": "source-words.json",
+    "size": 37642,
+    "sha256": "e01f88b10d54bad520ea7cc98eded112b511d911af7063d3488668cc9172ba33"
+  },
+  {
+    "path": "storyboard.json",
+    "size": 38301,
+    "sha256": "f064d9c6e3989de1e289de8c9b9aae0d5f74b462315e6da25ffad23b42ca65eb"
+  },
+  {
+    "path": "storyboard.md",
+    "size": 5639,
+    "sha256": "362eb52749933c5013838d826948e3d225947ad3e700281a3d0281a7d1637522"
+  },
+  {
+    "path": "transcribe.py",
+    "size": 754,
+    "sha256": "d9a393424aaf9fda960ab2a651a2bb34269c279ad5b209712d4b55aa355d4ac0"
+  },
+  {
+    "path": "transcript.json",
+    "size": 50075,
+    "sha256": "401522d0cea482c2366bf5f59e150f4238c5349474c764c8ed36369933040909"
+  },
+  {
+    "path": "verify_audio.py",
+    "size": 1804,
+    "sha256": "a744094072b25344570043d4812f814f7a984b0fabba9a5156ce23bfa23cd544"
+  },
+  {
+    "path": "words.json",
+    "size": 24000,
+    "sha256": "7908299d87fb352aed77be6bf1d77ccee4a7cd395e3c3fb7adc60c221ad4321b"
+  }
+]

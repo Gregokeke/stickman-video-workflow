@@ -1,0 +1,11 @@
+{
+  "id": "laughing-friends",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: laugh at the exact same dark, twisted stuff. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: Coherent full-body two red rounded best friends doubled over laughing, one messy-haired jacket friend holds belly, short-haired red-shirt friend wipes a laugh tear. Broad limbs, distinct hands, clean separation apart from one intentional shoulder touch. No brain, skull, phone or text.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/laughing-friends.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-69c862c7-f91b-4245-82e6-9f817fd73236.png"
+}

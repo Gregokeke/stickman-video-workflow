@@ -1,0 +1,22 @@
+{
+  "name": "leg-power-brain-insurance",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 full_schedule.py && python3 build_full.py",
+    "check": "npx --yes hyperframes@0.8.217 check",
+    "preview": "npx --yes hyperframes@0.8.217 preview",
+    "render": "node render_full.mjs",
+    "setup-browser": "node prepare-browser.mjs",
+    "review": "node inspect-full.mjs && python3 audit_full.py",
+    "build:full": "python3 full_schedule.py && python3 build_full.py",
+    "render:full": "node render_full.mjs",
+    "mix": "python3 plan_full_sound.py && python3 mix_full.py",
+    "verify": "python3 verify_final.py",
+    "package": "python3 package_project.py"
+  },
+  "dependencies": {
+    "puppeteer-core": "24.15.0",
+    "@sparticuz/chromium": "^153.0.0"
+  }
+}

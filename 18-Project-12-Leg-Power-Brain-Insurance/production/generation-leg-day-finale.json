@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 19,
+    "id": "leg-day-finale",
+    "output_filename": "leg-day-finale.png",
+    "output_path": "images/leg-day-finale.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "stop skipping leg day.",
+    "video_cue_seconds": 111.08,
+    "references": [
+      "references/current/gym-hero.png",
+      "references/current/adult-host.png",
+      "references/style/self-idea.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current black-haired rounded gym hero, consistent with gym-hero.png and adult-host.png. Red open gym jacket over black tee, red training shorts, sturdy rounded calves and gym shoes. Strong planted stance, assertive amused face looking at the viewer. BOTH hands clearly point down toward his OWN legs, coherent fingers and wrists. No separate arrow, text, weight or other object. Entire head, hands, legs and feet visible with generous transparent margins. Match existing character thickness; do not inflate him into a bodybuilder.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "b4144b4d43bd9188a83931141c198368daaa7e8fb527211fdfb29011ad4978d2"
+}

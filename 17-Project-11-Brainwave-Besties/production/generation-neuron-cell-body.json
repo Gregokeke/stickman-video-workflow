@@ -1,0 +1,11 @@
+{
+  "id": "neuron-cell-body",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: specialized brain cells that. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone biological close-up of a neuron soma: red cytoplasm with visible central nucleus and nucleolus, several dendrites extending outward, fine black cellular detail. Large CELL BODY label. No faces, eyes, people or mascot limbs.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/neuron-cell-body.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-d3434398-2cd4-459c-8e30-03c4965a6934.png"
+}

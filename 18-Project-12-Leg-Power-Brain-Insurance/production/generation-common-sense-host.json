@@ -1,0 +1,22 @@
+{
+  "provenance": "Imported without alteration from user-returned Leg-Power-19-Generated-Images.zip",
+  "generation_record": {
+    "number": 2,
+    "id": "common-sense-host",
+    "output_filename": "common-sense-host.png",
+    "output_path": "images/common-sense-host.png",
+    "preferred_aspect": "portrait",
+    "script_phrase": "which is honestly just common sense.",
+    "video_cue_seconds": 77.31,
+    "references": [
+      "references/current/adult-host.png",
+      "references/style/self-idea.png",
+      "references/style/schemer.png"
+    ],
+    "prompt": "Use case: illustration-story.\nDeliverable: ONE original isolated cutout, PNG with genuine transparent alpha, not a contact sheet.\nReference roles: attach the three actual PNG files listed for this job, in order. They define the CURRENT PROJECT identity/style; they are reference inputs, not images to copy into the outputs.\nStyle: saturated red #ff0000, black #101010, white highlights/page faces only. Confident clean black ink, detailed but controlled red modeling, dimensional prop construction where relevant. No blue, green, yellow, realistic skin or photographic rendering. No heavy baked floor shadow, glow, white stroke halo, checkerboard backing or room background.\nFraming: entire intended subject fully visible with roughly5% transparent margin, no cut hands/feet/props or branches. Characters must be full-body even if the final video later reframes them. Prefer1536px on the long edge when available; at least1024px. Preserve proportions and useful detail.\nCharacter rules when a character is requested: rounded expressive stickman, simple rounded head and graphic eyes/brows/mouth, straight sturdy simple limbs, rounded footwear. Match the supplied CURRENT character thickness; visible arms/calves are modestly broader than generic wire stickmen, not realistic/muscular bodies. Match the explicitly named identity/age/wardrobe. Do not add a character to a standalone prop or scientific object.\nText: ONLY the exact integrated label requested below, when any. No video caption, script sentence, watermark, signature or extra lower text.\nPrimary subject/action:\nONE full-body current black-haired adult host, same rounded face and simple messy black hair as adult-host.png. Red casual jacket over black tee, red trousers, sturdy simple legs and rounded shoes. Knowing skeptical smirk, raised eyebrow, BOTH palms raised in a relaxed confident shrug. Coherent hands and fingers, open readable silhouette. No sunglasses, no object, no words. Preserve the current host identity; invent a new shrug pose rather than copying a supplied pose.\n",
+    "transparent_background": true,
+    "method": "built-in image generation",
+    "corrections": []
+  },
+  "sha256": "d0e1c9681ac08ce767f2336cf39a9c9bb4e483d5ab892fc15009ed58b6fd6370"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "single-brain-cell",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: brain cell.. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: ONE standalone anatomically recognizable red neuron with branching dendrites, round soma/nucleus, long myelinated axon and terminal branches; large integrated ONE BRAIN CELL label. No human, mascot, eyes or limbs.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/single-brain-cell.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-6687cf1c-1e92-4ef9-b64e-f8240d3432d5.png"
+}

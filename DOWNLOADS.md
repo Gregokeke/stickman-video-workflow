@@ -13,3 +13,18 @@ All seven editable ZIPs are ordinary files in the repository. No Git LFS or sepa
 | 7 | [Iron-Oxygen-Real-Energy-Final-Project.zip](12-Project-7-Iron-Oxygen-Real-Energy/Iron-Oxygen-Real-Energy-Final-Project.zip) | 94.2 |
 
 References 6 and 7 use lossless asset storage. After extracting either, install its normal dependencies (Pillow and FFmpeg included) and run `python restore_assets.py` before source preview/editing. WAVs restore byte-for-byte and PNGs restore with exact original-resolution pixels. Finished MP4s play without restoration. See LOSSLESS-PACKAGING.json and the bundled project READMEs.
+
+
+## References 8–12: fully expanded source projects — 2 November 2026
+
+The reference set now totals twelve. The original seven ZIP links above stay valid. The five new projects are browsable source folders with every original member intact; these folder links are not individual ZIP downloads. Clone or download the repository for the full set, or retrieve individual files. No restore step is needed for references 8–12.
+
+| # | Project folder / setup | Complete final video | Study focus |
+| --- | --- | --- | --- |
+| 8 | [Fasting Self Recycling](14-Project-8-Fasting-Self-Recycling/REFERENCE-SETUP.md) | [MP4](14-Project-8-Fasting-Self-Recycling/renders/Fasting-Self-Recycling.mp4) | Related emergence, switches, gauges and cell division. |
+| 9 | [One Winner Each Organ](15-Project-9-One-Winner-Each-Organ/REFERENCE-SETUP.md) | [MP4](15-Project-9-One-Winner-Each-Organ/renders/One-Winner-Each-Organ.mp4) | Related-object chains and dimensional scientific props; character styling remains governed by A/D. |
+| 10 | [Kiwi Small Fruit Big Attitude](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/REFERENCE-SETUP.md) | [MP4](16-Project-10-Kiwi-Small-Fruit-Big-Attitude/renders/Kiwi-Small-Fruit-Big-Attitude.mp4) | Functional mechanisms, fluid routes, protein split and latest revision precedence. |
+| 11 | [Brainwave Besties](17-Project-11-Brainwave-Besties/REFERENCE-SETUP.md) | [MP4](17-Project-11-Brainwave-Besties/renders/Brainwave-Besties.mp4) | Registered waveform/chart/screen animation, handoffs and approved character A. |
+| 12 | [Leg Power Brain Insurance](18-Project-12-Leg-Power-Brain-Insurance/REFERENCE-SETUP.md) | [MP4](18-Project-12-Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4) | Feature-anchored emergence, moving-target pointing and approved character D. |
+
+See [all twelve references](REFERENCE-PROJECTS.md) and [the import audit](REFERENCE-IMPORT-AUDIT.json).

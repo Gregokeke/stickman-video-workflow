@@ -1,0 +1,82 @@
+[
+  {
+    "id": "winner-host",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "inflamed-artery",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "rupture-artery",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "cooled-artery",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "damaged-eye",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "kidneys",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "stone",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "dose350",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "concrete-artery",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "d3",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "k2",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "blood-calcium",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "calcium-bone",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "toxins",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "scarred-liver",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "nac",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "glutathione",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "atp",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "creatine",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  },
+  {
+    "id": "lean-muscle",
+    "operation": "targeted ImageGen edit: isolate object / enforce palette"
+  }
+]

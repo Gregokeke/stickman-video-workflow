@@ -1,0 +1,12 @@
+{
+  "id": "mri-scanner",
+  "prompt": "Use case: illustration-story. Asset type: ONE original transparent cutout for the user's premium vertical explanatory stickman video. Three actual attached images are distinct STYLE references only: proportions and rounded anatomy, expressive acting, bold clean contour and red clothing folds. Match the approved red #ff0000 /black #101010/white highlights style. Rounded nonrealistic stickmen with simple circular heads, expressive black eyes/brows and mouths, sturdy straight visible arms/calves about15% thicker than wire stickmen, rounded shoes. Red casual jacket/black tee for main adult, red gym wear where relevant; older figures gray SIMPLE hair and red clothes, still stylized stickmen. Foreground red with confident black ink and modest dimensional modeling, no realistic human skin. Subject centered, entire useful silhouette fully inside the image with clear transparent margins; true alpha. No background, no contact sheet, no floor shadow, no captions or unrelated symbols, no watermark. Scientific objects are standalone, no human/stickman/cute mascot baked into molecules, cells, tissue or anatomy. Never fabricate chemical formulas, statistics, numerical findings or measured scan images. Any labels requested below bold, readable, correctly spelled and integrated sparsely. PRIMARY SUBJECT: One complete chunky red MRI scanner, circular bore with clean dimensional rim, examination bed extending forward-left carrying ONE small rounded red stickman patient lying flat. No metal props, no fake clinical display, no scan result. Entire scanner and bed contained, three-quarter view, red/black style.",
+  "tool": "built-in ImageGen",
+  "transparent_background": true,
+  "style_references": [
+    "/workspace/scratch/da11170a9a63/sixth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/sixth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/sixth-video/references/self-idea.png"
+  ],
+  "output_path": "/workspace/scratch/da11170a9a63/generated_images/exec-f62723e3-1c03-4a97-a134-a027407e8673.png"
+}

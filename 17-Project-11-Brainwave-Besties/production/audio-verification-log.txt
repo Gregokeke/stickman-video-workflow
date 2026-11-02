@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "decoded_duration": 86.2506875,
+  "master_duration": 86.2333125,
+  "narration_duration": 85.1544375,
+  "final_word": {
+    "start": 84.46665,
+    "end": 84.78665,
+    "word": "become.",
+    "probability": 0.9976956248283386
+  },
+  "active_windows_checked": 86,
+  "minimum_master_correlation": 0.9989345090420868,
+  "ending_windows": [
+    {
+      "second": 76,
+      "original_voice_rms": 0.07416748255491257,
+      "decoded_rms": 0.22027553617954254,
+      "encoded_master_correlation": 0.9998529033913497
+    },
+    {
+      "second": 77,
+      "original_voice_rms": 0.04121823236346245,
+      "decoded_rms": 0.14734555780887604,
+      "encoded_master_correlation": 0.999929675755218
+    },
+    {
+      "second": 78,
+      "original_voice_rms": 0.052104610949754715,
+      "decoded_rms": 0.18893299996852875,
+      "encoded_master_correlation": 0.9997910053673521
+    },
+    {
+      "second": 79,
+      "original_voice_rms": 0.031101884320378304,
+      "decoded_rms": 0.10429967194795609,
+      "encoded_master_correlation": 0.999845795473618
+    },
+    {
+      "second": 80,
+      "original_voice_rms": 0.056587912142276764,
+      "decoded_rms": 0.21099308133125305,
+      "encoded_master_correlation": 0.9998797543276082
+    },
+    {
+      "second": 81,
+      "original_voice_rms": 0.05059793218970299,
+      "decoded_rms": 0.19354653358459473,
+      "encoded_master_correlation": 0.9998506162021789
+    },
+    {
+      "second": 82,
+      "original_voice_rms": 0.03366520255804062,
+      "decoded_rms": 0.12927480041980743,
+      "encoded_master_correlation": 0.9999267447226017
+    },
+    {
+      "second": 83,
+      "original_voice_rms": 0.04026747867465019,
+      "decoded_rms": 0.15813826024532318,
+      "encoded_master_correlation": 0.999953780620558
+    },
+    {
+      "second": 84,
+      "original_voice_rms": 0.024898460134863853,
+      "decoded_rms": 0.0962771624326706,
+      "encoded_master_correlation": 0.999972509022094
+    },
+    {
+      "second": 85,
+      "original_voice_rms": 0.0003479456645436585,
+      "decoded_rms": 0.0015603835927322507,
+      "encoded_master_correlation": 0.9993631273901934
+    }
+  ],
+  "integrated_lufs": -16.1,
+  "true_peak_db": -1.96,
+  "loudness_range": 2.7,
+  "no_missing_ending": true
+}

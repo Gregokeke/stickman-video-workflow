@@ -1,0 +1,11 @@
+{
+  "id": "stimulus-screen",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: found identical,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone red widescreen video display showing one simple black/red landscape movie frame of mountains, river and sun, a small play triangle in corner; integrated STIMULUS label. No people, numbers, waveform, research results or brand.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/stimulus-screen.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-e24694de-b4d0-4491-90af-127741dc027d.png"
+}

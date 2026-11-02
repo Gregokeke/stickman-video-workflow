@@ -1,0 +1,11 @@
+# Scientific scope of the supplied narration
+
+The original recording is preserved. Diagrams are illustrative schematics, not molecular coordinates, medical images, experimental measurements or promises of clinical outcomes.
+
+- Steves et al., *Kicking Back Cognitive Ageing: Leg Power Predicts Cognitive Ageing after Ten Years in Older Female Twins*, Gerontology 62:138–149. DOI 10.1159/000441029; PMID 26551663. Primary abstract: https://pubmed.ncbi.nlm.nih.gov/26551663/ . 324 healthy female twins, average baseline age55, cognitive testing10 years apart; a subset of identical twins had later MRI. Observational association, not causal proof. Brain structure was investigated after12 years, so the recording's compressed wording should not be treated as an exact methods description. Do not invent numeric chart effects from the reported associations.
+- Matthews et al., Diabetologia2009, DOI 10.1007/s00125-009-1364-1; PMID19387610. Primary abstract: https://pubmed.ncbi.nlm.nih.gov/19387610/ . Contraction increased muscle BDNF expression; this study did not find muscle-derived BDNF released into circulation.
+- Edman et al., Function2024, PMID38706964. Primary abstract: https://pubmed.ncbi.nlm.nih.gov/38706964/ . Distinguishes pro-BDNF from mature BDNF in human skeletal muscle; exercise-related circulating signals may arise from muscle, neural and other tissues. This cautions against presenting the narrative as a settled simple direct-transport mechanism.
+
+Visual decisions: myokines are a class of schematic folded proteins, not one invented chemical formula. The BDNF dimer is explicitly labelled schematic; it is a protein representation, not an exact atomic model. It is introduced with a category-to-example emergence, not a drawn literal bloodstream route. Neuron emergence from a brain is an explanatory magnification. Network expansion is a conceptual connection reveal, not a physical skull expanding or an instant measured biological response. No person is baked into biological assets.
+
+Only primary article abstracts/search retrieval were consulted for these notes; full methods were not independently audited. The supplied narration is preserved; these notes explain the schematic visual interpretation.

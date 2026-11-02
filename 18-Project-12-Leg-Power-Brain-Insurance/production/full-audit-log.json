@@ -1,0 +1,13 @@
+{
+  "samples": 1027,
+  "unintended_collisions": [],
+  "ui_conflicts": [],
+  "source_opacity_at_emergence": [],
+  "pointer_max_error_px": 7.385687040958328e-05,
+  "missing_images": [],
+  "page_errors": [],
+  "caption_overlaps": [],
+  "caption_overflow": [],
+  "ui_guide": "references/red-zone-canvas.png",
+  "intentional_crops": "Only large instructor lower bodies; normal illustrations remain complete"
+}

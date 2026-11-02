@@ -1,0 +1,597 @@
+[
+  {
+    "id": "aging-eyes",
+    "path": "assets/graphics/aging-eyes.png",
+    "phrase": "aging eyes",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "amino-acids",
+    "path": "assets/graphics/amino-acids.png",
+    "phrase": "amino acids",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "artery-plaque",
+    "path": "assets/graphics/artery-plaque.png",
+    "phrase": "artery plaque",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "blood-cells",
+    "path": "assets/graphics/blood-cells.png",
+    "phrase": "blood cells",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "clock",
+    "path": "assets/graphics/clock.png",
+    "phrase": "clock",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "heart",
+    "path": "assets/graphics/heart.png",
+    "phrase": "heart",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "instructor-diagonal",
+    "path": "assets/graphics/instructor-diagonal.png",
+    "phrase": "instructor diagonal",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "liver",
+    "path": "assets/graphics/liver.png",
+    "phrase": "liver",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "lutein",
+    "path": "assets/graphics/lutein.png",
+    "phrase": "lutein",
+    "kind": "new built-in ImageGen symbolic pigment",
+    "source": "production/pigment-prompts.md"
+  },
+  {
+    "id": "muscle",
+    "path": "assets/graphics/muscle.png",
+    "phrase": "muscle",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "protein",
+    "path": "assets/graphics/protein.png",
+    "phrase": "protein",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "retina",
+    "path": "assets/graphics/retina.png",
+    "phrase": "retina",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "torn-tissue",
+    "path": "assets/graphics/torn-tissue.png",
+    "phrase": "torn tissue",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "zeaxanthin",
+    "path": "assets/graphics/zeaxanthin.png",
+    "phrase": "zeaxanthin",
+    "kind": "new built-in ImageGen symbolic pigment",
+    "source": "production/pigment-prompts.md"
+  },
+  {
+    "id": "instructor-up",
+    "path": "assets/graphics/instructor-up.png",
+    "phrase": "instructor-up",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "instructor-straight",
+    "path": "assets/graphics/instructor-straight.png",
+    "phrase": "instructor-straight",
+    "kind": "exact approved reused diagram",
+    "source": "Eggs-Two-Weeks final"
+  },
+  {
+    "id": "supplement-host",
+    "path": "assets/graphics/supplement-host.png",
+    "phrase": "supplement host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "organ-body",
+    "path": "assets/graphics/organ-body.png",
+    "phrase": "organ body",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "pill-overload",
+    "path": "assets/graphics/pill-overload.png",
+    "phrase": "pill overload",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "winner-host",
+    "path": "assets/graphics/winner-host.png",
+    "phrase": "winner host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "stressed-host",
+    "path": "assets/graphics/stressed-host.png",
+    "phrase": "stressed host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "junk-food",
+    "path": "assets/graphics/junk-food.png",
+    "phrase": "junk food",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "inflamed-artery",
+    "path": "assets/graphics/inflamed-artery.png",
+    "phrase": "inflamed artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "rupture-artery",
+    "path": "assets/graphics/rupture-artery.png",
+    "phrase": "rupture artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "stopped-heart",
+    "path": "assets/graphics/stopped-heart.png",
+    "phrase": "stopped heart",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "omega3",
+    "path": "assets/graphics/omega3.png",
+    "phrase": "omega3",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "cooled-artery",
+    "path": "assets/graphics/cooled-artery.png",
+    "phrase": "cooled artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "study-adults",
+    "path": "assets/graphics/study-adults.png",
+    "phrase": "study adults",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "gram-dose",
+    "path": "assets/graphics/gram-dose.png",
+    "phrase": "gram dose",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "eye-host",
+    "path": "assets/graphics/eye-host.png",
+    "phrase": "eye host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "screen-guy",
+    "path": "assets/graphics/screen-guy.png",
+    "phrase": "screen guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "damaged-eye",
+    "path": "assets/graphics/damaged-eye.png",
+    "phrase": "damaged eye",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "blind-guy",
+    "path": "assets/graphics/blind-guy.png",
+    "phrase": "blind guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "protected-eye",
+    "path": "assets/graphics/protected-eye.png",
+    "phrase": "protected eye",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "kidneys",
+    "path": "assets/graphics/kidneys.png",
+    "phrase": "kidneys",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "calcium",
+    "path": "assets/graphics/calcium.png",
+    "phrase": "calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "crystals",
+    "path": "assets/graphics/crystals.png",
+    "phrase": "crystals",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "stone",
+    "path": "assets/graphics/stone.png",
+    "phrase": "stone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "crying-guy",
+    "path": "assets/graphics/crying-guy.png",
+    "phrase": "crying guy",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "magnesium",
+    "path": "assets/graphics/magnesium.png",
+    "phrase": "magnesium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "crystal-block",
+    "path": "assets/graphics/crystal-block.png",
+    "phrase": "crystal block",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "urine",
+    "path": "assets/graphics/urine.png",
+    "phrase": "urine",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "older-host",
+    "path": "assets/graphics/older-host.png",
+    "phrase": "older host",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "dose350",
+    "path": "assets/graphics/dose350.png",
+    "phrase": "dose350",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "skeleton",
+    "path": "assets/graphics/skeleton.png",
+    "phrase": "skeleton",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "hollow-bone",
+    "path": "assets/graphics/hollow-bone.png",
+    "phrase": "hollow bone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "chalk",
+    "path": "assets/graphics/chalk.png",
+    "phrase": "chalk",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "concrete-artery",
+    "path": "assets/graphics/concrete-artery.png",
+    "phrase": "concrete artery",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "d3",
+    "path": "assets/graphics/d3.png",
+    "phrase": "d3",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "k2",
+    "path": "assets/graphics/k2.png",
+    "phrase": "k2",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "blood-calcium",
+    "path": "assets/graphics/blood-calcium.png",
+    "phrase": "blood calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "calcium-bone",
+    "path": "assets/graphics/calcium-bone.png",
+    "phrase": "calcium bone",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "toxins",
+    "path": "assets/graphics/toxins.png",
+    "phrase": "toxins",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "scarred-liver",
+    "path": "assets/graphics/scarred-liver.png",
+    "phrase": "scarred liver",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "nac",
+    "path": "assets/graphics/nac.png",
+    "phrase": "nac",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "glutathione",
+    "path": "assets/graphics/glutathione.png",
+    "phrase": "glutathione",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "hospital",
+    "path": "assets/graphics/hospital.png",
+    "phrase": "hospital",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "atp",
+    "path": "assets/graphics/atp.png",
+    "phrase": "atp",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "heavy-lifter",
+    "path": "assets/graphics/heavy-lifter.png",
+    "phrase": "heavy lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "tired-lifter",
+    "path": "assets/graphics/tired-lifter.png",
+    "phrase": "tired lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "creatine",
+    "path": "assets/graphics/creatine.png",
+    "phrase": "creatine",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "strong-lifter",
+    "path": "assets/graphics/strong-lifter.png",
+    "phrase": "strong lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "older-lifter",
+    "path": "assets/graphics/older-lifter.png",
+    "phrase": "older lifter",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "lean-muscle",
+    "path": "assets/graphics/lean-muscle.png",
+    "phrase": "lean muscle",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "dose-scoop",
+    "path": "assets/graphics/dose-scoop.png",
+    "phrase": "dose scoop",
+    "kind": "new built-in ImageGen",
+    "source": "production/art-prompts.json"
+  },
+  {
+    "id": "organ-checklist",
+    "path": "assets/graphics/organ-checklist.png",
+    "phrase": "organ checklist",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "proven-badge",
+    "path": "assets/graphics/proven-badge.png",
+    "phrase": "proven badge",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "artery-wall",
+    "path": "assets/graphics/artery-wall.png",
+    "phrase": "artery wall",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "heartbeat-monitor",
+    "path": "assets/graphics/heartbeat-monitor.png",
+    "phrase": "heartbeat monitor",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "fish-softgels",
+    "path": "assets/graphics/fish-softgels.png",
+    "phrase": "fish softgels",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "heart-shield",
+    "path": "assets/graphics/heart-shield.png",
+    "phrase": "heart shield",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "eye-strain-host",
+    "path": "assets/graphics/eye-strain-host.png",
+    "phrase": "eye strain host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "vision-chart",
+    "path": "assets/graphics/vision-chart.png",
+    "phrase": "vision chart",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "antioxidant-shield",
+    "path": "assets/graphics/antioxidant-shield.png",
+    "phrase": "antioxidant shield",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "eyeball-anatomy",
+    "path": "assets/graphics/eyeball-anatomy.png",
+    "phrase": "eyeball anatomy",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "study-calendar",
+    "path": "assets/graphics/study-calendar.png",
+    "phrase": "study calendar",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "kidney-filter",
+    "path": "assets/graphics/kidney-filter.png",
+    "phrase": "kidney filter",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "jagged-stone",
+    "path": "assets/graphics/jagged-stone.png",
+    "phrase": "jagged stone",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "diseased-kidney",
+    "path": "assets/graphics/diseased-kidney.png",
+    "phrase": "diseased kidney",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "aging-bones-host",
+    "path": "assets/graphics/aging-bones-host.png",
+    "phrase": "aging bones host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "artery-no-calcium",
+    "path": "assets/graphics/artery-no-calcium.png",
+    "phrase": "artery no calcium",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "liver-stress-host",
+    "path": "assets/graphics/liver-stress-host.png",
+    "phrase": "liver stress host",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "scarred-hepatocyte",
+    "path": "assets/graphics/scarred-hepatocyte.png",
+    "phrase": "scarred hepatocyte",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "amino-blocks",
+    "path": "assets/graphics/amino-blocks.png",
+    "phrase": "amino blocks",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  },
+  {
+    "id": "liver-detox",
+    "path": "assets/graphics/liver-detox.png",
+    "phrase": "liver detox",
+    "kind": "new built-in ImageGen",
+    "source": "production/extra-art-prompts.json"
+  }
+]

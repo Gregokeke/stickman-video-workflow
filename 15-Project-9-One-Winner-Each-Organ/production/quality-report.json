@@ -1,0 +1,18 @@
+{
+  "video_sha256": "e2ee37a63df9103805e87b0af1078607b003ed1a6cf612ea838a305c853a3198",
+  "original_audio_seconds": 140.04245833333334,
+  "snapped_audio_seconds": 135.32375,
+  "video_seconds": 135.73333333333332,
+  "distinct_principal_art": 80,
+  "illustration_appearances": 89,
+  "caption_phrases": 74,
+  "sound_cues": 93,
+  "unique_sounds": 10,
+  "all_effect_tails_preserved": true,
+  "full_decode_passed": true,
+  "frame_count": 4072,
+  "runtime_validation": true,
+  "layout_issues": 0,
+  "settled_collisions": 0,
+  "pointer_max_error_px": 0.014700420555076112
+}

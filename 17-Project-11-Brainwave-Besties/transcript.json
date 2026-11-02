@@ -1,0 +1,1580 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.46,
+    "text": " Science shows that your brain and your best friend's brain literally sync up together like Bluetooth,",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.52,
+        "word": "Science",
+        "probability": 0.7274940013885498
+      },
+      {
+        "start": 0.52,
+        "end": 0.88,
+        "word": "shows",
+        "probability": 0.9922395944595337
+      },
+      {
+        "start": 0.88,
+        "end": 1.16,
+        "word": "that",
+        "probability": 0.9892743229866028
+      },
+      {
+        "start": 1.16,
+        "end": 1.32,
+        "word": "your",
+        "probability": 0.9897446036338806
+      },
+      {
+        "start": 1.32,
+        "end": 1.74,
+        "word": "brain",
+        "probability": 0.9921408891677856
+      },
+      {
+        "start": 1.74,
+        "end": 2.0,
+        "word": "and",
+        "probability": 0.9318158626556396
+      },
+      {
+        "start": 2.0,
+        "end": 2.16,
+        "word": "your",
+        "probability": 0.9811087250709534
+      },
+      {
+        "start": 2.16,
+        "end": 2.44,
+        "word": "best",
+        "probability": 0.9873237609863281
+      },
+      {
+        "start": 2.44,
+        "end": 2.9,
+        "word": "friend's",
+        "probability": 0.9567963480949402
+      },
+      {
+        "start": 2.9,
+        "end": 3.16,
+        "word": "brain",
+        "probability": 0.9968919157981873
+      },
+      {
+        "start": 3.16,
+        "end": 3.6,
+        "word": "literally",
+        "probability": 0.9780243635177612
+      },
+      {
+        "start": 3.6,
+        "end": 4.14,
+        "word": "sync",
+        "probability": 0.9521885514259338
+      },
+      {
+        "start": 4.14,
+        "end": 4.36,
+        "word": "up",
+        "probability": 0.9889854192733765
+      },
+      {
+        "start": 4.36,
+        "end": 4.7,
+        "word": "together",
+        "probability": 0.9954119324684143
+      },
+      {
+        "start": 4.7,
+        "end": 4.96,
+        "word": "like",
+        "probability": 0.9628066420555115
+      },
+      {
+        "start": 4.96,
+        "end": 5.46,
+        "word": "Bluetooth,",
+        "probability": 0.6186767816543579
+      }
+    ]
+  },
+  {
+    "start": 6.46,
+    "end": 10.46,
+    "text": " which explains how the two of you managed to share a single functioning brain cell.",
+    "words": [
+      {
+        "start": 6.46,
+        "end": 6.7,
+        "word": "which",
+        "probability": 0.9656149744987488
+      },
+      {
+        "start": 6.7,
+        "end": 7.14,
+        "word": "explains",
+        "probability": 0.9950537085533142
+      },
+      {
+        "start": 7.14,
+        "end": 7.4,
+        "word": "how",
+        "probability": 0.9962367415428162
+      },
+      {
+        "start": 7.4,
+        "end": 7.5,
+        "word": "the",
+        "probability": 0.9927073121070862
+      },
+      {
+        "start": 7.5,
+        "end": 7.74,
+        "word": "two",
+        "probability": 0.9899280667304993
+      },
+      {
+        "start": 7.74,
+        "end": 7.86,
+        "word": "of",
+        "probability": 0.9904798865318298
+      },
+      {
+        "start": 7.86,
+        "end": 8.0,
+        "word": "you",
+        "probability": 0.9971006512641907
+      },
+      {
+        "start": 8.0,
+        "end": 8.22,
+        "word": "managed",
+        "probability": 0.8070780038833618
+      },
+      {
+        "start": 8.22,
+        "end": 8.5,
+        "word": "to",
+        "probability": 0.9978898167610168
+      },
+      {
+        "start": 8.5,
+        "end": 8.66,
+        "word": "share",
+        "probability": 0.9979020357131958
+      },
+      {
+        "start": 8.66,
+        "end": 8.92,
+        "word": "a",
+        "probability": 0.9984707236289978
+      },
+      {
+        "start": 8.92,
+        "end": 9.22,
+        "word": "single",
+        "probability": 0.997101366519928
+      },
+      {
+        "start": 9.22,
+        "end": 9.68,
+        "word": "functioning",
+        "probability": 0.8663241267204285
+      },
+      {
+        "start": 9.68,
+        "end": 10.08,
+        "word": "brain",
+        "probability": 0.9960611462593079
+      },
+      {
+        "start": 10.08,
+        "end": 10.46,
+        "word": "cell.",
+        "probability": 0.9858214259147644
+      }
+    ]
+  },
+  {
+    "start": 11.02,
+    "end": 16.12,
+    "text": " In neuroscience, it's called neurosynchrony, and it's the biological reason you can finish each",
+    "words": [
+      {
+        "start": 11.02,
+        "end": 11.16,
+        "word": "In",
+        "probability": 0.9868649840354919
+      },
+      {
+        "start": 11.16,
+        "end": 11.64,
+        "word": "neuroscience,",
+        "probability": 0.9851248264312744
+      },
+      {
+        "start": 12.08,
+        "end": 12.2,
+        "word": "it's",
+        "probability": 0.9883221387863159
+      },
+      {
+        "start": 12.2,
+        "end": 12.4,
+        "word": "called",
+        "probability": 0.9993700385093689
+      },
+      {
+        "start": 12.4,
+        "end": 13.44,
+        "word": "neurosynchrony,",
+        "probability": 0.6962558776140213
+      },
+      {
+        "start": 13.64,
+        "end": 13.88,
+        "word": "and",
+        "probability": 0.9954419136047363
+      },
+      {
+        "start": 13.88,
+        "end": 14.1,
+        "word": "it's",
+        "probability": 0.9940313100814819
+      },
+      {
+        "start": 14.1,
+        "end": 14.24,
+        "word": "the",
+        "probability": 0.9972687363624573
+      },
+      {
+        "start": 14.24,
+        "end": 14.68,
+        "word": "biological",
+        "probability": 0.9996253252029419
+      },
+      {
+        "start": 14.68,
+        "end": 15.2,
+        "word": "reason",
+        "probability": 0.9975883960723877
+      },
+      {
+        "start": 15.2,
+        "end": 15.46,
+        "word": "you",
+        "probability": 0.9916375279426575
+      },
+      {
+        "start": 15.46,
+        "end": 15.6,
+        "word": "can",
+        "probability": 0.9967513084411621
+      },
+      {
+        "start": 15.6,
+        "end": 15.94,
+        "word": "finish",
+        "probability": 0.9951059818267822
+      },
+      {
+        "start": 15.94,
+        "end": 16.12,
+        "word": "each",
+        "probability": 0.9967384934425354
+      }
+    ]
+  },
+  {
+    "start": 16.12,
+    "end": 20.68,
+    "text": " other's sentences, communicate with a single unhinged glance across a crowded room,",
+    "words": [
+      {
+        "start": 16.12,
+        "end": 16.42,
+        "word": "other's",
+        "probability": 0.9667167067527771
+      },
+      {
+        "start": 16.42,
+        "end": 16.92,
+        "word": "sentences,",
+        "probability": 0.9975983500480652
+      },
+      {
+        "start": 17.36,
+        "end": 17.66,
+        "word": "communicate",
+        "probability": 0.998288094997406
+      },
+      {
+        "start": 17.66,
+        "end": 18.02,
+        "word": "with",
+        "probability": 0.9991152882575989
+      },
+      {
+        "start": 18.02,
+        "end": 18.2,
+        "word": "a",
+        "probability": 0.9952619075775146
+      },
+      {
+        "start": 18.2,
+        "end": 18.54,
+        "word": "single",
+        "probability": 0.9996281862258911
+      },
+      {
+        "start": 18.54,
+        "end": 19.2,
+        "word": "unhinged",
+        "probability": 0.9630315105120341
+      },
+      {
+        "start": 19.2,
+        "end": 19.52,
+        "word": "glance",
+        "probability": 0.9933575987815857
+      },
+      {
+        "start": 19.52,
+        "end": 19.82,
+        "word": "across",
+        "probability": 0.9985966086387634
+      },
+      {
+        "start": 19.82,
+        "end": 20.04,
+        "word": "a",
+        "probability": 0.9981697797775269
+      },
+      {
+        "start": 20.04,
+        "end": 20.28,
+        "word": "crowded",
+        "probability": 0.999366819858551
+      },
+      {
+        "start": 20.28,
+        "end": 20.68,
+        "word": "room,",
+        "probability": 0.999321460723877
+      }
+    ]
+  },
+  {
+    "start": 21.08,
+    "end": 25.6,
+    "text": " and laugh at the exact same dark, twisted stuff that would get you both cancelled.",
+    "words": [
+      {
+        "start": 21.08,
+        "end": 21.36,
+        "word": "and",
+        "probability": 0.9983488321304321
+      },
+      {
+        "start": 21.36,
+        "end": 21.6,
+        "word": "laugh",
+        "probability": 0.9973913431167603
+      },
+      {
+        "start": 21.6,
+        "end": 21.78,
+        "word": "at",
+        "probability": 0.9982700347900391
+      },
+      {
+        "start": 21.78,
+        "end": 21.92,
+        "word": "the",
+        "probability": 0.9955723285675049
+      },
+      {
+        "start": 21.92,
+        "end": 22.34,
+        "word": "exact",
+        "probability": 0.9941146969795227
+      },
+      {
+        "start": 22.34,
+        "end": 22.8,
+        "word": "same",
+        "probability": 0.996890127658844
+      },
+      {
+        "start": 22.8,
+        "end": 23.24,
+        "word": "dark,",
+        "probability": 0.9781940579414368
+      },
+      {
+        "start": 23.44,
+        "end": 23.76,
+        "word": "twisted",
+        "probability": 0.998471200466156
+      },
+      {
+        "start": 23.76,
+        "end": 24.22,
+        "word": "stuff",
+        "probability": 0.9980921149253845
+      },
+      {
+        "start": 24.22,
+        "end": 24.44,
+        "word": "that",
+        "probability": 0.9977570176124573
+      },
+      {
+        "start": 24.44,
+        "end": 24.56,
+        "word": "would",
+        "probability": 0.9896837472915649
+      },
+      {
+        "start": 24.56,
+        "end": 24.72,
+        "word": "get",
+        "probability": 0.998246431350708
+      },
+      {
+        "start": 24.72,
+        "end": 24.9,
+        "word": "you",
+        "probability": 0.9982909560203552
+      },
+      {
+        "start": 24.9,
+        "end": 25.16,
+        "word": "both",
+        "probability": 0.9926767349243164
+      },
+      {
+        "start": 25.16,
+        "end": 25.6,
+        "word": "cancelled.",
+        "probability": 0.4550643265247345
+      }
+    ]
+  },
+  {
+    "start": 26.38,
+    "end": 31.26,
+    "text": " See, when you spend enough time around someone, your brains actually physically align their",
+    "words": [
+      {
+        "start": 26.38,
+        "end": 26.7,
+        "word": "See,",
+        "probability": 0.6957158446311951
+      },
+      {
+        "start": 26.96,
+        "end": 27.14,
+        "word": "when",
+        "probability": 0.9866624474525452
+      },
+      {
+        "start": 27.14,
+        "end": 27.24,
+        "word": "you",
+        "probability": 0.9978006482124329
+      },
+      {
+        "start": 27.24,
+        "end": 27.48,
+        "word": "spend",
+        "probability": 0.994631290435791
+      },
+      {
+        "start": 27.48,
+        "end": 27.72,
+        "word": "enough",
+        "probability": 0.9934074878692627
+      },
+      {
+        "start": 27.72,
+        "end": 28.06,
+        "word": "time",
+        "probability": 0.9972299933433533
+      },
+      {
+        "start": 28.06,
+        "end": 28.32,
+        "word": "around",
+        "probability": 0.9949954748153687
+      },
+      {
+        "start": 28.32,
+        "end": 28.82,
+        "word": "someone,",
+        "probability": 0.9955872297286987
+      },
+      {
+        "start": 29.08,
+        "end": 29.2,
+        "word": "your",
+        "probability": 0.9847989678382874
+      },
+      {
+        "start": 29.2,
+        "end": 29.48,
+        "word": "brains",
+        "probability": 0.954534113407135
+      },
+      {
+        "start": 29.48,
+        "end": 30.02,
+        "word": "actually",
+        "probability": 0.9921962022781372
+      },
+      {
+        "start": 30.02,
+        "end": 30.46,
+        "word": "physically",
+        "probability": 0.9918856620788574
+      },
+      {
+        "start": 30.46,
+        "end": 31.02,
+        "word": "align",
+        "probability": 0.9528827667236328
+      },
+      {
+        "start": 31.02,
+        "end": 31.26,
+        "word": "their",
+        "probability": 0.9937319159507751
+      }
+    ]
+  },
+  {
+    "start": 31.26,
+    "end": 36.08,
+    "text": " electrical rhythms, called brain waves, using mirror neurons, which are specialized brain",
+    "words": [
+      {
+        "start": 31.26,
+        "end": 31.68,
+        "word": "electrical",
+        "probability": 0.9948187470436096
+      },
+      {
+        "start": 31.68,
+        "end": 32.2,
+        "word": "rhythms,",
+        "probability": 0.9882686138153076
+      },
+      {
+        "start": 32.5,
+        "end": 32.64,
+        "word": "called",
+        "probability": 0.9907970428466797
+      },
+      {
+        "start": 32.64,
+        "end": 32.96,
+        "word": "brain",
+        "probability": 0.9206369519233704
+      },
+      {
+        "start": 32.96,
+        "end": 33.34,
+        "word": "waves,",
+        "probability": 0.5499162673950195
+      },
+      {
+        "start": 33.52,
+        "end": 33.74,
+        "word": "using",
+        "probability": 0.9982000589370728
+      },
+      {
+        "start": 33.74,
+        "end": 34.06,
+        "word": "mirror",
+        "probability": 0.9757454991340637
+      },
+      {
+        "start": 34.06,
+        "end": 34.52,
+        "word": "neurons,",
+        "probability": 0.9913875460624695
+      },
+      {
+        "start": 34.92,
+        "end": 35.06,
+        "word": "which",
+        "probability": 0.9966272711753845
+      },
+      {
+        "start": 35.06,
+        "end": 35.2,
+        "word": "are",
+        "probability": 0.9984849095344543
+      },
+      {
+        "start": 35.2,
+        "end": 35.68,
+        "word": "specialized",
+        "probability": 0.9913001656532288
+      },
+      {
+        "start": 35.68,
+        "end": 36.08,
+        "word": "brain",
+        "probability": 0.9983581900596619
+      }
+    ]
+  },
+  {
+    "start": 36.08,
+    "end": 41.06,
+    "text": " cells that copy and mimic the exact behavior and feelings of the person sitting next to you.",
+    "words": [
+      {
+        "start": 36.08,
+        "end": 36.34,
+        "word": "cells",
+        "probability": 0.994044840335846
+      },
+      {
+        "start": 36.34,
+        "end": 36.64,
+        "word": "that",
+        "probability": 0.9942308664321899
+      },
+      {
+        "start": 36.64,
+        "end": 36.98,
+        "word": "copy",
+        "probability": 0.9905746579170227
+      },
+      {
+        "start": 36.98,
+        "end": 37.3,
+        "word": "and",
+        "probability": 0.9937354922294617
+      },
+      {
+        "start": 37.3,
+        "end": 37.6,
+        "word": "mimic",
+        "probability": 0.9989026784896851
+      },
+      {
+        "start": 37.6,
+        "end": 37.82,
+        "word": "the",
+        "probability": 0.9984667897224426
+      },
+      {
+        "start": 37.82,
+        "end": 38.26,
+        "word": "exact",
+        "probability": 0.9989921450614929
+      },
+      {
+        "start": 38.26,
+        "end": 38.64,
+        "word": "behavior",
+        "probability": 0.8391948938369751
+      },
+      {
+        "start": 38.64,
+        "end": 38.98,
+        "word": "and",
+        "probability": 0.9913689494132996
+      },
+      {
+        "start": 38.98,
+        "end": 39.36,
+        "word": "feelings",
+        "probability": 0.9816187024116516
+      },
+      {
+        "start": 39.36,
+        "end": 39.58,
+        "word": "of",
+        "probability": 0.9977084398269653
+      },
+      {
+        "start": 39.58,
+        "end": 39.7,
+        "word": "the",
+        "probability": 0.9978958368301392
+      },
+      {
+        "start": 39.7,
+        "end": 39.94,
+        "word": "person",
+        "probability": 0.9978442192077637
+      },
+      {
+        "start": 39.94,
+        "end": 40.24,
+        "word": "sitting",
+        "probability": 0.9943986535072327
+      },
+      {
+        "start": 40.24,
+        "end": 40.5,
+        "word": "next",
+        "probability": 0.9994077682495117
+      },
+      {
+        "start": 40.5,
+        "end": 40.72,
+        "word": "to",
+        "probability": 0.9958855509757996
+      },
+      {
+        "start": 40.72,
+        "end": 41.06,
+        "word": "you.",
+        "probability": 0.9991840720176697
+      }
+    ]
+  },
+  {
+    "start": 42.2,
+    "end": 46.44,
+    "text": " When neuroscientists threw best friends into brain scanners, they found identical,",
+    "words": [
+      {
+        "start": 42.2,
+        "end": 42.3,
+        "word": "When",
+        "probability": 0.7911421656608582
+      },
+      {
+        "start": 42.3,
+        "end": 43.08,
+        "word": "neuroscientists",
+        "probability": 0.9893171588579813
+      },
+      {
+        "start": 43.08,
+        "end": 43.34,
+        "word": "threw",
+        "probability": 0.9936217665672302
+      },
+      {
+        "start": 43.34,
+        "end": 43.62,
+        "word": "best",
+        "probability": 0.988865315914154
+      },
+      {
+        "start": 43.62,
+        "end": 43.94,
+        "word": "friends",
+        "probability": 0.9961774349212646
+      },
+      {
+        "start": 43.94,
+        "end": 44.18,
+        "word": "into",
+        "probability": 0.9956238865852356
+      },
+      {
+        "start": 44.18,
+        "end": 44.48,
+        "word": "brain",
+        "probability": 0.9921097159385681
+      },
+      {
+        "start": 44.48,
+        "end": 44.92,
+        "word": "scanners,",
+        "probability": 0.9896336793899536
+      },
+      {
+        "start": 45.34,
+        "end": 45.44,
+        "word": "they",
+        "probability": 0.9940639138221741
+      },
+      {
+        "start": 45.44,
+        "end": 45.7,
+        "word": "found",
+        "probability": 0.9984365105628967
+      },
+      {
+        "start": 45.7,
+        "end": 46.44,
+        "word": "identical,",
+        "probability": 0.9970205426216125
+      }
+    ]
+  },
+  {
+    "start": 46.7,
+    "end": 52.4,
+    "text": " synchronized electrical spikes lighting up the exact same regions at the exact same millisecond.",
+    "words": [
+      {
+        "start": 46.7,
+        "end": 47.26,
+        "word": "synchronized",
+        "probability": 0.9665466547012329
+      },
+      {
+        "start": 47.26,
+        "end": 47.8,
+        "word": "electrical",
+        "probability": 0.9651532173156738
+      },
+      {
+        "start": 47.8,
+        "end": 48.38,
+        "word": "spikes",
+        "probability": 0.9971309900283813
+      },
+      {
+        "start": 48.38,
+        "end": 48.76,
+        "word": "lighting",
+        "probability": 0.9591475129127502
+      },
+      {
+        "start": 48.76,
+        "end": 48.96,
+        "word": "up",
+        "probability": 0.99763023853302
+      },
+      {
+        "start": 48.96,
+        "end": 49.12,
+        "word": "the",
+        "probability": 0.995124876499176
+      },
+      {
+        "start": 49.12,
+        "end": 49.58,
+        "word": "exact",
+        "probability": 0.9951531887054443
+      },
+      {
+        "start": 49.58,
+        "end": 49.92,
+        "word": "same",
+        "probability": 0.998318076133728
+      },
+      {
+        "start": 49.92,
+        "end": 50.32,
+        "word": "regions",
+        "probability": 0.9859898090362549
+      },
+      {
+        "start": 50.32,
+        "end": 50.64,
+        "word": "at",
+        "probability": 0.974515974521637
+      },
+      {
+        "start": 50.64,
+        "end": 50.8,
+        "word": "the",
+        "probability": 0.9975523352622986
+      },
+      {
+        "start": 50.8,
+        "end": 51.24,
+        "word": "exact",
+        "probability": 0.9934049248695374
+      },
+      {
+        "start": 51.24,
+        "end": 51.62,
+        "word": "same",
+        "probability": 0.997936487197876
+      },
+      {
+        "start": 51.62,
+        "end": 52.4,
+        "word": "millisecond.",
+        "probability": 0.9941085278987885
+      }
+    ]
+  },
+  {
+    "start": 52.4,
+    "end": 57.82,
+    "text": " The amygdala, which processes raw emotion, the prefrontal cortex, which handles decision making,",
+    "words": [
+      {
+        "start": 52.4,
+        "end": 52.82,
+        "word": "The",
+        "probability": 0.26297128200531006
+      },
+      {
+        "start": 52.82,
+        "end": 53.2,
+        "word": "amygdala,",
+        "probability": 0.4796575903892517
+      },
+      {
+        "start": 53.62,
+        "end": 53.7,
+        "word": "which",
+        "probability": 0.9940768480300903
+      },
+      {
+        "start": 53.7,
+        "end": 54.16,
+        "word": "processes",
+        "probability": 0.9837896227836609
+      },
+      {
+        "start": 54.16,
+        "end": 54.48,
+        "word": "raw",
+        "probability": 0.9741424918174744
+      },
+      {
+        "start": 54.48,
+        "end": 54.98,
+        "word": "emotion,",
+        "probability": 0.984455943107605
+      },
+      {
+        "start": 55.4,
+        "end": 55.46,
+        "word": "the",
+        "probability": 0.8928395509719849
+      },
+      {
+        "start": 55.46,
+        "end": 55.78,
+        "word": "prefrontal",
+        "probability": 0.9839797019958496
+      },
+      {
+        "start": 55.78,
+        "end": 56.4,
+        "word": "cortex,",
+        "probability": 0.9944776296615601
+      },
+      {
+        "start": 56.74,
+        "end": 56.78,
+        "word": "which",
+        "probability": 0.9960875511169434
+      },
+      {
+        "start": 56.78,
+        "end": 57.08,
+        "word": "handles",
+        "probability": 0.9962540864944458
+      },
+      {
+        "start": 57.08,
+        "end": 57.5,
+        "word": "decision",
+        "probability": 0.9925954937934875
+      },
+      {
+        "start": 57.5,
+        "end": 57.82,
+        "word": "making,",
+        "probability": 0.4862841069698334
+      }
+    ]
+  },
+  {
+    "start": 58.28,
+    "end": 62.64,
+    "text": " or in your case, terrible life choices, and the neural circuits for empathy.",
+    "words": [
+      {
+        "start": 58.28,
+        "end": 58.46,
+        "word": "or",
+        "probability": 0.9759122729301453
+      },
+      {
+        "start": 58.46,
+        "end": 58.58,
+        "word": "in",
+        "probability": 0.9413131475448608
+      },
+      {
+        "start": 58.58,
+        "end": 58.78,
+        "word": "your",
+        "probability": 0.9954016208648682
+      },
+      {
+        "start": 58.78,
+        "end": 59.06,
+        "word": "case,",
+        "probability": 0.9970472455024719
+      },
+      {
+        "start": 59.32,
+        "end": 59.56,
+        "word": "terrible",
+        "probability": 0.9882986545562744
+      },
+      {
+        "start": 59.56,
+        "end": 59.96,
+        "word": "life",
+        "probability": 0.996523916721344
+      },
+      {
+        "start": 59.96,
+        "end": 60.38,
+        "word": "choices,",
+        "probability": 0.9960483908653259
+      },
+      {
+        "start": 60.88,
+        "end": 61.16,
+        "word": "and",
+        "probability": 0.9857566952705383
+      },
+      {
+        "start": 61.16,
+        "end": 61.3,
+        "word": "the",
+        "probability": 0.9871075749397278
+      },
+      {
+        "start": 61.3,
+        "end": 61.54,
+        "word": "neural",
+        "probability": 0.9949624538421631
+      },
+      {
+        "start": 61.54,
+        "end": 61.88,
+        "word": "circuits",
+        "probability": 0.9872713685035706
+      },
+      {
+        "start": 61.88,
+        "end": 62.18,
+        "word": "for",
+        "probability": 0.9957893490791321
+      },
+      {
+        "start": 62.18,
+        "end": 62.64,
+        "word": "empathy.",
+        "probability": 0.988118588924408
+      }
+    ]
+  },
+  {
+    "start": 63.72,
+    "end": 67.38,
+    "text": " It explains why you and your best friend are such insufferable weirdos together,",
+    "words": [
+      {
+        "start": 63.72,
+        "end": 63.78,
+        "word": "It",
+        "probability": 0.5846311450004578
+      },
+      {
+        "start": 63.78,
+        "end": 64.12,
+        "word": "explains",
+        "probability": 0.9956996440887451
+      },
+      {
+        "start": 64.12,
+        "end": 64.4,
+        "word": "why",
+        "probability": 0.9971336126327515
+      },
+      {
+        "start": 64.4,
+        "end": 64.6,
+        "word": "you",
+        "probability": 0.9953557252883911
+      },
+      {
+        "start": 64.6,
+        "end": 64.72,
+        "word": "and",
+        "probability": 0.9945713877677917
+      },
+      {
+        "start": 64.72,
+        "end": 64.84,
+        "word": "your",
+        "probability": 0.9947097301483154
+      },
+      {
+        "start": 64.84,
+        "end": 65.08,
+        "word": "best",
+        "probability": 0.9929181933403015
+      },
+      {
+        "start": 65.08,
+        "end": 65.36,
+        "word": "friend",
+        "probability": 0.9971712231636047
+      },
+      {
+        "start": 65.36,
+        "end": 65.54,
+        "word": "are",
+        "probability": 0.9915542006492615
+      },
+      {
+        "start": 65.54,
+        "end": 65.68,
+        "word": "such",
+        "probability": 0.9913157224655151
+      },
+      {
+        "start": 65.68,
+        "end": 66.5,
+        "word": "insufferable",
+        "probability": 0.9973220825195312
+      },
+      {
+        "start": 66.5,
+        "end": 66.98,
+        "word": "weirdos",
+        "probability": 0.9890363812446594
+      },
+      {
+        "start": 66.98,
+        "end": 67.38,
+        "word": "together,",
+        "probability": 0.9888646602630615
+      }
+    ]
+  },
+  {
+    "start": 67.6,
+    "end": 71.04,
+    "text": " because your nervous systems are literally trapped in an echo chamber.",
+    "words": [
+      {
+        "start": 67.6,
+        "end": 68.02,
+        "word": "because",
+        "probability": 0.9918867945671082
+      },
+      {
+        "start": 68.02,
+        "end": 68.18,
+        "word": "your",
+        "probability": 0.9874373078346252
+      },
+      {
+        "start": 68.18,
+        "end": 68.48,
+        "word": "nervous",
+        "probability": 0.9991976618766785
+      },
+      {
+        "start": 68.48,
+        "end": 68.92,
+        "word": "systems",
+        "probability": 0.9831060767173767
+      },
+      {
+        "start": 68.92,
+        "end": 69.12,
+        "word": "are",
+        "probability": 0.9981302618980408
+      },
+      {
+        "start": 69.12,
+        "end": 69.54,
+        "word": "literally",
+        "probability": 0.9904911518096924
+      },
+      {
+        "start": 69.54,
+        "end": 70.02,
+        "word": "trapped",
+        "probability": 0.9993447661399841
+      },
+      {
+        "start": 70.02,
+        "end": 70.24,
+        "word": "in",
+        "probability": 0.9986101388931274
+      },
+      {
+        "start": 70.24,
+        "end": 70.36,
+        "word": "an",
+        "probability": 0.9921367168426514
+      },
+      {
+        "start": 70.36,
+        "end": 70.66,
+        "word": "echo",
+        "probability": 0.9980477094650269
+      },
+      {
+        "start": 70.66,
+        "end": 71.04,
+        "word": "chamber.",
+        "probability": 0.9966813921928406
+      }
+    ]
+  },
+  {
+    "start": 71.54,
+    "end": 76.6,
+    "text": " But here is the terrifying part. It also proves you need to choose your circle wisely.",
+    "words": [
+      {
+        "start": 71.54,
+        "end": 71.72,
+        "word": "But",
+        "probability": 0.9780035018920898
+      },
+      {
+        "start": 71.72,
+        "end": 72.06,
+        "word": "here",
+        "probability": 0.989875853061676
+      },
+      {
+        "start": 72.06,
+        "end": 72.32,
+        "word": "is",
+        "probability": 0.813261866569519
+      },
+      {
+        "start": 72.32,
+        "end": 72.5,
+        "word": "the",
+        "probability": 0.9989627599716187
+      },
+      {
+        "start": 72.5,
+        "end": 73.0,
+        "word": "terrifying",
+        "probability": 0.9988007545471191
+      },
+      {
+        "start": 73.0,
+        "end": 73.48,
+        "word": "part.",
+        "probability": 0.9993067979812622
+      },
+      {
+        "start": 73.9,
+        "end": 74.14,
+        "word": "It",
+        "probability": 0.9901920557022095
+      },
+      {
+        "start": 74.14,
+        "end": 74.4,
+        "word": "also",
+        "probability": 0.9982503056526184
+      },
+      {
+        "start": 74.4,
+        "end": 74.74,
+        "word": "proves",
+        "probability": 0.9979313611984253
+      },
+      {
+        "start": 74.74,
+        "end": 74.98,
+        "word": "you",
+        "probability": 0.956432044506073
+      },
+      {
+        "start": 74.98,
+        "end": 75.1,
+        "word": "need",
+        "probability": 0.9971739053726196
+      },
+      {
+        "start": 75.1,
+        "end": 75.26,
+        "word": "to",
+        "probability": 0.9990058541297913
+      },
+      {
+        "start": 75.26,
+        "end": 75.52,
+        "word": "choose",
+        "probability": 0.9920675754547119
+      },
+      {
+        "start": 75.52,
+        "end": 75.72,
+        "word": "your",
+        "probability": 0.9979660511016846
+      },
+      {
+        "start": 75.72,
+        "end": 76.1,
+        "word": "circle",
+        "probability": 0.9975661039352417
+      },
+      {
+        "start": 76.1,
+        "end": 76.6,
+        "word": "wisely.",
+        "probability": 0.9982835054397583
+      }
+    ]
+  },
+  {
+    "start": 77.12,
+    "end": 80.94,
+    "text": " If your best friend is a broke, toxic disaster with zero ambition,",
+    "words": [
+      {
+        "start": 77.12,
+        "end": 77.28,
+        "word": "If",
+        "probability": 0.9859035611152649
+      },
+      {
+        "start": 77.28,
+        "end": 77.42,
+        "word": "your",
+        "probability": 0.9780647158622742
+      },
+      {
+        "start": 77.42,
+        "end": 77.68,
+        "word": "best",
+        "probability": 0.9976775050163269
+      },
+      {
+        "start": 77.68,
+        "end": 77.98,
+        "word": "friend",
+        "probability": 0.9976173043251038
+      },
+      {
+        "start": 77.98,
+        "end": 78.16,
+        "word": "is",
+        "probability": 0.9922317266464233
+      },
+      {
+        "start": 78.16,
+        "end": 78.34,
+        "word": "a",
+        "probability": 0.9950560331344604
+      },
+      {
+        "start": 78.34,
+        "end": 78.66,
+        "word": "broke,",
+        "probability": 0.9749768376350403
+      },
+      {
+        "start": 78.76,
+        "end": 79.3,
+        "word": "toxic",
+        "probability": 0.9991415739059448
+      },
+      {
+        "start": 79.3,
+        "end": 79.76,
+        "word": "disaster",
+        "probability": 0.9922822117805481
+      },
+      {
+        "start": 79.76,
+        "end": 80.12,
+        "word": "with",
+        "probability": 0.9720608592033386
+      },
+      {
+        "start": 80.12,
+        "end": 80.48,
+        "word": "zero",
+        "probability": 0.9897671341896057
+      },
+      {
+        "start": 80.48,
+        "end": 80.94,
+        "word": "ambition,",
+        "probability": 0.9850258231163025
+      }
+    ]
+  },
+  {
+    "start": 80.94,
+    "end": 83.62,
+    "text": " your brain isn't just hanging out with them.",
+    "words": [
+      {
+        "start": 80.94,
+        "end": 81.62,
+        "word": "your",
+        "probability": 0.5860832929611206
+      },
+      {
+        "start": 81.62,
+        "end": 81.92,
+        "word": "brain",
+        "probability": 0.9976075887680054
+      },
+      {
+        "start": 81.92,
+        "end": 82.22,
+        "word": "isn't",
+        "probability": 0.9941292107105255
+      },
+      {
+        "start": 82.22,
+        "end": 82.44,
+        "word": "just",
+        "probability": 0.998346209526062
+      },
+      {
+        "start": 82.44,
+        "end": 82.86,
+        "word": "hanging",
+        "probability": 0.9001449942588806
+      },
+      {
+        "start": 82.86,
+        "end": 83.2,
+        "word": "out",
+        "probability": 0.9952801465988159
+      },
+      {
+        "start": 83.2,
+        "end": 83.4,
+        "word": "with",
+        "probability": 0.9973044395446777
+      },
+      {
+        "start": 83.4,
+        "end": 83.62,
+        "word": "them.",
+        "probability": 0.9975371360778809
+      }
+    ]
+  },
+  {
+    "start": 84.06,
+    "end": 89.18,
+    "text": " It is actively downloading their broken neural wiring and rewriting who you are going to become.",
+    "words": [
+      {
+        "start": 84.06,
+        "end": 84.14,
+        "word": "It",
+        "probability": 0.9818549156188965
+      },
+      {
+        "start": 84.14,
+        "end": 84.26,
+        "word": "is",
+        "probability": 0.9733904600143433
+      },
+      {
+        "start": 84.26,
+        "end": 84.74,
+        "word": "actively",
+        "probability": 0.993488073348999
+      },
+      {
+        "start": 84.74,
+        "end": 85.4,
+        "word": "downloading",
+        "probability": 0.997016191482544
+      },
+      {
+        "start": 85.4,
+        "end": 85.68,
+        "word": "their",
+        "probability": 0.9912336468696594
+      },
+      {
+        "start": 85.68,
+        "end": 86.04,
+        "word": "broken",
+        "probability": 0.9709534645080566
+      },
+      {
+        "start": 86.04,
+        "end": 86.36,
+        "word": "neural",
+        "probability": 0.9803003072738647
+      },
+      {
+        "start": 86.36,
+        "end": 86.9,
+        "word": "wiring",
+        "probability": 0.9965978264808655
+      },
+      {
+        "start": 86.9,
+        "end": 87.3,
+        "word": "and",
+        "probability": 0.9299996495246887
+      },
+      {
+        "start": 87.3,
+        "end": 87.76,
+        "word": "rewriting",
+        "probability": 0.9724166989326477
+      },
+      {
+        "start": 87.76,
+        "end": 88.2,
+        "word": "who",
+        "probability": 0.9969475865364075
+      },
+      {
+        "start": 88.2,
+        "end": 88.4,
+        "word": "you",
+        "probability": 0.996324360370636
+      },
+      {
+        "start": 88.4,
+        "end": 88.5,
+        "word": "are",
+        "probability": 0.9543027877807617
+      },
+      {
+        "start": 88.5,
+        "end": 88.7,
+        "word": "going",
+        "probability": 0.998548686504364
+      },
+      {
+        "start": 88.7,
+        "end": 88.86,
+        "word": "to",
+        "probability": 0.9991051554679871
+      },
+      {
+        "start": 88.86,
+        "end": 89.18,
+        "word": "become.",
+        "probability": 0.9976956248283386
+      }
+    ]
+  }
+]

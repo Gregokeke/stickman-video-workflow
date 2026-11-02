@@ -1,0 +1,201 @@
+{
+  "file": "index.html",
+  "errors": [],
+  "frames": [
+    {
+      "t": 26.8,
+      "caps": [
+        {
+          "id": "c16",
+          "text": "Almost zero fruits have vitamin E",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "fruit-basket",
+        "e-question"
+      ],
+      "missing": []
+    },
+    {
+      "t": 27.98,
+      "caps": [
+        {
+          "id": "c16",
+          "text": "Almost zero fruits have vitamin E",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "fruit-basket",
+        "e-question"
+      ],
+      "missing": []
+    },
+    {
+      "t": 98.5,
+      "caps": [
+        {
+          "id": "c65",
+          "text": "to chop up heavy proteins,",
+          "box": [
+            105,
+            220.10440063476562,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "scissors",
+        "stomach",
+        "protein"
+      ],
+      "missing": []
+    },
+    {
+      "t": 98.8,
+      "caps": [
+        {
+          "id": "c65",
+          "text": "to chop up heavy proteins,",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "scissors",
+        "stomach",
+        "protein"
+      ],
+      "missing": []
+    },
+    {
+      "t": 99.1,
+      "caps": [
+        {
+          "id": "c65",
+          "text": "to chop up heavy proteins,",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "scissors",
+        "stomach",
+        "protein"
+      ],
+      "missing": []
+    },
+    {
+      "t": 99.36,
+      "caps": [
+        {
+          "id": "c65",
+          "text": "to chop up heavy proteins,",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "scissors",
+        "stomach",
+        "protein"
+      ],
+      "missing": []
+    },
+    {
+      "t": 99.8,
+      "caps": [
+        {
+          "id": "c65",
+          "text": "to chop up heavy proteins,",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "stomach",
+        "protein",
+        "peptides"
+      ],
+      "missing": []
+    },
+    {
+      "t": 100.3,
+      "caps": [
+        {
+          "id": "c66",
+          "text": "so whatever meal you eat after training",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "post-meal"
+      ],
+      "missing": []
+    },
+    {
+      "t": 112.8,
+      "caps": [
+        {
+          "id": "c74",
+          "text": "Go eat the fuzzy green egg.",
+          "box": [
+            105,
+            220,
+            790,
+            260
+          ]
+        }
+      ],
+      "pointers": [],
+      "visible": [
+        "eat-kiwi",
+        "fuzzy-egg"
+      ],
+      "missing": []
+    }
+  ],
+  "caption_overlaps": [],
+  "max_pointer_error": 0
+}

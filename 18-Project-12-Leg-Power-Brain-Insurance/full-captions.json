@@ -1,0 +1,634 @@
+[
+  {
+    "id": "cap-0",
+    "start": 0,
+    "end": 1.98,
+    "text": "The most important muscle for aging",
+    "first_word": 0,
+    "last_word": 5
+  },
+  {
+    "id": "cap-1",
+    "start": 1.98,
+    "end": 4.52,
+    "text": "isn't your biceps or your chest,",
+    "first_word": 6,
+    "last_word": 11
+  },
+  {
+    "id": "cap-2",
+    "start": 4.52,
+    "end": 5.98,
+    "text": "so you can stop doing",
+    "first_word": 12,
+    "last_word": 16
+  },
+  {
+    "id": "cap-3",
+    "start": 5.98,
+    "end": 7.5,
+    "text": "bench press five days a week",
+    "first_word": 17,
+    "last_word": 22
+  },
+  {
+    "id": "cap-4",
+    "start": 7.5,
+    "end": 9.6966,
+    "text": "while walking around on two toothpicks.",
+    "first_word": 23,
+    "last_word": 28
+  },
+  {
+    "id": "cap-5",
+    "start": 9.6966,
+    "end": 11.02681,
+    "text": "It is your legs.",
+    "first_word": 29,
+    "last_word": 32
+  },
+  {
+    "id": "cap-6",
+    "start": 11.02681,
+    "end": 12.14681,
+    "text": "Your lower body alone",
+    "first_word": 33,
+    "last_word": 36
+  },
+  {
+    "id": "cap-7",
+    "start": 12.14681,
+    "end": 13.26681,
+    "text": "can make you look,",
+    "first_word": 37,
+    "last_word": 40
+  },
+  {
+    "id": "cap-8",
+    "start": 13.26681,
+    "end": 14.38681,
+    "text": "feel, and perform",
+    "first_word": 41,
+    "last_word": 43
+  },
+  {
+    "id": "cap-9",
+    "start": 14.38681,
+    "end": 15.76681,
+    "text": "two decades younger,",
+    "first_word": 44,
+    "last_word": 46
+  },
+  {
+    "id": "cap-10",
+    "start": 15.76681,
+    "end": 17.16681,
+    "text": "while you casually watch",
+    "first_word": 47,
+    "last_word": 50
+  },
+  {
+    "id": "cap-11",
+    "start": 17.16681,
+    "end": 18.28681,
+    "text": "everyone else your age",
+    "first_word": 51,
+    "last_word": 54
+  },
+  {
+    "id": "cap-12",
+    "start": 18.28681,
+    "end": 20.01952,
+    "text": "crumble into dust.",
+    "first_word": 55,
+    "last_word": 57
+  },
+  {
+    "id": "cap-13",
+    "start": 20.01952,
+    "end": 20.93952,
+    "text": "A 10 -year study",
+    "first_word": 58,
+    "last_word": 61
+  },
+  {
+    "id": "cap-14",
+    "start": 20.93952,
+    "end": 23.09952,
+    "text": "of over 300 female twins,",
+    "first_word": 62,
+    "last_word": 66
+  },
+  {
+    "id": "cap-15",
+    "start": 23.09952,
+    "end": 24.95952,
+    "text": "averaging 55 years old,",
+    "first_word": 67,
+    "last_word": 70
+  },
+  {
+    "id": "cap-16",
+    "start": 24.95952,
+    "end": 26.89952,
+    "text": "tracked whether leg strength could actually",
+    "first_word": 71,
+    "last_word": 76
+  },
+  {
+    "id": "cap-17",
+    "start": 26.89952,
+    "end": 29.16873,
+    "text": "predict how fast your brain rots,",
+    "first_word": 77,
+    "last_word": 82
+  },
+  {
+    "id": "cap-18",
+    "start": 29.16873,
+    "end": 31.01533,
+    "text": "and the results were wild.",
+    "first_word": 83,
+    "last_word": 87
+  },
+  {
+    "id": "cap-19",
+    "start": 31.01533,
+    "end": 32.53533,
+    "text": "The twins with higher leg power",
+    "first_word": 88,
+    "last_word": 93
+  },
+  {
+    "id": "cap-20",
+    "start": 32.53533,
+    "end": 33.19533,
+    "text": "at the start",
+    "first_word": 94,
+    "last_word": 96
+  },
+  {
+    "id": "cap-21",
+    "start": 33.19533,
+    "end": 35.63533,
+    "text": "had significantly sharper cognitive function",
+    "first_word": 97,
+    "last_word": 101
+  },
+  {
+    "id": "cap-22",
+    "start": 35.63533,
+    "end": 36.79383,
+    "text": "10 years later.",
+    "first_word": 102,
+    "last_word": 104
+  },
+  {
+    "id": "cap-23",
+    "start": 36.79383,
+    "end": 37.69862,
+    "text": "Not only that,",
+    "first_word": 105,
+    "last_word": 107
+  },
+  {
+    "id": "cap-24",
+    "start": 37.69862,
+    "end": 38.81862,
+    "text": "MRI brain scans",
+    "first_word": 108,
+    "last_word": 110
+  },
+  {
+    "id": "cap-25",
+    "start": 38.81862,
+    "end": 40.19862,
+    "text": "proved they had way more",
+    "first_word": 111,
+    "last_word": 115
+  },
+  {
+    "id": "cap-26",
+    "start": 40.19862,
+    "end": 41.34873,
+    "text": "gray matter volume,",
+    "first_word": 116,
+    "last_word": 118
+  },
+  {
+    "id": "cap-27",
+    "start": 41.34873,
+    "end": 42.50873,
+    "text": "the dense brain tissue",
+    "first_word": 119,
+    "last_word": 122
+  },
+  {
+    "id": "cap-28",
+    "start": 42.50873,
+    "end": 43.88873,
+    "text": "packed with actual neurons",
+    "first_word": 123,
+    "last_word": 126
+  },
+  {
+    "id": "cap-29",
+    "start": 43.88873,
+    "end": 44.96873,
+    "text": "that keeps you from forgetting",
+    "first_word": 127,
+    "last_word": 131
+  },
+  {
+    "id": "cap-30",
+    "start": 44.96873,
+    "end": 46.48052,
+    "text": "your own kid's names.",
+    "first_word": 132,
+    "last_word": 135
+  },
+  {
+    "id": "cap-31",
+    "start": 46.48052,
+    "end": 48.22052,
+    "text": "Stronger legs literally equal",
+    "first_word": 136,
+    "last_word": 139
+  },
+  {
+    "id": "cap-32",
+    "start": 48.22052,
+    "end": 49.46512,
+    "text": "a healthier brain.",
+    "first_word": 140,
+    "last_word": 142
+  },
+  {
+    "id": "cap-33",
+    "start": 49.46512,
+    "end": 50.00433,
+    "text": "Why?",
+    "first_word": 143,
+    "last_word": 143
+  },
+  {
+    "id": "cap-34",
+    "start": 50.00433,
+    "end": 50.96433,
+    "text": "Because when your massive",
+    "first_word": 144,
+    "last_word": 147
+  },
+  {
+    "id": "cap-35",
+    "start": 50.96433,
+    "end": 52.14433,
+    "text": "leg muscles contract",
+    "first_word": 148,
+    "last_word": 150
+  },
+  {
+    "id": "cap-36",
+    "start": 52.14433,
+    "end": 53.76433,
+    "text": "against heavy resistance,",
+    "first_word": 151,
+    "last_word": 153
+  },
+  {
+    "id": "cap-37",
+    "start": 53.76433,
+    "end": 55.18433,
+    "text": "they pump out chemical messengers",
+    "first_word": 154,
+    "last_word": 158
+  },
+  {
+    "id": "cap-38",
+    "start": 55.18433,
+    "end": 56.32433,
+    "text": "called myokines",
+    "first_word": 159,
+    "last_word": 160
+  },
+  {
+    "id": "cap-39",
+    "start": 56.32433,
+    "end": 57.08433,
+    "text": "and a protein",
+    "first_word": 161,
+    "last_word": 163
+  },
+  {
+    "id": "cap-40",
+    "start": 57.08433,
+    "end": 58.50433,
+    "text": "called BDNF,",
+    "first_word": 164,
+    "last_word": 165
+  },
+  {
+    "id": "cap-41",
+    "start": 58.50433,
+    "end": 59.66433,
+    "text": "which basically acts like",
+    "first_word": 166,
+    "last_word": 169
+  },
+  {
+    "id": "cap-42",
+    "start": 59.66433,
+    "end": 61.66433,
+    "text": "miracle grow for your brain cells,",
+    "first_word": 170,
+    "last_word": 175
+  },
+  {
+    "id": "cap-43",
+    "start": 61.66433,
+    "end": 62.42433,
+    "text": "forcing your skull",
+    "first_word": 176,
+    "last_word": 178
+  },
+  {
+    "id": "cap-44",
+    "start": 62.42433,
+    "end": 64.12433,
+    "text": "to grow fresh neural pathways",
+    "first_word": 179,
+    "last_word": 183
+  },
+  {
+    "id": "cap-45",
+    "start": 64.12433,
+    "end": 65.68633,
+    "text": "instead of shrinking.",
+    "first_word": 184,
+    "last_word": 186
+  },
+  {
+    "id": "cap-46",
+    "start": 65.68633,
+    "end": 67.18962,
+    "text": "And here's the craziest part.",
+    "first_word": 187,
+    "last_word": 191
+  },
+  {
+    "id": "cap-47",
+    "start": 67.18962,
+    "end": 69.62312,
+    "text": "This held up between identical twins,",
+    "first_word": 192,
+    "last_word": 197
+  },
+  {
+    "id": "cap-48",
+    "start": 69.62312,
+    "end": 70.34312,
+    "text": "meaning you can't",
+    "first_word": 198,
+    "last_word": 200
+  },
+  {
+    "id": "cap-49",
+    "start": 70.34312,
+    "end": 71.72312,
+    "text": "blame your trashed genetics,",
+    "first_word": 201,
+    "last_word": 204
+  },
+  {
+    "id": "cap-50",
+    "start": 71.72312,
+    "end": 72.52312,
+    "text": "your childhood,",
+    "first_word": 205,
+    "last_word": 206
+  },
+  {
+    "id": "cap-51",
+    "start": 72.52312,
+    "end": 73.63473,
+    "text": "or your horoscope.",
+    "first_word": 207,
+    "last_word": 209
+  },
+  {
+    "id": "cap-52",
+    "start": 73.63473,
+    "end": 74.99473,
+    "text": "It was raw leg power",
+    "first_word": 210,
+    "last_word": 214
+  },
+  {
+    "id": "cap-53",
+    "start": 74.99473,
+    "end": 76.12792,
+    "text": "making the difference,",
+    "first_word": 215,
+    "last_word": 217
+  },
+  {
+    "id": "cap-54",
+    "start": 76.12792,
+    "end": 78.21431,
+    "text": "which is honestly just common sense.",
+    "first_word": 218,
+    "last_word": 223
+  },
+  {
+    "id": "cap-55",
+    "start": 78.21431,
+    "end": 79.23431,
+    "text": "As you get older,",
+    "first_word": 224,
+    "last_word": 227
+  },
+  {
+    "id": "cap-56",
+    "start": 79.23431,
+    "end": 80.75431,
+    "text": "one of the biggest mental taxes",
+    "first_word": 228,
+    "last_word": 233
+  },
+  {
+    "id": "cap-57",
+    "start": 80.75431,
+    "end": 83.04731,
+    "text": "is simply walking without dying.",
+    "first_word": 234,
+    "last_word": 238
+  },
+  {
+    "id": "cap-58",
+    "start": 83.04731,
+    "end": 84.64731,
+    "text": "Plenty of 70 and 80 -year -olds",
+    "first_word": 239,
+    "last_word": 245
+  },
+  {
+    "id": "cap-59",
+    "start": 84.64731,
+    "end": 86.10731,
+    "text": "are glued to walkers,",
+    "first_word": 246,
+    "last_word": 249
+  },
+  {
+    "id": "cap-60",
+    "start": 86.10731,
+    "end": 87.28731,
+    "text": "and every single step",
+    "first_word": 250,
+    "last_word": 253
+  },
+  {
+    "id": "cap-61",
+    "start": 87.28731,
+    "end": 89.24552,
+    "text": "comes with low -grade paranoia,",
+    "first_word": 254,
+    "last_word": 258
+  },
+  {
+    "id": "cap-62",
+    "start": 89.24552,
+    "end": 90.86552,
+    "text": "especially near a flight of stairs",
+    "first_word": 259,
+    "last_word": 264
+  },
+  {
+    "id": "cap-63",
+    "start": 90.86552,
+    "end": 92.26552,
+    "text": "where one bad misstep",
+    "first_word": 265,
+    "last_word": 268
+  },
+  {
+    "id": "cap-64",
+    "start": 92.26552,
+    "end": 93.36552,
+    "text": "means a shattered hip",
+    "first_word": 269,
+    "last_word": 272
+  },
+  {
+    "id": "cap-65",
+    "start": 93.36552,
+    "end": 94.38552,
+    "text": "and a one -way ticket",
+    "first_word": 273,
+    "last_word": 277
+  },
+  {
+    "id": "cap-66",
+    "start": 94.38552,
+    "end": 95.92442,
+    "text": "to the afterlife.",
+    "first_word": 278,
+    "last_word": 280
+  },
+  {
+    "id": "cap-67",
+    "start": 95.92442,
+    "end": 98.00442,
+    "text": "Movements like squats, hip thrusts,",
+    "first_word": 281,
+    "last_word": 285
+  },
+  {
+    "id": "cap-68",
+    "start": 98.00442,
+    "end": 98.54442,
+    "text": "and lunges",
+    "first_word": 286,
+    "last_word": 287
+  },
+  {
+    "id": "cap-69",
+    "start": 98.54442,
+    "end": 99.42442,
+    "text": "aren't just for looking",
+    "first_word": 288,
+    "last_word": 291
+  },
+  {
+    "id": "cap-70",
+    "start": 99.42442,
+    "end": 100.12442,
+    "text": "good in shorts.",
+    "first_word": 292,
+    "last_word": 294
+  },
+  {
+    "id": "cap-71",
+    "start": 100.12442,
+    "end": 102.38442,
+    "text": "They're biological insurance policies",
+    "first_word": 295,
+    "last_word": 298
+  },
+  {
+    "id": "cap-72",
+    "start": 102.38442,
+    "end": 104.14442,
+    "text": "that keep your nervous system firing",
+    "first_word": 299,
+    "last_word": 304
+  },
+  {
+    "id": "cap-73",
+    "start": 104.14442,
+    "end": 105.85042,
+    "text": "and your brain intact.",
+    "first_word": 305,
+    "last_word": 308
+  },
+  {
+    "id": "cap-74",
+    "start": 105.85042,
+    "end": 106.89042,
+    "text": "So if you actually want a",
+    "first_word": 309,
+    "last_word": 314
+  },
+  {
+    "id": "cap-75",
+    "start": 106.89042,
+    "end": 108.19042,
+    "text": "working brain past 80",
+    "first_word": 315,
+    "last_word": 318
+  },
+  {
+    "id": "cap-76",
+    "start": 108.19042,
+    "end": 109.71042,
+    "text": "instead of staring blankly",
+    "first_word": 319,
+    "last_word": 322
+  },
+  {
+    "id": "cap-77",
+    "start": 109.71042,
+    "end": 111.23942,
+    "text": "at a nursing home wall,",
+    "first_word": 323,
+    "last_word": 327
+  },
+  {
+    "id": "cap-78",
+    "start": 111.23942,
+    "end": 113.0,
+    "text": "stop skipping leg day.",
+    "first_word": 328,
+    "last_word": 331
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "bad-influence-friend",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: If your best friend is a broke, toxic disaster with zero ambition,. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: ONE full-body red rounded stickman bad-influence friend, short black hair, slouched red hoodie/shorts, broad calves/forearms, dismissive sneer, arms casually open and listless posture. No wallet, speech balloon, gauge, brain or other person.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/bad-influence-friend.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-a3d3a427-ae38-4e4f-97f8-5312d3f47c5b.png"
+}

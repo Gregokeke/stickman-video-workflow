@@ -1,0 +1,160 @@
+{
+  "mode": "built-in image_gen",
+  "style": "Premium expressive clean 2D red/black/white health-explainer cutout. Saturated #ff0000 RED, BLACK smooth bold outlines, WHITE only; no other colors. Strong crisp detail. Stickmen: perfectly round heads, thin simplified nonmuscular limbs, simple rounded shoes and coherent hands, never realistic human noses/ears/anatomy. Clothing with collar/cuffs/seams where specified, expressions through brows/eyelids/mouth/shoulders. Whole subject and props fully visible with margins. Single isolated composition, no unnecessary props, no environment, no cast shadow, genuine transparent alpha background.",
+  "requests": [
+    {
+      "id": "fasting-guy",
+      "subject": "Full-body young red stickman with short messy black hair and red pajama shirt with collar, cuffs, pocket and red trousers. Standing at a small simple white round breakfast table, lips firmly closed in a knowing determined smirk, one hand pushing a WHITE empty dinner plate away across table, other hand raised palm-out rejecting food. Small red fork resting beside plate. Clear voluntary fasting action, no food in mouth. No hunger distress."
+    },
+    {
+      "id": "body-energy",
+      "subject": "A plain unclothed simplified red stickman front-facing full-body, perfectly round head with curious eyebrows, simple nonmuscular body. White cutaway window in torso containing a small red stomach and several round cells. One short thick red arrow from outside the body toward the stomach terminates at a black stop barrier just before the torso edge, representing food-energy input stopped. Simple anatomical metaphor, NO exposed human muscles, no clothing, no organs over clothes, no gore. Body and diagram one clean isolated asset."
+    },
+    {
+      "id": "autophagy-body",
+      "subject": "Plain unclothed simplified red stickman full body, round head raised eyebrow knowing smirk. White torso cutaway shows three small damaged cells and one larger round double-membrane vesicle enclosing a damaged cellular fragment. Depict intracellular self-recycling inside the cartoon body, not a person biting themselves. Clean conceptual biology, NO gore, no wounds, no clothing, no human muscles. Bold clear cellular forms and simple red-white-black detail."
+    },
+    {
+      "id": "closedmouth-stop",
+      "subject": "Full-body bald red stickman in a detailed red blazer, black undershirt and red trousers, one hand pressing index finger across firmly CLOSED lips, other palm pushes a small plate with food away. Sassy side-eye raised eyebrow and firm no-eating expression. Plate and gesture clearly visible, no text."
+    },
+    {
+      "id": "survival-switch",
+      "subject": "One freestanding chunky red rectangular toggle-switch housing with thick black outline, WHITE empty inner recess, two small black mounting screws and a clear empty horizontal slot. NO lever, NO knob, NO words, NO symbols. Leave the center slot empty for an independently animated toggle. Front-facing clean diagram, no background."
+    },
+    {
+      "id": "autophagosome",
+      "subject": "Biological schematic of an autophagosome: large open C-shaped DOUBLE membrane in red with black contours and white interior, enclosing several broken red protein coils and one small damaged red mitochondrion. The membrane gap is on the upper right and clearly visible so it can be closed by animation. Small clean attached label below reading AUTOPHAGY. No arrows, no face, not a cartoon monster."
+    },
+    {
+      "id": "self-eating-cell",
+      "subject": "Clean biological schematic showing a rounded red cell with white cutaway interior, intact red nucleus at upper left, and one circular double-membrane lysosome-like compartment at lower right enclosing broken red organelle fragments. Label directly beneath SELF-RECYCLING. No mouths or teeth, no monster, no arrows. Conceptual intracellular recycling, not a whole person being consumed."
+    },
+    {
+      "id": "hunter",
+      "subject": "Full-body red stickman detective in a red short trench coat with seams and belt, black undershirt, red trousers and rounded shoes. Crouches slightly forward, brows narrowed in focused concentration, holds a magnifying glass in front of one eye with coherent hand grip, other hand on waist. Magnifying lens WHITE transparent-looking interior, no cell inside it yet. No background or text."
+    },
+    {
+      "id": "senescent-cell",
+      "subject": "Single large senescent biological cell in cross section: irregular wrinkled red membrane, white interior, large red nucleus with black speckles and several visibly damaged red organelles, small black age spots. Attached bold clean label SENESCENT CELL below. No cartoon face or arms, no clock, no gore. Dense clear biological detail with uncluttered readable cell."
+    },
+    {
+      "id": "retired-cell",
+      "subject": "Single anthropomorphic round RED cell sitting slouched in a compact red reclining chair, wearing tiny black reading glasses and a red cardigan, drooping eyelids and weary smug expression, small red slippers. Still clearly a ROUND CELL with a red nucleus motif on its body, not a human. One small attached label RETIRED. Comic retired-cell metaphor."
+    },
+    {
+      "id": "squatting-cell",
+      "subject": "Single anthropomorphic round RED cell lounging inside a small simple red doorway frame, arms gripping both sides possessively, feet planted, chin raised and an entitled smug expression. Cell body is a rounded membrane with a nucleus motif, not a human body. Attached tag below reading RENT FREE. No room, couch or scenery."
+    },
+    {
+      "id": "idle-worker",
+      "subject": "Full-body red stickman in an unbuttoned red work shirt with rolled cuffs, black undershirt and red trousers. Standing with shoulders slumped, arms dangling, one eyebrow bored and eyelids low, frowning at a red wrench lying untouched beside his foot. Expression says refuses to do the job. No text, no background."
+    },
+    {
+      "id": "alive-cell",
+      "subject": "Single round biological RED cell, intact membrane and nucleus, a tiny distinct black-and-red energy spark inside the white interior, but several dark damaged organelles also visible. Attached bold label STILL ALIVE beneath. No human face, no limbs, no surrounding molecules. Clean schematic with readable large organelles."
+    },
+    {
+      "id": "rotting-cell",
+      "subject": "Single damaged biological RED cell with irregular pitted membrane and white cutaway interior. Dark broken red organelles inside; several small red inflammatory particles spilling outward through a visibly damaged section of membrane on the RIGHT only. Attached label CELLULAR WASTE. No disgusting gore, no green, no slime, no cartoon face."
+    },
+    {
+      "id": "inflammatory-particles",
+      "subject": "One compact group of three red biological inflammatory signaling molecules with black contours and distinct small bead-like branches, white highlight accents. Attached bold label INFLAMMATION directly below. Diagrammatic conceptual symbols, NOT an exact chemical structure. No extra arrows, no flames, no backdrop."
+    },
+    {
+      "id": "roommate",
+      "subject": "Full-body red stickman in a rumpled red hoodie and red pajama trousers, messy short black hair. Slouched deeply on a small RED couch, one leg over armrest, one hand holds a red TV remote and other hand dismissively waves away viewer. Smug lazy unemployed-roommate expression with half-lidded eyes and crooked mouth. Only couch and character, no room, no TV, no snacks or clutter."
+    },
+    {
+      "id": "refuse-move",
+      "subject": "Full-body bald red stickman in a red hoodie and red trousers bracing both feet apart inside a small RED doorway frame. Both hands grip the doorframe stubbornly, jaw set, angry lowered eyebrows and defiant side-eye toward viewer. Clear refusing-to-move-out action. No house, bags, text or background."
+    },
+    {
+      "id": "puffy-guy",
+      "subject": "Full-body red stickman young man with short messy black hair, red pajama shirt with black collar, pocket and cuff seams, red trousers, simple rounded feet. Standing sleepy after waking, both palms press gently against very PUFFY swollen ROUND cheeks, worried raised brows, tired half-lidded eyes, small unhappy mouth. Iconic round head, puffiness expressed by enlarged round cheeks not a realistic face. No bed, mirror, text or other props."
+    },
+    {
+      "id": "old-young",
+      "subject": "Full-body red stickman young adult with messy short black hair in red pajama shirt and trousers, bent forward like an elderly person, one coherent hand leaning on a red walking cane and other hand pressing lower back. Comically exhausted eyelids and wry grimace, curved posture and shuffling rounded feet. Still a young stickman acting eighty, no beard, no wrinkles that make it a realistic human. No text or backdrop."
+    },
+    {
+      "id": "cleanup-cell",
+      "subject": "One large round biological cell with white cutaway interior, red intact nucleus at upper left. A large red lysosomal compartment at lower right contains broken organelle fragments, with tiny red dots representing breakdown products inside its compartment. Clearly different from a monster or eating mouth. Attached bold label CELL CLEANUP. No arrows or human face, no background."
+    },
+    {
+      "id": "junk-parts",
+      "subject": "One compact isolated cluster of exactly four red damaged cellular components: a broken curled protein ribbon, a split mitochondrion fragment with cristae, a short snapped filament, and a small irregular protein clump. Clearly biological debris, bold black contours and white spaces separating parts. Attached bold label JUNK PARTS. No garbage bin or other props."
+    },
+    {
+      "id": "fuel",
+      "subject": "One bold red flame-shaped ENERGY symbol with black contour, white inner flame and a compact small red lightning bolt inside. Attached bold label FUEL below. Clean health-explainer icon, not photoreal fire, no orange or yellow, no extra objects."
+    },
+    {
+      "id": "building-blocks",
+      "subject": "One compact group of three linked red structural building-block units, each a simple squared rounded biological bead with black contour and WHITE inset, joined by short black links. One piece is being slotted neatly into the linked chain, representing raw protein building blocks. Attached bold label BUILDING BLOCKS. No house, wall, toy branding, numbers or extra scene."
+    },
+    {
+      "id": "brainfog-guy",
+      "subject": "Full-body red stickman in red collared pajama shirt and trousers, short messy black hair. Confused squint, uneven raised brows, one hand at temple and other palm held upward questioning. A small semi-opaque WHITE cloud with heavy BLACK outline floats directly across upper forehead, partially obscuring hair but NOT covering eyes or mouth. Clear brain-fog metaphor, one cloud only. No text or extra props."
+    },
+    {
+      "id": "depuffed-guy",
+      "subject": "Full-body young red stickman with short messy BLACK hair, red pajama shirt with BLACK collar, pocket and cuff seam detail, red trousers, rounded feet. Refreshed confident open eyes, subtle asymmetrical pleased smile, both fingertips gently outline cheeks. Slim ROUND iconic face with normal non-puffy cheeks, straight relaxed posture, no unrealistic sharp human jaw or nose. No mirror, text or props."
+    },
+    {
+      "id": "relieved-joints",
+      "subject": "Full-body red stickman young adult in a red casual tracksuit with black seam accents. Balancing lightly on one foot while flexing the other knee and gently holding it with both hands, smiling with relaxed brows and relieved expression. Clear joint relief and easy movement without extreme athletic pose. Round iconic head, no human musculature. No pain marks, no text or other props."
+    },
+    {
+      "id": "garbage-cell",
+      "subject": "One compact red cellular-waste bin with black outline and white recycling mark, open top holding two broken red organelle fragments and a snapped filament. Biological waste components visibly different from household food trash. Attached bold label CELL WASTE. No person, no scene, no litter scattered outside."
+    },
+    {
+      "id": "repair-tools",
+      "subject": "One large biological red cell cross-section with clean white interior and intact nucleus; a small red wrench and small red screwdriver crossed neatly over its lower-right membrane edge, signaling repair. Attached bold label REPAIR MODE. Cell is biological, not human face. No background, no extra icons or arrows."
+    },
+    {
+      "id": "stem-cell",
+      "subject": "Single clean round biological stem cell with vivid red membrane, white cytoplasm, large red nucleus with black nucleolus, a few small organelles neatly spaced. Attached bold label STEM CELL directly below in black/red outlined lettering. Crisp educational schematic, no human face, no limbs, no arrows, no numbers."
+    },
+    {
+      "id": "dividing-cells",
+      "subject": "Two joined red biological daughter cells midway through division, a narrow central cleavage bridge connecting them, each with its own red nucleus and clean white interior. Horizontal arrangement with large clear membranes and minimal separated organelles. Attached bold label NEW CELLS below. No arrows, no extra third cell, no human faces."
+    },
+    {
+      "id": "deadbeat-cell",
+      "subject": "Single collapsed irregular red biological cell with wrinkled membrane, dark broken organelles and off-center nucleus inside white cytoplasm. A small simple black X mark is on a tag attached to the membrane, indicating a worn-out cell targeted for replacement. Attached bold label WORN-OUT CELL. No face, no gore, no green slime."
+    },
+    {
+      "id": "fresh-cell",
+      "subject": "Single healthy round red biological cell with smooth intact membrane, clean white interior, bright red nucleus and three neatly separated red organelles. Two tiny black/white four-point sparkle accents near membrane. Attached bold label HEALTHY CELL. No human face, no arrows, no numbers."
+    },
+    {
+      "id": "tight-skin-guy",
+      "subject": "Full-body bald red stickman in a red open-collar shirt over black undershirt, red trousers. One hand gently touches cheek with two fingertips, other rests on waist, proud refreshed asymmetric smile, lifted confident eyebrows, smooth perfectly ROUND face and upright stance. Clear confident smooth-skin acting, no realistic human anatomy, no mirror or text."
+    },
+    {
+      "id": "recovery-guy",
+      "subject": "Full-body red stickman in red sports jacket with black cuffs and red running trousers, one small WHITE bandage with black outline on forearm. Leaning forward beginning an easy jog, smiling relieved and energetic, one arm swings naturally while bandaged forearm visible. No crutches, no muscular human body, no floor or extra props."
+    },
+    {
+      "id": "gut-war",
+      "subject": "One standalone red stomach attached to a simplified coiled red intestine, white internal cutaway windows, BLACK contour. Inside the gut cutaway only, three small angry red spiky inflammatory particles clash with tiny black zigzag agitation marks. Attached bold label IRRITATED GUT. No soldiers, weapons, faces, fire, arrows or background."
+    },
+    {
+      "id": "jawlock-guy",
+      "subject": "Full-body red stickman young man with messy short black hair, red pajama shirt and trousers. Lips firmly closed with a small simple RED padlock icon placed over the closed mouth as an obvious metaphor, not a physical injury; one hand holds a small matching red key up beside face, other on waist. Raised eyebrow and mischievous knowing smirk in eyes. No wounds, no chains, no text, no background."
+    },
+    {
+      "id": "divine-guy",
+      "subject": "Full-body bald red stickman wearing red blazer over black shirt and red trousers. Looks upward with relaxed half-closed smiling eyes, broad grateful delighted smile, both open palms lifted to shoulder height. Three small WHITE four-point glints with BLACK outlines above open palms, expressing wonder and divine appreciation. No wings, halo, religious symbols, text or setting. Warm humorous stickman acting."
+    },
+    {
+      "id": "brain-clear-guy",
+      "intent": "precise edit",
+      "source": "brainfog-guy",
+      "subject": "Remove only cloud, restore hair, refresh same face; preserve exact pose/clothes/alpha."
+    }
+  ]
+}

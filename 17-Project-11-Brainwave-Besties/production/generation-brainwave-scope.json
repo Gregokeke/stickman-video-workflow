@@ -1,0 +1,11 @@
+{
+  "id": "brainwave-scope",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: electrical rhythms, called brain waves,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone thick red dual-channel oscilloscope/monitor, front view, TWO completely blank white long horizontal graph windows with a shared left border and simple ticks, no waveforms, numbers or clinical claims. Large BRAINWAVES label on casing. No human or brain.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/brainwave-scope.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-fe6d7e0d-ad4c-434b-8134-945d1ed27fe8.png"
+}

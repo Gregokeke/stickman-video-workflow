@@ -1,0 +1,2126 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.52,
+    "word": " Kiwis",
+    "probability": 0.9519873559474945
+  },
+  {
+    "start": 0.52,
+    "end": 0.7,
+    "word": " are",
+    "probability": 0.9923272728919983
+  },
+  {
+    "start": 0.7,
+    "end": 0.84,
+    "word": " the",
+    "probability": 0.9939765930175781
+  },
+  {
+    "start": 0.84,
+    "end": 1.02,
+    "word": " most",
+    "probability": 0.9975367784500122
+  },
+  {
+    "start": 1.02,
+    "end": 1.68,
+    "word": " underrated",
+    "probability": 0.9949672818183899
+  },
+  {
+    "start": 1.68,
+    "end": 2.06,
+    "word": " fruit",
+    "probability": 0.9956125020980835
+  },
+  {
+    "start": 2.06,
+    "end": 2.28,
+    "word": " for",
+    "probability": 0.993541955947876
+  },
+  {
+    "start": 2.28,
+    "end": 2.42,
+    "word": " your",
+    "probability": 0.9951521158218384
+  },
+  {
+    "start": 2.42,
+    "end": 2.76,
+    "word": " health,",
+    "probability": 0.9988190531730652
+  },
+  {
+    "start": 3.0,
+    "end": 3.12,
+    "word": " and",
+    "probability": 0.9711389541625977
+  },
+  {
+    "start": 3.12,
+    "end": 3.3,
+    "word": " it's",
+    "probability": 0.9717020690441132
+  },
+  {
+    "start": 3.3,
+    "end": 3.48,
+    "word": " not",
+    "probability": 0.9988241791725159
+  },
+  {
+    "start": 3.48,
+    "end": 3.7,
+    "word": " even",
+    "probability": 0.9917791485786438
+  },
+  {
+    "start": 3.7,
+    "end": 4.14,
+    "word": " close,",
+    "probability": 0.9964512586593628
+  },
+  {
+    "start": 4.9,
+    "end": 5.16,
+    "word": " even",
+    "probability": 0.983579695224762
+  },
+  {
+    "start": 5.16,
+    "end": 5.3,
+    "word": " if",
+    "probability": 0.9956568479537964
+  },
+  {
+    "start": 5.3,
+    "end": 5.46,
+    "word": " they",
+    "probability": 0.9943066239356995
+  },
+  {
+    "start": 5.46,
+    "end": 5.74,
+    "word": " look",
+    "probability": 0.9725685715675354
+  },
+  {
+    "start": 5.74,
+    "end": 5.96,
+    "word": " like",
+    "probability": 0.9969064593315125
+  },
+  {
+    "start": 5.96,
+    "end": 6.14,
+    "word": " a",
+    "probability": 0.986764132976532
+  },
+  {
+    "start": 6.14,
+    "end": 6.4,
+    "word": " shaved",
+    "probability": 0.9790969491004944
+  },
+  {
+    "start": 6.4,
+    "end": 6.96,
+    "word": " tarantula",
+    "probability": 0.9902928272883097
+  },
+  {
+    "start": 6.96,
+    "end": 7.38,
+    "word": " abdomen.",
+    "probability": 0.9980887770652771
+  },
+  {
+    "start": 8.12,
+    "end": 8.36,
+    "word": " Let's",
+    "probability": 0.9773682951927185
+  },
+  {
+    "start": 8.36,
+    "end": 8.5,
+    "word": " start",
+    "probability": 0.9977255463600159
+  },
+  {
+    "start": 8.5,
+    "end": 8.68,
+    "word": " with",
+    "probability": 0.9985448122024536
+  },
+  {
+    "start": 8.68,
+    "end": 8.84,
+    "word": " its",
+    "probability": 0.9578734040260315
+  },
+  {
+    "start": 8.84,
+    "end": 9.32,
+    "word": " nutrition.",
+    "probability": 0.997739315032959
+  },
+  {
+    "start": 9.72,
+    "end": 9.9,
+    "word": " Just",
+    "probability": 0.9928224682807922
+  },
+  {
+    "start": 9.9,
+    "end": 10.24,
+    "word": " two",
+    "probability": 0.9234629273414612
+  },
+  {
+    "start": 10.24,
+    "end": 10.72,
+    "word": " kiwis",
+    "probability": 0.8309258818626404
+  },
+  {
+    "start": 10.72,
+    "end": 11.26,
+    "word": " casually",
+    "probability": 0.9878736138343811
+  },
+  {
+    "start": 11.26,
+    "end": 11.76,
+    "word": " destroy",
+    "probability": 0.9965985417366028
+  },
+  {
+    "start": 11.76,
+    "end": 11.94,
+    "word": " an",
+    "probability": 0.9946289658546448
+  },
+  {
+    "start": 11.94,
+    "end": 12.4,
+    "word": " entire",
+    "probability": 0.9972743391990662
+  },
+  {
+    "start": 12.4,
+    "end": 12.86,
+    "word": " orange",
+    "probability": 0.9957690238952637
+  },
+  {
+    "start": 12.86,
+    "end": 13.08,
+    "word": " on",
+    "probability": 0.9954851865768433
+  },
+  {
+    "start": 13.08,
+    "end": 13.36,
+    "word": " vitamin",
+    "probability": 0.7316246032714844
+  },
+  {
+    "start": 13.36,
+    "end": 13.8,
+    "word": " C,",
+    "probability": 0.9023341536521912
+  },
+  {
+    "start": 14.12,
+    "end": 14.4,
+    "word": " although",
+    "probability": 0.9864618182182312
+  },
+  {
+    "start": 14.4,
+    "end": 14.66,
+    "word": " a",
+    "probability": 0.9821789860725403
+  },
+  {
+    "start": 14.66,
+    "end": 15.44,
+    "word": " 2v1",
+    "probability": 0.894487460454305
+  },
+  {
+    "start": 15.44,
+    "end": 15.8,
+    "word": " sounds",
+    "probability": 0.9832544922828674
+  },
+  {
+    "start": 15.8,
+    "end": 15.94,
+    "word": " a",
+    "probability": 0.9952972531318665
+  },
+  {
+    "start": 15.94,
+    "end": 16.14,
+    "word": " bit",
+    "probability": 0.9968987703323364
+  },
+  {
+    "start": 16.14,
+    "end": 16.62,
+    "word": " unfair.",
+    "probability": 0.999180257320404
+  },
+  {
+    "start": 17.06,
+    "end": 17.16,
+    "word": " You",
+    "probability": 0.9946834444999695
+  },
+  {
+    "start": 17.16,
+    "end": 17.28,
+    "word": " can",
+    "probability": 0.9914419054985046
+  },
+  {
+    "start": 17.28,
+    "end": 17.46,
+    "word": " also",
+    "probability": 0.9949911236763
+  },
+  {
+    "start": 17.46,
+    "end": 17.68,
+    "word": " get",
+    "probability": 0.9947752952575684
+  },
+  {
+    "start": 17.68,
+    "end": 18.18,
+    "word": " potassium",
+    "probability": 0.9908258318901062
+  },
+  {
+    "start": 18.18,
+    "end": 18.52,
+    "word": " so",
+    "probability": 0.8331385254859924
+  },
+  {
+    "start": 18.52,
+    "end": 18.66,
+    "word": " your",
+    "probability": 0.9875265955924988
+  },
+  {
+    "start": 18.66,
+    "end": 18.86,
+    "word": " heart",
+    "probability": 0.999415397644043
+  },
+  {
+    "start": 18.86,
+    "end": 19.18,
+    "word": " doesn't",
+    "probability": 0.9983632564544678
+  },
+  {
+    "start": 19.18,
+    "end": 19.36,
+    "word": " glitch",
+    "probability": 0.9799283742904663
+  },
+  {
+    "start": 19.36,
+    "end": 19.68,
+    "word": " out,",
+    "probability": 0.9970946311950684
+  },
+  {
+    "start": 20.0,
+    "end": 20.38,
+    "word": " folate",
+    "probability": 0.9917278289794922
+  },
+  {
+    "start": 20.38,
+    "end": 20.6,
+    "word": " to",
+    "probability": 0.9924747347831726
+  },
+  {
+    "start": 20.6,
+    "end": 20.84,
+    "word": " build",
+    "probability": 0.9986470341682434
+  },
+  {
+    "start": 20.84,
+    "end": 21.1,
+    "word": " fresh",
+    "probability": 0.9960852861404419
+  },
+  {
+    "start": 21.1,
+    "end": 21.58,
+    "word": " DNA,",
+    "probability": 0.9889068603515625
+  },
+  {
+    "start": 22.34,
+    "end": 22.34,
+    "word": " vitamin",
+    "probability": 0.8691461086273193
+  },
+  {
+    "start": 22.34,
+    "end": 22.72,
+    "word": " K",
+    "probability": 0.9593241810798645
+  },
+  {
+    "start": 22.72,
+    "end": 23.02,
+    "word": " so",
+    "probability": 0.9579007625579834
+  },
+  {
+    "start": 23.02,
+    "end": 23.16,
+    "word": " a",
+    "probability": 0.9953274726867676
+  },
+  {
+    "start": 23.16,
+    "end": 23.42,
+    "word": " paper",
+    "probability": 0.9930478930473328
+  },
+  {
+    "start": 23.42,
+    "end": 23.66,
+    "word": " cut",
+    "probability": 0.7571273446083069
+  },
+  {
+    "start": 23.66,
+    "end": 23.96,
+    "word": " doesn't",
+    "probability": 0.9965023398399353
+  },
+  {
+    "start": 23.96,
+    "end": 24.12,
+    "word": " make",
+    "probability": 0.9983851909637451
+  },
+  {
+    "start": 24.12,
+    "end": 24.3,
+    "word": " you",
+    "probability": 0.9993066787719727
+  },
+  {
+    "start": 24.3,
+    "end": 24.52,
+    "word": " bleed",
+    "probability": 0.9982346296310425
+  },
+  {
+    "start": 24.52,
+    "end": 24.84,
+    "word": " out,",
+    "probability": 0.9968664050102234
+  },
+  {
+    "start": 25.14,
+    "end": 25.24,
+    "word": " and",
+    "probability": 0.9973364472389221
+  },
+  {
+    "start": 25.24,
+    "end": 25.38,
+    "word": " the",
+    "probability": 0.9973902106285095
+  },
+  {
+    "start": 25.38,
+    "end": 25.8,
+    "word": " weirdest",
+    "probability": 0.9963394403457642
+  },
+  {
+    "start": 25.8,
+    "end": 25.94,
+    "word": " one",
+    "probability": 0.9918579459190369
+  },
+  {
+    "start": 25.94,
+    "end": 26.06,
+    "word": " of",
+    "probability": 0.9979121088981628
+  },
+  {
+    "start": 26.06,
+    "end": 26.34,
+    "word": " all,",
+    "probability": 0.9992904663085938
+  },
+  {
+    "start": 26.84,
+    "end": 27.08,
+    "word": " vitamin",
+    "probability": 0.9340815544128418
+  },
+  {
+    "start": 27.08,
+    "end": 27.56,
+    "word": " E.",
+    "probability": 0.9911485910415649
+  },
+  {
+    "start": 28.36,
+    "end": 28.92,
+    "word": " Almost",
+    "probability": 0.3739551901817322
+  },
+  {
+    "start": 28.92,
+    "end": 29.48,
+    "word": " zero",
+    "probability": 0.9007745385169983
+  },
+  {
+    "start": 29.48,
+    "end": 29.94,
+    "word": " fruits",
+    "probability": 0.9402692914009094
+  },
+  {
+    "start": 29.94,
+    "end": 30.16,
+    "word": " have",
+    "probability": 0.9940441250801086
+  },
+  {
+    "start": 30.16,
+    "end": 30.48,
+    "word": " vitamin",
+    "probability": 0.7873220443725586
+  },
+  {
+    "start": 30.48,
+    "end": 30.78,
+    "word": " E",
+    "probability": 0.9577919244766235
+  },
+  {
+    "start": 30.78,
+    "end": 31.1,
+    "word": " because",
+    "probability": 0.7933436632156372
+  },
+  {
+    "start": 31.1,
+    "end": 31.3,
+    "word": " it's",
+    "probability": 0.978370189666748
+  },
+  {
+    "start": 31.3,
+    "end": 31.42,
+    "word": " a",
+    "probability": 0.9934461712837219
+  },
+  {
+    "start": 31.42,
+    "end": 31.66,
+    "word": " fat",
+    "probability": 0.9977599382400513
+  },
+  {
+    "start": 31.66,
+    "end": 32.12,
+    "word": "-soluble",
+    "probability": 0.8756218751271566
+  },
+  {
+    "start": 32.12,
+    "end": 32.72,
+    "word": " antioxidant",
+    "probability": 0.9907419085502625
+  },
+  {
+    "start": 32.72,
+    "end": 33.12,
+    "word": " that",
+    "probability": 0.9799750447273254
+  },
+  {
+    "start": 33.12,
+    "end": 33.44,
+    "word": " protects",
+    "probability": 0.9975640773773193
+  },
+  {
+    "start": 33.44,
+    "end": 33.66,
+    "word": " your",
+    "probability": 0.9958920478820801
+  },
+  {
+    "start": 33.66,
+    "end": 33.94,
+    "word": " cell",
+    "probability": 0.9972097277641296
+  },
+  {
+    "start": 33.94,
+    "end": 34.34,
+    "word": " membranes",
+    "probability": 0.9963226318359375
+  },
+  {
+    "start": 34.34,
+    "end": 34.64,
+    "word": " from",
+    "probability": 0.9974732995033264
+  },
+  {
+    "start": 34.64,
+    "end": 35.08,
+    "word": " rusting",
+    "probability": 0.9916127324104309
+  },
+  {
+    "start": 35.08,
+    "end": 35.2,
+    "word": " to",
+    "probability": 0.9983484745025635
+  },
+  {
+    "start": 35.2,
+    "end": 35.48,
+    "word": " death,",
+    "probability": 0.9996212720870972
+  },
+  {
+    "start": 35.76,
+    "end": 35.84,
+    "word": " and",
+    "probability": 0.9893746376037598
+  },
+  {
+    "start": 35.84,
+    "end": 36.18,
+    "word": " fruit",
+    "probability": 0.9953045845031738
+  },
+  {
+    "start": 36.18,
+    "end": 36.54,
+    "word": " usually",
+    "probability": 0.9955899715423584
+  },
+  {
+    "start": 36.54,
+    "end": 36.84,
+    "word": " has",
+    "probability": 0.9981045722961426
+  },
+  {
+    "start": 36.84,
+    "end": 37.06,
+    "word": " no",
+    "probability": 0.9985076785087585
+  },
+  {
+    "start": 37.06,
+    "end": 37.4,
+    "word": " fat.",
+    "probability": 0.9983190894126892
+  },
+  {
+    "start": 37.74,
+    "end": 37.84,
+    "word": " But",
+    "probability": 0.9767366647720337
+  },
+  {
+    "start": 37.84,
+    "end": 38.24,
+    "word": " kiwis",
+    "probability": 0.9370099504788717
+  },
+  {
+    "start": 38.24,
+    "end": 38.6,
+    "word": " cheat",
+    "probability": 0.9985520243644714
+  },
+  {
+    "start": 38.6,
+    "end": 38.82,
+    "word": " the",
+    "probability": 0.9963488578796387
+  },
+  {
+    "start": 38.82,
+    "end": 39.18,
+    "word": " system",
+    "probability": 0.9993475079536438
+  },
+  {
+    "start": 39.18,
+    "end": 39.4,
+    "word": " by",
+    "probability": 0.9961775541305542
+  },
+  {
+    "start": 39.4,
+    "end": 39.76,
+    "word": " packing",
+    "probability": 0.9977161884307861
+  },
+  {
+    "start": 39.76,
+    "end": 40.22,
+    "word": " natural",
+    "probability": 0.9970169067382812
+  },
+  {
+    "start": 40.22,
+    "end": 40.62,
+    "word": " oils",
+    "probability": 0.9985878467559814
+  },
+  {
+    "start": 40.62,
+    "end": 40.98,
+    "word": " inside",
+    "probability": 0.9939841628074646
+  },
+  {
+    "start": 40.98,
+    "end": 41.2,
+    "word": " those",
+    "probability": 0.9926286935806274
+  },
+  {
+    "start": 41.2,
+    "end": 41.6,
+    "word": " tiny",
+    "probability": 0.9987382292747498
+  },
+  {
+    "start": 41.6,
+    "end": 41.92,
+    "word": " black",
+    "probability": 0.943978488445282
+  },
+  {
+    "start": 41.92,
+    "end": 42.3,
+    "word": " seeds",
+    "probability": 0.9973841309547424
+  },
+  {
+    "start": 42.3,
+    "end": 42.48,
+    "word": " you",
+    "probability": 0.9968478083610535
+  },
+  {
+    "start": 42.48,
+    "end": 42.7,
+    "word": " crunch",
+    "probability": 0.9906067848205566
+  },
+  {
+    "start": 42.7,
+    "end": 43.14,
+    "word": " on.",
+    "probability": 0.9986467957496643
+  },
+  {
+    "start": 44.22,
+    "end": 44.34,
+    "word": " And",
+    "probability": 0.8659400343894958
+  },
+  {
+    "start": 44.34,
+    "end": 44.54,
+    "word": " then",
+    "probability": 0.9918501377105713
+  },
+  {
+    "start": 44.54,
+    "end": 44.82,
+    "word": " there's",
+    "probability": 0.9756018221378326
+  },
+  {
+    "start": 44.82,
+    "end": 44.98,
+    "word": " your",
+    "probability": 0.9967983365058899
+  },
+  {
+    "start": 44.98,
+    "end": 45.44,
+    "word": " tragic",
+    "probability": 0.9973709583282471
+  },
+  {
+    "start": 45.44,
+    "end": 45.86,
+    "word": " gut.",
+    "probability": 0.9979212880134583
+  },
+  {
+    "start": 46.46,
+    "end": 46.58,
+    "word": " Two",
+    "probability": 0.9377097487449646
+  },
+  {
+    "start": 46.58,
+    "end": 47.06,
+    "word": " kiwis",
+    "probability": 0.9485934178034464
+  },
+  {
+    "start": 47.06,
+    "end": 47.22,
+    "word": " give",
+    "probability": 0.9942091703414917
+  },
+  {
+    "start": 47.22,
+    "end": 47.36,
+    "word": " you",
+    "probability": 0.9949530363082886
+  },
+  {
+    "start": 47.36,
+    "end": 47.58,
+    "word": " about",
+    "probability": 0.9973725080490112
+  },
+  {
+    "start": 47.58,
+    "end": 47.96,
+    "word": " 4",
+    "probability": 0.44539201259613037
+  },
+  {
+    "start": 47.96,
+    "end": 48.18,
+    "word": " grams",
+    "probability": 0.92887282371521
+  },
+  {
+    "start": 48.18,
+    "end": 48.46,
+    "word": " of",
+    "probability": 0.9989184141159058
+  },
+  {
+    "start": 48.46,
+    "end": 48.78,
+    "word": " fiber,",
+    "probability": 0.9803646802902222
+  },
+  {
+    "start": 48.96,
+    "end": 49.12,
+    "word": " which",
+    "probability": 0.9973983764648438
+  },
+  {
+    "start": 49.12,
+    "end": 49.36,
+    "word": " holds",
+    "probability": 0.9906874299049377
+  },
+  {
+    "start": 49.36,
+    "end": 49.58,
+    "word": " onto",
+    "probability": 0.8099023103713989
+  },
+  {
+    "start": 49.58,
+    "end": 49.82,
+    "word": " water",
+    "probability": 0.9911780953407288
+  },
+  {
+    "start": 49.82,
+    "end": 50.04,
+    "word": " like",
+    "probability": 0.9951629638671875
+  },
+  {
+    "start": 50.04,
+    "end": 50.16,
+    "word": " a",
+    "probability": 0.9993206262588501
+  },
+  {
+    "start": 50.16,
+    "end": 50.5,
+    "word": " sponge",
+    "probability": 0.9987488985061646
+  },
+  {
+    "start": 50.5,
+    "end": 50.82,
+    "word": " to",
+    "probability": 0.8913071155548096
+  },
+  {
+    "start": 50.82,
+    "end": 51.1,
+    "word": " sweep",
+    "probability": 0.9967936873435974
+  },
+  {
+    "start": 51.1,
+    "end": 51.3,
+    "word": " your",
+    "probability": 0.997700035572052
+  },
+  {
+    "start": 51.3,
+    "end": 51.84,
+    "word": " intestines",
+    "probability": 0.9973258972167969
+  },
+  {
+    "start": 51.84,
+    "end": 52.22,
+    "word": " clean.",
+    "probability": 0.9992233514785767
+  },
+  {
+    "start": 52.56,
+    "end": 52.68,
+    "word": " And",
+    "probability": 0.981013834476471
+  },
+  {
+    "start": 52.68,
+    "end": 52.78,
+    "word": " in",
+    "probability": 0.9803206920623779
+  },
+  {
+    "start": 52.78,
+    "end": 52.9,
+    "word": " a",
+    "probability": 0.9943494200706482
+  },
+  {
+    "start": 52.9,
+    "end": 53.08,
+    "word": " world",
+    "probability": 0.9989936947822571
+  },
+  {
+    "start": 53.08,
+    "end": 53.3,
+    "word": " where",
+    "probability": 0.9895119071006775
+  },
+  {
+    "start": 53.3,
+    "end": 53.72,
+    "word": " 95",
+    "probability": 0.9843534827232361
+  },
+  {
+    "start": 53.72,
+    "end": 54.16,
+    "word": "%",
+    "probability": 0.9100138545036316
+  },
+  {
+    "start": 54.16,
+    "end": 54.38,
+    "word": " of",
+    "probability": 0.9924671053886414
+  },
+  {
+    "start": 54.38,
+    "end": 54.58,
+    "word": " people",
+    "probability": 0.9746776223182678
+  },
+  {
+    "start": 54.58,
+    "end": 54.78,
+    "word": " in",
+    "probability": 0.998484194278717
+  },
+  {
+    "start": 54.78,
+    "end": 54.88,
+    "word": " the",
+    "probability": 0.9988598823547363
+  },
+  {
+    "start": 54.88,
+    "end": 55.08,
+    "word": " west",
+    "probability": 0.3413965106010437
+  },
+  {
+    "start": 55.08,
+    "end": 55.34,
+    "word": " are",
+    "probability": 0.9978037476539612
+  },
+  {
+    "start": 55.34,
+    "end": 55.74,
+    "word": " critically",
+    "probability": 0.9983129501342773
+  },
+  {
+    "start": 55.74,
+    "end": 56.22,
+    "word": " deficient",
+    "probability": 0.9976358413696289
+  },
+  {
+    "start": 56.22,
+    "end": 56.48,
+    "word": " in",
+    "probability": 0.4102088510990143
+  },
+  {
+    "start": 56.48,
+    "end": 56.78,
+    "word": " fiber",
+    "probability": 0.8943139910697937
+  },
+  {
+    "start": 56.78,
+    "end": 57.16,
+    "word": " because",
+    "probability": 0.9520286321640015
+  },
+  {
+    "start": 57.16,
+    "end": 57.34,
+    "word": " they",
+    "probability": 0.9967909455299377
+  },
+  {
+    "start": 57.34,
+    "end": 57.68,
+    "word": " survive",
+    "probability": 0.9901504516601562
+  },
+  {
+    "start": 57.68,
+    "end": 57.9,
+    "word": " on",
+    "probability": 0.993996262550354
+  },
+  {
+    "start": 57.9,
+    "end": 58.34,
+    "word": " beige",
+    "probability": 0.9852267801761627
+  },
+  {
+    "start": 58.34,
+    "end": 59.0,
+    "word": "-processed",
+    "probability": 0.7621891498565674
+  },
+  {
+    "start": 59.0,
+    "end": 59.26,
+    "word": " garbage,",
+    "probability": 0.9925435781478882
+  },
+  {
+    "start": 59.6,
+    "end": 59.74,
+    "word": " this",
+    "probability": 0.9767508506774902
+  },
+  {
+    "start": 59.74,
+    "end": 60.2,
+    "word": " actually",
+    "probability": 0.9984115362167358
+  },
+  {
+    "start": 60.2,
+    "end": 60.66,
+    "word": " matters.",
+    "probability": 0.9985034465789795
+  },
+  {
+    "start": 61.56,
+    "end": 61.56,
+    "word": " In",
+    "probability": 0.5692406296730042
+  },
+  {
+    "start": 61.56,
+    "end": 61.84,
+    "word": " fact,",
+    "probability": 0.9991136193275452
+  },
+  {
+    "start": 62.14,
+    "end": 62.18,
+    "word": " a",
+    "probability": 0.9787111878395081
+  },
+  {
+    "start": 62.18,
+    "end": 62.64,
+    "word": " randomized",
+    "probability": 0.9777858853340149
+  },
+  {
+    "start": 62.64,
+    "end": 63.1,
+    "word": " controlled",
+    "probability": 0.9259885549545288
+  },
+  {
+    "start": 63.1,
+    "end": 63.58,
+    "word": " trial,",
+    "probability": 0.9947861433029175
+  },
+  {
+    "start": 63.88,
+    "end": 63.96,
+    "word": " the",
+    "probability": 0.9682029485702515
+  },
+  {
+    "start": 63.96,
+    "end": 64.2,
+    "word": " gold",
+    "probability": 0.8766338229179382
+  },
+  {
+    "start": 64.2,
+    "end": 64.6,
+    "word": " standard",
+    "probability": 0.9879322648048401
+  },
+  {
+    "start": 64.6,
+    "end": 64.8,
+    "word": " of",
+    "probability": 0.996771514415741
+  },
+  {
+    "start": 64.8,
+    "end": 65.06,
+    "word": " clinical",
+    "probability": 0.9811902046203613
+  },
+  {
+    "start": 65.06,
+    "end": 65.56,
+    "word": " science,",
+    "probability": 0.9981589913368225
+  },
+  {
+    "start": 65.84,
+    "end": 65.98,
+    "word": " found",
+    "probability": 0.9953765869140625
+  },
+  {
+    "start": 65.98,
+    "end": 66.16,
+    "word": " that",
+    "probability": 0.9935491681098938
+  },
+  {
+    "start": 66.16,
+    "end": 66.34,
+    "word": " eating",
+    "probability": 0.9986863732337952
+  },
+  {
+    "start": 66.34,
+    "end": 66.68,
+    "word": " two",
+    "probability": 0.893404483795166
+  },
+  {
+    "start": 66.68,
+    "end": 67.04,
+    "word": " kiwis",
+    "probability": 0.9588464498519897
+  },
+  {
+    "start": 67.04,
+    "end": 67.2,
+    "word": " a",
+    "probability": 0.9957147240638733
+  },
+  {
+    "start": 67.2,
+    "end": 67.38,
+    "word": " day",
+    "probability": 0.9995452761650085
+  },
+  {
+    "start": 67.38,
+    "end": 67.94,
+    "word": " significantly",
+    "probability": 0.9943557977676392
+  },
+  {
+    "start": 67.94,
+    "end": 68.6,
+    "word": " fixes",
+    "probability": 0.9955748319625854
+  },
+  {
+    "start": 68.6,
+    "end": 69.32,
+    "word": " constipation",
+    "probability": 0.9959575831890106
+  },
+  {
+    "start": 69.32,
+    "end": 69.6,
+    "word": " and",
+    "probability": 0.9953540563583374
+  },
+  {
+    "start": 69.6,
+    "end": 69.98,
+    "word": " abdominal",
+    "probability": 0.9994320273399353
+  },
+  {
+    "start": 69.98,
+    "end": 70.46,
+    "word": " comfort,",
+    "probability": 0.9979148507118225
+  },
+  {
+    "start": 70.68,
+    "end": 70.88,
+    "word": " so",
+    "probability": 0.9897788166999817
+  },
+  {
+    "start": 70.88,
+    "end": 71.0,
+    "word": " you",
+    "probability": 0.9941178560256958
+  },
+  {
+    "start": 71.0,
+    "end": 71.14,
+    "word": " don't",
+    "probability": 0.9976674020290375
+  },
+  {
+    "start": 71.14,
+    "end": 71.34,
+    "word": " spend",
+    "probability": 0.996155321598053
+  },
+  {
+    "start": 71.34,
+    "end": 71.74,
+    "word": " 40",
+    "probability": 0.876426100730896
+  },
+  {
+    "start": 71.74,
+    "end": 72.0,
+    "word": " minutes",
+    "probability": 0.9940270185470581
+  },
+  {
+    "start": 72.0,
+    "end": 72.18,
+    "word": " on",
+    "probability": 0.9978740215301514
+  },
+  {
+    "start": 72.18,
+    "end": 72.32,
+    "word": " the",
+    "probability": 0.9964472651481628
+  },
+  {
+    "start": 72.32,
+    "end": 72.7,
+    "word": " toilet",
+    "probability": 0.9993724226951599
+  },
+  {
+    "start": 72.7,
+    "end": 73.06,
+    "word": " praying",
+    "probability": 0.8435527086257935
+  },
+  {
+    "start": 73.06,
+    "end": 73.3,
+    "word": " to",
+    "probability": 0.9975550770759583
+  },
+  {
+    "start": 73.3,
+    "end": 73.44,
+    "word": " a",
+    "probability": 0.9970459342002869
+  },
+  {
+    "start": 73.44,
+    "end": 73.64,
+    "word": " higher",
+    "probability": 0.9988516569137573
+  },
+  {
+    "start": 73.64,
+    "end": 74.14,
+    "word": " power.",
+    "probability": 0.9989558458328247
+  },
+  {
+    "start": 75.34,
+    "end": 75.46,
+    "word": " And",
+    "probability": 0.8448483943939209
+  },
+  {
+    "start": 75.46,
+    "end": 75.84,
+    "word": " sleep",
+    "probability": 0.991524875164032
+  },
+  {
+    "start": 75.84,
+    "end": 76.16,
+    "word": " is",
+    "probability": 0.9968745708465576
+  },
+  {
+    "start": 76.16,
+    "end": 76.3,
+    "word": " the",
+    "probability": 0.9987655878067017
+  },
+  {
+    "start": 76.3,
+    "end": 76.48,
+    "word": " most",
+    "probability": 0.9986722469329834
+  },
+  {
+    "start": 76.48,
+    "end": 77.1,
+    "word": " underrated",
+    "probability": 0.9947070479393005
+  },
+  {
+    "start": 77.1,
+    "end": 77.48,
+    "word": " perk",
+    "probability": 0.9993440508842468
+  },
+  {
+    "start": 77.48,
+    "end": 77.64,
+    "word": " of",
+    "probability": 0.9985540509223938
+  },
+  {
+    "start": 77.64,
+    "end": 77.94,
+    "word": " all.",
+    "probability": 0.9994856119155884
+  },
+  {
+    "start": 78.32,
+    "end": 78.48,
+    "word": " Eating",
+    "probability": 0.9368889927864075
+  },
+  {
+    "start": 78.48,
+    "end": 78.8,
+    "word": " two",
+    "probability": 0.9937722086906433
+  },
+  {
+    "start": 78.8,
+    "end": 79.22,
+    "word": " kiwis",
+    "probability": 0.9623029629389445
+  },
+  {
+    "start": 79.22,
+    "end": 79.52,
+    "word": " before",
+    "probability": 0.996528685092926
+  },
+  {
+    "start": 79.52,
+    "end": 79.8,
+    "word": " bed",
+    "probability": 0.9991790652275085
+  },
+  {
+    "start": 79.8,
+    "end": 80.02,
+    "word": " is",
+    "probability": 0.9969246983528137
+  },
+  {
+    "start": 80.02,
+    "end": 80.42,
+    "word": " clinically",
+    "probability": 0.9986594915390015
+  },
+  {
+    "start": 80.42,
+    "end": 80.9,
+    "word": " proven",
+    "probability": 0.9957127571105957
+  },
+  {
+    "start": 80.9,
+    "end": 81.14,
+    "word": " to",
+    "probability": 0.9986560344696045
+  },
+  {
+    "start": 81.14,
+    "end": 81.52,
+    "word": " upgrade",
+    "probability": 0.9950459003448486
+  },
+  {
+    "start": 81.52,
+    "end": 81.72,
+    "word": " your",
+    "probability": 0.9979522228240967
+  },
+  {
+    "start": 81.72,
+    "end": 81.98,
+    "word": " sleep",
+    "probability": 0.9991862177848816
+  },
+  {
+    "start": 81.98,
+    "end": 82.38,
+    "word": " quality",
+    "probability": 0.9976751208305359
+  },
+  {
+    "start": 82.38,
+    "end": 82.6,
+    "word": " by",
+    "probability": 0.997717022895813
+  },
+  {
+    "start": 82.6,
+    "end": 83.0,
+    "word": " boosting",
+    "probability": 0.9986600875854492
+  },
+  {
+    "start": 83.0,
+    "end": 83.54,
+    "word": " serotonin.",
+    "probability": 0.5563330054283142
+  },
+  {
+    "start": 83.86,
+    "end": 84.02,
+    "word": " The",
+    "probability": 0.9637189507484436
+  },
+  {
+    "start": 84.02,
+    "end": 84.26,
+    "word": " brain",
+    "probability": 0.9948175549507141
+  },
+  {
+    "start": 84.26,
+    "end": 84.62,
+    "word": " chemical,",
+    "probability": 0.9755208492279053
+  },
+  {
+    "start": 84.82,
+    "end": 84.88,
+    "word": " your",
+    "probability": 0.9853454232215881
+  },
+  {
+    "start": 84.88,
+    "end": 85.34,
+    "word": " pineal",
+    "probability": 0.9915317595005035
+  },
+  {
+    "start": 85.34,
+    "end": 85.6,
+    "word": " gland,",
+    "probability": 0.9994707703590393
+  },
+  {
+    "start": 85.66,
+    "end": 86.02,
+    "word": " directly",
+    "probability": 0.9954361319541931
+  },
+  {
+    "start": 86.02,
+    "end": 86.48,
+    "word": " converts",
+    "probability": 0.9976523518562317
+  },
+  {
+    "start": 86.48,
+    "end": 86.82,
+    "word": " into",
+    "probability": 0.9948475360870361
+  },
+  {
+    "start": 86.82,
+    "end": 87.38,
+    "word": " melatonin,",
+    "probability": 0.9850957989692688
+  },
+  {
+    "start": 87.64,
+    "end": 87.74,
+    "word": " your",
+    "probability": 0.994246780872345
+  },
+  {
+    "start": 87.74,
+    "end": 87.98,
+    "word": " main",
+    "probability": 0.996533989906311
+  },
+  {
+    "start": 87.98,
+    "end": 88.28,
+    "word": " sleep",
+    "probability": 0.9976220726966858
+  },
+  {
+    "start": 88.28,
+    "end": 88.66,
+    "word": " hormone.",
+    "probability": 0.9985877275466919
+  },
+  {
+    "start": 88.96,
+    "end": 89.1,
+    "word": " So",
+    "probability": 0.9774856567382812
+  },
+  {
+    "start": 89.1,
+    "end": 89.2,
+    "word": " you",
+    "probability": 0.8944535255432129
+  },
+  {
+    "start": 89.2,
+    "end": 89.54,
+    "word": " actually",
+    "probability": 0.9868313074111938
+  },
+  {
+    "start": 89.54,
+    "end": 89.86,
+    "word": " pass",
+    "probability": 0.9918195009231567
+  },
+  {
+    "start": 89.86,
+    "end": 90.22,
+    "word": " out",
+    "probability": 0.9981445074081421
+  },
+  {
+    "start": 90.22,
+    "end": 90.5,
+    "word": " instead",
+    "probability": 0.8645400404930115
+  },
+  {
+    "start": 90.5,
+    "end": 90.66,
+    "word": " of",
+    "probability": 0.9988742470741272
+  },
+  {
+    "start": 90.66,
+    "end": 91.0,
+    "word": " staring",
+    "probability": 0.99539715051651
+  },
+  {
+    "start": 91.0,
+    "end": 91.2,
+    "word": " at",
+    "probability": 0.9987459182739258
+  },
+  {
+    "start": 91.2,
+    "end": 91.3,
+    "word": " the",
+    "probability": 0.9989288449287415
+  },
+  {
+    "start": 91.3,
+    "end": 91.7,
+    "word": " ceiling",
+    "probability": 0.999339759349823
+  },
+  {
+    "start": 91.7,
+    "end": 92.0,
+    "word": " until",
+    "probability": 0.9920624494552612
+  },
+  {
+    "start": 92.0,
+    "end": 92.38,
+    "word": " 3",
+    "probability": 0.9220589995384216
+  },
+  {
+    "start": 92.38,
+    "end": 92.7,
+    "word": " am.",
+    "probability": 0.1426120400428772
+  },
+  {
+    "start": 93.32,
+    "end": 93.54,
+    "word": " Plus,",
+    "probability": 0.981135904788971
+  },
+  {
+    "start": 93.8,
+    "end": 93.98,
+    "word": " two",
+    "probability": 0.8901243805885315
+  },
+  {
+    "start": 93.98,
+    "end": 94.34,
+    "word": " kiwis",
+    "probability": 0.94501131772995
+  },
+  {
+    "start": 94.34,
+    "end": 94.54,
+    "word": " are",
+    "probability": 0.991942286491394
+  },
+  {
+    "start": 94.54,
+    "end": 94.66,
+    "word": " one",
+    "probability": 0.9951116442680359
+  },
+  {
+    "start": 94.66,
+    "end": 94.78,
+    "word": " of",
+    "probability": 0.9958683252334595
+  },
+  {
+    "start": 94.78,
+    "end": 94.9,
+    "word": " the",
+    "probability": 0.9980295300483704
+  },
+  {
+    "start": 94.9,
+    "end": 95.16,
+    "word": " best",
+    "probability": 0.9981527924537659
+  },
+  {
+    "start": 95.16,
+    "end": 95.46,
+    "word": " pre",
+    "probability": 0.9932520985603333
+  },
+  {
+    "start": 95.46,
+    "end": 95.84,
+    "word": "-workout",
+    "probability": 0.9707033832867941
+  },
+  {
+    "start": 95.84,
+    "end": 96.08,
+    "word": " snacks",
+    "probability": 0.9974984526634216
+  },
+  {
+    "start": 96.08,
+    "end": 96.32,
+    "word": " on",
+    "probability": 0.9986799359321594
+  },
+  {
+    "start": 96.32,
+    "end": 96.44,
+    "word": " the",
+    "probability": 0.9987086057662964
+  },
+  {
+    "start": 96.44,
+    "end": 96.76,
+    "word": " planet.",
+    "probability": 0.9986909031867981
+  },
+  {
+    "start": 97.08,
+    "end": 97.2,
+    "word": " They",
+    "probability": 0.9934688806533813
+  },
+  {
+    "start": 97.2,
+    "end": 97.34,
+    "word": " give",
+    "probability": 0.9986960291862488
+  },
+  {
+    "start": 97.34,
+    "end": 97.5,
+    "word": " you",
+    "probability": 0.9977419376373291
+  },
+  {
+    "start": 97.5,
+    "end": 97.76,
+    "word": " fast",
+    "probability": 0.997664213180542
+  },
+  {
+    "start": 97.76,
+    "end": 98.0,
+    "word": "-burning",
+    "probability": 0.8585542440414429
+  },
+  {
+    "start": 98.0,
+    "end": 98.5,
+    "word": " carbs,",
+    "probability": 0.9970307350158691
+  },
+  {
+    "start": 98.86,
+    "end": 99.08,
+    "word": " steady",
+    "probability": 0.9967384934425354
+  },
+  {
+    "start": 99.08,
+    "end": 99.5,
+    "word": " fiber,",
+    "probability": 0.9693952798843384
+  },
+  {
+    "start": 99.72,
+    "end": 99.82,
+    "word": " and",
+    "probability": 0.9967251420021057
+  },
+  {
+    "start": 99.82,
+    "end": 99.96,
+    "word": " a",
+    "probability": 0.9907234311103821
+  },
+  {
+    "start": 99.96,
+    "end": 100.32,
+    "word": " natural",
+    "probability": 0.9971562623977661
+  },
+  {
+    "start": 100.32,
+    "end": 100.78,
+    "word": " digestive",
+    "probability": 0.9809848070144653
+  },
+  {
+    "start": 100.78,
+    "end": 101.28,
+    "word": " enzyme",
+    "probability": 0.9913884997367859
+  },
+  {
+    "start": 101.28,
+    "end": 101.6,
+    "word": " called",
+    "probability": 0.9842804670333862
+  },
+  {
+    "start": 101.6,
+    "end": 102.28,
+    "word": " actinidin,",
+    "probability": 0.8861509263515472
+  },
+  {
+    "start": 102.52,
+    "end": 102.64,
+    "word": " which",
+    "probability": 0.9946600794792175
+  },
+  {
+    "start": 102.64,
+    "end": 102.9,
+    "word": " acts",
+    "probability": 0.9980053305625916
+  },
+  {
+    "start": 102.9,
+    "end": 103.16,
+    "word": " like",
+    "probability": 0.9990346431732178
+  },
+  {
+    "start": 103.16,
+    "end": 103.48,
+    "word": " chemical",
+    "probability": 0.989028811454773
+  },
+  {
+    "start": 103.48,
+    "end": 103.9,
+    "word": " scissors",
+    "probability": 0.9952282905578613
+  },
+  {
+    "start": 103.9,
+    "end": 104.16,
+    "word": " in",
+    "probability": 0.9974361062049866
+  },
+  {
+    "start": 104.16,
+    "end": 104.26,
+    "word": " your",
+    "probability": 0.9989460110664368
+  },
+  {
+    "start": 104.26,
+    "end": 104.58,
+    "word": " stomach",
+    "probability": 0.9997873902320862
+  },
+  {
+    "start": 104.58,
+    "end": 104.84,
+    "word": " to",
+    "probability": 0.9924516081809998
+  },
+  {
+    "start": 104.84,
+    "end": 105.1,
+    "word": " chop",
+    "probability": 0.9964266419410706
+  },
+  {
+    "start": 105.1,
+    "end": 105.26,
+    "word": " up",
+    "probability": 0.9963809847831726
+  },
+  {
+    "start": 105.26,
+    "end": 105.5,
+    "word": " heavy",
+    "probability": 0.9962512850761414
+  },
+  {
+    "start": 105.5,
+    "end": 106.02,
+    "word": " proteins,",
+    "probability": 0.9956843852996826
+  },
+  {
+    "start": 106.34,
+    "end": 106.56,
+    "word": " so",
+    "probability": 0.9878982901573181
+  },
+  {
+    "start": 106.56,
+    "end": 106.9,
+    "word": " whatever",
+    "probability": 0.9810536503791809
+  },
+  {
+    "start": 106.9,
+    "end": 107.14,
+    "word": " meal",
+    "probability": 0.9986565113067627
+  },
+  {
+    "start": 107.14,
+    "end": 107.34,
+    "word": " you",
+    "probability": 0.994793713092804
+  },
+  {
+    "start": 107.34,
+    "end": 107.5,
+    "word": " eat",
+    "probability": 0.9989485144615173
+  },
+  {
+    "start": 107.5,
+    "end": 107.72,
+    "word": " after",
+    "probability": 0.9993889331817627
+  },
+  {
+    "start": 107.72,
+    "end": 108.16,
+    "word": " training",
+    "probability": 0.9983727931976318
+  },
+  {
+    "start": 108.16,
+    "end": 108.68,
+    "word": " doesn't",
+    "probability": 0.8523392677307129
+  },
+  {
+    "start": 108.68,
+    "end": 108.78,
+    "word": " sit",
+    "probability": 0.986143171787262
+  },
+  {
+    "start": 108.78,
+    "end": 108.92,
+    "word": " in",
+    "probability": 0.9932208061218262
+  },
+  {
+    "start": 108.92,
+    "end": 109.04,
+    "word": " your",
+    "probability": 0.9949420094490051
+  },
+  {
+    "start": 109.04,
+    "end": 109.32,
+    "word": " gut",
+    "probability": 0.9973400235176086
+  },
+  {
+    "start": 109.32,
+    "end": 109.5,
+    "word": " like",
+    "probability": 0.9951784610748291
+  },
+  {
+    "start": 109.5,
+    "end": 109.66,
+    "word": " a",
+    "probability": 0.9949349761009216
+  },
+  {
+    "start": 109.66,
+    "end": 109.86,
+    "word": " wet",
+    "probability": 0.99857497215271
+  },
+  {
+    "start": 109.86,
+    "end": 110.28,
+    "word": " brick.",
+    "probability": 0.9947803616523743
+  },
+  {
+    "start": 110.82,
+    "end": 110.96,
+    "word": " They're",
+    "probability": 0.9775448441505432
+  },
+  {
+    "start": 110.96,
+    "end": 111.18,
+    "word": " dirt",
+    "probability": 0.9981348514556885
+  },
+  {
+    "start": 111.18,
+    "end": 111.56,
+    "word": " cheap,",
+    "probability": 0.9284681677818298
+  },
+  {
+    "start": 111.88,
+    "end": 112.0,
+    "word": " sitting",
+    "probability": 0.9965112805366516
+  },
+  {
+    "start": 112.0,
+    "end": 112.22,
+    "word": " in",
+    "probability": 0.9910879731178284
+  },
+  {
+    "start": 112.22,
+    "end": 112.56,
+    "word": " every",
+    "probability": 0.9924951791763306
+  },
+  {
+    "start": 112.56,
+    "end": 112.88,
+    "word": " grocery",
+    "probability": 0.9988628625869751
+  },
+  {
+    "start": 112.88,
+    "end": 113.32,
+    "word": " store,",
+    "probability": 0.9973335266113281
+  },
+  {
+    "start": 113.66,
+    "end": 113.78,
+    "word": " and",
+    "probability": 0.9948273301124573
+  },
+  {
+    "start": 113.78,
+    "end": 114.14,
+    "word": " nobody",
+    "probability": 0.9913881421089172
+  },
+  {
+    "start": 114.14,
+    "end": 114.5,
+    "word": " talks",
+    "probability": 0.9981643557548523
+  },
+  {
+    "start": 114.5,
+    "end": 114.8,
+    "word": " about",
+    "probability": 0.9992496371269226
+  },
+  {
+    "start": 114.8,
+    "end": 115.06,
+    "word": " them.",
+    "probability": 0.9971081614494324
+  },
+  {
+    "start": 115.54,
+    "end": 115.8,
+    "word": " Kiwis",
+    "probability": 0.9749630391597748
+  },
+  {
+    "start": 115.8,
+    "end": 116.0,
+    "word": " are",
+    "probability": 0.9934865236282349
+  },
+  {
+    "start": 116.0,
+    "end": 116.5,
+    "word": " massively",
+    "probability": 0.9983893632888794
+  },
+  {
+    "start": 116.5,
+    "end": 117.14,
+    "word": " underrated.",
+    "probability": 0.9768146872520447
+  },
+  {
+    "start": 117.66,
+    "end": 118.06,
+    "word": " Overrate",
+    "probability": 0.865678608417511
+  },
+  {
+    "start": 118.06,
+    "end": 118.28,
+    "word": " them.",
+    "probability": 0.9953214526176453
+  },
+  {
+    "start": 118.68,
+    "end": 118.8,
+    "word": " Go",
+    "probability": 0.9938674569129944
+  },
+  {
+    "start": 118.8,
+    "end": 118.92,
+    "word": " eat",
+    "probability": 0.998069703578949
+  },
+  {
+    "start": 118.92,
+    "end": 119.1,
+    "word": " the",
+    "probability": 0.9961942434310913
+  },
+  {
+    "start": 119.1,
+    "end": 119.34,
+    "word": " fuzzy",
+    "probability": 0.8967224359512329
+  },
+  {
+    "start": 119.34,
+    "end": 119.64,
+    "word": " green",
+    "probability": 0.9848084449768066
+  },
+  {
+    "start": 119.64,
+    "end": 119.88,
+    "word": " egg.",
+    "probability": 0.9961434006690979
+  }
+]

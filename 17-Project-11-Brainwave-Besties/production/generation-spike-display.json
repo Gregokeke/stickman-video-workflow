@@ -1,0 +1,11 @@
+{
+  "id": "spike-display",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: synchronized electrical spikes lighting up the exact same regions at the exact same millisecond.. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Standalone red dual-channel scientific monitor with TWO long empty white graph tracks stacked vertically, blank axes with no numerical values, thick black/red casing, integrated SCHEMATIC label. NO traces or waveforms, humans or brains; traces will be independent animation.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/spike-display.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-7a927899-6c51-49ed-b504-690eba9b35e3.png"
+}

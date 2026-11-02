@@ -1,0 +1,11 @@
+{
+  "id": "bluetooth-hub",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: Bluetooth,. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: Standalone chunky red wireless communication hub with two small antennae, correct simple black Bluetooth symbol on front, large integrated BLUETOOTH label. Three-quarter depth. No brain, human or motion marks.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/bluetooth-hub.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-716ef683-7d3e-4303-ac5f-d47707f71537.png"
+}

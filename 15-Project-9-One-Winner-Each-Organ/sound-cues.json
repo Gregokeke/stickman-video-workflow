@@ -1,0 +1,932 @@
+[
+  {
+    "time": 0.12,
+    "start": 0.055150000000000005,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "host phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 2.24,
+    "start": 2.18738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "body phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.22,
+    "start": 5.163959999999999,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "overload phrase-matched arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 7.6,
+    "start": 7.55769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "body-map phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.08,
+    "start": 8.98504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -11,
+    "reason": "winner phrase-matched arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 9.4,
+    "start": 9.347380000000001,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "proven phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 11.78,
+    "start": 11.71515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "heart phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 12.86,
+    "start": 12.817689999999999,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "stress phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.72,
+    "start": 13.67769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "food phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 14.74,
+    "start": 14.67802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "inflamed phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 16.38,
+    "start": 16.327379999999998,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "inner-wall phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 17.56,
+    "start": 17.507379999999998,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "rupture phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 18.54,
+    "start": 18.48967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "stopheart phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 19.28,
+    "start": 19.218020000000003,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "midbeat phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.2,
+    "start": 21.15769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "omega phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.9,
+    "start": 21.84967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "fish phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 22.9,
+    "start": 22.847379999999998,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "calm-artery phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 24.68,
+    "start": 24.58504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -17,
+    "reason": "study phrase-matched arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 25.32,
+    "start": 25.26875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -19,
+    "reason": "study number reveal",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 27.22,
+    "start": 27.16967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "gram phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 28.22,
+    "start": 28.15802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "heart-risk phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 29.94,
+    "start": 29.90033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "half risk result",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 31.32,
+    "start": 31.25515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "next-eyes phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 32.8,
+    "start": 32.75769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "screen phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.54,
+    "start": 34.48967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "twelve-hour-clock phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.54,
+    "start": 34.488749999999996,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "eye-strain phrase-matched arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 36.34,
+    "start": 36.287380000000006,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "retina phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 38.64,
+    "start": 38.57802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "damage-eye phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.1,
+    "start": 40.05769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "vision-loss phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.4,
+    "start": 40.349669999999996,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "blind phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 41.38,
+    "start": 41.32396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "eye-answer phrase-matched arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 42.86,
+    "start": 42.80967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "lutein phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.58,
+    "start": 43.52738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "zeax phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 44.88,
+    "start": 44.827380000000005,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "antioxidants phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 46.7,
+    "start": 46.638020000000004,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "eye-protected phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 48.18,
+    "start": 48.11802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "eyeball phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 49.38,
+    "start": 49.33769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "age-eyes phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 51.66,
+    "start": 51.620329999999996,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "vision study result",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 52.96,
+    "start": 52.90967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "decade phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 54.5,
+    "start": 54.43515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "kidneys phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 55.9,
+    "start": 55.84738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "filter phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 56.8,
+    "start": 56.74738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "calcium phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 58.24,
+    "start": 58.187380000000005,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "crystals phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 59.06,
+    "start": 59.007380000000005,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "sharp-stone phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 59.8,
+    "start": 59.73802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "stone phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 61.3,
+    "start": 61.25769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "cry phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 63.76,
+    "start": 63.71769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "magnesium phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 64.62,
+    "start": 64.56738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "block phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.44,
+    "start": 66.37801999999999,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "urine phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 67.22,
+    "start": 67.16396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "older phrase-matched arrival",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.5,
+    "start": 68.44967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "dose350 phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 70.98,
+    "start": 70.91802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "kidney-risk phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.36,
+    "start": 72.32033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "kidney study result",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 74.1,
+    "start": 74.03514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "skeleton phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 74.94,
+    "start": 74.88738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "hollow phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 75.94,
+    "start": 75.88738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "chalk phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 76.98,
+    "start": 76.93769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "aging-bone phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 78.2,
+    "start": 78.15769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "looseCa phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 79.76,
+    "start": 79.70967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "concrete phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.6,
+    "start": 81.54737999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "bone-bridge phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 83.12,
+    "start": 83.07769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "d3 phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 84.98,
+    "start": 84.92738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "k2 phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 86.84,
+    "start": 86.78738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "bloodCa phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 89.68,
+    "start": 89.61802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "steering-protein phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 91.1,
+    "start": 91.04737999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "bone-fill phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 91.46,
+    "start": 91.41769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "not-arteries phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 93.92,
+    "start": 93.85515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "liver phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 94.72,
+    "start": 94.67769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "liver-discomfort phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 96.52,
+    "start": 96.46737999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "toxins phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 98.56,
+    "start": 98.49802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "scar-liver phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 99.16,
+    "start": 99.10737999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "scar-cell phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 99.96,
+    "start": 99.91769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "nac-bridge phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 101.04,
+    "start": 100.99769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "nac phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 103.5,
+    "start": 103.44738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "amino phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 104.54,
+    "start": 104.48738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "blocks phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 105.76,
+    "start": 105.70738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "glutathione phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 106.94,
+    "start": 106.88738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "detox-action phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 108.24,
+    "start": 108.14504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -11,
+    "reason": "hospital phrase-matched arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 112.14,
+    "start": 112.09769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "muscle-bridge phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 113.04,
+    "start": 112.97515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -11,
+    "reason": "muscle phrase-matched arrival",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 113.96,
+    "start": 113.90737999999999,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "atp phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 116.72,
+    "start": 116.66165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "ATP energy drains",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 117.86,
+    "start": 117.80738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "lift phrase-matched arrival",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 119.22,
+    "start": 119.16875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17,
+    "reason": "tired phrase-matched arrival",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 121.48,
+    "start": 121.43769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "creatine phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 122.6,
+    "start": 122.56033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "ATP replenishment",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 124.22,
+    "start": 124.12504,
+    "source": "B36",
+    "path": "assets/sfx/B36_Deep_Passing_Whoosh_03.wav",
+    "target_peak_dbfs": -17,
+    "reason": "strong phrase-matched arrival",
+    "duration": 1.5968541666666667,
+    "tail_preserved": true
+  },
+  {
+    "time": 126.16,
+    "start": 126.11769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -11,
+    "reason": "old-lift phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 127.82,
+    "start": 127.76966999999999,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -17,
+    "reason": "creatine2 phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 129.7,
+    "start": 129.63801999999998,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "lean phrase-matched arrival",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 130.04,
+    "start": 130.00033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "training result",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 132.68,
+    "start": 132.62967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -11,
+    "reason": "dose phrase-matched arrival",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 134.06,
+    "start": 134.01769000000002,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -17,
+    "reason": "final-host phrase-matched arrival",
+    "duration": 0.499,
+    "tail_preserved": true
+  }
+]

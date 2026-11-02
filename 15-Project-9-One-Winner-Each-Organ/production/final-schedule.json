@@ -1,0 +1,2718 @@
+[
+  {
+    "id": "host",
+    "asset": "supplement-host",
+    "start": 0.12,
+    "handoff": 5.22,
+    "end": 5.52,
+    "layout": [
+      470,
+      1060,
+      620,
+      850
+    ],
+    "route": "rise",
+    "moves": [
+      {
+        "t": 2.24,
+        "x": -210,
+        "y": 170,
+        "scale": 0.66,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      },
+      {
+        "t": 3.96,
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "host",
+    "x": 470,
+    "y": 1060,
+    "w": 487.4086378737542,
+    "h": 850.0,
+    "alpha_bounds": [
+      100,
+      17,
+      963,
+      1522
+    ]
+  },
+  {
+    "id": "body",
+    "asset": "organ-body",
+    "start": 2.24,
+    "handoff": 3.96,
+    "end": 4.26,
+    "layout": [
+      720,
+      930,
+      420,
+      650
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "host",
+    "key": "body",
+    "x": 720,
+    "y": 930,
+    "w": 420.0,
+    "h": 634.7774480712167,
+    "alpha_bounds": [
+      7,
+      0,
+      1018,
+      1528
+    ]
+  },
+  {
+    "id": "overload",
+    "asset": "pill-overload",
+    "start": 5.22,
+    "handoff": 7.26,
+    "end": 7.56,
+    "layout": [
+      510,
+      1080,
+      740,
+      900
+    ],
+    "route": "diagonal",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "overload",
+    "x": 510,
+    "y": 1080,
+    "w": 517.5603217158176,
+    "h": 899.9999999999999,
+    "alpha_bounds": [
+      84,
+      19,
+      942,
+      1511
+    ]
+  },
+  {
+    "id": "body-map",
+    "asset": "organ-checklist",
+    "start": 7.6,
+    "handoff": 9.36,
+    "end": 9.66,
+    "layout": [
+      380,
+      1010,
+      430,
+      720
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "body-map",
+    "x": 380,
+    "y": 1010,
+    "w": 409.1132332878581,
+    "h": 720.0,
+    "alpha_bounds": [
+      95,
+      19,
+      928,
+      1485
+    ]
+  },
+  {
+    "id": "winner",
+    "asset": "winner-host",
+    "start": 9.08,
+    "handoff": 11.78,
+    "end": 12.08,
+    "layout": [
+      700,
+      1110,
+      460,
+      760
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "winner",
+    "x": 700,
+    "y": 1110,
+    "w": 460.0,
+    "h": 687.9320679320679,
+    "alpha_bounds": [
+      13,
+      19,
+      1014,
+      1516
+    ]
+  },
+  {
+    "id": "heart",
+    "asset": "heart",
+    "start": 11.78,
+    "handoff": 14.74,
+    "end": 15.040000000000001,
+    "layout": [
+      600,
+      930,
+      570,
+      550
+    ],
+    "route": "depth",
+    "moves": [
+      {
+        "t": 12.86,
+        "x": 110,
+        "y": -70,
+        "scale": 0.74,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "heart",
+    "x": 600,
+    "y": 930,
+    "w": 365.8777969018933,
+    "h": 550.0,
+    "alpha_bounds": [
+      274,
+      12,
+      1047,
+      1174
+    ]
+  },
+  {
+    "id": "stress",
+    "asset": "stressed-host",
+    "start": 12.86,
+    "handoff": 13.72,
+    "end": 14.020000000000001,
+    "layout": [
+      300,
+      1240,
+      450,
+      650
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "stress",
+    "x": 300,
+    "y": 1240,
+    "w": 347.55102040816325,
+    "h": 650.0,
+    "alpha_bounds": [
+      133,
+      36,
+      919,
+      1506
+    ]
+  },
+  {
+    "id": "food",
+    "asset": "junk-food",
+    "start": 13.72,
+    "handoff": 14.74,
+    "end": 15.040000000000001,
+    "layout": [
+      300,
+      1250,
+      470,
+      400
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "food",
+    "x": 300,
+    "y": 1250,
+    "w": 374.45482866043614,
+    "h": 400.0,
+    "alpha_bounds": [
+      1,
+      2,
+      1203,
+      1286
+    ]
+  },
+  {
+    "id": "inflamed",
+    "asset": "inflamed-artery",
+    "start": 14.74,
+    "handoff": 16.38,
+    "end": 16.68,
+    "layout": [
+      510,
+      920,
+      740,
+      550
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "inflamed",
+    "x": 510,
+    "y": 920,
+    "w": 351.30434782608694,
+    "h": 550.0,
+    "alpha_bounds": [
+      243,
+      8,
+      1051,
+      1273
+    ]
+  },
+  {
+    "id": "teach-inflam",
+    "asset": "instructor-diagonal",
+    "start": 15.08,
+    "handoff": 17.48,
+    "end": 17.78,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "exit": "right",
+    "targets": [
+      [
+        15.08,
+        550,
+        950,
+        550
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false,
+    "tip": [
+      506.2283737024222,
+      1.9031141868512111
+    ],
+    "key": "teach-inflam",
+    "x": 298.0752595155709,
+    "y": 1223.0968858131487,
+    "w": 508.60726643598616,
+    "h": 550.0,
+    "alpha_bounds": [
+      80,
+      92,
+      1149,
+      1248
+    ]
+  },
+  {
+    "id": "rupture",
+    "asset": "rupture-artery",
+    "start": 17.56,
+    "handoff": 19.28,
+    "end": 19.580000000000002,
+    "layout": [
+      350,
+      860,
+      470,
+      440
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "inflamed",
+    "key": "rupture",
+    "x": 350,
+    "y": 860,
+    "w": 470.0,
+    "h": 404.7004991680532,
+    "alpha_bounds": [
+      16,
+      136,
+      1218,
+      1171
+    ]
+  },
+  {
+    "id": "stopheart",
+    "asset": "stopped-heart",
+    "start": 18.54,
+    "handoff": 20.94,
+    "end": 21.240000000000002,
+    "layout": [
+      740,
+      1200,
+      350,
+      410
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "stopheart",
+    "x": 740,
+    "y": 1200,
+    "w": 264.7118380062305,
+    "h": 410.0,
+    "alpha_bounds": [
+      172,
+      46,
+      1001,
+      1330
+    ]
+  },
+  {
+    "id": "omega",
+    "asset": "omega3",
+    "start": 21.2,
+    "handoff": 24.68,
+    "end": 24.98,
+    "layout": [
+      310,
+      1000,
+      400,
+      620
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 22.9,
+        "x": -15,
+        "y": 130,
+        "scale": 0.85,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "omega",
+    "x": 310,
+    "y": 1000,
+    "w": 388.11198851399854,
+    "h": 620.0,
+    "alpha_bounds": [
+      102,
+      72,
+      974,
+      1465
+    ]
+  },
+  {
+    "id": "calm-artery",
+    "asset": "cooled-artery",
+    "start": 22.9,
+    "handoff": 24.68,
+    "end": 24.98,
+    "layout": [
+      730,
+      920,
+      430,
+      410
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "omega",
+    "key": "calm-artery",
+    "x": 730,
+    "y": 920,
+    "w": 265.7152451309604,
+    "h": 410.00000000000006,
+    "alpha_bounds": [
+      36,
+      27,
+      1001,
+      1516
+    ]
+  },
+  {
+    "id": "study",
+    "asset": "study-adults",
+    "start": 24.68,
+    "handoff": 28.22,
+    "end": 28.52,
+    "layout": [
+      520,
+      1110,
+      720,
+      680
+    ],
+    "route": "arcRight",
+    "moves": [
+      {
+        "t": 27.22,
+        "x": -180,
+        "y": 100,
+        "scale": 0.69,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left",
+    "key": "study",
+    "x": 520,
+    "y": 1110,
+    "w": 561.8047337278107,
+    "h": 680.0,
+    "alpha_bounds": [
+      12,
+      11,
+      1129,
+      1363
+    ]
+  },
+  {
+    "id": "gram",
+    "asset": "gram-dose",
+    "start": 27.22,
+    "handoff": 28.8,
+    "end": 29.1,
+    "layout": [
+      750,
+      930,
+      340,
+      360
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "gram",
+    "x": 750,
+    "y": 930,
+    "w": 340.0,
+    "h": 219.94919559695174,
+    "alpha_bounds": [
+      47,
+      243,
+      1228,
+      1007
+    ]
+  },
+  {
+    "id": "heart-risk",
+    "asset": "heart-shield",
+    "start": 28.22,
+    "handoff": 31.32,
+    "end": 31.62,
+    "layout": [
+      340,
+      1040,
+      450,
+      450
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "heart-risk",
+    "x": 340,
+    "y": 1040,
+    "w": 436.6226259289843,
+    "h": 449.99999999999994,
+    "alpha_bounds": [
+      47,
+      8,
+      1222,
+      1219
+    ]
+  },
+  {
+    "id": "next-eyes",
+    "asset": "eye-host",
+    "start": 31.32,
+    "handoff": 32.8,
+    "end": 33.099999999999994,
+    "layout": [
+      490,
+      1100,
+      620,
+      860
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "next-eyes",
+    "x": 490,
+    "y": 1100,
+    "w": 533.0059721300597,
+    "h": 859.9999999999999,
+    "alpha_bounds": [
+      67,
+      14,
+      1001,
+      1521
+    ]
+  },
+  {
+    "id": "screen",
+    "asset": "screen-guy",
+    "start": 32.8,
+    "handoff": 34.54,
+    "end": 34.839999999999996,
+    "layout": [
+      400,
+      1130,
+      610,
+      740
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "screen",
+    "x": 400,
+    "y": 1130,
+    "w": 610.0,
+    "h": 634.9916387959867,
+    "alpha_bounds": [
+      21,
+      14,
+      1217,
+      1259
+    ]
+  },
+  {
+    "id": "retina",
+    "asset": "retina",
+    "start": 36.34,
+    "handoff": 38.64,
+    "end": 38.94,
+    "layout": [
+      750,
+      900,
+      400,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "screen",
+    "key": "retina",
+    "x": 750,
+    "y": 900,
+    "w": 400.0,
+    "h": 318.63303498779493,
+    "alpha_bounds": [
+      191,
+      7,
+      1420,
+      986
+    ]
+  },
+  {
+    "id": "damage-eye",
+    "asset": "damaged-eye",
+    "start": 38.64,
+    "handoff": 40.1,
+    "end": 40.4,
+    "layout": [
+      350,
+      870,
+      480,
+      450
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "damage-eye",
+    "x": 350,
+    "y": 870,
+    "w": 480.0,
+    "h": 380.05479452054794,
+    "alpha_bounds": [
+      249,
+      69,
+      1344,
+      936
+    ]
+  },
+  {
+    "id": "blind",
+    "asset": "blind-guy",
+    "start": 40.4,
+    "handoff": 41.38,
+    "end": 41.68,
+    "layout": [
+      730,
+      1240,
+      430,
+      680
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "blind",
+    "x": 730,
+    "y": 1240,
+    "w": 430.0,
+    "h": 639.1649269311065,
+    "alpha_bounds": [
+      41,
+      61,
+      999,
+      1485
+    ]
+  },
+  {
+    "id": "eye-answer",
+    "asset": "eye-host",
+    "start": 41.38,
+    "handoff": 42.86,
+    "end": 43.16,
+    "layout": [
+      300,
+      1210,
+      470,
+      700
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "eye-answer",
+    "x": 300,
+    "y": 1210,
+    "w": 433.8420703384207,
+    "h": 700.0,
+    "alpha_bounds": [
+      67,
+      14,
+      1001,
+      1521
+    ]
+  },
+  {
+    "id": "lutein",
+    "asset": "lutein",
+    "start": 42.86,
+    "handoff": 44.88,
+    "end": 45.18,
+    "layout": [
+      340,
+      870,
+      430,
+      430
+    ],
+    "route": "right",
+    "moves": [
+      {
+        "t": 43.58,
+        "x": -30,
+        "y": -60,
+        "scale": 0.82,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "left",
+    "key": "lutein",
+    "x": 340,
+    "y": 870,
+    "w": 430.0,
+    "h": 309.33495539334956,
+    "alpha_bounds": [
+      10,
+      208,
+      1243,
+      1095
+    ]
+  },
+  {
+    "id": "zeax",
+    "asset": "zeaxanthin",
+    "start": 43.58,
+    "handoff": 44.88,
+    "end": 45.18,
+    "layout": [
+      730,
+      1190,
+      370,
+      420
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "lutein",
+    "key": "zeax",
+    "x": 730,
+    "y": 1190,
+    "w": 370.0,
+    "h": 260.3591836734694,
+    "alpha_bounds": [
+      16,
+      222,
+      1241,
+      1084
+    ]
+  },
+  {
+    "id": "eye-protected",
+    "asset": "protected-eye",
+    "start": 46.7,
+    "handoff": 48.18,
+    "end": 48.48,
+    "layout": [
+      520,
+      1010,
+      720,
+      630
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "eye-protected",
+    "x": 520,
+    "y": 1010,
+    "w": 632.7296360485268,
+    "h": 629.9999999999999,
+    "alpha_bounds": [
+      59,
+      60,
+      1218,
+      1214
+    ]
+  },
+  {
+    "id": "age-eyes",
+    "asset": "aging-eyes",
+    "start": 49.38,
+    "handoff": 53.72,
+    "end": 54.019999999999996,
+    "layout": [
+      320,
+      1020,
+      440,
+      530
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "age-eyes",
+    "x": 320,
+    "y": 1020,
+    "w": 281.48325358851673,
+    "h": 530.0,
+    "alpha_bounds": [
+      144,
+      35,
+      921,
+      1498
+    ]
+  },
+  {
+    "id": "kidneys",
+    "asset": "kidneys",
+    "start": 54.5,
+    "handoff": 55.9,
+    "end": 56.199999999999996,
+    "layout": [
+      650,
+      900,
+      500,
+      530
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "kidneys",
+    "x": 650,
+    "y": 900,
+    "w": 499.4901315789474,
+    "h": 530.0,
+    "alpha_bounds": [
+      47,
+      5,
+      1193,
+      1221
+    ]
+  },
+  {
+    "id": "calcium",
+    "asset": "calcium",
+    "start": 56.8,
+    "handoff": 58.24,
+    "end": 58.54,
+    "layout": [
+      800,
+      740,
+      280,
+      290
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "filter",
+    "key": "calcium",
+    "x": 800,
+    "y": 740,
+    "w": 280.0,
+    "h": 264.11710887465694,
+    "alpha_bounds": [
+      70,
+      114,
+      1163,
+      1145
+    ]
+  },
+  {
+    "id": "crystals",
+    "asset": "crystals",
+    "start": 58.24,
+    "handoff": 59.8,
+    "end": 60.099999999999994,
+    "layout": [
+      540,
+      1020,
+      650,
+      540
+    ],
+    "route": "emerge",
+    "moves": [
+      {
+        "t": 59.06,
+        "x": -150,
+        "y": -180,
+        "scale": 0.7,
+        "d": 0.5,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "calcium",
+    "key": "crystals",
+    "x": 540,
+    "y": 1020,
+    "w": 516.720202874049,
+    "h": 540.0,
+    "alpha_bounds": [
+      69,
+      23,
+      1201,
+      1206
+    ]
+  },
+  {
+    "id": "stone",
+    "asset": "stone",
+    "start": 59.8,
+    "handoff": 63.1,
+    "end": 63.4,
+    "layout": [
+      350,
+      870,
+      500,
+      530
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "stone",
+    "x": 350,
+    "y": 870,
+    "w": 311.1350974930362,
+    "h": 530.0,
+    "alpha_bounds": [
+      158,
+      58,
+      1001,
+      1494
+    ]
+  },
+  {
+    "id": "cry",
+    "asset": "crying-guy",
+    "start": 61.3,
+    "handoff": 63.1,
+    "end": 63.4,
+    "layout": [
+      740,
+      1230,
+      420,
+      620
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "cry",
+    "x": 740,
+    "y": 1230,
+    "w": 381.1912640635341,
+    "h": 620.0,
+    "alpha_bounds": [
+      54,
+      10,
+      983,
+      1521
+    ]
+  },
+  {
+    "id": "magnesium",
+    "asset": "magnesium",
+    "start": 63.76,
+    "handoff": 65.7,
+    "end": 66.0,
+    "layout": [
+      310,
+      1030,
+      400,
+      610
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "magnesium",
+    "x": 310,
+    "y": 1030,
+    "w": 400.0,
+    "h": 575.1072961373391,
+    "alpha_bounds": [
+      72,
+      88,
+      1004,
+      1428
+    ]
+  },
+  {
+    "id": "block",
+    "asset": "crystal-block",
+    "start": 64.62,
+    "handoff": 66.44,
+    "end": 66.74,
+    "layout": [
+      740,
+      960,
+      430,
+      460
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "magnesium",
+    "key": "block",
+    "x": 740,
+    "y": 960,
+    "w": 430.0,
+    "h": 387.5443037974684,
+    "alpha_bounds": [
+      27,
+      154,
+      1212,
+      1222
+    ]
+  },
+  {
+    "id": "urine",
+    "asset": "urine",
+    "start": 66.44,
+    "handoff": 67.12,
+    "end": 67.42,
+    "layout": [
+      510,
+      1050,
+      620,
+      610
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "urine",
+    "x": 510,
+    "y": 1050,
+    "w": 502.5238095238095,
+    "h": 610.0,
+    "alpha_bounds": [
+      96,
+      4,
+      1134,
+      1264
+    ]
+  },
+  {
+    "id": "older",
+    "asset": "older-host",
+    "start": 67.22,
+    "handoff": 70.98,
+    "end": 71.28,
+    "layout": [
+      340,
+      1120,
+      470,
+      760
+    ],
+    "route": "arcLeft",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "older",
+    "x": 340,
+    "y": 1120,
+    "w": 457.72727272727275,
+    "h": 760.0,
+    "alpha_bounds": [
+      85,
+      14,
+      986,
+      1510
+    ]
+  },
+  {
+    "id": "dose350",
+    "asset": "dose350",
+    "start": 68.5,
+    "handoff": 70.98,
+    "end": 71.28,
+    "layout": [
+      760,
+      910,
+      350,
+      340
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "dose350",
+    "x": 760,
+    "y": 910,
+    "w": 350.0,
+    "h": 185.39985326485694,
+    "alpha_bounds": [
+      97,
+      160,
+      1460,
+      882
+    ]
+  },
+  {
+    "id": "kidney-risk",
+    "asset": "diseased-kidney",
+    "start": 70.98,
+    "handoff": 74.1,
+    "end": 74.4,
+    "layout": [
+      320,
+      1030,
+      450,
+      530
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "kidney-risk",
+    "x": 320,
+    "y": 1030,
+    "w": 448.74749498997994,
+    "h": 530.0,
+    "alpha_bounds": [
+      339,
+      9,
+      1184,
+      1007
+    ]
+  },
+  {
+    "id": "skeleton",
+    "asset": "skeleton",
+    "start": 74.1,
+    "handoff": 75.38,
+    "end": 75.67999999999999,
+    "layout": [
+      310,
+      1050,
+      390,
+      850
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "skeleton",
+    "x": 310,
+    "y": 1050,
+    "w": 390.0,
+    "h": 610.2068252326784,
+    "alpha_bounds": [
+      29,
+      1,
+      996,
+      1514
+    ]
+  },
+  {
+    "id": "hollow",
+    "asset": "hollow-bone",
+    "start": 74.94,
+    "handoff": 77.76,
+    "end": 78.06,
+    "layout": [
+      740,
+      920,
+      420,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "skeleton",
+    "key": "hollow",
+    "x": 740,
+    "y": 920,
+    "w": 420.00000000000006,
+    "h": 292.26206896551724,
+    "alpha_bounds": [
+      32,
+      7,
+      1482,
+      1016
+    ]
+  },
+  {
+    "id": "chalk",
+    "asset": "chalk",
+    "start": 75.94,
+    "handoff": 76.98,
+    "end": 77.28,
+    "layout": [
+      740,
+      1270,
+      330,
+      270
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "chalk",
+    "x": 740,
+    "y": 1270,
+    "w": 330.0,
+    "h": 238.86792452830187,
+    "alpha_bounds": [
+      17,
+      200,
+      1183,
+      1044
+    ]
+  },
+  {
+    "id": "looseCa",
+    "asset": "calcium",
+    "start": 78.2,
+    "handoff": 81.6,
+    "end": 81.89999999999999,
+    "layout": [
+      310,
+      870,
+      340,
+      330
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 79.76,
+        "x": -40,
+        "y": 160,
+        "scale": 0.8,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "looseCa",
+    "x": 310,
+    "y": 870,
+    "w": 340.0,
+    "h": 320.71363220494055,
+    "alpha_bounds": [
+      70,
+      114,
+      1163,
+      1145
+    ]
+  },
+  {
+    "id": "concrete",
+    "asset": "concrete-artery",
+    "start": 79.76,
+    "handoff": 81.6,
+    "end": 81.89999999999999,
+    "layout": [
+      720,
+      1110,
+      450,
+      500
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "concrete",
+    "x": 720,
+    "y": 1110,
+    "w": 400.72347266881025,
+    "h": 500.0,
+    "alpha_bounds": [
+      83,
+      74,
+      1080,
+      1318
+    ]
+  },
+  {
+    "id": "d3",
+    "asset": "d3",
+    "start": 83.12,
+    "handoff": 88.34,
+    "end": 88.64,
+    "layout": [
+      310,
+      1020,
+      400,
+      630
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 84.98,
+        "x": -30,
+        "y": 130,
+        "scale": 0.83,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "d3",
+    "x": 310,
+    "y": 1020,
+    "w": 395.45665634674924,
+    "h": 630.0,
+    "alpha_bounds": [
+      86,
+      130,
+      897,
+      1422
+    ]
+  },
+  {
+    "id": "k2",
+    "asset": "k2",
+    "start": 84.98,
+    "handoff": 89.68,
+    "end": 89.98,
+    "layout": [
+      750,
+      920,
+      380,
+      600
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "d3",
+    "key": "k2",
+    "x": 750,
+    "y": 920,
+    "w": 343.23922734026746,
+    "h": 600.0,
+    "alpha_bounds": [
+      127,
+      111,
+      897,
+      1457
+    ]
+  },
+  {
+    "id": "bloodCa",
+    "asset": "blood-calcium",
+    "start": 86.84,
+    "handoff": 88.34,
+    "end": 88.64,
+    "layout": [
+      540,
+      1400,
+      350,
+      310
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "bloodCa",
+    "x": 540,
+    "y": 1400,
+    "w": 291.27886323268206,
+    "h": 310.0,
+    "alpha_bounds": [
+      93,
+      107,
+      1151,
+      1233
+    ]
+  },
+  {
+    "id": "steering-protein",
+    "asset": "protein",
+    "start": 89.68,
+    "handoff": 91.1,
+    "end": 91.39999999999999,
+    "layout": [
+      310,
+      910,
+      400,
+      440
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "steering-protein",
+    "x": 310,
+    "y": 910,
+    "w": 363.9549839228296,
+    "h": 440.0,
+    "alpha_bounds": [
+      112,
+      27,
+      1141,
+      1271
+    ]
+  },
+  {
+    "id": "bone-fill",
+    "asset": "calcium-bone",
+    "start": 91.1,
+    "handoff": 93.92,
+    "end": 94.22,
+    "layout": [
+      740,
+      1060,
+      450,
+      570
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "steering-protein",
+    "key": "bone-fill",
+    "x": 740,
+    "y": 1060,
+    "w": 236.6318537859008,
+    "h": 570.0,
+    "alpha_bounds": [
+      288,
+      3,
+      924,
+      1535
+    ]
+  },
+  {
+    "id": "teach-bone",
+    "asset": "instructor-diagonal",
+    "start": 91.46,
+    "handoff": 92.98,
+    "end": 93.28,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "exit": "right",
+    "targets": [
+      [
+        91.46,
+        740,
+        1050,
+        500
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false,
+    "tip": [
+      460.2076124567474,
+      1.7301038062283738
+    ],
+    "key": "teach-bone",
+    "x": 510.977508650519,
+    "y": 1298.2698961937717,
+    "w": 462.3702422145329,
+    "h": 500.0,
+    "alpha_bounds": [
+      80,
+      92,
+      1149,
+      1248
+    ]
+  },
+  {
+    "id": "liver",
+    "asset": "liver",
+    "start": 93.92,
+    "handoff": 98.56,
+    "end": 98.86,
+    "layout": [
+      380,
+      960,
+      590,
+      550
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 94.72,
+        "x": -50,
+        "y": -110,
+        "scale": 0.7,
+        "d": 0.55,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      },
+      {
+        "t": 96.52,
+        "x": -120,
+        "y": 130,
+        "scale": 0.75,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "liver",
+    "x": 380,
+    "y": 960,
+    "w": 590.0,
+    "h": 482.20228384991844,
+    "alpha_bounds": [
+      200,
+      6,
+      1426,
+      1008
+    ]
+  },
+  {
+    "id": "toxins",
+    "asset": "toxins",
+    "start": 96.52,
+    "handoff": 98.56,
+    "end": 98.86,
+    "layout": [
+      750,
+      820,
+      350,
+      360
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "liver",
+    "key": "toxins",
+    "x": 750,
+    "y": 820,
+    "w": 350.0,
+    "h": 346.8525179856115,
+    "alpha_bounds": [
+      63,
+      115,
+      1175,
+      1217
+    ]
+  },
+  {
+    "id": "scar-liver",
+    "asset": "scarred-liver",
+    "start": 98.56,
+    "handoff": 99.96,
+    "end": 100.26,
+    "layout": [
+      330,
+      1120,
+      440,
+      380
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "scar-liver",
+    "x": 330,
+    "y": 1120,
+    "w": 440.0,
+    "h": 354.55601659751034,
+    "alpha_bounds": [
+      196,
+      33,
+      1401,
+      1004
+    ]
+  },
+  {
+    "id": "nac",
+    "asset": "nac",
+    "start": 101.04,
+    "handoff": 105.76,
+    "end": 106.06,
+    "layout": [
+      320,
+      1030,
+      430,
+      660
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 103.84,
+        "x": -30,
+        "y": 110,
+        "scale": 0.85,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "nac",
+    "x": 320,
+    "y": 1030,
+    "w": 416.0458452722063,
+    "h": 660.0,
+    "alpha_bounds": [
+      110,
+      84,
+      990,
+      1480
+    ]
+  },
+  {
+    "id": "amino",
+    "asset": "amino-acids",
+    "start": 103.5,
+    "handoff": 104.54,
+    "end": 104.84,
+    "layout": [
+      740,
+      910,
+      410,
+      430
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "nac",
+    "key": "amino",
+    "x": 740,
+    "y": 910,
+    "w": 410.00000000000006,
+    "h": 218.19742489270388,
+    "alpha_bounds": [
+      86,
+      161,
+      1484,
+      905
+    ]
+  },
+  {
+    "id": "glutathione",
+    "asset": "glutathione",
+    "start": 105.76,
+    "handoff": 108.24,
+    "end": 108.53999999999999,
+    "layout": [
+      510,
+      1050,
+      700,
+      600
+    ],
+    "route": "emerge",
+    "moves": [
+      {
+        "t": 106.94,
+        "x": -220,
+        "y": -120,
+        "scale": 0.6,
+        "d": 0.6,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "blocks",
+    "key": "glutathione",
+    "x": 510,
+    "y": 1050,
+    "w": 693.467336683417,
+    "h": 600.0,
+    "alpha_bounds": [
+      102,
+      71,
+      1252,
+      1066
+    ]
+  },
+  {
+    "id": "hospital",
+    "asset": "hospital",
+    "start": 108.24,
+    "handoff": 111.66,
+    "end": 111.96,
+    "layout": [
+      500,
+      1110,
+      760,
+      760
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "hospital",
+    "x": 500,
+    "y": 1110,
+    "w": 715.9592795614722,
+    "h": 759.9999999999999,
+    "alpha_bounds": [
+      11,
+      3,
+      1214,
+      1280
+    ]
+  },
+  {
+    "id": "muscle",
+    "asset": "muscle",
+    "start": 113.04,
+    "handoff": 117.86,
+    "end": 118.16,
+    "layout": [
+      330,
+      980,
+      450,
+      510
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "muscle",
+    "x": 330,
+    "y": 980,
+    "w": 450.0,
+    "h": 399.64476021314385,
+    "alpha_bounds": [
+      74,
+      99,
+      1200,
+      1099
+    ]
+  },
+  {
+    "id": "atp",
+    "asset": "atp",
+    "start": 113.96,
+    "handoff": 117.86,
+    "end": 118.16,
+    "layout": [
+      750,
+      850,
+      370,
+      400
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "muscle",
+    "key": "atp",
+    "x": 750,
+    "y": 850,
+    "w": 370.0,
+    "h": 234.3540268456376,
+    "alpha_bounds": [
+      228,
+      138,
+      1420,
+      893
+    ]
+  },
+  {
+    "id": "lift",
+    "asset": "heavy-lifter",
+    "start": 117.86,
+    "handoff": 119.22,
+    "end": 119.52,
+    "layout": [
+      520,
+      1100,
+      750,
+      850
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "lift",
+    "x": 520,
+    "y": 1100,
+    "w": 571.3951935914553,
+    "h": 850.0,
+    "alpha_bounds": [
+      9,
+      20,
+      1016,
+      1518
+    ]
+  },
+  {
+    "id": "tired",
+    "asset": "tired-lifter",
+    "start": 119.22,
+    "handoff": 121.48,
+    "end": 121.78,
+    "layout": [
+      510,
+      1120,
+      680,
+      800
+    ],
+    "route": "state",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "tired",
+    "x": 510,
+    "y": 1120,
+    "w": 535.6756756756757,
+    "h": 800.0,
+    "alpha_bounds": [
+      18,
+      31,
+      1009,
+      1511
+    ]
+  },
+  {
+    "id": "creatine",
+    "asset": "creatine",
+    "start": 121.48,
+    "handoff": 125.9,
+    "end": 126.2,
+    "layout": [
+      310,
+      960,
+      400,
+      610
+    ],
+    "route": "left",
+    "moves": [
+      {
+        "t": 122.52,
+        "x": -30,
+        "y": 70,
+        "scale": 0.82,
+        "d": 0.58,
+        "rotation": 0,
+        "ease": "power3.inOut"
+      }
+    ],
+    "z": 10,
+    "exit": "right",
+    "key": "creatine",
+    "x": 310,
+    "y": 960,
+    "w": 400.0,
+    "h": 491.81721572794896,
+    "alpha_bounds": [
+      68,
+      195,
+      1009,
+      1352
+    ]
+  },
+  {
+    "id": "strong",
+    "asset": "strong-lifter",
+    "start": 124.22,
+    "handoff": 125.9,
+    "end": 126.2,
+    "layout": [
+      750,
+      1270,
+      430,
+      650
+    ],
+    "route": "arcRight",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "strong",
+    "x": 750,
+    "y": 1270,
+    "w": 430.0,
+    "h": 619.1830708661417,
+    "alpha_bounds": [
+      5,
+      36,
+      1021,
+      1499
+    ]
+  },
+  {
+    "id": "old-lift",
+    "asset": "older-lifter",
+    "start": 126.16,
+    "handoff": 129.44,
+    "end": 129.74,
+    "layout": [
+      350,
+      1120,
+      510,
+      780
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "old-lift",
+    "x": 350,
+    "y": 1120,
+    "w": 509.99999999999994,
+    "h": 739.7802197802197,
+    "alpha_bounds": [
+      11,
+      50,
+      1012,
+      1502
+    ]
+  },
+  {
+    "id": "creatine2",
+    "asset": "creatine",
+    "start": 127.82,
+    "handoff": 129.44,
+    "end": 129.74,
+    "layout": [
+      770,
+      870,
+      310,
+      460
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "creatine2",
+    "x": 770,
+    "y": 870,
+    "w": 310.0,
+    "h": 381.15834218916046,
+    "alpha_bounds": [
+      68,
+      195,
+      1009,
+      1352
+    ]
+  },
+  {
+    "id": "lean",
+    "asset": "lean-muscle",
+    "start": 129.7,
+    "handoff": 132.52,
+    "end": 132.82000000000002,
+    "layout": [
+      350,
+      1050,
+      470,
+      650
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "lean",
+    "x": 350,
+    "y": 1050,
+    "w": 470.0,
+    "h": 397.7237185056473,
+    "alpha_bounds": [
+      194,
+      19,
+      1345,
+      993
+    ]
+  },
+  {
+    "id": "dose",
+    "asset": "dose-scoop",
+    "start": 132.68,
+    "handoff": 135.733333,
+    "end": 136.033333,
+    "layout": [
+      700,
+      1050,
+      420,
+      480
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "key": "dose",
+    "x": 700,
+    "y": 1050,
+    "w": 420.0,
+    "h": 250.79899074852815,
+    "alpha_bounds": [
+      32,
+      297,
+      1221,
+      1007
+    ]
+  },
+  {
+    "id": "bone-bridge",
+    "asset": "skeleton",
+    "start": 81.6,
+    "handoff": 83.44,
+    "end": 83.74,
+    "layout": [
+      510,
+      1090,
+      470,
+      860
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "bone-bridge",
+    "x": 510,
+    "y": 1090,
+    "w": 470.0,
+    "h": 735.377456049638,
+    "alpha_bounds": [
+      29,
+      1,
+      996,
+      1514
+    ]
+  },
+  {
+    "id": "nac-bridge",
+    "asset": "supplement-host",
+    "start": 99.96,
+    "handoff": 101.04,
+    "end": 101.34,
+    "layout": [
+      720,
+      1220,
+      400,
+      650
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "nac-bridge",
+    "x": 720,
+    "y": 1220,
+    "w": 372.72425249169436,
+    "h": 650.0,
+    "alpha_bounds": [
+      100,
+      17,
+      963,
+      1522
+    ]
+  },
+  {
+    "id": "muscle-bridge",
+    "asset": "supplement-host",
+    "start": 112.14,
+    "handoff": 113.04,
+    "end": 113.34,
+    "layout": [
+      510,
+      1150,
+      570,
+      800
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "muscle-bridge",
+    "x": 510,
+    "y": 1150,
+    "w": 458.73754152823926,
+    "h": 800.0000000000001,
+    "alpha_bounds": [
+      100,
+      17,
+      963,
+      1522
+    ]
+  },
+  {
+    "id": "final-host",
+    "asset": "winner-host",
+    "start": 134.06,
+    "handoff": 135.733333,
+    "end": 136.033333,
+    "layout": [
+      290,
+      1250,
+      390,
+      610
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "final-host",
+    "x": 290,
+    "y": 1250,
+    "w": 390.0,
+    "h": 583.2467532467533,
+    "alpha_bounds": [
+      13,
+      19,
+      1014,
+      1516
+    ]
+  },
+  {
+    "id": "twelve-hour-clock",
+    "asset": "clock",
+    "start": 34.54,
+    "handoff": 35.8,
+    "end": 36.1,
+    "layout": [
+      760,
+      740,
+      300,
+      230
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "clock_text": "12 HOURS",
+    "key": "twelve-hour-clock",
+    "x": 760,
+    "y": 740,
+    "w": 300.0,
+    "h": 173.96061269146608,
+    "alpha_bounds": [
+      88,
+      115,
+      1459,
+      910
+    ]
+  },
+  {
+    "id": "teach-kidneys",
+    "asset": "instructor-diagonal",
+    "start": 54.94,
+    "handoff": 55.88,
+    "end": 56.18,
+    "layout": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "route": "presenter",
+    "moves": [],
+    "z": 35,
+    "targets": [
+      [
+        54.94,
+        650,
+        920,
+        520
+      ]
+    ],
+    "tip_source": [
+      1144,
+      96
+    ],
+    "flip": false,
+    "tip": [
+      478.6159169550173,
+      1.7993079584775087
+    ],
+    "key": "teach-kidneys",
+    "x": 411.8166089965398,
+    "y": 1178.2006920415224,
+    "w": 480.8650519031142,
+    "h": 520.0,
+    "alpha_bounds": [
+      80,
+      92,
+      1149,
+      1248
+    ]
+  },
+  {
+    "id": "proven",
+    "asset": "proven-badge",
+    "start": 9.4,
+    "handoff": 11.06,
+    "end": 11.360000000000001,
+    "layout": [
+      290,
+      850,
+      270,
+      280
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.4,
+    "key": "proven",
+    "x": 290,
+    "y": 850,
+    "w": 270.0,
+    "h": 266.7609254498715,
+    "alpha_bounds": [
+      53,
+      44,
+      1220,
+      1197
+    ]
+  },
+  {
+    "id": "inner-wall",
+    "asset": "artery-wall",
+    "start": 16.38,
+    "handoff": 17.56,
+    "end": 17.86,
+    "layout": [
+      560,
+      900,
+      650,
+      500
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "inflamed",
+    "entry_duration": 0.44,
+    "key": "inner-wall",
+    "x": 560,
+    "y": 900,
+    "w": 650.0,
+    "h": 416.61860129776494,
+    "alpha_bounds": [
+      77,
+      80,
+      1464,
+      969
+    ]
+  },
+  {
+    "id": "midbeat",
+    "asset": "heartbeat-monitor",
+    "start": 19.28,
+    "handoff": 20.94,
+    "end": 21.240000000000002,
+    "layout": [
+      350,
+      870,
+      450,
+      350
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42,
+    "key": "midbeat",
+    "x": 350,
+    "y": 870,
+    "w": 450.00000000000006,
+    "h": 323.98538961038963,
+    "alpha_bounds": [
+      152,
+      58,
+      1384,
+      945
+    ]
+  },
+  {
+    "id": "fish",
+    "asset": "fish-softgels",
+    "start": 21.9,
+    "handoff": 22.9,
+    "end": 23.2,
+    "layout": [
+      750,
+      900,
+      350,
+      360
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.4,
+    "key": "fish",
+    "x": 750,
+    "y": 900,
+    "w": 350.0,
+    "h": 204.76868327402136,
+    "alpha_bounds": [
+      74,
+      110,
+      1479,
+      932
+    ]
+  },
+  {
+    "id": "eye-strain",
+    "asset": "eye-strain-host",
+    "start": 34.54,
+    "handoff": 36.34,
+    "end": 36.64,
+    "layout": [
+      400,
+      1130,
+      610,
+      740
+    ],
+    "route": "state",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "eye-strain",
+    "x": 400,
+    "y": 1130,
+    "w": 610.0,
+    "h": 582.8888888888889,
+    "alpha_bounds": [
+      96,
+      30,
+      1266,
+      1148
+    ]
+  },
+  {
+    "id": "vision-loss",
+    "asset": "vision-chart",
+    "start": 40.1,
+    "handoff": 41.38,
+    "end": 41.68,
+    "layout": [
+      350,
+      870,
+      480,
+      450
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42,
+    "key": "vision-loss",
+    "x": 350,
+    "y": 870,
+    "w": 253.29545454545453,
+    "h": 449.99999999999994,
+    "alpha_bounds": [
+      141,
+      103,
+      884,
+      1423
+    ]
+  },
+  {
+    "id": "antioxidants",
+    "asset": "antioxidant-shield",
+    "start": 44.88,
+    "handoff": 46.7,
+    "end": 47.0,
+    "layout": [
+      520,
+      1040,
+      750,
+      600
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "zeax",
+    "entry_duration": 0.48,
+    "key": "antioxidants",
+    "x": 520,
+    "y": 1040,
+    "w": 529.0375203915171,
+    "h": 600.0,
+    "alpha_bounds": [
+      69,
+      30,
+      1150,
+      1256
+    ]
+  },
+  {
+    "id": "eyeball",
+    "asset": "eyeball-anatomy",
+    "start": 48.18,
+    "handoff": 49.38,
+    "end": 49.68,
+    "layout": [
+      520,
+      1010,
+      720,
+      630
+    ],
+    "route": "depth",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.42,
+    "key": "eyeball",
+    "x": 520,
+    "y": 1010,
+    "w": 720.0,
+    "h": 576.231884057971,
+    "alpha_bounds": [
+      188,
+      9,
+      1430,
+      1003
+    ]
+  },
+  {
+    "id": "decade",
+    "asset": "study-calendar",
+    "start": 52.96,
+    "handoff": 54.5,
+    "end": 54.8,
+    "layout": [
+      750,
+      1030,
+      340,
+      380
+    ],
+    "route": "right",
+    "moves": [],
+    "z": 10,
+    "exit": "left",
+    "entry_duration": 0.42,
+    "key": "decade",
+    "x": 750,
+    "y": 1030,
+    "w": 340.0,
+    "h": 309.2355694227769,
+    "alpha_bounds": [
+      15,
+      9,
+      1297,
+      1175
+    ]
+  },
+  {
+    "id": "filter",
+    "asset": "kidney-filter",
+    "start": 55.9,
+    "handoff": 58.24,
+    "end": 58.54,
+    "layout": [
+      400,
+      1050,
+      430,
+      560
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "kidneys",
+    "key": "filter",
+    "x": 400,
+    "y": 1050,
+    "w": 430.0,
+    "h": 393.96257119609436,
+    "alpha_bounds": [
+      44,
+      37,
+      1273,
+      1163
+    ]
+  },
+  {
+    "id": "sharp-stone",
+    "asset": "jagged-stone",
+    "start": 59.06,
+    "handoff": 61.3,
+    "end": 61.599999999999994,
+    "layout": [
+      760,
+      1300,
+      270,
+      260
+    ],
+    "route": "rise",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44,
+    "key": "sharp-stone",
+    "x": 760,
+    "y": 1300,
+    "w": 247.17019133937563,
+    "h": 260.0,
+    "alpha_bounds": [
+      296,
+      15,
+      1240,
+      1008
+    ]
+  },
+  {
+    "id": "aging-bone",
+    "asset": "aging-bones-host",
+    "start": 76.98,
+    "handoff": 78.2,
+    "end": 78.5,
+    "layout": [
+      320,
+      1200,
+      380,
+      580
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44,
+    "key": "aging-bone",
+    "x": 320,
+    "y": 1200,
+    "w": 292.32,
+    "h": 580.0,
+    "alpha_bounds": [
+      137,
+      7,
+      893,
+      1507
+    ]
+  },
+  {
+    "id": "not-arteries",
+    "asset": "artery-no-calcium",
+    "start": 91.46,
+    "handoff": 93.28,
+    "end": 93.58,
+    "layout": [
+      300,
+      780,
+      350,
+      350
+    ],
+    "route": "left",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "entry_duration": 0.44,
+    "key": "not-arteries",
+    "x": 300,
+    "y": 780,
+    "w": 350.0,
+    "h": 223.57142857142856,
+    "alpha_bounds": [
+      35,
+      38,
+      1505,
+      977
+    ]
+  },
+  {
+    "id": "liver-discomfort",
+    "asset": "liver-stress-host",
+    "start": 94.72,
+    "handoff": 96.52,
+    "end": 96.82,
+    "layout": [
+      740,
+      1250,
+      400,
+      600
+    ],
+    "route": "peek",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "key": "liver-discomfort",
+    "x": 740,
+    "y": 1250,
+    "w": 285.32046864231563,
+    "h": 600.0,
+    "alpha_bounds": [
+      172,
+      43,
+      862,
+      1494
+    ]
+  },
+  {
+    "id": "scar-cell",
+    "asset": "scarred-hepatocyte",
+    "start": 99.16,
+    "handoff": 101.04,
+    "end": 101.34,
+    "layout": [
+      750,
+      700,
+      330,
+      330
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "scar-liver",
+    "entry_duration": 0.5,
+    "key": "scar-cell",
+    "x": 750,
+    "y": 700,
+    "w": 330.0,
+    "h": 316.84478371501274,
+    "alpha_bounds": [
+      103,
+      6,
+      1282,
+      1138
+    ]
+  },
+  {
+    "id": "blocks",
+    "asset": "amino-blocks",
+    "start": 104.54,
+    "handoff": 105.76,
+    "end": 106.06,
+    "layout": [
+      740,
+      910,
+      430,
+      450
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "amino",
+    "entry_duration": 0.44,
+    "key": "blocks",
+    "x": 740,
+    "y": 910,
+    "w": 430.0,
+    "h": 297.96546546546546,
+    "alpha_bounds": [
+      102,
+      20,
+      1434,
+      943
+    ]
+  },
+  {
+    "id": "detox-action",
+    "asset": "liver-detox",
+    "start": 106.94,
+    "handoff": 108.24,
+    "end": 108.53999999999999,
+    "layout": [
+      730,
+      1180,
+      380,
+      430
+    ],
+    "route": "emerge",
+    "moves": [],
+    "z": 10,
+    "exit": "right",
+    "emerge_from": "glutathione",
+    "entry_duration": 0.46,
+    "key": "detox-action",
+    "x": 730,
+    "y": 1180,
+    "w": 380.0,
+    "h": 257.0124481327801,
+    "alpha_bounds": [
+      46,
+      18,
+      1492,
+      996
+    ]
+  }
+]

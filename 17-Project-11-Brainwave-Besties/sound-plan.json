@@ -1,0 +1,482 @@
+[
+  [
+    0.04,
+    "B15",
+    -18,
+    "science-host arrival"
+  ],
+  [
+    1.36,
+    "B16",
+    -17,
+    "sync-brain-pair arrival"
+  ],
+  [
+    2.2,
+    "B20",
+    -14.5,
+    "best-friends-hook arrival"
+  ],
+  [
+    4.96,
+    "C14",
+    -20,
+    "Wireless sync"
+  ],
+  [
+    5.0,
+    "A11",
+    -17,
+    "bluetooth-hub arrival"
+  ],
+  [
+    5.83256,
+    "B36",
+    -14.5,
+    "shared-braincell-duo arrival"
+  ],
+  [
+    8.25256,
+    "C12",
+    -20,
+    "Shared brain-cell joke"
+  ],
+  [
+    9.05256,
+    "B08",
+    -17,
+    "single-brain-cell arrival"
+  ],
+  [
+    9.98896,
+    "B15",
+    -17,
+    "neurosynchrony-board arrival"
+  ],
+  [
+    10.228959999999999,
+    "B06",
+    -20,
+    "guide-neurosynchrony entrance"
+  ],
+  [
+    12.49335,
+    "B06",
+    -14.5,
+    "knowing-host arrival"
+  ],
+  [
+    14.41335,
+    "B02",
+    -21,
+    "Sentence recognition"
+  ],
+  [
+    14.45335,
+    "B31",
+    -14.5,
+    "sentence-speaker arrival"
+  ],
+  [
+    14.79335,
+    "B36",
+    -14.5,
+    "sentence-finisher arrival"
+  ],
+  [
+    16.21335,
+    "B20",
+    -14.5,
+    "glance-left arrival"
+  ],
+  [
+    17.35335,
+    "C18",
+    -23,
+    "Unhinged glance"
+  ],
+  [
+    18.89335,
+    "B31",
+    -14.5,
+    "crowded-room arrival"
+  ],
+  [
+    19.97065,
+    "C12",
+    -22,
+    "Shared laugh reaction"
+  ],
+  [
+    20.01065,
+    "B18",
+    -17,
+    "laughing-friends arrival"
+  ],
+  [
+    21.45065,
+    "B08",
+    -17,
+    "dark-joke-phone arrival"
+  ],
+  [
+    23.77065,
+    "A02",
+    -20,
+    "Cancellation stamp contact"
+  ],
+  [
+    23.81065,
+    "B15",
+    -17,
+    "cancelled-stamp arrival"
+  ],
+  [
+    24.70265,
+    "B16",
+    -17,
+    "hanging-out-time arrival"
+  ],
+  [
+    26.04265,
+    "A11",
+    -17,
+    "friendship-calendar arrival"
+  ],
+  [
+    27.40265,
+    "B18",
+    -17,
+    "aligned-brains arrival"
+  ],
+  [
+    28.74265,
+    "B27",
+    -21,
+    "Rhythms align"
+  ],
+  [
+    29.58265,
+    "B08",
+    -17,
+    "brainwave-scope arrival"
+  ],
+  [
+    32.06265,
+    "B15",
+    -17,
+    "mirror-neuron arrival"
+  ],
+  [
+    32.31265,
+    "B06",
+    -20,
+    "guide-mirror entrance"
+  ],
+  [
+    33.40035,
+    "B16",
+    -17,
+    "neuron-cell-body arrival"
+  ],
+  [
+    34.80035,
+    "B02",
+    -22,
+    "Leader gesture"
+  ],
+  [
+    34.84035,
+    "B31",
+    -14.5,
+    "mirror-leader arrival"
+  ],
+  [
+    35.46035,
+    "B02",
+    -22,
+    "Follower matches"
+  ],
+  [
+    36.02035,
+    "B08",
+    -17,
+    "mirrored-hands arrival"
+  ],
+  [
+    37.18035,
+    "B15",
+    -17,
+    "shared-feelings arrival"
+  ],
+  [
+    39.78106,
+    "B06",
+    -14.5,
+    "neuroscientist arrival"
+  ],
+  [
+    41.76106,
+    "A11",
+    -17,
+    "mri-scanner arrival"
+  ],
+  [
+    43.02106,
+    "B18",
+    -17,
+    "stimulus-screen arrival"
+  ],
+  [
+    43.28106,
+    "B08",
+    -17,
+    "scanner-console arrival"
+  ],
+  [
+    44.28106,
+    "B15",
+    -17,
+    "spike-display arrival"
+  ],
+  [
+    45.34106,
+    "B27",
+    -21,
+    "Schematic matched spikes"
+  ],
+  [
+    45.96106,
+    "B16",
+    -17,
+    "matched-brain-regions arrival"
+  ],
+  [
+    48.38106,
+    "A11",
+    -17,
+    "millisecond-timer arrival"
+  ],
+  [
+    49.16106,
+    "B27",
+    -21,
+    "Same-time emphasis"
+  ],
+  [
+    50.40106,
+    "B18",
+    -17,
+    "amygdala-model arrival"
+  ],
+  [
+    50.64106,
+    "B06",
+    -20,
+    "guide-emotion-planning entrance"
+  ],
+  [
+    52.94206,
+    "B15",
+    -17,
+    "prefrontal-model arrival"
+  ],
+  [
+    54.52206,
+    "B02",
+    -22,
+    "Decision fork"
+  ],
+  [
+    54.56206,
+    "B16",
+    -17,
+    "decision-fork arrival"
+  ],
+  [
+    56.76206,
+    "C18",
+    -21,
+    "Terrible choices reversal"
+  ],
+  [
+    56.80206,
+    "B31",
+    -14.5,
+    "terrible-life-choices arrival"
+  ],
+  [
+    58.56996,
+    "B18",
+    -17,
+    "empathy-neural-network arrival"
+  ],
+  [
+    60.46535,
+    "B20",
+    -14.5,
+    "weirdo-besties arrival"
+  ],
+  [
+    64.92535,
+    "B16",
+    -17,
+    "paired-nervous-systems arrival"
+  ],
+  [
+    66.24535,
+    "B36",
+    -24,
+    "Echo chamber"
+  ],
+  [
+    66.28535,
+    "A11",
+    -17,
+    "echo-chamber-friends arrival"
+  ],
+  [
+    66.98535,
+    "B18",
+    -17,
+    "echo-padlock arrival"
+  ],
+  [
+    67.97715,
+    "B08",
+    -17,
+    "alarmed-host arrival"
+  ],
+  [
+    68.89715,
+    "B19b",
+    -24,
+    "Serious warning"
+  ],
+  [
+    68.93715,
+    "B15",
+    -17,
+    "warning-siren arrival"
+  ],
+  [
+    70.09385,
+    "B06",
+    -14.5,
+    "circle-chooser arrival"
+  ],
+  [
+    71.41385,
+    "B02",
+    -21,
+    "Choose company"
+  ],
+  [
+    71.45385,
+    "B31",
+    -14.5,
+    "healthy-friend-circle arrival"
+  ],
+  [
+    72.29385,
+    "B18",
+    -17,
+    "wise-compass arrival"
+  ],
+  [
+    73.03556,
+    "O01",
+    -14.5,
+    "bad-influence-friend arrival"
+  ],
+  [
+    74.25556,
+    "B15",
+    -17,
+    "empty-wallet arrival"
+  ],
+  [
+    74.67556,
+    "B16",
+    -17,
+    "toxic-speech arrival"
+  ],
+  [
+    75.99556,
+    "B27",
+    -20,
+    "Zero ambition"
+  ],
+  [
+    76.03556,
+    "A11",
+    -17,
+    "ambition-gauge arrival"
+  ],
+  [
+    76.85556,
+    "B18",
+    -17,
+    "influenced-brain arrival"
+  ],
+  [
+    77.79556,
+    "C18",
+    -23,
+    "Negated casual interpretation"
+  ],
+  [
+    78.35556,
+    "B08",
+    -17,
+    "casual-hangout arrival"
+  ],
+  [
+    79.70665,
+    "B15",
+    -17,
+    "neural-download-console arrival"
+  ],
+  [
+    80.34665,
+    "B13",
+    -22,
+    "Download process"
+  ],
+  [
+    81.28665,
+    "C20",
+    -21,
+    "Broken wiring metaphor"
+  ],
+  [
+    81.32665,
+    "B16",
+    -17,
+    "broken-neuron-wiring arrival"
+  ],
+  [
+    82.90665,
+    "B27",
+    -23,
+    "Network rewrite"
+  ],
+  [
+    82.94665,
+    "A11",
+    -17,
+    "rewriting-neural-network arrival"
+  ],
+  [
+    83.40665,
+    "B36",
+    -14.5,
+    "future-self-choice arrival"
+  ],
+  [
+    84.46665,
+    "B19b",
+    -24,
+    "Closing emphasis"
+  ]
+]

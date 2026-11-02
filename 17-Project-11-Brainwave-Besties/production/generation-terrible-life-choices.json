@@ -1,0 +1,11 @@
+{
+  "id": "terrible-life-choices",
+  "prompt": "Use case: original illustration-story / scientific-educational animation asset. ONE isolated cutout matching phrase: terrible life choices,. First3 references define expressive rounded red stickman geometry, detailed clothing folds, bold black contours and confident gestures. Pure saturated RED/BLACK with sparse white highlights. Visible forearms/calves15% broader, not wire-thin, muscular or realistically human. Recurring friends messy black hair/red jacket/black tee and short black hair/rolled red shirt. Every biological/nerve/brain/cell prop must be standalone WITHOUT people, faces or limbs. True transparent alpha, full complete subject with generous margins, no cast shadow, matte, scene background or unrelated symbols. Identity labels only as requested. Subject: Coherent comic full-body scene of two red rounded stickman best friends making a ridiculous harmless choice: one wears a cooking-pot helmet and sits awkwardly in a small shopping cart while the other proudly presents a banana as a steering wheel. Broad arms/calves, detailed red clothes, knowingly foolish faces. No brain, gore, money, alcohol or text.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/terrible-life-choices.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-1f87581e-399d-45f5-9eff-8e98ed7911c6.png"
+}

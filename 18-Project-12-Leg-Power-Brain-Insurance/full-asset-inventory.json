@@ -1,0 +1,1196 @@
+{
+  "aging-host": {
+    "path": "assets/graphics/aging-host.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      127,
+      53,
+      878,
+      1498
+    ],
+    "sha256": "897d01539084c0a78c311837f928e192ee7698f626268b60950c8d0ac9149f4e",
+    "original": true
+  },
+  "biceps-poser": {
+    "path": "assets/graphics/biceps-poser.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      152,
+      16,
+      1074,
+      1284
+    ],
+    "sha256": "3418ad9ebe2193eb2811b0fd81d5db6cfb81e27dfaf9ca5cad03ef33d2121e80",
+    "original": true
+  },
+  "chest-diagram": {
+    "path": "assets/graphics/chest-diagram.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      13,
+      243,
+      1186,
+      1109
+    ],
+    "sha256": "594ed43cb81da0c2fb85fdd8b21d64dd50a74db0226fa68923edb9770a9ff2e2",
+    "original": true
+  },
+  "dismissive-host": {
+    "path": "assets/graphics/dismissive-host.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      154,
+      79,
+      985,
+      1487
+    ],
+    "sha256": "db13315a65d6d55a903af38403078de2df6143d46a3912bffd4ee1255fc6ebae",
+    "original": true
+  },
+  "bench-press": {
+    "path": "assets/graphics/bench-press.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      8,
+      158,
+      1194,
+      1220
+    ],
+    "sha256": "21aa02801a07536d9e1b561e98486fee45bf9cafc174e5dce46963f680a392df",
+    "original": true
+  },
+  "five-day-calendar": {
+    "path": "assets/graphics/five-day-calendar.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      21,
+      244,
+      1187,
+      1041
+    ],
+    "sha256": "77fa2a30a01e9912d35312a57e2c9029afae284768777e90dd830e6c285d1c37",
+    "original": true
+  },
+  "toothpick-walker": {
+    "path": "assets/graphics/toothpick-walker.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      77,
+      92,
+      984,
+      1463
+    ],
+    "sha256": "ca24477eac5956c9598f47b0acf6af56b3c398020da5e6fdbf3d6e115671f788",
+    "original": true
+  },
+  "leg-reveal": {
+    "path": "assets/graphics/leg-reveal.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      70,
+      45,
+      986,
+      1509
+    ],
+    "sha256": "a3d1669ccb869d8327046bef286af22214d7506ae8846f54f2032418c76accab",
+    "original": true
+  },
+  "lower-body": {
+    "path": "assets/graphics/lower-body.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      186,
+      12,
+      848,
+      1495
+    ],
+    "sha256": "ee1971b76d314d5463ee5b5f5453b894225fa61bf923a37fb734e0f92a1052de",
+    "original": true
+  },
+  "confident-mirror": {
+    "path": "assets/graphics/confident-mirror.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      39,
+      153,
+      1011,
+      1418
+    ],
+    "sha256": "ed2f5f0ce3c27ef48ce825bc0b4c8836484dfc7293442fb2b24cd7bcef4e2011",
+    "original": true
+  },
+  "energetic-stride": {
+    "path": "assets/graphics/energetic-stride.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      62,
+      40,
+      1007,
+      1494
+    ],
+    "sha256": "36b1eb6ef493c61457ab9658dea852ada44f581fa0041ccfeb41553c1c71a0bf",
+    "original": true
+  },
+  "agility-step": {
+    "path": "assets/graphics/agility-step.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      95,
+      80,
+      997,
+      1466
+    ],
+    "sha256": "0ebfbf490dd0c1751b0608d30b0741d873ebd35a5adb184784de0e49dacc7ab2",
+    "original": true
+  },
+  "two-decade-calendar": {
+    "path": "assets/graphics/two-decade-calendar.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      13,
+      401,
+      1191,
+      965
+    ],
+    "sha256": "e0738a16834d8431a0f2bf6f5923d7438854e539f3e0c38bc37bd432ac1919a2",
+    "original": true
+  },
+  "casual-watcher": {
+    "path": "assets/graphics/casual-watcher.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      145,
+      36,
+      924,
+      1500
+    ],
+    "sha256": "025e69accde4930a286a9e580bcb74deb22da7892b25303e6aa5651c0bb7a57b",
+    "original": true
+  },
+  "crumbling-peer": {
+    "path": "assets/graphics/crumbling-peer.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      105,
+      42,
+      992,
+      1505
+    ],
+    "sha256": "71bbd4e63d7c3bc8d03f4d3e3ab61e621f9425a210c5e9878b9d61dac843f74c",
+    "original": true
+  },
+  "study-report": {
+    "path": "assets/graphics/study-report.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      107,
+      48,
+      1102,
+      1303
+    ],
+    "sha256": "ed79e005bba01220b7d02f315012f0900b126a9994748cc0687d3382113fef99",
+    "original": true
+  },
+  "ten-year-timeline": {
+    "path": "assets/graphics/ten-year-timeline.png",
+    "native": [
+      1774,
+      887
+    ],
+    "alpha_bounds": [
+      53,
+      172,
+      1721,
+      745
+    ],
+    "sha256": "6262a5559c98cc6b17bc473cc721ec2f63c8596f0879d7946e4c843b898145c9",
+    "original": true
+  },
+  "female-cohort": {
+    "path": "assets/graphics/female-cohort.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      14,
+      49,
+      1186,
+      1241
+    ],
+    "sha256": "8801a485f6a10d3fa11c23404ad084ad032571e630efd345bb04a5007afe55e4",
+    "original": true
+  },
+  "twins-baseline": {
+    "path": "assets/graphics/twins-baseline.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      83,
+      54,
+      1195,
+      1263
+    ],
+    "sha256": "7edced91116ec605bcc2c7cbebd0d78df5b91c9d5a6915adf8c2750c970e79b1",
+    "original": true
+  },
+  "age-55": {
+    "path": "assets/graphics/age-55.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      57,
+      167,
+      1150,
+      1156
+    ],
+    "sha256": "ab1eb77240814377f19e3c13c3cbaaf5396ded7f488357dfdbf3231582fac9ea",
+    "original": true
+  },
+  "leg-power-test": {
+    "path": "assets/graphics/leg-power-test.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      40,
+      18,
+      1175,
+      1293
+    ],
+    "sha256": "bcd2f9bf507a4f7ef2e12a90d4271757ceebcd8a66fb0702abdc5768cabe4e5c",
+    "original": true
+  },
+  "prediction-brain": {
+    "path": "assets/graphics/prediction-brain.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      28,
+      145,
+      1177,
+      1179
+    ],
+    "sha256": "8c71989ad2068ea23172f9721917a66bb3fcadf2499beb3a99ba79e2447555d7",
+    "original": true
+  },
+  "brain-decay-metaphor": {
+    "path": "assets/graphics/brain-decay-metaphor.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      25,
+      146,
+      1172,
+      1197
+    ],
+    "sha256": "c6d2708f0ff720b3b426a9ac1c7a76bbcc00c0e23bc337433eec08fc42125ca7",
+    "original": true
+  },
+  "wild-results-host": {
+    "path": "assets/graphics/wild-results-host.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      149,
+      31,
+      1004,
+      1502
+    ],
+    "sha256": "d949bbb1b79afea0285993c4ac0c88b4bf0e1fbed10b42c1ea12699ee6d017a0",
+    "original": true
+  },
+  "powerful-twins": {
+    "path": "assets/graphics/powerful-twins.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      23,
+      92,
+      1182,
+      1231
+    ],
+    "sha256": "ae025d45bd67f1e98f093d1118aa658a9824f44f4f530b4d289464c94a920837",
+    "original": true
+  },
+  "cognitive-task": {
+    "path": "assets/graphics/cognitive-task.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      56,
+      70,
+      1169,
+      1282
+    ],
+    "sha256": "a12b326681c7b26a6c42fba151057aec560ac4a4bbb1319260009b4a79f35b1f",
+    "original": true
+  },
+  "follow-up-calendar": {
+    "path": "assets/graphics/follow-up-calendar.png",
+    "native": [
+      1212,
+      1297
+    ],
+    "alpha_bounds": [
+      44,
+      68,
+      1191,
+      1210
+    ],
+    "sha256": "46dfb7e72cdf39ca6d53142166521bad0eb5c2269c95fccb9569fdd1c15c357a",
+    "original": true
+  },
+  "mri-scanner": {
+    "path": "assets/graphics/mri-scanner.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      18,
+      74,
+      1186,
+      1228
+    ],
+    "sha256": "0a86887eb18ff649419cff1d388f23454981a02f0c43ffe58ad6a09d2a5654c3",
+    "original": true
+  },
+  "mri-brain-images": {
+    "path": "assets/graphics/mri-brain-images.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      13,
+      182,
+      1185,
+      1124
+    ],
+    "sha256": "c5c7a8c4c597a991fc4e8fb5011abb1e5e2e8f81cab00f6dba7088484e596969",
+    "original": true
+  },
+  "gray-matter": {
+    "path": "assets/graphics/gray-matter.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      34,
+      122,
+      1187,
+      1234
+    ],
+    "sha256": "bc44d1f0d9bd16e579a26ac7326113511866309fc63ba091afd049a08855e463",
+    "original": true
+  },
+  "brain-tissue": {
+    "path": "assets/graphics/brain-tissue.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      46,
+      44,
+      1163,
+      1274
+    ],
+    "sha256": "650b181b631eb478ea2a957e76997cea1a900b476f6335cc2fb059294a85c76b",
+    "original": true
+  },
+  "tissue-neuron": {
+    "path": "assets/graphics/tissue-neuron.png",
+    "native": [
+      1672,
+      941
+    ],
+    "alpha_bounds": [
+      33,
+      33,
+      1646,
+      910
+    ],
+    "sha256": "eefe9dcf342c22b5e2fd4ada8e4b96890ec4c092e3b466adcb43f6a218d25e5e",
+    "original": true
+  },
+  "forgetful-parent": {
+    "path": "assets/graphics/forgetful-parent.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      215,
+      26,
+      954,
+      1514
+    ],
+    "sha256": "ac5982587242ee83e6689fc86255cbf846f81de674deefe48459c905ee9dc34c",
+    "original": true
+  },
+  "family-photo": {
+    "path": "assets/graphics/family-photo.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      37,
+      97,
+      1178,
+      1159
+    ],
+    "sha256": "fe6c0dadce5d81850d9e28e6bbf572c53420d89f0ed14724dda37e0c7f6abf63",
+    "original": true
+  },
+  "strong-legs-summary": {
+    "path": "assets/graphics/strong-legs-summary.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      58,
+      19,
+      967,
+      1512
+    ],
+    "sha256": "0c762bd5efb0c6fd7d5425add505f579a7e4d38b93a82df15587be2f0665c5f6",
+    "original": true
+  },
+  "brain": {
+    "path": "assets/graphics/brain.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      5,
+      105,
+      1196,
+      1215
+    ],
+    "sha256": "087460441424684b2f5c65cc5156968140e1dc71976bb07b44e8b62bfb6cf315",
+    "original": true
+  },
+  "question-host": {
+    "path": "assets/graphics/question-host.png",
+    "native": [
+      1060,
+      1484
+    ],
+    "alpha_bounds": [
+      205,
+      11,
+      875,
+      1450
+    ],
+    "sha256": "a598c079aaae264c5f1f3343c9c12784af490ee25fc42c2ef1b910c9c163ef50",
+    "original": true
+  },
+  "squat-athlete": {
+    "path": "assets/graphics/squat-athlete.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      243,
+      16,
+      1032,
+      1295
+    ],
+    "sha256": "85a51a3ed030b6f2fc1a493a07e2576e9876e26b124a24858481e8ad9e18c39c",
+    "original": true
+  },
+  "leg-muscle": {
+    "path": "assets/graphics/leg-muscle.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      75,
+      34,
+      1179,
+      1284
+    ],
+    "sha256": "dacfdb6c8876e0931989c2d0e9edd4348e27f002cb4b96566f108fc63dc97516",
+    "original": true
+  },
+  "resistance-weight": {
+    "path": "assets/graphics/resistance-weight.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      36,
+      300,
+      1172,
+      1012
+    ],
+    "sha256": "6343dc213da04a2c2f0084b692e424396fe4c06d26834b7d136a282b528f64b2",
+    "original": true
+  },
+  "myokines": {
+    "path": "assets/graphics/myokines.png",
+    "native": [
+      1221,
+      1289
+    ],
+    "alpha_bounds": [
+      37,
+      71,
+      1196,
+      1230
+    ],
+    "sha256": "e9986269314f0ee89f63f8614f0870c5b5088ba47e60187385050f5cdf667bee",
+    "original": true
+  },
+  "bdnf": {
+    "path": "assets/graphics/bdnf.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      30,
+      135,
+      1172,
+      1188
+    ],
+    "sha256": "2b43a0130c5119a4bb6c8db52fd7499b74431ecbbe178e5e2370f983aeb2695b",
+    "original": true
+  },
+  "growth-metaphor": {
+    "path": "assets/graphics/growth-metaphor.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      58,
+      95,
+      1183,
+      1220
+    ],
+    "sha256": "d971d573fac7639900ee303dfe25c2d4dba95a1974e049dc5ae8308ee84aad91",
+    "original": true
+  },
+  "neuron": {
+    "path": "assets/graphics/neuron.png",
+    "native": [
+      1774,
+      887
+    ],
+    "alpha_bounds": [
+      23,
+      25,
+      1751,
+      860
+    ],
+    "sha256": "f0d9592451908beac8660f54e4614467f6503979c498a5af12937f282469651c",
+    "original": true
+  },
+  "neural-network": {
+    "path": "assets/graphics/neural-network.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      12,
+      104,
+      1527,
+      898
+    ],
+    "sha256": "436f8961164d5de256371cf2337b62315765d230b4b32d52dc6f82c43140a371",
+    "original": true
+  },
+  "shrinking-brain-contrast": {
+    "path": "assets/graphics/shrinking-brain-contrast.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      50,
+      156,
+      1160,
+      1201
+    ],
+    "sha256": "53adea3a66a49d97d0edfbfa6d342bcde36abf1fbd90717fb5aa08f8fdb41173",
+    "original": true
+  },
+  "alarmed-host": {
+    "path": "assets/graphics/alarmed-host.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      119,
+      29,
+      920,
+      1505
+    ],
+    "sha256": "f7fa032f14ca61babcc545e9b34a90b362a8a1450e12702050cdb4394f466565",
+    "original": true
+  },
+  "identical-twins-control": {
+    "path": "assets/graphics/identical-twins-control.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      53,
+      47,
+      1186,
+      1265
+    ],
+    "sha256": "f978c963abdb9b385b5921551d305769ed5c09922c0d7da1a415284e73b79476",
+    "original": true
+  },
+  "genetic-helix": {
+    "path": "assets/graphics/genetic-helix.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      263,
+      25,
+      815,
+      1507
+    ],
+    "sha256": "82b983b8d89999d3160117f44b42491d2d44422cda31c4275f61ce0a34c35cb1",
+    "original": true
+  },
+  "childhood-photo": {
+    "path": "assets/graphics/childhood-photo.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      30,
+      38,
+      1187,
+      1274
+    ],
+    "sha256": "9c547c0e70b4c63e3e61d2c02a16f5d9ab0bda5d424e9e19ac885276207ad022",
+    "original": true
+  },
+  "horoscope-wheel": {
+    "path": "assets/graphics/horoscope-wheel.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      66,
+      59,
+      1136,
+      1253
+    ],
+    "sha256": "7f45c003e30af74c9ececf722904083a8eac41f8b7dcaa58ed0277b34744f6af",
+    "original": true
+  },
+  "raw-leg-power": {
+    "path": "assets/graphics/raw-leg-power.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      72,
+      23,
+      995,
+      1519
+    ],
+    "sha256": "115dab4a16d55f20c8752d3cd70074bf6bb6f8eb536646ae565b921a8446ed00",
+    "original": true
+  },
+  "power-difference": {
+    "path": "assets/graphics/power-difference.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      181,
+      16,
+      1374,
+      1015
+    ],
+    "sha256": "c97abebdefe25b99a710125ff145f515a5cc84938d4a515b088dd5156d6a74f5",
+    "original": true
+  },
+  "common-sense-host": {
+    "path": "assets/graphics/common-sense-host.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      26,
+      41,
+      1006,
+      1496
+    ],
+    "sha256": "d0e1c9681ac08ce767f2336cf39a9c9bb4e483d5ab892fc15009ed58b6fd6370",
+    "original": true
+  },
+  "older-self": {
+    "path": "assets/graphics/older-self.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      216,
+      51,
+      886,
+      1501
+    ],
+    "sha256": "67fc7dfe1c160df56e1996ba30587df72fd8d29754b18bb42a677fd82d5d0654",
+    "original": true
+  },
+  "mental-tax": {
+    "path": "assets/graphics/mental-tax.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "alpha_bounds": [
+      35,
+      66,
+      1225,
+      1231
+    ],
+    "sha256": "6475e3c70e371c80152f3ece4cf38429c38fb54588aae8b25a5f4538ca503fda",
+    "original": true
+  },
+  "balance-walk": {
+    "path": "assets/graphics/balance-walk.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      83,
+      48,
+      991,
+      1492
+    ],
+    "sha256": "e101aae9ad84e035bfe9a03ea13a68b57150bd923970c472d2bbe680bb0ad2d9",
+    "original": true
+  },
+  "seventy-year-old": {
+    "path": "assets/graphics/seventy-year-old.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      208,
+      41,
+      829,
+      1510
+    ],
+    "sha256": "fab28c9ea013289ba82395e2eb1d1e5ae6d9e74b8d62d70ca5636efd434299a8",
+    "original": true
+  },
+  "eighty-year-old": {
+    "path": "assets/graphics/eighty-year-old.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      184,
+      75,
+      924,
+      1488
+    ],
+    "sha256": "36d011a6a0696587a9a5002b192e8c8c74e9d4fe7cb4604f9442812961d915b8",
+    "original": true
+  },
+  "walker": {
+    "path": "assets/graphics/walker.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      40,
+      62,
+      1187,
+      1252
+    ],
+    "sha256": "a7b1162ad6633b2356ddb20a590e045cf59f4c877d1a1d526c8016c40feabca2",
+    "original": true
+  },
+  "paranoid-step": {
+    "path": "assets/graphics/paranoid-step.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      86,
+      49,
+      974,
+      1478
+    ],
+    "sha256": "13e4897bb603b3bc6072a23b38daeaca3cba050a152c17a20db188a9532650e9",
+    "original": true
+  },
+  "stairs": {
+    "path": "assets/graphics/stairs.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      129,
+      28,
+      1411,
+      1015
+    ],
+    "sha256": "1527f556e8624348b1100063a91d502b692969ab66d336db695945c462f54e75",
+    "original": true
+  },
+  "misstep": {
+    "path": "assets/graphics/misstep.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      252,
+      18,
+      1368,
+      1023
+    ],
+    "sha256": "98298271df01048f6d3453555cc90bd59ac0acba896165db3a8e07f749320de7",
+    "original": true
+  },
+  "hip-fracture": {
+    "path": "assets/graphics/hip-fracture.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      91,
+      20,
+      1005,
+      1524
+    ],
+    "sha256": "902fa3895b5af5df4cd687d01b506e77378830dc5d204a1a5765e0b10b7aa0c7",
+    "original": true
+  },
+  "afterlife-ticket": {
+    "path": "assets/graphics/afterlife-ticket.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      29,
+      164,
+      1533,
+      917
+    ],
+    "sha256": "b5a0bad7b61b82d45464e9e3be35da71429bfdd290100c3f7820642f56e1b7f3",
+    "original": true
+  },
+  "squat-exercise": {
+    "path": "assets/graphics/squat-exercise.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      87,
+      110,
+      1005,
+      1438
+    ],
+    "sha256": "e6c3c6c01953035665e9b65f9827652a7d16aa9f50b03b81b2a4898637fffda8",
+    "original": true
+  },
+  "hip-thrust": {
+    "path": "assets/graphics/hip-thrust.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      52,
+      42,
+      1484,
+      965
+    ],
+    "sha256": "a150311e1090abf4e06a1dde1b164b43e1bfe361618c5b512da48888d790891c",
+    "original": true
+  },
+  "lunge": {
+    "path": "assets/graphics/lunge.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      51,
+      39,
+      989,
+      1493
+    ],
+    "sha256": "d89abe6270483fa94509e35f37f90af22f2d66bb8862832cf7694b316dfafc64",
+    "original": true
+  },
+  "shorts-confidence": {
+    "path": "assets/graphics/shorts-confidence.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      107,
+      4,
+      934,
+      1508
+    ],
+    "sha256": "b75e35a52eeff2744511165b9f9b077352a8d1c198348057dfedaaa17a8dfbf4",
+    "original": true
+  },
+  "insurance-policy": {
+    "path": "assets/graphics/insurance-policy.png",
+    "native": [
+      1199,
+      1312
+    ],
+    "alpha_bounds": [
+      53,
+      28,
+      1165,
+      1271
+    ],
+    "sha256": "9d5ca749b0c559081cb620ad7d946bae3cb121abcc07f924e5cd5487f434eff5",
+    "original": true
+  },
+  "nervous-system": {
+    "path": "assets/graphics/nervous-system.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      88,
+      7,
+      937,
+      1515
+    ],
+    "sha256": "7e8cfa50f27527ae1dfc2f21fb438674615ff02a1f8db9f63992025450677408",
+    "original": true
+  },
+  "brain-intact": {
+    "path": "assets/graphics/brain-intact.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "alpha_bounds": [
+      71,
+      30,
+      1181,
+      1232
+    ],
+    "sha256": "a985130d176de3219cc2329707fba63b8d6230e041d818090fa679426432a071",
+    "original": true
+  },
+  "working-brain": {
+    "path": "assets/graphics/working-brain.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "alpha_bounds": [
+      10,
+      59,
+      1244,
+      1206
+    ],
+    "sha256": "b337a3c461ec336cd1e4bcb4f0c56e8d026b4c1a78220cb9f95448613d9488b4",
+    "original": true
+  },
+  "eighty-calendar": {
+    "path": "assets/graphics/eighty-calendar.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "alpha_bounds": [
+      36,
+      47,
+      1234,
+      1198
+    ],
+    "sha256": "2a9cd7abdbe84956ebbe5d397b091e6dbb2502662bdc801bfeb99ce362b29958",
+    "original": true
+  },
+  "nursing-home": {
+    "path": "assets/graphics/nursing-home.png",
+    "native": [
+      1536,
+      1024
+    ],
+    "alpha_bounds": [
+      268,
+      51,
+      1387,
+      990
+    ],
+    "sha256": "363ae56e6b9378a0763b0b58cea8ba08a03cc505b0f02c9f3f5ad39ce6ba1bb3",
+    "original": true
+  },
+  "leg-day-finale": {
+    "path": "assets/graphics/leg-day-finale.png",
+    "native": [
+      1024,
+      1536
+    ],
+    "alpha_bounds": [
+      107,
+      13,
+      935,
+      1497
+    ],
+    "sha256": "b4144b4d43bd9188a83931141c198368daaa7e8fb527211fdfb29011ad4978d2",
+    "original": true
+  },
+  "01-diagonal.png": {
+    "path": "references/01-diagonal.png",
+    "native": [
+      1206,
+      1305
+    ],
+    "alpha_bounds": [
+      31,
+      23,
+      1152,
+      1305
+    ],
+    "original": false,
+    "tip": [
+      1144,
+      96
+    ]
+  },
+  "02-upward.png": {
+    "path": "references/02-upward.png",
+    "native": [
+      1205,
+      1305
+    ],
+    "alpha_bounds": [
+      81,
+      22,
+      1185,
+      1275
+    ],
+    "original": false,
+    "tip": [
+      449,
+      43
+    ]
+  },
+  "03-straight-head-tilt.png": {
+    "path": "references/03-straight-head-tilt.png",
+    "native": [
+      1205,
+      1306
+    ],
+    "alpha_bounds": [
+      57,
+      39,
+      1095,
+      1257
+    ],
+    "original": false,
+    "tip": [
+      525,
+      52
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "tests": {
+    "upperCut": true,
+    "horizontalScissors": true,
+    "scissorsExit": true,
+    "horizontalSplit": true,
+    "concurrentArrow": true,
+    "peptideReveal": true,
+    "originalDuration": true,
+    "noCutPresenter": true,
+    "noMissingArtwork": true,
+    "noPageErrors": true
+  },
+  "rows": [
+    {
+      "t": 98.5,
+      "scissors": {
+        "x": 104.16644287109375,
+        "y": 516.0676879882812
+      },
+      "proteinCenter": 680,
+      "topY": 0,
+      "bottomY": 0,
+      "arrowOffset": 863,
+      "arrowLength": 863.2607421875,
+      "proteinOpacity": 0.9686,
+      "peptides": 0,
+      "duration": 114.6,
+      "cutPresenter": false,
+      "missing": []
+    },
+    {
+      "t": 98.8,
+      "scissors": {
+        "x": 135.52723693847656,
+        "y": 516.0676879882812
+      },
+      "proteinCenter": 680,
+      "topY": 0,
+      "bottomY": 0,
+      "arrowOffset": 863,
+      "arrowLength": 863.2607421875,
+      "proteinOpacity": 1,
+      "peptides": 0,
+      "duration": 114.6,
+      "cutPresenter": false,
+      "missing": []
+    },
+    {
+      "t": 99.1,
+      "scissors": {
+        "x": 974.0914306640625,
+        "y": 516.0676879882812
+      },
+      "proteinCenter": 680,
+      "topY": -29.2453,
+      "bottomY": 29.2453,
+      "arrowOffset": 801,
+      "arrowLength": 863.2607421875,
+      "proteinOpacity": 1,
+      "peptides": 0,
+      "duration": 114.6,
+      "cutPresenter": false,
+      "missing": []
+    },
+    {
+      "t": 99.36,
+      "scissors": {
+        "x": 1154.16650390625,
+        "y": 516.0676879882812
+      },
+      "proteinCenter": 680,
+      "topY": -32,
+      "bottomY": 32,
+      "arrowOffset": 6,
+      "arrowLength": 863.2607421875,
+      "proteinOpacity": 1,
+      "peptides": 0,
+      "duration": 114.6,
+      "cutPresenter": false,
+      "missing": []
+    },
+    {
+      "t": 99.8,
+      "scissors": {
+        "x": 1154.16650390625,
+        "y": 516.0676879882812
+      },
+      "proteinCenter": 680,
+      "topY": -32,
+      "bottomY": 32,
+      "arrowOffset": 0,
+      "arrowLength": 863.2607421875,
+      "proteinOpacity": 1,
+      "peptides": 1,
+      "duration": 114.6,
+      "cutPresenter": false,
+      "missing": []
+    }
+  ],
+  "errors": [],
+  "voice_note": "Only inserted600ms of zero voice samples removed; other voice samples copied exactly."
+}

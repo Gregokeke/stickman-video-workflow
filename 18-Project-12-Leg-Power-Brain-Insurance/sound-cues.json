@@ -1,0 +1,832 @@
+[
+  {
+    "time": 0.09,
+    "start": 0.03396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: aging-host",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 2.81,
+    "start": 2.74802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: biceps-poser",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 3.6599999999999997,
+    "start": 3.60885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from biceps-poser",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.34,
+    "start": 5.29071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: dismissive-host",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 5.95,
+    "start": 5.89165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: bench-press",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 6.56,
+    "start": 6.48344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from bench-press",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 7.6899999999999995,
+    "start": 7.633959999999999,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: toothpick-walker",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 10.25,
+    "start": 10.18802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: leg-reveal",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 11.16,
+    "start": 11.107380000000001,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from leg-reveal",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 12.79,
+    "start": 12.74071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: confident-mirror",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.26,
+    "start": 13.201649999999999,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: energetic-stride",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 13.97,
+    "start": 13.91967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: agility-step",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 16.01,
+    "start": 15.948020000000001,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: casual-watcher",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 18.23,
+    "start": 18.16515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: crumbling-peer",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 20.02,
+    "start": 19.97071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: study-report",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 21.32,
+    "start": 21.26967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: female-cohort",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 22.4,
+    "start": 22.34885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from female-cohort",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 23.46,
+    "start": 23.40165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: age-55",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 25.44,
+    "start": 25.37515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: leg-power-test",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 26.85,
+    "start": 26.77344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from leg-power-test",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 28.53,
+    "start": 28.47885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from prediction-brain",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 29.34,
+    "start": 29.27515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: wild-results-host",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 31.11,
+    "start": 31.05396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: powerful-twins",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.07,
+    "start": 34.01165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: cognitive-task",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 34.34,
+    "start": 34.29769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Instruction guide arrives",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 35.59,
+    "start": 35.53967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: follow-up-calendar",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 37.64,
+    "start": 37.58396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: mri-scanner",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.150000000000006,
+    "start": 40.073440000000005,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from mri-brain-images",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 40.56,
+    "start": 40.51769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Instruction guide arrives",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 41.71,
+    "start": 41.65885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from gray-matter",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 43.35,
+    "start": 43.29875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from brain-tissue",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 44.63,
+    "start": 44.56515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: forgetful-parent",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 45.52,
+    "start": 45.44344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from forgetful-parent",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 46.49,
+    "start": 46.428020000000004,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: strong-legs-summary",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 48.77,
+    "start": 48.71875,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from strong-legs-summary",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 49.43000000000001,
+    "start": 49.373960000000004,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: question-host",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 49.96,
+    "start": 49.89802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: squat-athlete",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 51.13,
+    "start": 51.07885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from squat-athlete",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 51.64,
+    "start": 51.59071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "Finite muscle contraction",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 52.400000000000006,
+    "start": 52.35071000000001,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: resistance-weight",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 53.71,
+    "start": 53.65738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from leg-muscle",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 57.32,
+    "start": 57.24344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from myokines",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 57.81,
+    "start": 57.76769,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Instruction guide arrives",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 59.6,
+    "start": 59.55071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: growth-metaphor",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 60.68000000000001,
+    "start": 60.62165000000001,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: brain-cell-source",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 62.04,
+    "start": 61.99071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Axon signal begins",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 63.21,
+    "start": 63.13344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from neuron",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 63.84,
+    "start": 63.80033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -22,
+    "reason": "Neural pathway resolves",
+    "duration": 0.929,
+    "tail_preserved": true
+  },
+  {
+    "time": 64.69,
+    "start": 64.63165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: shrinking-brain-contrast",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 66.08,
+    "start": 66.01514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: alarmed-host",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 68.14,
+    "start": 68.08396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: identical-twins-control",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 70.96000000000001,
+    "start": 70.88344000000001,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from identical-twins-control",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 71.72,
+    "start": 71.66967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: childhood-photo",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 72.86,
+    "start": 72.81071,
+    "source": "B02",
+    "path": "assets/sfx/B02_Dry_Shutter_Click_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: horoscope-wheel",
+    "duration": 0.312,
+    "tail_preserved": true
+  },
+  {
+    "time": 73.02,
+    "start": 72.97502,
+    "source": "C18",
+    "path": "assets/sfx/C18_Record_Scratch_Rewind_01.wav",
+    "target_peak_dbfs": -23,
+    "reason": "Horoscope excuse rejected",
+    "duration": 1.337,
+    "tail_preserved": true
+  },
+  {
+    "time": 73.99000000000001,
+    "start": 73.92802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: raw-leg-power",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 75.39,
+    "start": 75.33967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: power-difference",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 77.4,
+    "start": 77.34396000000001,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: common-sense-host",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 78.21000000000001,
+    "start": 78.14802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: older-self",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 80.14,
+    "start": 80.08738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from older-self",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 81.36,
+    "start": 81.30396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: balance-walk",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 83.37,
+    "start": 83.30802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: seventy-year-old",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 83.96000000000001,
+    "start": 83.89515,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: eighty-year-old",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 85.36,
+    "start": 85.30738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from eighty-year-old",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 86.93,
+    "start": 86.86802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: paranoid-step",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 90.41,
+    "start": 90.35967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: stairs",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 91.69,
+    "start": 91.63396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: misstep",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 92.92,
+    "start": 92.86738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from misstep",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 93.04,
+    "start": 92.99654000000001,
+    "source": "C20",
+    "path": "assets/sfx/C20_Dry_Crack_Snap_01.wav",
+    "target_peak_dbfs": -18,
+    "reason": "Hip-fracture diagram emphasis",
+    "duration": 0.598,
+    "tail_preserved": true
+  },
+  {
+    "time": 94.03,
+    "start": 93.95344,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from hip-fracture",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 96.01,
+    "start": 95.95396000000001,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: squat-exercise",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 97.33,
+    "start": 97.27165,
+    "source": "B27",
+    "path": "assets/sfx/B27_Dry_Double_Tick_01.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: hip-thrust",
+    "duration": 0.305,
+    "tail_preserved": true
+  },
+  {
+    "time": 98.11,
+    "start": 98.04514999999999,
+    "source": "O01",
+    "path": "assets/sfx/O01_Original_Project_Whoosh_Level_Matched.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: lunge",
+    "duration": 0.43,
+    "tail_preserved": true
+  },
+  {
+    "time": 99.74000000000001,
+    "start": 99.68396000000001,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: shorts-confidence",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 101.71000000000001,
+    "start": 101.65885,
+    "source": "A11",
+    "path": "assets/sfx/A11_Soft_Bubble_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from shorts-confidence",
+    "duration": 0.285,
+    "tail_preserved": true
+  },
+  {
+    "time": 103.27000000000001,
+    "start": 103.21875000000001,
+    "source": "B08",
+    "path": "assets/sfx/B08_Soft_Bubble_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from shorts-confidence",
+    "duration": 0.239,
+    "tail_preserved": true
+  },
+  {
+    "time": 104.95,
+    "start": 104.89738,
+    "source": "B15",
+    "path": "assets/sfx/B15_Rounded_Plop_01.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from nervous-system",
+    "duration": 0.342,
+    "tail_preserved": true
+  },
+  {
+    "time": 106.00999999999999,
+    "start": 105.96768999999999,
+    "source": "B06",
+    "path": "assets/sfx/B06_Soft_Air_Brush_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Instruction guide arrives",
+    "duration": 0.499,
+    "tail_preserved": true
+  },
+  {
+    "time": 107.10000000000001,
+    "start": 107.02344000000001,
+    "source": "B16",
+    "path": "assets/sfx/B16_Rounded_Plop_02.wav",
+    "target_peak_dbfs": -17.5,
+    "reason": "Detail emerges from brain-intact",
+    "duration": 0.282,
+    "tail_preserved": true
+  },
+  {
+    "time": 107.82000000000001,
+    "start": 107.76967,
+    "source": "B18",
+    "path": "assets/sfx/B18_Rounded_Plop_04.wav",
+    "target_peak_dbfs": -19,
+    "reason": "Supporting prop resolves: eighty-calendar",
+    "duration": 0.206,
+    "tail_preserved": true
+  },
+  {
+    "time": 109.05,
+    "start": 108.99396,
+    "source": "B20",
+    "path": "assets/sfx/B20_Fast_Whip_Swoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: nursing-home",
+    "duration": 0.54,
+    "tail_preserved": true
+  },
+  {
+    "time": 111.17,
+    "start": 111.10802,
+    "source": "B31",
+    "path": "assets/sfx/B31_Swiping_Whoosh_01.wav",
+    "target_peak_dbfs": -18.5,
+    "reason": "Character or scene arrival: leg-day-finale",
+    "duration": 0.905,
+    "tail_preserved": true
+  },
+  {
+    "time": 112.0,
+    "start": 111.96033,
+    "source": "C14",
+    "path": "assets/sfx/C14_Success_Notification_Blip_01.wav",
+    "target_peak_dbfs": -20,
+    "reason": "Leg-day closing resolution",
+    "duration": 0.929,
+    "tail_preserved": true
+  }
+]

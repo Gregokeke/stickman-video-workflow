@@ -1,0 +1,11 @@
+{
+  "id": "shared-braincell-duo",
+  "prompt": "Use case: illustration-story / scientific-educational. ONE original isolated animation cutout for the exact phrase: which explains how the two of you managed to share a single functioning brain cell.. References1/2/3 define expressive rounded stickman anatomy, detailed clothing and strong black contours. Saturated pure RED #ff0000 with black detail and sparse white highlights, same cohesive graphic style. People retain simple round heads and straight limbs, exposed forearms/calves15% broader, not wire-thin, realistic or muscular. Recurring friends: messy black hair/red jacket/black tee, and short black hair/rolled red shirt. Scientific props standalone with NO baked-in people, faces or mascot limbs. True transparent alpha background, generous margins, no cast shadow/matte/scenery/unrelated lettering. Only requested identity labels. Subject: Coherent funny scene: two broad-limbed red rounded stickman best friends slouch on a compact red sofa, one holds game controller, the other stares blankly with crooked grin; both visibly clueless. Messy-haired jacket friend and short-haired red shirt friend. No brain, cell, floating icon or text.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/shared-braincell-duo.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-54b4db54-e936-48e2-8586-09263e989ebe.png"
+}

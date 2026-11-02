@@ -1,0 +1,11 @@
+{
+  "id": "broken-neuron-wiring",
+  "prompt": "Use case: original illustration-story / scientific-educational animation cutout. Exact narrated phrase: broken neural wiring and. Match attached3 references: expressive rounded red stickman heads, strong clean black outlines, detailed red clothing folds, confident acting. Saturated pure RED and BLACK, sparse white highlights. Exposed forearms/calves slightly broader15%, never skinny wire limbs, muscular or realistically human. Friends: messy hair/red jacket/black tee and short hair/rolled red shirt. Biological science subjects standalone WITHOUT people, faces, eyes or mascot limbs. True transparent alpha background, generous margins, complete subject, no cast shadow/matte/scenery. No lettering except requested identity labels. Subject: Standalone red anatomical neuron axon with clearly separated frayed terminals and a visible narrow gap, dendrites/soma on left and myelin sheath segments. Integrated NEURAL WIRING label. Metaphorical schematic, no people, faces, electric plugs or sparks.",
+  "references": [
+    "/workspace/scratch/da11170a9a63/fifth-video/references/style-eater.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/schemer.png",
+    "/workspace/scratch/da11170a9a63/fifth-video/references/self-idea.png"
+  ],
+  "path": "assets/graphics/broken-neuron-wiring.png",
+  "generated_path": "/workspace/scratch/da11170a9a63/generated_images/exec-1af943cf-bb37-4d48-9f0c-e926b5536f25.png"
+}

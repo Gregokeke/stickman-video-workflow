@@ -61,5 +61,55 @@
     "render_size": 27252680,
     "sha256": "eceaf8dae8db4305a01016f33a2ec9389fcfcfbecbd1781d66a3efb436dc1da2",
     "same_as_external": true
+  },
+  {
+    "reference": 8,
+    "layout": "expanded",
+    "source_directory": "14-Project-8-Fasting-Self-Recycling",
+    "render_path": "14-Project-8-Fasting-Self-Recycling/renders/Fasting-Self-Recycling.mp4",
+    "render_size": 29021727,
+    "sha256": "222cd424e8256cc61a356f88105034105b18fe26befb88725c8771e1d1d34aee",
+    "source_archive": "Fasting-Self-Recycling-Project.zip",
+    "source_member": "Fasting-Self-Recycling/renders/Fasting-Self-Recycling.mp4"
+  },
+  {
+    "reference": 9,
+    "layout": "expanded",
+    "source_directory": "15-Project-9-One-Winner-Each-Organ",
+    "render_path": "15-Project-9-One-Winner-Each-Organ/renders/One-Winner-Each-Organ.mp4",
+    "render_size": 34621023,
+    "sha256": "e2ee37a63df9103805e87b0af1078607b003ed1a6cf612ea838a305c853a3198",
+    "source_archive": "One-Winner-Each-Organ-Project.zip",
+    "source_member": "One-Winner-Each-Organ/renders/One-Winner-Each-Organ.mp4"
+  },
+  {
+    "reference": 10,
+    "layout": "expanded",
+    "source_directory": "16-Project-10-Kiwi-Small-Fruit-Big-Attitude",
+    "render_path": "16-Project-10-Kiwi-Small-Fruit-Big-Attitude/renders/Kiwi-Small-Fruit-Big-Attitude.mp4",
+    "render_size": 28421699,
+    "sha256": "189c89543b1d4abe2db87f5b0dd36ed09418373f0ecfd717621bf435efc25695",
+    "source_archive": "Kiwi-Small-Fruit-Big-Attitude-Project.zip",
+    "source_member": "Kiwi-Small-Fruit-Big-Attitude/renders/Kiwi-Small-Fruit-Big-Attitude.mp4"
+  },
+  {
+    "reference": 11,
+    "layout": "expanded",
+    "source_directory": "17-Project-11-Brainwave-Besties",
+    "render_path": "17-Project-11-Brainwave-Besties/renders/Brainwave-Besties.mp4",
+    "render_size": 20011543,
+    "sha256": "61721c0a5dc087b6a8936581a895c00b1903330fe7368abb9aa24a14949cb624",
+    "source_archive": "Brainwave-Besties-Project.zip",
+    "source_member": "Brainwave-Besties/renders/Brainwave-Besties.mp4"
+  },
+  {
+    "reference": 12,
+    "layout": "expanded",
+    "source_directory": "18-Project-12-Leg-Power-Brain-Insurance",
+    "render_path": "18-Project-12-Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4",
+    "render_size": 27637679,
+    "sha256": "79a70770b026ebd4df851cb248500930158ff96a02d085cf86068cc2e5361d05",
+    "source_archive": "Leg-Power-Brain-Insurance-Project.zip",
+    "source_member": "Leg-Power-Brain-Insurance/renders/Leg-Power-Brain-Insurance.mp4"
   }
 ]

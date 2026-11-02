@@ -1,0 +1,18 @@
+{
+  "full_narration_word_count": 332,
+  "quiet_cut_word_guard_conflicts": [],
+  "narration_reconstruction_max_error": 1.1897463991772383e-07,
+  "full_narration_duration": 112.48554166666666,
+  "last_full_word": {
+    "start": 111.97942,
+    "end": 112.23942,
+    "word": "day.",
+    "probability": 0.9893125891685486
+  },
+  "full_master_duration": 113.0,
+  "full_captions_match_all_words": true,
+  "caption_phrases": 79,
+  "encoded_audio_correlation_min": 0.9989899848454095,
+  "active_audio_windows": 113,
+  "full_video_complete": true
+}

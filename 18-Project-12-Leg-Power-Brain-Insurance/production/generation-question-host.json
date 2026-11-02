@@ -1,0 +1,12 @@
+{
+  "id": "question-host",
+  "prompt": "Use case: illustration-story. Asset type: original transparent cutout for premium vertical stickman explanatory video. Input images: all three supplied images are STYLE REFERENCES ONLY, not edit targets. Match their bold black ink, saturated pure red #ff0000, detailed clean contour, subtle red modeling, clothing folds where applicable and rounded expressive non-realistic stickman language. Black #101010, red, white highlights ONLY. True transparent alpha background. One isolated principal asset, fully contained with generous transparent margins, no contact sheet, no background, no unrelated text, no watermark, no floor shadow. Primary request: A full-body red rounded stickman presenter, red jacket over black shirt, red pants and round shoes, simple black messy hair and expressive eyebrows, one hand at chin and other arm supporting elbow, thoughtful skeptical questioning face. Visible limbs sturdy and about15 percent broader than generic wire stickmen. No question mark or objects, no organs.",
+  "tool": "built-in ImageGen",
+  "transparent_background": true,
+  "style_references": [
+    "references/style-eater.png",
+    "references/schemer.png",
+    "references/self-idea.png"
+  ],
+  "output_hint": "Generated images are saved to /workspace/scratch/da11170a9a63/generated_images as /workspace/scratch/da11170a9a63/generated_images/exec-66123012-2bc8-4d7e-a7e7-80301fe13fae.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

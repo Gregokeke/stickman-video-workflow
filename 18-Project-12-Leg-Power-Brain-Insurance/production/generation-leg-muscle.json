@@ -1,0 +1,12 @@
+{
+  "id": "leg-muscle",
+  "prompt": "Use case: illustration-story. Asset type: original transparent cutout for premium vertical stickman explanatory video. Input images: all three supplied images are STYLE REFERENCES ONLY, not edit targets. Match their bold black ink, saturated pure red #ff0000, detailed clean contour, subtle red modeling, clothing folds where applicable and rounded expressive non-realistic stickman language. Black #101010, red, white highlights ONLY. True transparent alpha background. One isolated principal asset, fully contained with generous transparent margins, no contact sheet, no background, no unrelated text, no watermark, no floor shadow. Primary request: ONE standalone stylized educational quadriceps skeletal muscle belly, diagonal lower-left tendon to upper-right tendon, thick elongated red spindle with several clearly separated parallel longitudinal bundles, subtle transverse striations, both pale-red tendons complete. No disembodied realistic human leg or person. Small integrated red plaque below reads exactly MUSCLE.",
+  "tool": "built-in ImageGen",
+  "transparent_background": true,
+  "style_references": [
+    "references/style-eater.png",
+    "references/schemer.png",
+    "references/self-idea.png"
+  ],
+  "output_hint": "Generated images are saved to /workspace/scratch/da11170a9a63/generated_images as /workspace/scratch/da11170a9a63/generated_images/exec-4c33829d-59cf-48ce-9328-4077b22a5e19.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

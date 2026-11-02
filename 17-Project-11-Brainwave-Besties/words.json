@@ -1,0 +1,1454 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.52,
+    "word": "Science",
+    "probability": 0.7274940013885498
+  },
+  {
+    "start": 0.52,
+    "end": 0.88,
+    "word": "shows",
+    "probability": 0.9922395944595337
+  },
+  {
+    "start": 0.88,
+    "end": 1.16,
+    "word": "that",
+    "probability": 0.9892743229866028
+  },
+  {
+    "start": 1.16,
+    "end": 1.32,
+    "word": "your",
+    "probability": 0.9897446036338806
+  },
+  {
+    "start": 1.32,
+    "end": 1.74,
+    "word": "brain",
+    "probability": 0.9921408891677856
+  },
+  {
+    "start": 1.74,
+    "end": 2.0,
+    "word": "and",
+    "probability": 0.9318158626556396
+  },
+  {
+    "start": 2.0,
+    "end": 2.16,
+    "word": "your",
+    "probability": 0.9811087250709534
+  },
+  {
+    "start": 2.16,
+    "end": 2.44,
+    "word": "best",
+    "probability": 0.9873237609863281
+  },
+  {
+    "start": 2.44,
+    "end": 2.9,
+    "word": "friend's",
+    "probability": 0.9567963480949402
+  },
+  {
+    "start": 2.9,
+    "end": 3.16,
+    "word": "brain",
+    "probability": 0.9968919157981873
+  },
+  {
+    "start": 3.16,
+    "end": 3.6,
+    "word": "literally",
+    "probability": 0.9780243635177612
+  },
+  {
+    "start": 3.6,
+    "end": 4.14,
+    "word": "sync",
+    "probability": 0.9521885514259338
+  },
+  {
+    "start": 4.14,
+    "end": 4.36,
+    "word": "up",
+    "probability": 0.9889854192733765
+  },
+  {
+    "start": 4.36,
+    "end": 4.7,
+    "word": "together",
+    "probability": 0.9954119324684143
+  },
+  {
+    "start": 4.7,
+    "end": 4.96,
+    "word": "like",
+    "probability": 0.9628066420555115
+  },
+  {
+    "start": 4.96,
+    "end": 5.46,
+    "word": "Bluetooth,",
+    "probability": 0.6186767816543579
+  },
+  {
+    "start": 5.79256,
+    "end": 6.03256,
+    "word": "which",
+    "probability": 0.9656149744987488
+  },
+  {
+    "start": 6.03256,
+    "end": 6.47256,
+    "word": "explains",
+    "probability": 0.9950537085533142
+  },
+  {
+    "start": 6.47256,
+    "end": 6.73256,
+    "word": "how",
+    "probability": 0.9962367415428162
+  },
+  {
+    "start": 6.73256,
+    "end": 6.83256,
+    "word": "the",
+    "probability": 0.9927073121070862
+  },
+  {
+    "start": 6.83256,
+    "end": 7.07256,
+    "word": "two",
+    "probability": 0.9899280667304993
+  },
+  {
+    "start": 7.07256,
+    "end": 7.19256,
+    "word": "of",
+    "probability": 0.9904798865318298
+  },
+  {
+    "start": 7.19256,
+    "end": 7.33256,
+    "word": "you",
+    "probability": 0.9971006512641907
+  },
+  {
+    "start": 7.33256,
+    "end": 7.55256,
+    "word": "managed",
+    "probability": 0.8070780038833618
+  },
+  {
+    "start": 7.55256,
+    "end": 7.83256,
+    "word": "to",
+    "probability": 0.9978898167610168
+  },
+  {
+    "start": 7.83256,
+    "end": 7.99256,
+    "word": "share",
+    "probability": 0.9979020357131958
+  },
+  {
+    "start": 7.99256,
+    "end": 8.25256,
+    "word": "a",
+    "probability": 0.9984707236289978
+  },
+  {
+    "start": 8.25256,
+    "end": 8.55256,
+    "word": "single",
+    "probability": 0.997101366519928
+  },
+  {
+    "start": 8.55256,
+    "end": 9.01256,
+    "word": "functioning",
+    "probability": 0.8663241267204285
+  },
+  {
+    "start": 9.01256,
+    "end": 9.41256,
+    "word": "brain",
+    "probability": 0.9960611462593079
+  },
+  {
+    "start": 9.41256,
+    "end": 9.79256,
+    "word": "cell.",
+    "probability": 0.9858214259147644
+  },
+  {
+    "start": 9.94896,
+    "end": 10.08896,
+    "word": "In",
+    "probability": 0.9868649840354919
+  },
+  {
+    "start": 10.08896,
+    "end": 10.56896,
+    "word": "neuroscience,",
+    "probability": 0.9851248264312744
+  },
+  {
+    "start": 11.00896,
+    "end": 11.12896,
+    "word": "it's",
+    "probability": 0.9883221387863159
+  },
+  {
+    "start": 11.12896,
+    "end": 11.32896,
+    "word": "called",
+    "probability": 0.9993700385093689
+  },
+  {
+    "start": 11.32896,
+    "end": 12.36896,
+    "word": "neurosynchrony,",
+    "probability": 0.6962558776140213
+  },
+  {
+    "start": 12.45335,
+    "end": 12.69335,
+    "word": "and",
+    "probability": 0.9954419136047363
+  },
+  {
+    "start": 12.69335,
+    "end": 12.91335,
+    "word": "it's",
+    "probability": 0.9940313100814819
+  },
+  {
+    "start": 12.91335,
+    "end": 13.05335,
+    "word": "the",
+    "probability": 0.9972687363624573
+  },
+  {
+    "start": 13.05335,
+    "end": 13.49335,
+    "word": "biological",
+    "probability": 0.9996253252029419
+  },
+  {
+    "start": 13.49335,
+    "end": 14.01335,
+    "word": "reason",
+    "probability": 0.9975883960723877
+  },
+  {
+    "start": 14.01335,
+    "end": 14.27335,
+    "word": "you",
+    "probability": 0.9916375279426575
+  },
+  {
+    "start": 14.27335,
+    "end": 14.41335,
+    "word": "can",
+    "probability": 0.9967513084411621
+  },
+  {
+    "start": 14.41335,
+    "end": 14.75335,
+    "word": "finish",
+    "probability": 0.9951059818267822
+  },
+  {
+    "start": 14.75335,
+    "end": 14.93335,
+    "word": "each",
+    "probability": 0.9967384934425354
+  },
+  {
+    "start": 14.93335,
+    "end": 15.23335,
+    "word": "other's",
+    "probability": 0.9667167067527771
+  },
+  {
+    "start": 15.23335,
+    "end": 15.73335,
+    "word": "sentences,",
+    "probability": 0.9975983500480652
+  },
+  {
+    "start": 16.17335,
+    "end": 16.47335,
+    "word": "communicate",
+    "probability": 0.998288094997406
+  },
+  {
+    "start": 16.47335,
+    "end": 16.83335,
+    "word": "with",
+    "probability": 0.9991152882575989
+  },
+  {
+    "start": 16.83335,
+    "end": 17.01335,
+    "word": "a",
+    "probability": 0.9952619075775146
+  },
+  {
+    "start": 17.01335,
+    "end": 17.35335,
+    "word": "single",
+    "probability": 0.9996281862258911
+  },
+  {
+    "start": 17.35335,
+    "end": 18.01335,
+    "word": "unhinged",
+    "probability": 0.9630315105120341
+  },
+  {
+    "start": 18.01335,
+    "end": 18.33335,
+    "word": "glance",
+    "probability": 0.9933575987815857
+  },
+  {
+    "start": 18.33335,
+    "end": 18.63335,
+    "word": "across",
+    "probability": 0.9985966086387634
+  },
+  {
+    "start": 18.63335,
+    "end": 18.85335,
+    "word": "a",
+    "probability": 0.9981697797775269
+  },
+  {
+    "start": 18.85335,
+    "end": 19.09335,
+    "word": "crowded",
+    "probability": 0.999366819858551
+  },
+  {
+    "start": 19.09335,
+    "end": 19.49335,
+    "word": "room,",
+    "probability": 0.999321460723877
+  },
+  {
+    "start": 19.69065,
+    "end": 19.97065,
+    "word": "and",
+    "probability": 0.9983488321304321
+  },
+  {
+    "start": 19.97065,
+    "end": 20.21065,
+    "word": "laugh",
+    "probability": 0.9973913431167603
+  },
+  {
+    "start": 20.21065,
+    "end": 20.39065,
+    "word": "at",
+    "probability": 0.9982700347900391
+  },
+  {
+    "start": 20.39065,
+    "end": 20.53065,
+    "word": "the",
+    "probability": 0.9955723285675049
+  },
+  {
+    "start": 20.53065,
+    "end": 20.95065,
+    "word": "exact",
+    "probability": 0.9941146969795227
+  },
+  {
+    "start": 20.95065,
+    "end": 21.41065,
+    "word": "same",
+    "probability": 0.996890127658844
+  },
+  {
+    "start": 21.41065,
+    "end": 21.85065,
+    "word": "dark,",
+    "probability": 0.9781940579414368
+  },
+  {
+    "start": 22.05065,
+    "end": 22.37065,
+    "word": "twisted",
+    "probability": 0.998471200466156
+  },
+  {
+    "start": 22.37065,
+    "end": 22.83065,
+    "word": "stuff",
+    "probability": 0.9980921149253845
+  },
+  {
+    "start": 22.83065,
+    "end": 23.05065,
+    "word": "that",
+    "probability": 0.9977570176124573
+  },
+  {
+    "start": 23.05065,
+    "end": 23.17065,
+    "word": "would",
+    "probability": 0.9896837472915649
+  },
+  {
+    "start": 23.17065,
+    "end": 23.33065,
+    "word": "get",
+    "probability": 0.998246431350708
+  },
+  {
+    "start": 23.33065,
+    "end": 23.51065,
+    "word": "you",
+    "probability": 0.9982909560203552
+  },
+  {
+    "start": 23.51065,
+    "end": 23.77065,
+    "word": "both",
+    "probability": 0.9926767349243164
+  },
+  {
+    "start": 23.77065,
+    "end": 24.21065,
+    "word": "cancelled.",
+    "probability": 0.4550643265247345
+  },
+  {
+    "start": 24.66265,
+    "end": 24.98265,
+    "word": "See,",
+    "probability": 0.6957158446311951
+  },
+  {
+    "start": 25.24265,
+    "end": 25.42265,
+    "word": "when",
+    "probability": 0.9866624474525452
+  },
+  {
+    "start": 25.42265,
+    "end": 25.52265,
+    "word": "you",
+    "probability": 0.9978006482124329
+  },
+  {
+    "start": 25.52265,
+    "end": 25.76265,
+    "word": "spend",
+    "probability": 0.994631290435791
+  },
+  {
+    "start": 25.76265,
+    "end": 26.00265,
+    "word": "enough",
+    "probability": 0.9934074878692627
+  },
+  {
+    "start": 26.00265,
+    "end": 26.34265,
+    "word": "time",
+    "probability": 0.9972299933433533
+  },
+  {
+    "start": 26.34265,
+    "end": 26.60265,
+    "word": "around",
+    "probability": 0.9949954748153687
+  },
+  {
+    "start": 26.60265,
+    "end": 27.10265,
+    "word": "someone,",
+    "probability": 0.9955872297286987
+  },
+  {
+    "start": 27.36265,
+    "end": 27.48265,
+    "word": "your",
+    "probability": 0.9847989678382874
+  },
+  {
+    "start": 27.48265,
+    "end": 27.76265,
+    "word": "brains",
+    "probability": 0.954534113407135
+  },
+  {
+    "start": 27.76265,
+    "end": 28.30265,
+    "word": "actually",
+    "probability": 0.9921962022781372
+  },
+  {
+    "start": 28.30265,
+    "end": 28.74265,
+    "word": "physically",
+    "probability": 0.9918856620788574
+  },
+  {
+    "start": 28.74265,
+    "end": 29.30265,
+    "word": "align",
+    "probability": 0.9528827667236328
+  },
+  {
+    "start": 29.30265,
+    "end": 29.54265,
+    "word": "their",
+    "probability": 0.9937319159507751
+  },
+  {
+    "start": 29.54265,
+    "end": 29.96265,
+    "word": "electrical",
+    "probability": 0.9948187470436096
+  },
+  {
+    "start": 29.96265,
+    "end": 30.48265,
+    "word": "rhythms,",
+    "probability": 0.9882686138153076
+  },
+  {
+    "start": 30.78265,
+    "end": 30.92265,
+    "word": "called",
+    "probability": 0.9907970428466797
+  },
+  {
+    "start": 30.92265,
+    "end": 31.24265,
+    "word": "brain",
+    "probability": 0.9206369519233704
+  },
+  {
+    "start": 31.24265,
+    "end": 31.62265,
+    "word": "waves,",
+    "probability": 0.5499162673950195
+  },
+  {
+    "start": 31.80265,
+    "end": 32.02265,
+    "word": "using",
+    "probability": 0.9982000589370728
+  },
+  {
+    "start": 32.02265,
+    "end": 32.34265,
+    "word": "mirror",
+    "probability": 0.9757454991340637
+  },
+  {
+    "start": 32.34265,
+    "end": 32.80265,
+    "word": "neurons,",
+    "probability": 0.9913875460624695
+  },
+  {
+    "start": 33.08035,
+    "end": 33.22035,
+    "word": "which",
+    "probability": 0.9966272711753845
+  },
+  {
+    "start": 33.22035,
+    "end": 33.36035,
+    "word": "are",
+    "probability": 0.9984849095344543
+  },
+  {
+    "start": 33.36035,
+    "end": 33.84035,
+    "word": "specialized",
+    "probability": 0.9913001656532288
+  },
+  {
+    "start": 33.84035,
+    "end": 34.24035,
+    "word": "brain",
+    "probability": 0.9983581900596619
+  },
+  {
+    "start": 34.24035,
+    "end": 34.50035,
+    "word": "cells",
+    "probability": 0.994044840335846
+  },
+  {
+    "start": 34.50035,
+    "end": 34.80035,
+    "word": "that",
+    "probability": 0.9942308664321899
+  },
+  {
+    "start": 34.80035,
+    "end": 35.14035,
+    "word": "copy",
+    "probability": 0.9905746579170227
+  },
+  {
+    "start": 35.14035,
+    "end": 35.46035,
+    "word": "and",
+    "probability": 0.9937354922294617
+  },
+  {
+    "start": 35.46035,
+    "end": 35.76035,
+    "word": "mimic",
+    "probability": 0.9989026784896851
+  },
+  {
+    "start": 35.76035,
+    "end": 35.98035,
+    "word": "the",
+    "probability": 0.9984667897224426
+  },
+  {
+    "start": 35.98035,
+    "end": 36.42035,
+    "word": "exact",
+    "probability": 0.9989921450614929
+  },
+  {
+    "start": 36.42035,
+    "end": 36.80035,
+    "word": "behavior",
+    "probability": 0.8391948938369751
+  },
+  {
+    "start": 36.80035,
+    "end": 37.14035,
+    "word": "and",
+    "probability": 0.9913689494132996
+  },
+  {
+    "start": 37.14035,
+    "end": 37.52035,
+    "word": "feelings",
+    "probability": 0.9816187024116516
+  },
+  {
+    "start": 37.52035,
+    "end": 37.74035,
+    "word": "of",
+    "probability": 0.9977084398269653
+  },
+  {
+    "start": 37.74035,
+    "end": 37.86035,
+    "word": "the",
+    "probability": 0.9978958368301392
+  },
+  {
+    "start": 37.86035,
+    "end": 38.10035,
+    "word": "person",
+    "probability": 0.9978442192077637
+  },
+  {
+    "start": 38.10035,
+    "end": 38.40035,
+    "word": "sitting",
+    "probability": 0.9943986535072327
+  },
+  {
+    "start": 38.40035,
+    "end": 38.66035,
+    "word": "next",
+    "probability": 0.9994077682495117
+  },
+  {
+    "start": 38.66035,
+    "end": 38.88035,
+    "word": "to",
+    "probability": 0.9958855509757996
+  },
+  {
+    "start": 38.88035,
+    "end": 39.22035,
+    "word": "you.",
+    "probability": 0.9991840720176697
+  },
+  {
+    "start": 39.74106,
+    "end": 39.84106,
+    "word": "When",
+    "probability": 0.7911421656608582
+  },
+  {
+    "start": 39.84106,
+    "end": 40.62106,
+    "word": "neuroscientists",
+    "probability": 0.9893171588579813
+  },
+  {
+    "start": 40.62106,
+    "end": 40.88106,
+    "word": "threw",
+    "probability": 0.9936217665672302
+  },
+  {
+    "start": 40.88106,
+    "end": 41.16106,
+    "word": "best",
+    "probability": 0.988865315914154
+  },
+  {
+    "start": 41.16106,
+    "end": 41.48106,
+    "word": "friends",
+    "probability": 0.9961774349212646
+  },
+  {
+    "start": 41.48106,
+    "end": 41.72106,
+    "word": "into",
+    "probability": 0.9956238865852356
+  },
+  {
+    "start": 41.72106,
+    "end": 42.02106,
+    "word": "brain",
+    "probability": 0.9921097159385681
+  },
+  {
+    "start": 42.02106,
+    "end": 42.46106,
+    "word": "scanners,",
+    "probability": 0.9896336793899536
+  },
+  {
+    "start": 42.88106,
+    "end": 42.98106,
+    "word": "they",
+    "probability": 0.9940639138221741
+  },
+  {
+    "start": 42.98106,
+    "end": 43.24106,
+    "word": "found",
+    "probability": 0.9984365105628967
+  },
+  {
+    "start": 43.24106,
+    "end": 43.98106,
+    "word": "identical,",
+    "probability": 0.9970205426216125
+  },
+  {
+    "start": 44.24106,
+    "end": 44.80106,
+    "word": "synchronized",
+    "probability": 0.9665466547012329
+  },
+  {
+    "start": 44.80106,
+    "end": 45.34106,
+    "word": "electrical",
+    "probability": 0.9651532173156738
+  },
+  {
+    "start": 45.34106,
+    "end": 45.92106,
+    "word": "spikes",
+    "probability": 0.9971309900283813
+  },
+  {
+    "start": 45.92106,
+    "end": 46.30106,
+    "word": "lighting",
+    "probability": 0.9591475129127502
+  },
+  {
+    "start": 46.30106,
+    "end": 46.50106,
+    "word": "up",
+    "probability": 0.99763023853302
+  },
+  {
+    "start": 46.50106,
+    "end": 46.66106,
+    "word": "the",
+    "probability": 0.995124876499176
+  },
+  {
+    "start": 46.66106,
+    "end": 47.12106,
+    "word": "exact",
+    "probability": 0.9951531887054443
+  },
+  {
+    "start": 47.12106,
+    "end": 47.46106,
+    "word": "same",
+    "probability": 0.998318076133728
+  },
+  {
+    "start": 47.46106,
+    "end": 47.86106,
+    "word": "regions",
+    "probability": 0.9859898090362549
+  },
+  {
+    "start": 47.86106,
+    "end": 48.18106,
+    "word": "at",
+    "probability": 0.974515974521637
+  },
+  {
+    "start": 48.18106,
+    "end": 48.34106,
+    "word": "the",
+    "probability": 0.9975523352622986
+  },
+  {
+    "start": 48.34106,
+    "end": 48.78106,
+    "word": "exact",
+    "probability": 0.9934049248695374
+  },
+  {
+    "start": 48.78106,
+    "end": 49.16106,
+    "word": "same",
+    "probability": 0.997936487197876
+  },
+  {
+    "start": 49.16106,
+    "end": 49.94106,
+    "word": "millisecond.",
+    "probability": 0.9941085278987885
+  },
+  {
+    "start": 49.94106,
+    "end": 50.36106,
+    "word": "The",
+    "probability": 0.26297128200531006
+  },
+  {
+    "start": 50.36106,
+    "end": 50.74106,
+    "word": "amygdala,",
+    "probability": 0.4796575903892517
+  },
+  {
+    "start": 51.16106,
+    "end": 51.24106,
+    "word": "which",
+    "probability": 0.9940768480300903
+  },
+  {
+    "start": 51.24106,
+    "end": 51.70106,
+    "word": "processes",
+    "probability": 0.9837896227836609
+  },
+  {
+    "start": 51.70106,
+    "end": 52.02106,
+    "word": "raw",
+    "probability": 0.9741424918174744
+  },
+  {
+    "start": 52.02106,
+    "end": 52.52106,
+    "word": "emotion,",
+    "probability": 0.984455943107605
+  },
+  {
+    "start": 52.84206,
+    "end": 52.90206,
+    "word": "the",
+    "probability": 0.8928395509719849
+  },
+  {
+    "start": 52.90206,
+    "end": 53.22206,
+    "word": "prefrontal",
+    "probability": 0.9839797019958496
+  },
+  {
+    "start": 53.22206,
+    "end": 53.84206,
+    "word": "cortex,",
+    "probability": 0.9944776296615601
+  },
+  {
+    "start": 54.18206,
+    "end": 54.22206,
+    "word": "which",
+    "probability": 0.9960875511169434
+  },
+  {
+    "start": 54.22206,
+    "end": 54.52206,
+    "word": "handles",
+    "probability": 0.9962540864944458
+  },
+  {
+    "start": 54.52206,
+    "end": 54.94206,
+    "word": "decision",
+    "probability": 0.9925954937934875
+  },
+  {
+    "start": 54.94206,
+    "end": 55.26206,
+    "word": "making,",
+    "probability": 0.4862841069698334
+  },
+  {
+    "start": 55.72206,
+    "end": 55.90206,
+    "word": "or",
+    "probability": 0.9759122729301453
+  },
+  {
+    "start": 55.90206,
+    "end": 56.02206,
+    "word": "in",
+    "probability": 0.9413131475448608
+  },
+  {
+    "start": 56.02206,
+    "end": 56.22206,
+    "word": "your",
+    "probability": 0.9954016208648682
+  },
+  {
+    "start": 56.22206,
+    "end": 56.50206,
+    "word": "case,",
+    "probability": 0.9970472455024719
+  },
+  {
+    "start": 56.76206,
+    "end": 57.00206,
+    "word": "terrible",
+    "probability": 0.9882986545562744
+  },
+  {
+    "start": 57.00206,
+    "end": 57.40206,
+    "word": "life",
+    "probability": 0.996523916721344
+  },
+  {
+    "start": 57.40206,
+    "end": 57.82206,
+    "word": "choices,",
+    "probability": 0.9960483908653259
+  },
+  {
+    "start": 58.10996,
+    "end": 58.38996,
+    "word": "and",
+    "probability": 0.9857566952705383
+  },
+  {
+    "start": 58.38996,
+    "end": 58.52996,
+    "word": "the",
+    "probability": 0.9871075749397278
+  },
+  {
+    "start": 58.52996,
+    "end": 58.76996,
+    "word": "neural",
+    "probability": 0.9949624538421631
+  },
+  {
+    "start": 58.76996,
+    "end": 59.10996,
+    "word": "circuits",
+    "probability": 0.9872713685035706
+  },
+  {
+    "start": 59.10996,
+    "end": 59.40996,
+    "word": "for",
+    "probability": 0.9957893490791321
+  },
+  {
+    "start": 59.40996,
+    "end": 59.86996,
+    "word": "empathy.",
+    "probability": 0.988118588924408
+  },
+  {
+    "start": 60.42535,
+    "end": 60.48535,
+    "word": "It",
+    "probability": 0.5846311450004578
+  },
+  {
+    "start": 60.48535,
+    "end": 60.82535,
+    "word": "explains",
+    "probability": 0.9956996440887451
+  },
+  {
+    "start": 60.82535,
+    "end": 61.10535,
+    "word": "why",
+    "probability": 0.9971336126327515
+  },
+  {
+    "start": 61.10535,
+    "end": 61.30535,
+    "word": "you",
+    "probability": 0.9953557252883911
+  },
+  {
+    "start": 61.30535,
+    "end": 61.42535,
+    "word": "and",
+    "probability": 0.9945713877677917
+  },
+  {
+    "start": 61.42535,
+    "end": 61.54535,
+    "word": "your",
+    "probability": 0.9947097301483154
+  },
+  {
+    "start": 61.54535,
+    "end": 61.78535,
+    "word": "best",
+    "probability": 0.9929181933403015
+  },
+  {
+    "start": 61.78535,
+    "end": 62.06535,
+    "word": "friend",
+    "probability": 0.9971712231636047
+  },
+  {
+    "start": 62.06535,
+    "end": 62.24535,
+    "word": "are",
+    "probability": 0.9915542006492615
+  },
+  {
+    "start": 62.24535,
+    "end": 62.38535,
+    "word": "such",
+    "probability": 0.9913157224655151
+  },
+  {
+    "start": 62.38535,
+    "end": 63.20535,
+    "word": "insufferable",
+    "probability": 0.9973220825195312
+  },
+  {
+    "start": 63.20535,
+    "end": 63.68535,
+    "word": "weirdos",
+    "probability": 0.9890363812446594
+  },
+  {
+    "start": 63.68535,
+    "end": 64.08535,
+    "word": "together,",
+    "probability": 0.9888646602630615
+  },
+  {
+    "start": 64.30535,
+    "end": 64.72535,
+    "word": "because",
+    "probability": 0.9918867945671082
+  },
+  {
+    "start": 64.72535,
+    "end": 64.88535,
+    "word": "your",
+    "probability": 0.9874373078346252
+  },
+  {
+    "start": 64.88535,
+    "end": 65.18535,
+    "word": "nervous",
+    "probability": 0.9991976618766785
+  },
+  {
+    "start": 65.18535,
+    "end": 65.62535,
+    "word": "systems",
+    "probability": 0.9831060767173767
+  },
+  {
+    "start": 65.62535,
+    "end": 65.82535,
+    "word": "are",
+    "probability": 0.9981302618980408
+  },
+  {
+    "start": 65.82535,
+    "end": 66.24535,
+    "word": "literally",
+    "probability": 0.9904911518096924
+  },
+  {
+    "start": 66.24535,
+    "end": 66.72535,
+    "word": "trapped",
+    "probability": 0.9993447661399841
+  },
+  {
+    "start": 66.72535,
+    "end": 66.94535,
+    "word": "in",
+    "probability": 0.9986101388931274
+  },
+  {
+    "start": 66.94535,
+    "end": 67.06535,
+    "word": "an",
+    "probability": 0.9921367168426514
+  },
+  {
+    "start": 67.06535,
+    "end": 67.36535,
+    "word": "echo",
+    "probability": 0.9980477094650269
+  },
+  {
+    "start": 67.36535,
+    "end": 67.74535,
+    "word": "chamber.",
+    "probability": 0.9966813921928406
+  },
+  {
+    "start": 67.93715,
+    "end": 68.11715,
+    "word": "But",
+    "probability": 0.9780035018920898
+  },
+  {
+    "start": 68.11715,
+    "end": 68.45715,
+    "word": "here",
+    "probability": 0.989875853061676
+  },
+  {
+    "start": 68.45715,
+    "end": 68.71715,
+    "word": "is",
+    "probability": 0.813261866569519
+  },
+  {
+    "start": 68.71715,
+    "end": 68.89715,
+    "word": "the",
+    "probability": 0.9989627599716187
+  },
+  {
+    "start": 68.89715,
+    "end": 69.39715,
+    "word": "terrifying",
+    "probability": 0.9988007545471191
+  },
+  {
+    "start": 69.39715,
+    "end": 69.87715,
+    "word": "part.",
+    "probability": 0.9993067979812622
+  },
+  {
+    "start": 70.05385,
+    "end": 70.29385,
+    "word": "It",
+    "probability": 0.9901920557022095
+  },
+  {
+    "start": 70.29385,
+    "end": 70.55385,
+    "word": "also",
+    "probability": 0.9982503056526184
+  },
+  {
+    "start": 70.55385,
+    "end": 70.89385,
+    "word": "proves",
+    "probability": 0.9979313611984253
+  },
+  {
+    "start": 70.89385,
+    "end": 71.13385,
+    "word": "you",
+    "probability": 0.956432044506073
+  },
+  {
+    "start": 71.13385,
+    "end": 71.25385,
+    "word": "need",
+    "probability": 0.9971739053726196
+  },
+  {
+    "start": 71.25385,
+    "end": 71.41385,
+    "word": "to",
+    "probability": 0.9990058541297913
+  },
+  {
+    "start": 71.41385,
+    "end": 71.67385,
+    "word": "choose",
+    "probability": 0.9920675754547119
+  },
+  {
+    "start": 71.67385,
+    "end": 71.87385,
+    "word": "your",
+    "probability": 0.9979660511016846
+  },
+  {
+    "start": 71.87385,
+    "end": 72.25385,
+    "word": "circle",
+    "probability": 0.9975661039352417
+  },
+  {
+    "start": 72.25385,
+    "end": 72.75385,
+    "word": "wisely.",
+    "probability": 0.9982835054397583
+  },
+  {
+    "start": 72.99556,
+    "end": 73.15556,
+    "word": "If",
+    "probability": 0.9859035611152649
+  },
+  {
+    "start": 73.15556,
+    "end": 73.29556,
+    "word": "your",
+    "probability": 0.9780647158622742
+  },
+  {
+    "start": 73.29556,
+    "end": 73.55556,
+    "word": "best",
+    "probability": 0.9976775050163269
+  },
+  {
+    "start": 73.55556,
+    "end": 73.85556,
+    "word": "friend",
+    "probability": 0.9976173043251038
+  },
+  {
+    "start": 73.85556,
+    "end": 74.03556,
+    "word": "is",
+    "probability": 0.9922317266464233
+  },
+  {
+    "start": 74.03556,
+    "end": 74.21556,
+    "word": "a",
+    "probability": 0.9950560331344604
+  },
+  {
+    "start": 74.21556,
+    "end": 74.53556,
+    "word": "broke,",
+    "probability": 0.9749768376350403
+  },
+  {
+    "start": 74.63556,
+    "end": 75.17556,
+    "word": "toxic",
+    "probability": 0.9991415739059448
+  },
+  {
+    "start": 75.17556,
+    "end": 75.63556,
+    "word": "disaster",
+    "probability": 0.9922822117805481
+  },
+  {
+    "start": 75.63556,
+    "end": 75.99556,
+    "word": "with",
+    "probability": 0.9720608592033386
+  },
+  {
+    "start": 75.99556,
+    "end": 76.35556,
+    "word": "zero",
+    "probability": 0.9897671341896057
+  },
+  {
+    "start": 76.35556,
+    "end": 76.81556,
+    "word": "ambition,",
+    "probability": 0.9850258231163025
+  },
+  {
+    "start": 76.81556,
+    "end": 77.49556,
+    "word": "your",
+    "probability": 0.5860832929611206
+  },
+  {
+    "start": 77.49556,
+    "end": 77.79556,
+    "word": "brain",
+    "probability": 0.9976075887680054
+  },
+  {
+    "start": 77.79556,
+    "end": 78.09556,
+    "word": "isn't",
+    "probability": 0.9941292107105255
+  },
+  {
+    "start": 78.09556,
+    "end": 78.31556,
+    "word": "just",
+    "probability": 0.998346209526062
+  },
+  {
+    "start": 78.31556,
+    "end": 78.73556,
+    "word": "hanging",
+    "probability": 0.9001449942588806
+  },
+  {
+    "start": 78.73556,
+    "end": 79.07556,
+    "word": "out",
+    "probability": 0.9952801465988159
+  },
+  {
+    "start": 79.07556,
+    "end": 79.27556,
+    "word": "with",
+    "probability": 0.9973044395446777
+  },
+  {
+    "start": 79.27556,
+    "end": 79.49556,
+    "word": "them.",
+    "probability": 0.9975371360778809
+  },
+  {
+    "start": 79.66665,
+    "end": 79.74665,
+    "word": "It",
+    "probability": 0.9818549156188965
+  },
+  {
+    "start": 79.74665,
+    "end": 79.86665,
+    "word": "is",
+    "probability": 0.9733904600143433
+  },
+  {
+    "start": 79.86665,
+    "end": 80.34665,
+    "word": "actively",
+    "probability": 0.993488073348999
+  },
+  {
+    "start": 80.34665,
+    "end": 81.00665,
+    "word": "downloading",
+    "probability": 0.997016191482544
+  },
+  {
+    "start": 81.00665,
+    "end": 81.28665,
+    "word": "their",
+    "probability": 0.9912336468696594
+  },
+  {
+    "start": 81.28665,
+    "end": 81.64665,
+    "word": "broken",
+    "probability": 0.9709534645080566
+  },
+  {
+    "start": 81.64665,
+    "end": 81.96665,
+    "word": "neural",
+    "probability": 0.9803003072738647
+  },
+  {
+    "start": 81.96665,
+    "end": 82.50665,
+    "word": "wiring",
+    "probability": 0.9965978264808655
+  },
+  {
+    "start": 82.50665,
+    "end": 82.90665,
+    "word": "and",
+    "probability": 0.9299996495246887
+  },
+  {
+    "start": 82.90665,
+    "end": 83.36665,
+    "word": "rewriting",
+    "probability": 0.9724166989326477
+  },
+  {
+    "start": 83.36665,
+    "end": 83.80665,
+    "word": "who",
+    "probability": 0.9969475865364075
+  },
+  {
+    "start": 83.80665,
+    "end": 84.00665,
+    "word": "you",
+    "probability": 0.996324360370636
+  },
+  {
+    "start": 84.00665,
+    "end": 84.10665,
+    "word": "are",
+    "probability": 0.9543027877807617
+  },
+  {
+    "start": 84.10665,
+    "end": 84.30665,
+    "word": "going",
+    "probability": 0.998548686504364
+  },
+  {
+    "start": 84.30665,
+    "end": 84.46665,
+    "word": "to",
+    "probability": 0.9991051554679871
+  },
+  {
+    "start": 84.46665,
+    "end": 84.78665,
+    "word": "become.",
+    "probability": 0.9976956248283386
+  }
+]
