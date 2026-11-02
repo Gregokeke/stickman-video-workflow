@@ -82,3 +82,13 @@ The first five editable ZIPs, all seven embedded/outside videos, the visual-refe
 This is the user's production workspace, not a blanket open-source license for enclosed images, voices, source clips or sound compilations. Preserve provenance and credits. The user explicitly authorized publishing this prepared layout to the existing public repository; that does not authorize unrelated redistribution or future visibility changes.
 
 The final [original-content audit](ORIGINAL-CONTENT-AUDIT.json) accounts for all 47 original outer-archive entries, checks every original member of the two losslessly repacked projects, and confirms the complete sound library. Original package metadata remains available under its labeled archival folder.
+
+
+
+## Approved style and motion additions — 2 November 2026
+
+Read [workflow sections 27–31](04-Workflow-and-Animation/workflow.md#27-local-transcription-and-elevenlabs-scope--2-november-2026), [Style-References.md](04-Workflow-and-Animation/Style-References.md) and the [five-project motion study](04-Workflow-and-Animation/Five-Project-Motion-Study.md). The user approved A and D: actual extracted PNGs are [A / science host](04-Workflow-and-Animation/references/style/A-science-host.png) and [D / casual watcher](04-Workflow-and-Animation/references/style/D-casual-watcher.png). Ordinary figures stay flat and rounded, with hair/clothing or hairless/plain-stickman variants as appropriate; anatomy bodies are unclothed, hairless cartoon stickmen without realistic human rendering. Explanatory props/molecules/micronutrients look clearly 3D.
+
+ElevenLabs is for TTS only, never transcription or effect generation. Use local transcription/alignment/duration tools and the existing sound pack. The new rules cover related-object emergence, functional moving parts, spacing, coordinated handoffs and accurate snappy instructors. Existing content remains preserved. The five Library source projects are supporting study sources, not five newly uploaded or renumbered repository projects.
+
+Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.

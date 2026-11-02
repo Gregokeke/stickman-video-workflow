@@ -69,3 +69,11 @@ Assemble with deterministic registered GSAP timelines in HyperFrames. Preserve r
 
 ## Current workspace additions — 28 October 2026
 Read workflow sections 19–21 and Instructor-Guide.md for current sound-pack use and accurate, snappy, variably scaled/positioned cane presenters. The sixth reference is Sugar — Two Weeks, final nineteen-fix revision with straight-cane head tilt. Older examples remain complementary.
+
+
+
+## Current motion and style additions — 2 November 2026
+
+Use the canonical [workflow.md](workflow.md), especially sections 27–31, and [Style-References.md](Style-References.md). The old workflow filename above is historical. A/D define the consistent flat rounded ordinary-character family, allowing hairless/plain-stickman variants; anatomy bodies are hairless/unclothed nonrealistic stickmen; explanatory props look 3D. Related objects emerge from a currently visible source feature using its actual transformed position, clear it and settle separately. Plan usable component layers/masks for meaningful micro actions, registered to the parent. See [Five-Project-Motion-Study.md](Five-Project-Motion-Study.md).
+
+Check visible alpha/opacity during settled holds and every transition frame. Coordinate outgoing fades/travel with new arrivals; avoid lingering opaque overlaps or ghosts. Document legitimate grips, cane contact and bounded extraction overlap. Keep clear gaps between independent silhouettes/labels. Presenter retargeting starts with the new subject and follows its moving feature; keep face/grip/tip readable. Timing examples are references, not one recipe for every scene.

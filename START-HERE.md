@@ -14,3 +14,11 @@ Updated 30 October 2026. Every meaningful component from the original outer work
 10. Then plan the current user's script/recording and brief. Preserve narration and endings, maintain clear hierarchy, expressive acting, varied fluid motion, useful micro explanations, precise targeting and motivated sound. Keep source and matching final output portable.
 
 The first six compact viewing videos remain unchanged; the seventh retains its supplied 1080×1920 final render. Every project ZIP still contains its exact matching MP4. Old release reports and setup notes are retained under `archive-metadata/v1.0.0/` for provenance, not current setup.
+
+
+
+## Current additions — 2 November 2026
+
+Before planning/generation, read workflow sections 27–31, [Style-References.md](04-Workflow-and-Animation/Style-References.md), the actual approved A/D PNGs and [Five-Project-Motion-Study.md](04-Workflow-and-Animation/Five-Project-Motion-Study.md). Ordinary characters are flat, with scene-appropriate hair/clothing or hairless/plain-stickman variants; anatomy bodies are hairless/unclothed stylized stickmen, never realistic human bodies; explanatory props are visibly 3D. ElevenLabs is text-to-speech only. Transcription/alignment and duration measurement stay local; use the existing effects library. New checks cover visible-source emergence, independently working parts, settled spacing, transition collisions and moving-target presenter pointing. This is additive guidance, not a replacement for full study or a change to the seven numbered projects.
+
+Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.

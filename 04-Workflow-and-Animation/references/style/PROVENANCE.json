@@ -1,0 +1,21 @@
+{
+  "approved_on": "2026-11-02",
+  "references": [
+    {
+      "file": "A-science-host.png",
+      "source_project": "Brainwave-Besties-Project.zip",
+      "source_member": "Brainwave-Besties/assets/graphics/science-host.png",
+      "source_library_file_id": "libfile_8f8de7583910819187b6c3ad2d90137b",
+      "sha256": "6ebe61df1a22c39fdf474665dcda38a28fd6667e434f607a88e4271e02080ce2",
+      "approval": "User approved A and D on 2026-11-02; ordinary-character style only, anatomy exception applies."
+    },
+    {
+      "file": "D-casual-watcher.png",
+      "source_project": "Leg-Power-Brain-Insurance-Project.zip",
+      "source_member": "Leg-Power-Brain-Insurance/assets/graphics/casual-watcher.png",
+      "source_library_file_id": "libfile_4be7681185a881919d462de24d2a3c53",
+      "sha256": "025e69accde4930a286a9e580bcb74deb22da7892b25303e6aa5651c0bb7a57b",
+      "approval": "User approved A and D on 2026-11-02; ordinary-character style only, anatomy exception applies."
+    }
+  ]
+}

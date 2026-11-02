@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-11-02",
   "reference_projects": 7,
   "scope": "All payload files directly in Git. Excludes this manifest and .git runtime data.",
   "files": [
@@ -41,18 +41,23 @@
     },
     {
       "path": "04-Workflow-and-Animation/Animation-Sheet.md",
-      "bytes": 5964,
-      "sha256": "8217bc03ca1fe8583a1a997379a539f2e9ef1348987a69ed6e89832c4069a23b"
+      "bytes": 7160,
+      "sha256": "45d4e75503883be6292b5c046b24bfa3bbcacf9b7cc9c3bb346cee4ac28d5e87"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Five-Project-Motion-Study.md",
+      "bytes": 10153,
+      "sha256": "5adad0445f41335c2b9896eab66d37c9254aae9aec08740779cd5d95f7022e5a"
     },
     {
       "path": "04-Workflow-and-Animation/Instructor-Guide.md",
-      "bytes": 3096,
-      "sha256": "6cdca070f1c8dca37988ec39cab3704507420c7f03f7941e9b661ccc7b95f3e9"
+      "bytes": 4693,
+      "sha256": "52854f0d91a9e15f46a2c2895d50479590e70e79c56e8b37fd77e3db2d415135"
     },
     {
       "path": "04-Workflow-and-Animation/Micro-Explanation-Animation-Study.md",
-      "bytes": 11236,
-      "sha256": "9357188292f740781a4e712146a6f6b0840567348a5555aaf3d1f1ea7fe13409"
+      "bytes": 12446,
+      "sha256": "d62510af11eb80b5b76ae15f701b1a179b2d2c635dec690e84cbad39a10f6f97"
     },
     {
       "path": "04-Workflow-and-Animation/OG-MOTION-STUDY.md",
@@ -61,8 +66,13 @@
     },
     {
       "path": "04-Workflow-and-Animation/Sound-Effects-Usage.md",
-      "bytes": 681,
-      "sha256": "862924957b0f9d8bed69b7c9eddad2a9eed1ef29f5388b1c131eed5d610b313b"
+      "bytes": 1091,
+      "sha256": "1bd98d7d7187c0a31aec074330b4b3b91ef9c7059802dbc7ce2ad9f59700dccb"
+    },
+    {
+      "path": "04-Workflow-and-Animation/Style-References.md",
+      "bytes": 3629,
+      "sha256": "def37e87220e1539f486ffc967cb4e103abf434fd8384646f3ef4c8dfcb77963"
     },
     {
       "path": "04-Workflow-and-Animation/references/instructor/01-diagonal.png",
@@ -120,9 +130,24 @@
       "sha256": "7f6ae94bf0abf770b5b36c3a4c14a94b14c1f7d80c1dba390510c9a05c04046b"
     },
     {
+      "path": "04-Workflow-and-Animation/references/style/A-science-host.png",
+      "bytes": 1283307,
+      "sha256": "6ebe61df1a22c39fdf474665dcda38a28fd6667e434f607a88e4271e02080ce2"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/style/D-casual-watcher.png",
+      "bytes": 1352171,
+      "sha256": "025e69accde4930a286a9e580bcb74deb22da7892b25303e6aa5651c0bb7a57b"
+    },
+    {
+      "path": "04-Workflow-and-Animation/references/style/PROVENANCE.json",
+      "bytes": 992,
+      "sha256": "dd3bcac5f4094aeb7b3741077c9485a861a620f5089dd32ce5734429a9e577a5"
+    },
+    {
       "path": "04-Workflow-and-Animation/workflow.md",
-      "bytes": 82797,
-      "sha256": "bba0d93daa23bd7f42d5208f3212f719e27efc16d1a043166ff764af6f2adbc2"
+      "bytes": 93084,
+      "sha256": "4464e944620e66c79d8b8a5cba550e31a54f056510a8f1fd91f3c00ecdcf3452"
     },
     {
       "path": "05-Visual-References.zip",
@@ -341,8 +366,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 2372,
-      "sha256": "39895b42ce15369a68d0a910641d4451cc8cb1899a877d969a1060044c969495"
+      "bytes": 3760,
+      "sha256": "1e1169d54dcbe1b8f476f15fff56a5ae247f5bda839a89406cd0c569c7b009c9"
     },
     {
       "path": "ARCHIVE-CONTENTS.json",
@@ -356,8 +381,8 @@
     },
     {
       "path": "FILE-INDEX.md",
-      "bytes": 72471,
-      "sha256": "add71cc38bbc955e6ae1c1dfe2820664463317d397b642ecad22d2237fbf9023"
+      "bytes": 73120,
+      "sha256": "a89761fd6383d1a59158def39f61055d55398b922bcac7ea2bab2e48ebde1544"
     },
     {
       "path": "LOSSLESS-PACKAGING.json",
@@ -376,8 +401,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 11153,
-      "sha256": "d91c6c2bf6292f92a05c1d5e9dc8b9db2805ca39b5461a67e4228ad9e6eb8e55"
+      "bytes": 12887,
+      "sha256": "1f5326298483339aa053a443e1774ecd4493c5d54cab3fe700cc643f80bc5188"
     },
     {
       "path": "REORGANIZATION.json",
@@ -386,13 +411,13 @@
     },
     {
       "path": "START-HERE.md",
-      "bytes": 3207,
-      "sha256": "8001b57c69eee2ea98abf2bf4e874ae39bd3d82a2941210b32e6f2e277a10670"
+      "bytes": 4557,
+      "sha256": "ad4c5341f1a8612173b5b7d30440990203952ff315a4d5f183ebb94ba0443e88"
     },
     {
       "path": "STUDY-CATALOG.md",
-      "bytes": 4141,
-      "sha256": "616d10c064e2c1ac5855028b8373ac71e0f7d79570bde486cfe3a64b441be5e1"
+      "bytes": 5422,
+      "sha256": "4a1c015229db35da98b914cc1623546984bccd16ee276afd2195b427bedbcd66"
     },
     {
       "path": "archive-metadata/v1.0.0/Legacy-Transfer-Fragment.bin",

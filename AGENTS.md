@@ -13,3 +13,11 @@ Before new production, follow README.md, START-HERE.md and STUDY-CATALOG.md full
 - Keep individual project ZIPs intact, with the same complete MP4 internally and beside each ZIP. Update manifests and verify packaging changes. Do not reintroduce the bulky outer ZIP as a setup requirement.
 
 References 6 and 7 use standard ZIP files with lossless asset storage. After extraction, install their normal project dependencies (including Pillow and FFmpeg) and run `python restore_assets.py` before source preview/editing. This restores byte-identical WAVs and pixel-identical PNGs at original resolution. Their finished MP4s remain unchanged and immediately playable. There is no release-download or Git LFS setup requirement.
+
+
+
+## Current production rules — 2 November 2026
+
+Read workflow sections 27–31, `04-Workflow-and-Animation/Style-References.md` and `Five-Project-Motion-Study.md`. A and D are the approved ordinary-character images: flat with consistent rounded sturdy cartoon bodies; hair/clothing are scene-specific. Anatomy bodies are hairless, unclothed stylized stickmen without realistic human rendering. Explanatory props/molecules/micronutrients look 3D. ElevenLabs is TTS only, never STT or SFX generation; reuse timings or transcribe/align locally, measure duration locally and use the existing sound pack. Plan visible feature-anchored emergence and functional moving parts. Check settled separation and every transition frame, allowing only documented purposeful contact/extraction. Existing documents and seven source projects remain preserved; the five Library project studies are supporting references, not automatically numbered projects.
+
+Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.

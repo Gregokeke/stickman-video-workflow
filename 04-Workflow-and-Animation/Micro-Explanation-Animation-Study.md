@@ -59,3 +59,11 @@ Once the revised voiceover arrives, map each significant phrase to a demonstrati
 
 ## Current workspace additions — 28 October 2026
 Read workflow sections 19–21 and Instructor-Guide.md for current sound-pack use and accurate, snappy, variably scaled/positioned cane presenters. The sixth reference is Sugar — Two Weeks, final nineteen-fix revision with straight-cane head tilt. Older examples remain complementary.
+
+
+
+## Functional parts and related-object emergence — 2 November 2026
+
+Read workflow sections 29–31 and [Five-Project-Motion-Study.md](Five-Project-Motion-Study.md). Fasting's switches/gauges/cell halves, One Winner's battery cells, Brainwave's trace alignment/download fill/neural paths, Kiwi's droplet/bolus/protein split and Leg's muscle/neural mechanisms extend this study. Use independently addressable layers/masks, correct pivots and parent-coordinate registration. Cue meaningful finite state changes to the words and preserve readable holds. Whole-image movement is not proof of internal articulation; Kiwi's scissors translate as one image while the protein halves really separate.
+
+For related new details, extract/extend from a meaningful currently visible source feature, use its current transformed location, retain the source briefly and give the child its own uncropped position. Check every entry/exit frame, masks, contact points, source visibility, settled gaps and bounded purposeful overlaps. Paths must be bold, accurate and progressive. Character approval and 3D prop treatment follow Style-References.md; local-only transcription and TTS-only ElevenLabs follow workflow section 27.

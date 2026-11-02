@@ -38,3 +38,13 @@ The MP4 in Project 6 is authoritative for timing. These frames illustrate spacin
 - [Large cytokine / presenter](references/instructor/scene-examples/116-9.jpg)
 
 Do not mechanically reuse one pose in every scene. A small presenter may fit a detailed gut explanation, while another scene needs a much larger cropped figure. Keep the current narrated object dominant. Hand-held/body-contact props can stay combined with a character when the grip must remain coherent.
+
+
+
+## Current character approval and moving targets — 2 November 2026
+
+Read workflow sections 28 and 31 and [Style-References.md](Style-References.md). A and D define the current flat rounded character family, with hairless/plain-stickman variants allowed. The legacy poses above remain source geometry/choreography references; their shiny/bald appearance and moustache are not mandatory new character styling. Future matching instructor poses are a separate task, not assets already produced. Measure each future PNG's own tip/grip coordinates. Anatomy-body diagrams use the separate hairless/unclothed nonrealistic stickman rule.
+
+Keep the explanation established before a new presenter entrance. For an existing presenter, begin retargeting as the new subject enters; follow its actual transformed feature throughout motion. Leg's approximately 0.23 s retarget and Project 6's 0.28 s are examples, adapted to the spoken beat. Move and scale together, keep the grip coherent, vary sides and use readable intentional corner crops. Check all transition frames as well as holds, with deliberate cane contact distinguished from unintended collisions.
+
+Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.

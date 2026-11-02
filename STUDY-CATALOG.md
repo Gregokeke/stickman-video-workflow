@@ -28,3 +28,11 @@ Review each complete final video with mixed audio, scrub entrances/exits/transit
 Record the imported revision and verification result, every guide read, every source tree inspected, videos/clips actually watched, effects auditioned and commands actually run. Do not describe a file inventory as audiovisual study. Identify and resolve any unavailable media/tools. Supporting clips and the bouncy study remain separate from the seven numbered references. Only after this review plan the CURRENT supplied script/recording and user brief; do not copy reference narration or apply one animation repeatedly.
 
 References 6 and 7 use standard ZIP files with lossless asset storage. After extraction, install their normal project dependencies (including Pillow and FFmpeg) and run `python restore_assets.py` before source preview/editing. This restores byte-identical WAVs and pixel-identical PNGs at original resolution. Their finished MP4s remain unchanged and immediately playable. There is no release-download or Git LFS setup requirement.
+
+
+
+## Approved style and five-project motion study — 2 November 2026
+
+Read workflow sections 27–31 and [Style-References.md](04-Workflow-and-Animation/Style-References.md); inspect the actual A/D PNGs and anatomy exception before generating. Read [Five-Project-Motion-Study.md](04-Workflow-and-Animation/Five-Project-Motion-Study.md) for source identities, timestamps, implementation distinctions and review limits. Fasting/One Winner/Leg teach emergence; Brainwave teaches registered internal animation; Kiwi teaches mechanisms and revision precedence. These Library source archives remain separate from the seven repository projects. If deeper source inspection is needed, obtain the exact named versions identified in the study and report availability honestly; this update does not claim their full archives were added to Git.
+
+Character-variation clarification (2 November): preserve the same rounded body shape/composition and proportions across variants. Ordinary characters may be hairless, and normal stickman illustrations are allowed. For two-character scenes, use one hairless and one haired figure for distinction unless the current brief requires otherwise. A/D establish the family, not compulsory hair or clothing; anatomy bodies remain hairless and unclothed.
