@@ -1158,7 +1158,7 @@ Sequential biological events involving multiple interacting components.
 
 
 
-Whenever the narration describes how something works, why something happens, or how one biological process produces another, actively evaluate whether a mechanical explanatory animation would communicate the information more effectively than a conventional illustration.
+Whenever the narration describes how something works, why something happens, or how one biological process produces another, actively evaluate whether a mechanical explanatory animation would communicate the information more effectively than a conventional illustration. keep in mind that if an illustration is broken into multiple parts they all count as one illustration in the illustration count estimates for the project.
 
 
 Do not limit mechanical animations to explicitly technical narration. Even simple explanations may benefit from a carefully constructed biological mechanism when it improves understanding.
