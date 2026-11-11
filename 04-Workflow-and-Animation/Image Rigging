@@ -1,0 +1,221 @@
+5. Intelligent Image Rigging & Motion Integration
+
+
+Core Principle
+
+
+Whenever an illustration requires articulated movement, deformation, independent component manipulation, or complex motion choreography, implement an appropriate image-rigging system rather than treating the illustration as a single rigid object.
+
+
+Rigging must be applied selectively, based on the animation requirements of each scene. Not every illustration requires rigging; simple objects and illustrations that only need translation, rotation, or scaling may remain as single assets.
+
+
+The objective is to enable fluid, natural, expressive, and precisely controlled movement while preserving the original illustration's visual quality, proportions, and stylistic consistency.
+
+
+A. Rigging Requirements & Component Preparation
+
+
+Before animation, analyze each illustration and determine whether its intended motion requires independent control of specific body parts, anatomical structures, or mechanical components.
+
+
+Where necessary:
+
+
+
+
+Separate characters into independently controllable components such as heads, torsos, arms, forearms, hands, legs, feet, and other relevant articulated parts.
+
+
+Separate biological illustrations into movable anatomical layers, organs, membranes, tissues, vessels, and molecular components where independent manipulation is required.
+
+
+Establish appropriate pivot points, joints, anchor positions, and parent-child relationships between components.
+
+
+Preserve natural connections between separated parts, preventing visible gaps, disconnected joints, distorted anatomy, or unnatural overlaps during movement.
+
+
+Ensure overlapping component regions contain sufficient hidden artwork to support rotations and articulated movements without exposing transparent gaps.
+
+
+Maintain consistent proportions, outlines, colors, shading, and illustration quality throughout the rigging process.
+
+
+Prepare alternative poses, replacement components, or intermediate visual states when standard joint-based rigging cannot produce the required movement convincingly.
+
+
+
+
+Whenever possible, plan the required separations during illustration generation rather than attempting to reconstruct missing or obscured components afterward.
+
+
+B. Motion Integration & Articulated Animation
+
+
+Use rigging to create expressive, coordinated, and physically coherent movements that support the narration and animation vision board.
+
+
+Applicable techniques include:
+
+
+
+
+Skeletal animation: Joint-based movement for characters, limbs, and articulated structures.
+
+
+Hierarchical transformations: Parent-child relationships that allow connected components to move together while retaining independent control.
+
+
+Inverse kinematics: Coordinated limb positioning for reaching, pointing, walking, holding objects, and other interactions where appropriate.
+
+
+Mesh deformation: Controlled bending, stretching, compression, and reshaping of flexible structures without visibly breaking the illustration.
+
+
+Puppet-style animation: Expressive character gestures, body reactions, head movement, and coordinated poses.
+
+
+Mechanical articulation: Independent movement of dissected biological components, membranes, anatomical layers, and interactive mechanisms.
+
+
+Secondary motion: Follow-through, recoil, anticipation, elastic settling, and subtle responsive movement that enhance the primary animation.
+
+
+
+
+Choose the rigging technique according to the illustration's structure and intended movement rather than applying the same method universally.
+
+
+C. Rigging-Aware Animation Choreography
+
+
+Integrate rigging directly into the animation vision board and scene choreography.
+
+
+For each rigged illustration:
+
+
+
+
+Identify the precise movement required by the narration.
+
+
+Determine which components need independent control.
+
+
+Establish joint locations, pivot points, deformation regions, and movement constraints.
+
+
+Define the intended poses, movement paths, timing, and interactions.
+
+
+Coordinate articulated motion with surrounding props, characters, and animated components.
+
+
+Apply appropriate easing, anticipation, follow-through, and secondary movement.
+
+
+Verify that the completed movement remains visually coherent and consistent with the original illustration.
+
+
+
+
+For interactions involving held objects, ensure the object follows the appropriate hand or attachment point throughout the movement, maintaining convincing contact and alignment.
+
+
+For character gestures, coordinate the relevant body parts rather than rotating isolated components in ways that appear disconnected or unnatural.
+
+
+For biological mechanisms, ensure articulated components move in ways that accurately communicate the intended physiological process.
+
+
+D. Motion Quality & Rigging Integrity
+
+
+Rigging must enhance animation quality, not introduce visible mechanical defects.
+
+
+Strictly avoid:
+
+
+
+
+Detached limbs, broken joints, or visible gaps between connected components.
+
+
+Unnatural bending, stretching, or distortion of rigid anatomical structures.
+
+
+Incorrect pivot points or unrealistic component rotations.
+
+
+Unintentional overlapping, clipping, or separation during movement.
+
+
+Stiff, robotic character gestures caused by poorly coordinated joints.
+
+
+Loss of illustration detail, inconsistent outlines, or degraded visual quality.
+
+
+Excessive rigging complexity when a simpler animation method would produce a better result.
+
+
+
+
+Use replacement poses, frame-specific artwork, or controlled deformation whenever conventional rigging would compromise the visual quality or intended movement.
+
+
+E. Rigging Verification & Quality Control
+
+
+During the established comprehensive animation review, inspect all rigged movements for joint integrity, smoothness, timing, anatomical coherence, and interaction accuracy.
+
+
+Verify that:
+
+
+
+
+Connected components remain visually attached throughout their motion.
+
+
+Movement follows the intended choreography and narration timing.
+
+
+Characters maintain expressive, natural-looking poses and transitions.
+
+
+Held objects remain correctly aligned with their attachment points.
+
+
+Mechanical and biological structures move coherently.
+
+
+Deformations preserve the illustration's original visual identity.
+
+
+No clipping, visible seams, disconnected components, or unintended distortions occur.
+
+
+
+
+Include any rigging-related defects in the existing timestamped review checklist and resolve them during the established correction pass.
+
+
+Final Rigging Standard
+
+
+Rig illustrations whenever independent articulation or deformation is necessary to execute the intended animation convincingly.
+
+
+Rigging should enable sophisticated, fluid, expressive, and contextually accurate motion without sacrificing illustration quality.
+
+
+The final animation must feel like a cohesive, professionally choreographed sequence rather than a collection of independently rotating image fragments.
+
+
+Ultimate objective: Transform static illustrations into flexible, animation-ready visual systems capable of supporting complex character performances, interactive props, and sophisticated mechanical explanations while maintaining seamless visual integrity.
+
+
